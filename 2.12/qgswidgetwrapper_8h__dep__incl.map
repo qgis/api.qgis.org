@@ -1,0 +1,32 @@
+<map id="/tmp/buildd/qgis&#45;2.12.0+99unstable/src/gui/editorwidgets/core/qgswidgetwrapper.h" name="/tmp/buildd/qgis&#45;2.12.0+99unstable/src/gui/editorwidgets/core/qgswidgetwrapper.h">
+<area shape="rect" id="node2" href="$qgsrelationwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsrelationwidgetwrapper.h" alt="" coords="40,109,279,165"/>
+<area shape="rect" id="node5" href="$qgseditorwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/core/qgseditorwidgetwrapper.h" alt="" coords="2892,109,3131,165"/>
+<area shape="rect" id="node28" href="$qgssearchwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/core/qgssearchwidgetwrapper.h" alt="" coords="5484,109,5723,165"/>
+<area shape="rect" id="node31" href="$qgswidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/core/qgswidgetwrapper.cpp" alt="" coords="5747,109,5985,165"/>
+<area shape="rect" id="node3" href="$qgsattributeform_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/qgsattributeform.cpp" alt="" coords="5,325,295,366"/>
+<area shape="rect" id="node4" href="$qgsrelationwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsrelationwidgetwrapper.cpp" alt="" coords="40,213,279,269"/>
+<area shape="rect" id="node6" href="$qgsattributeform_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/qgsattributeform.h" alt="" coords="303,221,578,262"/>
+<area shape="rect" id="node7" href="$qgsattributeeditor_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/qgsattributeeditor.cpp" alt="" coords="2856,325,3151,366"/>
+<area shape="rect" id="node8" href="$qgscheckboxwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgscheckboxwidgetwrapper.h" alt="" coords="653,213,892,269"/>
+<area shape="rect" id="node9" href="$qgsclassificationwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsclassificationwidgetwrapper.h" alt="" coords="916,213,1155,269"/>
+<area shape="rect" id="node10" href="$qgscolorwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgscolorwidgetwrapper.h" alt="" coords="1179,213,1417,269"/>
+<area shape="rect" id="node11" href="$qgsdatetimeeditwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsdatetimeeditwrapper.h" alt="" coords="1441,213,1680,269"/>
+<area shape="rect" id="node12" href="$qgsenumerationwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsenumerationwidgetwrapper.h" alt="" coords="1704,213,1943,269"/>
+<area shape="rect" id="node13" href="$qgsfilenamewidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsfilenamewidgetwrapper.h" alt="" coords="1967,213,2205,269"/>
+<area shape="rect" id="node14" href="$qgshiddenwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgshiddenwidgetwrapper.h" alt="" coords="2229,213,2468,269"/>
+<area shape="rect" id="node15" href="$qgsphotowidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsphotowidgetwrapper.h" alt="" coords="2492,213,2731,269"/>
+<area shape="rect" id="node16" href="$qgsrangewidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsrangewidgetwrapper.h" alt="" coords="2755,213,2993,269"/>
+<area shape="rect" id="node17" href="$qgsrelationreferencewidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsrelationreferencewidgetwrapper.h" alt="" coords="3018,213,3279,269"/>
+<area shape="rect" id="node18" href="$qgstexteditwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgstexteditwrapper.h" alt="" coords="3304,213,3543,269"/>
+<area shape="rect" id="node19" href="$qgsuniquevaluewidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsuniquevaluewidgetwrapper.h" alt="" coords="3567,213,3805,269"/>
+<area shape="rect" id="node20" href="$qgsuuidwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsuuidwidgetwrapper.h" alt="" coords="3829,213,4068,269"/>
+<area shape="rect" id="node21" href="$qgsvaluemapwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsvaluemapwidgetwrapper.h" alt="" coords="4092,213,4331,269"/>
+<area shape="rect" id="node22" href="$qgsvaluerelationwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsvaluerelationwidgetwrapper.h" alt="" coords="4355,213,4593,269"/>
+<area shape="rect" id="node23" href="$qgswebviewwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgswebviewwidgetwrapper.h" alt="" coords="4617,213,4856,269"/>
+<area shape="rect" id="node24" href="$qgseditorconfigwidget_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/core/qgseditorconfigwidget.h" alt="" coords="4880,213,5119,269"/>
+<area shape="rect" id="node25" href="$qgseditorwidgetfactory_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/core/qgseditorwidgetfactory.h" alt="" coords="5405,213,5644,269"/>
+<area shape="rect" id="node27" href="$qgseditorwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/core/qgseditorwidgetwrapper.cpp" alt="" coords="5143,213,5381,269"/>
+<area shape="rect" id="node26" href="$qgseditorwidgetfactory_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/core/qgseditorwidgetfactory.cpp" alt="" coords="5563,317,5801,373"/>
+<area shape="rect" id="node29" href="$qgsdefaultsearchwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsdefaultsearchwidgetwrapper.h" alt="" coords="5720,213,5959,269"/>
+<area shape="rect" id="node30" href="$qgssearchwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/core/qgssearchwidgetwrapper.cpp" alt="" coords="5983,213,6226,269"/>
+</map>

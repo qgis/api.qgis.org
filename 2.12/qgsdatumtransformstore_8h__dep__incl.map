@@ -1,0 +1,18 @@
+<map id="/tmp/buildd/qgis&#45;2.12.0+99unstable/src/core/qgsdatumtransformstore.h" name="/tmp/buildd/qgis&#45;2.12.0+99unstable/src/core/qgsdatumtransformstore.h">
+<area shape="rect" id="node2" href="$qgsmapsettings_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgsmapsettings.h" alt="" coords="1371,95,1650,136"/>
+<area shape="rect" id="node17" href="$qgsdatumtransformstore_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgsdatumtransformstore.cpp" alt="" coords="1674,95,2025,136"/>
+<area shape="rect" id="node3" href="$qgsmaprenderer_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgsmaprenderer.h" alt="" coords="509,191,790,233"/>
+<area shape="rect" id="node4" href="$qgsmaprenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgsmaprenderer.cpp" alt="" coords="5,288,301,329"/>
+<area shape="rect" id="node5" href="$qgsrenderchecker_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgsrenderchecker.h" alt="" coords="326,288,615,329"/>
+<area shape="rect" id="node6" href="$qgssnapper_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgssnapper.cpp" alt="" coords="640,288,904,329"/>
+<area shape="rect" id="node7" href="$qgsmapcanvasmap_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/qgsmapcanvasmap.cpp" alt="" coords="928,288,1235,329"/>
+<area shape="rect" id="node8" href="$qgslabelingenginev2_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgslabelingenginev2.h" alt="" coords="1203,191,1509,233"/>
+<area shape="rect" id="node9" href="$qgsmaphittest_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgsmaphittest.h" alt="" coords="1533,191,1801,233"/>
+<area shape="rect" id="node10" href="$qgsmaprendererjob_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgsmaprendererjob.h" alt="" coords="1876,191,2177,233"/>
+<area shape="rect" id="node11" href="$qgsmapsettings_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgsmapsettings.cpp" alt="" coords="1785,288,2079,329"/>
+<area shape="rect" id="node12" href="$qgsrendercontext_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgsrendercontext.cpp" alt="" coords="2202,191,2505,233"/>
+<area shape="rect" id="node13" href="$qgssnappingutils_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgssnappingutils.h" alt="" coords="2529,191,2812,233"/>
+<area shape="rect" id="node14" href="$qgsdxfpallabeling_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/dxf\l/qgsdxfpallabeling.cpp" alt="" coords="2837,184,3019,240"/>
+<area shape="rect" id="node15" href="$qgsmapcanvas_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/qgsmapcanvas.h" alt="" coords="917,191,1179,233"/>
+<area shape="rect" id="node16" href="$qgsmapoverviewcanvas_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/qgsmapoverviewcanvas.h" alt="" coords="3043,191,3362,233"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="QgsComposerItem" name="QgsComposerItem">
+<area shape="rect" id="node6" href="$classQgsComposerArrow.html" title="An item that draws an arrow between to points. " alt="" coords="675,5,824,32"/>
+<area shape="rect" id="node7" href="$classQgsComposerFrame.html" title="Frame item for a composer multiframe item. " alt="" coords="673,56,826,83"/>
+<area shape="rect" id="node8" href="$classQgsComposerItemGroup.html" title="A container for grouping several QgsComposerItems. " alt="" coords="659,107,840,133"/>
+<area shape="rect" id="node9" href="$classQgsComposerLabel.html" title="A label that can be placed onto a map composition. " alt="" coords="676,157,823,184"/>
+<area shape="rect" id="node10" href="$classQgsComposerLegend.html" title="A legend that can be placed onto a map composition. " alt="" coords="669,208,829,235"/>
+<area shape="rect" id="node11" href="$classQgsComposerMap.html" title="Object representing map window. " alt="" coords="679,259,819,285"/>
+<area shape="rect" id="node12" href="$classQgsComposerPicture.html" title="A composer class that displays svg files or raster format (jpg, png, ...) " alt="" coords="671,309,828,336"/>
+<area shape="rect" id="node13" href="$classQgsComposerScaleBar.html" title="A scale bar item that can be added to a map composition. " alt="" coords="664,360,835,387"/>
+<area shape="rect" id="node14" href="$classQgsComposerShape.html" title="A composer items that draws common shapes (ellipse, triangle, rectangle) " alt="" coords="672,411,827,437"/>
+<area shape="rect" id="node15" href="$classQgsComposerTable.html" title="A class to display feature attributes in the print composer. " alt="" coords="677,461,822,488"/>
+<area shape="rect" id="node18" href="$classQgsPaperItem.html" title="Item representing the paper. " alt="" coords="693,512,805,539"/>
+<area shape="rect" id="node2" href="$classQgsComposerObject.html" title="A base class for objects which belong to a map composition. " alt="" coords="265,233,420,260"/>
+<area shape="rect" id="node3" href="/usr/share/qt4/doc/html/qt.tags$qobject.html" title="QObject" alt="" coords="75,233,148,260"/>
+<area shape="rect" id="node4" href="/usr/share/qt4/doc/html/qt.tags$qgraphicsrectitem.html" title="QGraphicsRectItem" alt="" coords="271,284,415,311"/>
+<area shape="rect" id="node5" href="/usr/share/qt4/doc/html/qt.tags$qabstractgraphicsshapeitem.html" title="QAbstractGraphicsShapeItem" alt="" coords="5,284,217,311"/>
+<area shape="rect" id="node16" href="$classQgsComposerAttributeTable.html" title="A table class that displays a vector attribute table. " alt="" coords="888,436,1089,463"/>
+<area shape="rect" id="node17" href="$classQgsComposerTextTable.html" title="A text table item that reads text from string lists. " alt="" coords="903,487,1074,513"/>
+</map>

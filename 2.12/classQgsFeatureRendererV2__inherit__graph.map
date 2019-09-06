@@ -1,0 +1,9 @@
+<map id="QgsFeatureRendererV2" name="QgsFeatureRendererV2">
+<area shape="rect" id="node2" href="$classQgsCategorizedSymbolRendererV2.html" title="QgsCategorizedSymbolRendererV2" alt="" coords="223,5,469,32"/>
+<area shape="rect" id="node3" href="$classQgsGraduatedSymbolRendererV2.html" title="QgsGraduatedSymbolRendererV2" alt="" coords="227,56,465,83"/>
+<area shape="rect" id="node4" href="$classQgsHeatmapRenderer.html" title="A renderer which draws points as a live heatmap. " alt="" coords="264,107,428,133"/>
+<area shape="rect" id="node5" href="$classQgsInvertedPolygonRenderer.html" title="QgsInvertedPolygonRenderer is a polygon&#45;only feature renderer used to display features inverted..." alt="" coords="243,157,449,184"/>
+<area shape="rect" id="node6" href="$classQgsPointDisplacementRenderer.html" title="A renderer that automatically displaces points with the same position. " alt="" coords="234,208,458,235"/>
+<area shape="rect" id="node7" href="$classQgsRuleBasedRendererV2.html" title="When drawing a vector layer with rule&#45;based renderer, it goes through the rules and draws features wi..." alt="" coords="253,259,439,285"/>
+<area shape="rect" id="node8" href="$classQgsSingleSymbolRendererV2.html" title="QgsSingleSymbolRendererV2" alt="" coords="242,309,450,336"/>
+</map>

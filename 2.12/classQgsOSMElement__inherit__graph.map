@@ -1,0 +1,4 @@
+<map id="QgsOSMElement" name="QgsOSMElement">
+<area shape="rect" id="node2" href="$classQgsOSMNode.html" title="A node is one of the core elements in the OpenStreetMap data model. " alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node3" href="$classQgsOSMWay.html" title="A way is an ordered list of nodes which normally also has at least one tag or is included within a Re..." alt="" coords="140,80,243,107"/>
+</map>

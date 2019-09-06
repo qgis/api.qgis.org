@@ -1,0 +1,15 @@
+<map id="/tmp/buildd/qgis&#45;2.12.0+99unstable/src/core/qgsrelationmanager.h" name="/tmp/buildd/qgis&#45;2.12.0+99unstable/src/core/qgsrelationmanager.h">
+<area shape="rect" id="node2" href="$qgsproject_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgsproject.cpp" alt="" coords="5,102,263,143"/>
+<area shape="rect" id="node3" href="$qgsrelationmanager_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgsrelationmanager.cpp" alt="" coords="287,102,605,143"/>
+<area shape="rect" id="node4" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/qgsvectorlayer.cpp" alt="" coords="629,102,911,143"/>
+<area shape="rect" id="node5" href="$qgscomposerattributetablev2_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/core/composer\l/qgscomposerattributetablev2.cpp" alt="" coords="935,95,1178,151"/>
+<area shape="rect" id="node6" href="$qgsattributeeditor_8h.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/qgsattributeeditor.h" alt="" coords="1202,102,1482,143"/>
+<area shape="rect" id="node12" href="$qgsrelationmanagerdialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/qgsrelationmanagerdialog.cpp" alt="" coords="1507,102,1855,143"/>
+<area shape="rect" id="node13" href="$qgsrelationreferenceconfigdlg_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsrelationreferenceconfigdlg.cpp" alt="" coords="1879,95,2122,151"/>
+<area shape="rect" id="node14" href="$qgsrelationreferencewidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/editorwidgets\l/qgsrelationreferencewidgetwrapper.cpp" alt="" coords="2147,95,2423,151"/>
+<area shape="rect" id="node7" href="$qgsattributeeditor_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/qgsattributeeditor.cpp" alt="" coords="544,206,839,247"/>
+<area shape="rect" id="node8" href="$qgsattributeform_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/qgsattributeform.cpp" alt="" coords="863,206,1152,247"/>
+<area shape="rect" id="node9" href="$qgsformannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/qgsformannotationitem.cpp" alt="" coords="1176,206,1508,247"/>
+<area shape="rect" id="node10" href="$qgshtmlannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/qgshtmlannotationitem.cpp" alt="" coords="1533,206,1863,247"/>
+<area shape="rect" id="node11" href="$qgsattributetabledelegate_8cpp.html" title="/tmp/buildd/qgis&#45;2.12.0\l+99unstable/src/gui/attributetable\l/qgsattributetabledelegate.cpp" alt="" coords="1888,199,2129,255"/>
+</map>

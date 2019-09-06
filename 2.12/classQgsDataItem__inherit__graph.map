@@ -1,0 +1,9 @@
+<map id="QgsDataItem" name="QgsDataItem">
+<area shape="rect" id="node3" href="$classQgsDataCollectionItem.html" title="A Collection: logical collection of layers or subcollections, e.g. " alt="" coords="151,155,320,181"/>
+<area shape="rect" id="node7" href="$classQgsErrorItem.html" title="Data item that can be used to report problems (e.g. " alt="" coords="345,155,451,181"/>
+<area shape="rect" id="node8" href="$classQgsLayerItem.html" title="Item that represents a layer that can be opened with one of the providers. " alt="" coords="476,155,587,181"/>
+<area shape="rect" id="node2" href="/usr/share/qt4/doc/html/qt.tags$qobject.html" title="QObject" alt="" coords="361,5,435,32"/>
+<area shape="rect" id="node4" href="$classQgsDirectoryItem.html" title="A directory: contains subdirectories and layers. " alt="" coords="5,229,140,256"/>
+<area shape="rect" id="node5" href="$classQgsFavouritesItem.html" title="Contains various Favourites directories. " alt="" coords="165,229,306,256"/>
+<area shape="rect" id="node6" href="$classQgsZipItem.html" title="A zip file: contains layers, using GDAL/OGR VSIFILE mechanism. " alt="" coords="331,229,428,256"/>
+</map>

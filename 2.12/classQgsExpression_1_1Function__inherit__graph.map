@@ -1,0 +1,5 @@
+<map id="QgsExpression::Function" name="QgsExpression::Function">
+<area shape="rect" id="node2" href="$classQgsExpression_1_1StaticFunction.html" title="QgsExpression::StaticFunction" alt="" coords="5,80,220,107"/>
+<area shape="rect" id="node3" href="$classQgsScopedExpressionFunction.html" title="Expression function for use within a QgsExpressionContextScope. " alt="" coords="244,80,461,107"/>
+<area shape="rect" id="node4" href="$classGetNamedProjectColor.html" title="GetNamedProjectColor" alt="" coords="268,155,437,181"/>
+</map>

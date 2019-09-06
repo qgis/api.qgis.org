@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="/usr/share/qt4/doc/html/qt.tags$qstandarditem.html" title="QStandardItem" alt="" coords="5,132,125,159"/>
+<area shape="rect" id="node2" href="$classEffectItem.html" title="EffectItem" alt="" coords="225,31,311,57"/>
+<area shape="rect" id="node3" href="$classQgsComposerLegendItem.html" title="Abstract base class for the legend item types. " alt="" coords="173,81,363,108"/>
+<area shape="rect" id="node8" href="$classQgsComposerStyleItem.html" title="QgsComposerStyleItem" alt="" coords="181,132,355,159"/>
+<area shape="rect" id="node9" href="$classQgsExpressionItem.html" title="An expression item that can be used in the QgsExpressionBuilderWidget tree. " alt="" coords="195,183,341,209"/>
+<area shape="rect" id="node10" href="$classSymbolLayerItem.html" title="SymbolLayerItem" alt="" coords="201,233,335,260"/>
+<area shape="rect" id="node4" href="$classQgsComposerGroupItem.html" title="QgsComposerGroupItem" alt="" coords="435,5,617,32"/>
+<area shape="rect" id="node5" href="$classQgsComposerLayerItem.html" title="QgsComposerLayerItem" alt="" coords="437,56,615,83"/>
+<area shape="rect" id="node6" href="$classQgsComposerRasterSymbolItem.html" title="QgsComposerRasterSymbolItem" alt="" coords="411,107,641,133"/>
+<area shape="rect" id="node7" href="$classQgsComposerSymbolV2Item.html" title="QgsComposerSymbolV2Item" alt="" coords="423,157,629,184"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QgsCollapsibleGroupBoxBasic" name="QgsCollapsibleGroupBoxBasic">
+<area shape="rect" id="node4" href="$classQgsCollapsibleGroupBox.html" title="A groupbox that collapses/expands when toggled and can save its collapsed and checked states..." alt="" coords="85,229,263,256"/>
+<area shape="rect" id="node2" href="/usr/share/qt4/doc/html/qt.tags$qgroupbox.html" title="QGroupBox" alt="" coords="127,80,221,107"/>
+<area shape="rect" id="node3" href="/usr/share/qt4/doc/html/qt.tags$qwidget.html" title="QWidget" alt="" coords="137,5,211,32"/>
+<area shape="rect" id="node5" href="$classQgsExtentGroupBox.html" title="Collapsible group box for configuration of extent, typically for a save operation. " alt="" coords="5,304,156,331"/>
+<area shape="rect" id="node6" href="$classQgsRelationEditorWidget.html" title="QgsRelationEditorWidget" alt="" coords="180,304,357,331"/>
+</map>

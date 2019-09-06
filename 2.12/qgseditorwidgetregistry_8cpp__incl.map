@@ -1,0 +1,29 @@
+<map id="/tmp/buildd/qgis&#45;2.12.0+99unstable/src/gui/editorwidgets/core/qgseditorwidgetregistry.cpp" name="/tmp/buildd/qgis&#45;2.12.0+99unstable/src/gui/editorwidgets/core/qgseditorwidgetregistry.cpp">
+<area shape="rect" id="node2" href="$qgseditorwidgetregistry_8h.html" title="qgseditorwidgetregistry.h" alt="" coords="975,109,1157,136"/>
+<area shape="rect" id="node7" href="$qgsattributeeditorcontext_8h.html" title="qgsattributeeditorcontext.h" alt="" coords="1203,184,1401,211"/>
+<area shape="rect" id="node8" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="897,259,1024,285"/>
+<area shape="rect" id="node14" href="$qgslegacyhelpers_8h.html" title="qgslegacyhelpers.h" alt="" coords="875,184,1020,211"/>
+<area shape="rect" id="node15" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="1044,184,1179,211"/>
+<area shape="rect" id="node16" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="313,184,414,211"/>
+<area shape="rect" id="node22" href="$qgsmaplayerregistry_8h.html" title="qgsmaplayerregistry.h" alt="" coords="586,184,749,211"/>
+<area shape="rect" id="node23" href="$qgsclassificationwidgetwrapperfactory_8h.html" title="qgsclassificationwidgetwrapperfactory.h" alt="" coords="1618,109,1890,136"/>
+<area shape="rect" id="node24" href="$qgsrangewidgetfactory_8h.html" title="qgsrangewidgetfactory.h" alt="" coords="1915,109,2092,136"/>
+<area shape="rect" id="node25" href="$qgsuniquevaluewidgetfactory_8h.html" title="qgsuniquevaluewidgetfactory.h" alt="" coords="2116,109,2333,136"/>
+<area shape="rect" id="node26" href="$qgsfilenamewidgetfactory_8h.html" title="qgsfilenamewidgetfactory.h" alt="" coords="2358,109,2553,136"/>
+<area shape="rect" id="node27" href="$qgsvaluemapwidgetfactory_8h.html" title="qgsvaluemapwidgetfactory.h" alt="" coords="2577,109,2779,136"/>
+<area shape="rect" id="node28" href="$qgsenumerationwidgetfactory_8h.html" title="qgsenumerationwidgetfactory.h" alt="" coords="2804,109,3027,136"/>
+<area shape="rect" id="node29" href="$qgshiddenwidgetfactory_8h.html" title="qgshiddenwidgetfactory.h" alt="" coords="3051,109,3233,136"/>
+<area shape="rect" id="node30" href="$qgscheckboxwidgetfactory_8h.html" title="qgscheckboxwidgetfactory.h" alt="" coords="3258,109,3458,136"/>
+<area shape="rect" id="node31" href="$qgstexteditwidgetfactory_8h.html" title="qgstexteditwidgetfactory.h" alt="" coords="3482,109,3671,136"/>
+<area shape="rect" id="node32" href="$qgsvaluerelationwidgetfactory_8h.html" title="qgsvaluerelationwidgetfactory.h" alt="" coords="4284,109,4507,136"/>
+<area shape="rect" id="node34" href="$qgsuuidwidgetfactory_8h.html" title="qgsuuidwidgetfactory.h" alt="" coords="3696,109,3863,136"/>
+<area shape="rect" id="node35" href="$qgsphotowidgetfactory_8h.html" title="qgsphotowidgetfactory.h" alt="" coords="3887,109,4064,136"/>
+<area shape="rect" id="node36" href="$qgscolorwidgetfactory_8h.html" title="qgscolorwidgetfactory.h" alt="" coords="4089,109,4259,136"/>
+<area shape="rect" id="node37" href="$qgsrelationreferencefactory_8h.html" title="qgsrelationreferencefactory.h" alt="" coords="1181,109,1389,136"/>
+<area shape="rect" id="node38" href="$qgsdatetimeeditfactory_8h.html" title="qgsdatetimeeditfactory.h" alt="" coords="1413,109,1594,136"/>
+<area shape="rect" id="node5" href="$qgseditorwidgetfactory_8h.html" title="qgseditorwidgetfactory.h" alt="" coords="2477,184,2655,211"/>
+<area shape="rect" id="node12" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="335,333,443,360"/>
+<area shape="rect" id="node13" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="186,408,303,435"/>
+<area shape="rect" id="node18" href="$qgsprojectversion_8h.html" title="qgsprojectversion.h" alt="" coords="578,259,725,285"/>
+<area shape="rect" id="node33" href="$qgsvaluerelationwidgetwrapper_8h.html" title="qgsvaluerelationwidgetwrapper.h" alt="" coords="4280,184,4511,211"/>
+</map>

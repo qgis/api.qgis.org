@@ -1,0 +1,6 @@
+<map id="QgsCurveV2" name="QgsCurveV2">
+<area shape="rect" id="node3" href="$classQgsCircularStringV2.html" title="Circular string geometry type. " alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node4" href="$classQgsCompoundCurveV2.html" title="Compound curve geometry type. " alt="" coords="181,155,351,181"/>
+<area shape="rect" id="node5" href="$classQgsLineStringV2.html" title="Line string geometry type. " alt="" coords="375,155,503,181"/>
+<area shape="rect" id="node2" href="$classQgsAbstractGeometryV2.html" title="Abstract base class for all geometries. " alt="" coords="175,5,357,32"/>
+</map>
