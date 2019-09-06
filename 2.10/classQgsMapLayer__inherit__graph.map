@@ -1,0 +1,6 @@
+<map id="QgsMapLayer" name="QgsMapLayer">
+<area shape="rect" id="node3" href="$classQgsPluginLayer.html" title="Base class for plugin layers. " alt="" coords="5,155,125,181"/>
+<area shape="rect" id="node4" href="$classQgsRasterLayer.html" title="This class provides qgis with the ability to render raster datasets onto the mapcanvas. " alt="" coords="149,155,272,181"/>
+<area shape="rect" id="node5" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="296,155,419,181"/>
+<area shape="rect" id="node2" href="/usr/share/qt4/doc/html/qt.tags$qobject.html" title="QObject" alt="" coords="174,5,247,32"/>
+</map>

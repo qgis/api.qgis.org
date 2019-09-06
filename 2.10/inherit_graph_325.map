@@ -1,0 +1,482 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsPaintEffectPropertiesWidget.html" title="A widget which modifies the properties of a QgsPaintEffect. " alt="" coords="1029,4914,1208,4955"/>
+<area shape="rect" id="node4" href="$classQgsLayerPropertiesWidget.html" title="QgsLayerPropertiesWidget" alt="" coords="1023,4980,1214,5007"/>
+<area shape="rect" id="node5" href="/usr/share/qt4/doc/html/qt.tags$qgraphicsitem.html" title="QGraphicsItem" alt="" coords="5,4989,123,5016"/>
+<area shape="rect" id="node6" href="/usr/share/qt4/doc/html/qt.tags$qabstractgraphicsshapeitem.html" title="QAbstractGraphicsShapeItem" alt="" coords="171,4871,383,4897"/>
+<area shape="rect" id="node24" href="$classQgsMapCanvasItem.html" title="An abstract class for items that can be placed on the map canvas. " alt="" coords="202,5107,353,5133"/>
+<area shape="rect" id="node7" href="/usr/share/qt4/doc/html/qt.tags$qgraphicsrectitem.html" title="QGraphicsRectItem" alt="" coords="461,4711,605,4737"/>
+<area shape="rect" id="node8" href="$classQgsComposerItem.html" title="A item that forms part of a map composition. " alt="" coords="1047,4015,1190,4041"/>
+<area shape="rect" id="node22" href="$classQgsComposerMouseHandles.html" title="Handles drawing of selection outlines and mouse handles. " alt="" coords="710,4660,917,4687"/>
+<area shape="rect" id="node23" href="$classQgsPaperGrid.html" title="Item representing a grid. " alt="" coords="759,4761,868,4788"/>
+<area shape="rect" id="node9" href="$classQgsComposerArrow.html" title="An item that draws an arrow between to points. " alt="" coords="1339,4192,1488,4219"/>
+<area shape="rect" id="node10" href="$classQgsComposerFrame.html" title="Frame item for a composer multiframe item. " alt="" coords="1337,4243,1490,4269"/>
+<area shape="rect" id="node11" href="$classQgsComposerItemGroup.html" title="A container for grouping several QgsComposerItems. " alt="" coords="1323,3787,1504,3813"/>
+<area shape="rect" id="node12" href="$classQgsComposerLabel.html" title="A label that can be placed onto a map composition. " alt="" coords="1340,3837,1487,3864"/>
+<area shape="rect" id="node13" href="$classQgsComposerLegend.html" title="A legend that can be placed onto a map composition. " alt="" coords="1333,3888,1493,3915"/>
+<area shape="rect" id="node14" href="$classQgsComposerMap.html" title="Object representing map window. " alt="" coords="1343,3939,1483,3965"/>
+<area shape="rect" id="node15" href="$classQgsComposerPicture.html" title="A composer class that displays svg files or raster format (jpg, png, ...) " alt="" coords="1335,3989,1492,4016"/>
+<area shape="rect" id="node16" href="$classQgsComposerScaleBar.html" title="A scale bar item that can be added to a map composition. " alt="" coords="1328,4040,1499,4067"/>
+<area shape="rect" id="node17" href="$classQgsComposerShape.html" title="A composer items that draws common shapes (ellipse, triangle, rectangle) " alt="" coords="1336,4091,1491,4117"/>
+<area shape="rect" id="node18" href="$classQgsComposerTable.html" title="A class to display feature attributes in the print composer. " alt="" coords="1341,4293,1486,4320"/>
+<area shape="rect" id="node21" href="$classQgsPaperItem.html" title="Item representing the paper. " alt="" coords="1357,4141,1469,4168"/>
+<area shape="rect" id="node19" href="$classQgsComposerAttributeTable.html" title="A table class that displays a vector attribute table. " alt="" coords="1595,4319,1797,4345"/>
+<area shape="rect" id="node20" href="$classQgsComposerTextTable.html" title="A text table item that reads text from string lists. " alt="" coords="1611,4268,1781,4295"/>
+<area shape="rect" id="node25" href="$classQgsAnnotationItem.html" title="An annotation item can be either placed either on screen corrdinates or on map coordinates. " alt="" coords="460,5401,607,5428"/>
+<area shape="rect" id="node30" href="$classQgsHighlight.html" title="A class for highlight features on the map. " alt="" coords="482,5031,585,5057"/>
+<area shape="rect" id="node31" href="$classQgsMapCanvasMap.html" title="A rectangular graphics item representing the map on the canvas. " alt="" coords="459,5081,607,5108"/>
+<area shape="rect" id="node32" href="$classQgsRubberBand.html" title="A class for drawing transient features (e.g. " alt="" coords="471,5132,595,5159"/>
+<area shape="rect" id="node33" href="$classQgsVertexMarker.html" title="A class for marking vertices of features using e.g. " alt="" coords="467,5183,599,5209"/>
+<area shape="rect" id="node26" href="$classQgsFormAnnotationItem.html" title="An annotation item that embedds a designer form showing the feature attribute. " alt="" coords="724,5300,903,5327"/>
+<area shape="rect" id="node27" href="$classQgsHtmlAnnotationItem.html" title="An annotation item that embedds a designer form showing the feature attribute. " alt="" coords="725,5401,902,5428"/>
+<area shape="rect" id="node28" href="$classQgsSvgAnnotationItem.html" title="QgsSvgAnnotationItem" alt="" coords="728,5823,899,5849"/>
+<area shape="rect" id="node29" href="$classQgsTextAnnotationItem.html" title="An annotation item that displays formated text. " alt="" coords="728,5873,899,5900"/>
+<area shape="rect" id="node35" href="$classQgsAttributeTypeLoadDialog.html" title="QgsAttributeTypeLoadDialog" alt="" coords="1312,6396,1515,6423"/>
+<area shape="rect" id="node37" href="$classQgsCategorizedSymbolRendererV2Widget.html" title="QgsCategorizedSymbolRenderer\lV2Widget" alt="" coords="1299,9462,1528,9503"/>
+<area shape="rect" id="node39" href="$classQgsCharacterSelectorDialog.html" title="A dialog for selecting a single character from a single font. " alt="" coords="1312,6447,1515,6473"/>
+<area shape="rect" id="node41" href="$classQgsCheckBoxConfigDlg.html" title="QgsCheckBoxConfigDlg" alt="" coords="1328,9892,1499,9919"/>
+<area shape="rect" id="node43" href="$classQgsColorDialogV2.html" title="A custom QGIS dialog for selecting a color. " alt="" coords="1345,6497,1482,6524"/>
+<area shape="rect" id="node45" href="$classQgsCptCityColorRampV2Dialog.html" title="QgsCptCityColorRampV2Dialog" alt="" coords="1303,6548,1523,6575"/>
+<area shape="rect" id="node46" href="$classQgsCredentials.html" title="Interface for requesting credentials in QGIS in GUI independent way. " alt="" coords="474,4787,593,4813"/>
+<area shape="rect" id="node47" href="$classQgsCredentialDialog.html" title="A generic dialog for requesting credentials. " alt="" coords="1337,4812,1489,4839"/>
+<area shape="rect" id="node48" href="$classQgsCredentialsConsole.html" title="Default implementation of credentials interface. " alt="" coords="728,4711,899,4737"/>
+<area shape="rect" id="node50" href="$classQgsDashSpaceDialog.html" title="A dialog to enter a custom dash space pattern for lines. " alt="" coords="1333,6599,1493,6625"/>
+<area shape="rect" id="node52" href="$classQgsDataDefinedSymbolDialog.html" title="QgsDataDefinedSymbolDialog" alt="" coords="1306,6649,1521,6676"/>
+<area shape="rect" id="node54" href="$classQgsDataDefinedValueDialog.html" title="Utility classes for &quot;en masse&quot; size definition. " alt="" coords="1312,6345,1515,6372"/>
+<area shape="rect" id="node55" href="$classQgsDataDefinedRotationDialog.html" title="QgsDataDefinedRotationDialog" alt="" coords="1587,6447,1805,6473"/>
+<area shape="rect" id="node56" href="$classQgsDataDefinedSizeDialog.html" title="QgsDataDefinedSizeDialog" alt="" coords="1599,6345,1793,6372"/>
+<area shape="rect" id="node57" href="$classQgsDataDefinedWidthDialog.html" title="QgsDataDefinedWidthDialog" alt="" coords="1595,6396,1797,6423"/>
+<area shape="rect" id="node59" href="$classQgsDateTimeEditConfig.html" title="QgsDateTimeEditConfig" alt="" coords="1327,9943,1500,9969"/>
+<area shape="rect" id="node61" href="$classQgsDatumTransformDialog.html" title="QgsDatumTransformDialog" alt="" coords="1316,6700,1511,6727"/>
+<area shape="rect" id="node63" href="$classQgsDetailedItemWidget.html" title="A widget renderer for detailed item views. " alt="" coords="1033,5031,1205,5057"/>
+<area shape="rect" id="node65" href="$classQgsDualView.html" title="This widget is used to show the attributes of a set of features of a QgsVectorLayer. " alt="" coords="1643,6092,1749,6119"/>
+<area shape="rect" id="node67" href="$classQgsDummyConfigDlg.html" title="QgsDummyConfigDlg" alt="" coords="1334,9993,1493,10020"/>
+<area shape="rect" id="node69" href="$classQgsEffectStackPropertiesWidget.html" title="A widget for modifying the properties of a QgsEffectStack, including adding and reordering effects wi..." alt="" coords="1027,5082,1211,5123"/>
+<area shape="rect" id="node71" href="$classQgsErrorDialog.html" title="QgsErrorDialog" alt="" coords="1354,6751,1473,6777"/>
+<area shape="rect" id="node73" href="$classQgsExpressionBuilderDialog.html" title="A generic dialog for building expression strings. " alt="" coords="1313,6801,1513,6828"/>
+<area shape="rect" id="node75" href="$classQgsExpressionBuilderWidget.html" title="A reusable widget that can be used to build a expression string. " alt="" coords="1017,5148,1220,5175"/>
+<area shape="rect" id="node77" href="$classQgsExpressionSelectionDialog.html" title="This class offers a dialog to change feature selections. " alt="" coords="1306,6852,1521,6879"/>
+<area shape="rect" id="node79" href="$classQgsExtentGroupBox.html" title="Collapsible group box for configuration of extent, typically for a save operation. " alt="" coords="1873,5484,2023,5511"/>
+<area shape="rect" id="node80" href="$classQgsFeatureModel.html" title="QgsFeatureModel" alt="" coords="1052,2707,1185,2733"/>
+<area shape="rect" id="node81" href="$classQgsAttributeTableFilterModel.html" title="QgsAttributeTableFilterModel" alt="" coords="1595,2376,1797,2403"/>
+<area shape="rect" id="node82" href="$classQgsFeatureListModel.html" title="QgsFeatureListModel" alt="" coords="1336,2291,1491,2317"/>
+<area shape="rect" id="node84" href="$classQgsFeatureSelectionDlg.html" title="QgsFeatureSelectionDlg" alt="" coords="1326,6903,1501,6929"/>
+<area shape="rect" id="node86" href="$classQgsGenericProjectionSelector.html" title="A generic dialog to prompt the user for a Coordinate Reference System. " alt="" coords="1307,7257,1519,7284"/>
+<area shape="rect" id="node88" href="$classQgsGraduatedSymbolRendererV2Widget.html" title="QgsGraduatedSymbolRenderer\lV2Widget" alt="" coords="1303,9527,1523,9569"/>
+<area shape="rect" id="node90" href="$classQgsHeatmapRendererWidget.html" title="QgsHeatmapRendererWidget" alt="" coords="1310,9593,1517,9620"/>
+<area shape="rect" id="node92" href="$classQgsHistogramWidget.html" title="Graphical histogram for displaying distributions of field values. " alt="" coords="1040,4863,1197,4889"/>
+<area shape="rect" id="node93" href="$classQgsGraduatedHistogramWidget.html" title="Graphical histogram for displaying distribution of field values and editing range breaks for a QgsGra..." alt="" coords="1301,4863,1526,4889"/>
+<area shape="rect" id="node95" href="$classQgsInvertedPolygonRendererWidget.html" title="A widget used represent options of a QgsInvertedPolygonRenderer. " alt="" coords="1310,9710,1517,9751"/>
+<area shape="rect" id="node97" href="$classQgsLUDialog.html" title="QgsLUDialog" alt="" coords="1362,7561,1465,7588"/>
+<area shape="rect" id="node99" href="$classQgsManageConnectionsDialog.html" title="QgsManageConnectionsDialog" alt="" coords="1305,7612,1522,7639"/>
+<area shape="rect" id="node101" href="$classQgsMapUnitScaleDialog.html" title="Dialog allowing the user to choose the minimum and maximum scale of an object in map units..." alt="" coords="1326,7663,1501,7689"/>
+<area shape="rect" id="node103" href="$classQgsMessageLogViewer.html" title="A generic dialog widget for displaying QGIS log messages. " alt="" coords="1329,7713,1498,7740"/>
+<area shape="rect" id="node104" href="$classQgsMessageOutput.html" title="Interface for showing messages from QGIS in GUI independent way. " alt="" coords="459,6565,607,6592"/>
+<area shape="rect" id="node105" href="$classQgsMessageOutputConsole.html" title="Default implementation of message output interface. " alt="" coords="714,5721,913,5748"/>
+<area shape="rect" id="node106" href="$classQgsMessageViewer.html" title="A generic message view for displaying QGIS messages. " alt="" coords="1340,7207,1487,7233"/>
+<area shape="rect" id="node109" href="$classQgsMultiBandColorRendererWidget.html" title="QgsMultiBandColorRenderer\lWidget" alt="" coords="1313,9179,1513,9221"/>
+<area shape="rect" id="node111" href="$classQgsNewHttpConnection.html" title="Dialog to allow the user to configure and save connection information for an HTTP Server for WMS..." alt="" coords="1326,7764,1501,7791"/>
+<area shape="rect" id="node113" href="$classQgsNewMemoryLayerDialog.html" title="QgsNewMemoryLayerDialog" alt="" coords="1313,7815,1514,7841"/>
+<area shape="rect" id="node115" href="$classQgsNewVectorLayerDialog.html" title="QgsNewVectorLayerDialog" alt="" coords="1318,7865,1509,7892"/>
+<area shape="rect" id="node117" href="$classQgsOWSSourceSelect.html" title="Dialog to create connections and add layers from WMS, WFS, WCS etc. " alt="" coords="1332,7916,1495,7943"/>
+<area shape="rect" id="node119" href="$classQgsPalettedRendererWidget.html" title="QgsPalettedRendererWidget" alt="" coords="1314,9248,1513,9275"/>
+<area shape="rect" id="node121" href="$classQgsPhotoConfigDlg.html" title="QgsPhotoConfigDlg" alt="" coords="1341,10044,1486,10071"/>
+<area shape="rect" id="node123" href="$classQgsPointDisplacementRendererWidget.html" title="QgsPointDisplacementRenderer\lWidget" alt="" coords="1301,9775,1525,9817"/>
+<area shape="rect" id="node124" href="$classQgsProjectBadLayerHandler.html" title="Interface for classes that handle missing layer files when reading project file. " alt="" coords="433,7043,634,7069"/>
+<area shape="rect" id="node125" href="$classQgsProjectBadLayerDefaultHandler.html" title="Default bad layer handler which ignores any missing layers. " alt="" coords="715,7461,912,7502"/>
+<area shape="rect" id="node126" href="$classQgsProjectBadLayerGuiHandler.html" title="Handler for missing layers within project. " alt="" coords="702,5772,925,5799"/>
+<area shape="rect" id="node128" href="$classQgsProjectionSelector.html" title="A widget for selecting a Coordinate reference system from a tree. " alt="" coords="1037,5199,1200,5225"/>
+<area shape="rect" id="node130" href="$classQgsQueryBuilder.html" title="Query Builder for layers. " alt="" coords="1349,8017,1478,8044"/>
+<area shape="rect" id="node131" href="$classQgsSearchQueryBuilder.html" title="Query Builder for search strings. " alt="" coords="1326,7967,1501,7993"/>
+<area shape="rect" id="node133" href="$classQgsRangeConfigDlg.html" title="QgsRangeConfigDlg" alt="" coords="1339,10095,1487,10121"/>
+<area shape="rect" id="node135" href="$classQgsRasterFormatSaveOptionsWidget.html" title="A widget to select format&#45;specific raster saving options. " alt="" coords="1011,5250,1226,5291"/>
+<area shape="rect" id="node137" href="$classQgsRasterHistogramWidget.html" title="Histogram widget. " alt="" coords="1019,5316,1218,5343"/>
+<area shape="rect" id="node138" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc. " alt="" coords="741,12453,885,12480"/>
+<area shape="rect" id="node139" href="$classQgsBrightnessContrastFilter.html" title="Brightness/contrast filter pipe for rasters. " alt="" coords="1019,12605,1219,12632"/>
+<area shape="rect" id="node140" href="$classQgsHueSaturationFilter.html" title="Color and saturation filter pipe for rasters. " alt="" coords="1033,12656,1204,12683"/>
+<area shape="rect" id="node141" href="$classQgsRasterDataProvider.html" title="Base class for raster data providers. " alt="" coords="1033,4356,1204,4383"/>
+<area shape="rect" id="node142" href="$classQgsRasterNuller.html" title="Raster pipe that deals with null values. " alt="" coords="1056,12352,1181,12379"/>
+<area shape="rect" id="node143" href="$classQgsRasterProjector.html" title="QgsRasterProjector" alt="" coords="1046,12504,1191,12531"/>
+<area shape="rect" id="node144" href="$classQgsRasterRenderer.html" title="Raster renderer pipe that applies colors to a raster. " alt="" coords="1046,12707,1191,12733"/>
+<area shape="rect" id="node150" href="$classQgsRasterResampleFilter.html" title="Resample filter pipe for rasters. " alt="" coords="1029,12403,1209,12429"/>
+<area shape="rect" id="node145" href="$classQgsMultiBandColorRenderer.html" title="Renderer for multiband images with the color components. " alt="" coords="1313,12765,1513,12792"/>
+<area shape="rect" id="node146" href="$classQgsPalettedRasterRenderer.html" title="Renderer for paletted raster images. " alt="" coords="1315,12816,1512,12843"/>
+<area shape="rect" id="node147" href="$classQgsSingleBandColorDataRenderer.html" title="Raster renderer pipe for single band color. " alt="" coords="1293,12597,1533,12624"/>
+<area shape="rect" id="node148" href="$classQgsSingleBandGrayRenderer.html" title="Raster renderer pipe for single band gray. " alt="" coords="1310,12648,1517,12675"/>
+<area shape="rect" id="node149" href="$classQgsSingleBandPseudoColorRenderer.html" title="Raster renderer pipe for single band pseudocolor. " alt="" coords="1314,12699,1513,12741"/>
+<area shape="rect" id="node152" href="$classQgsRasterLayerSaveAsDialog.html" title="QgsRasterLayerSaveAsDialog" alt="" coords="1308,8068,1519,8095"/>
+<area shape="rect" id="node154" href="$classQgsRasterMinMaxWidget.html" title="QgsRasterMinMaxWidget" alt="" coords="1029,5367,1208,5393"/>
+<area shape="rect" id="node156" href="$classQgsRasterPyramidsOptionsWidget.html" title="A widget to select format&#45;specific raster saving options. " alt="" coords="1021,5418,1217,5459"/>
+<area shape="rect" id="node158" href="$classQgsRelationAddDlg.html" title="QgsRelationAddDlg" alt="" coords="1342,8119,1485,8145"/>
+<area shape="rect" id="node160" href="$classQgsRelationManagerDialog.html" title="QgsRelationManagerDialog" alt="" coords="1022,5484,1215,5511"/>
+<area shape="rect" id="node162" href="$classQgsRelationReferenceConfigDlg.html" title="QgsRelationReferenceConfigDlg" alt="" coords="1303,10145,1524,10172"/>
+<area shape="rect" id="node164" href="$classQgsRendererRulePropsDialog.html" title="QgsRendererRulePropsDialog" alt="" coords="1310,8169,1517,8196"/>
+<area shape="rect" id="node166" href="$classQgsRendererV2PropertiesDialog.html" title="QgsRendererV2PropertiesDialog" alt="" coords="1300,8220,1527,8247"/>
+<area shape="rect" id="node168" href="$classQgsRuleBasedRendererV2Widget.html" title="QgsRuleBasedRendererV2Widget" alt="" coords="1298,9841,1529,9868"/>
+<area shape="rect" id="node170" href="$classQgsSingleBandGrayRendererWidget.html" title="QgsSingleBandGrayRenderer\lWidget" alt="" coords="1310,9309,1517,9350"/>
+<area shape="rect" id="node172" href="$classQgsSingleBandPseudoColorRendererWidget.html" title="QgsSingleBandPseudoColor\lRendererWidget" alt="" coords="1314,9391,1513,9433"/>
+<area shape="rect" id="node174" href="$classQgsSmartGroupCondition.html" title="QgsSmartGroupCondition" alt="" coords="1025,5535,1212,5561"/>
+<area shape="rect" id="node176" href="$classQgsSmartGroupEditorDialog.html" title="QgsSmartGroupEditorDialog" alt="" coords="1312,8271,1515,8297"/>
+<area shape="rect" id="node178" href="$classQgsStyleV2ExportImportDialog.html" title="QgsStyleV2ExportImportDialog" alt="" coords="1304,8321,1523,8348"/>
+<area shape="rect" id="node180" href="$classQgsStyleV2ManagerDialog.html" title="QgsStyleV2ManagerDialog" alt="" coords="1317,8372,1509,8399"/>
+<area shape="rect" id="node182" href="$classQgsSublayersDialog.html" title="QgsSublayersDialog" alt="" coords="1338,8423,1489,8449"/>
+<area shape="rect" id="node184" href="$classQgsSymbolLevelsV2Dialog.html" title="QgsSymbolLevelsV2Dialog" alt="" coords="1317,8473,1509,8500"/>
+<area shape="rect" id="node186" href="$classQgsSymbolV2SelectorDialog.html" title="QgsSymbolV2SelectorDialog" alt="" coords="1311,8524,1516,8551"/>
+<area shape="rect" id="node188" href="$classQgsTextEditConfigDlg.html" title="QgsTextEditConfigDlg" alt="" coords="1335,10196,1492,10223"/>
+<area shape="rect" id="node190" href="$classQgsUniqueValuesConfigDlg.html" title="QgsUniqueValuesConfigDlg" alt="" coords="1316,10247,1511,10273"/>
+<area shape="rect" id="node192" href="$classQgsUnitSelectionWidget.html" title="Widget displaying a combobox allowing the user to choose between millimeter and map units If the user..." alt="" coords="1031,5585,1206,5612"/>
+<area shape="rect" id="node194" href="$classQgsValueMapConfigDlg.html" title="QgsValueMapConfigDlg" alt="" coords="1328,10297,1499,10324"/>
+<area shape="rect" id="node196" href="$classQgsValueRelationConfigDlg.html" title="QgsValueRelationConfigDlg" alt="" coords="1317,10348,1510,10375"/>
+<area shape="rect" id="node198" href="$classQgsVectorColorBrewerColorRampV2Dialog.html" title="QgsVectorColorBrewerColor\lRampV2Dialog" alt="" coords="1314,8575,1513,8617"/>
+<area shape="rect" id="node200" href="$classQgsVectorGradientColorRampV2Dialog.html" title="QgsVectorGradientColorRamp\lV2Dialog" alt="" coords="1307,8641,1520,8682"/>
+<area shape="rect" id="node202" href="$classQgsVectorRandomColorRampV2Dialog.html" title="QgsVectorRandomColorRamp\lV2Dialog" alt="" coords="1308,8706,1519,8747"/>
+<area shape="rect" id="node204" href="$classQgsWebViewWidgetConfigDlg.html" title="QgsWebViewWidgetConfigDlg" alt="" coords="1310,10399,1517,10425"/>
+<area shape="rect" id="node205" href="/usr/share/qt4/doc/html/qt.tags$qobject.html" title="QObject" alt="" coords="497,2896,570,2923"/>
+<area shape="rect" id="node206" href="$classDataDefinedRestorer.html" title="DataDefinedRestorer" alt="" coords="736,3276,891,3303"/>
+<area shape="rect" id="node207" href="/usr/share/qt4/doc/html/qt.tags$qabstractitemdelegate.html" title="QAbstractItemDelegate" alt="" coords="727,1157,900,1184"/>
+<area shape="rect" id="node215" href="/usr/share/qt4/doc/html/qt.tags$qabstractitemmodel.html" title="QAbstractItemModel" alt="" coords="737,1436,890,1463"/>
+<area shape="rect" id="node248" href="/usr/share/qt4/doc/html/qt.tags$qaction.html" title="QAction" alt="" coords="777,1487,849,1513"/>
+<area shape="rect" id="node254" href="/usr/share/qt4/doc/html/qt.tags$qcoreapplication.html" title="QCoreApplication" alt="" coords="747,1284,879,1311"/>
+<area shape="rect" id="node257" href="$classQgisInterface.html" title="QgisInterface Abstract base class defining interfaces exposed by QgisApp and made available to plugin..." alt="" coords="760,3377,867,3404"/>
+<area shape="rect" id="node258" href="/usr/share/qt4/doc/html/qt.tags$qgraphicseffect.html" title="QGraphicsEffect" alt="" coords="751,1943,875,1969"/>
+<area shape="rect" id="node261" href="/usr/share/qt4/doc/html/qt.tags$qgraphicsscene.html" title="QGraphicsScene" alt="" coords="749,2196,877,2223"/>
+<area shape="rect" id="node263" href="$classQgsAddRemoveItemCommand.html" title="A composer command class for adding / removing composer items. " alt="" coords="704,6059,923,6085"/>
+<area shape="rect" id="node264" href="$classQgsAnimatedIcon.html" title="Animated icon is keeping an animation running if there are listeners connected to frameChanged..." alt="" coords="746,3479,881,3505"/>
+<area shape="rect" id="node265" href="$classQgsAtlasComposition.html" title="Class used to render an Atlas, iterating over geometry features. " alt="" coords="734,3529,893,3556"/>
+<area shape="rect" id="node266" href="$classQgsAttributeEditor.html" title="create attribute widget for editing " alt="" coords="743,3580,883,3607"/>
+<area shape="rect" id="node267" href="$classQgsAttributeEditorElement.html" title="This is an abstract base class for any elements of a drag and drop form. " alt="" coords="717,2617,910,2644"/>
+<area shape="rect" id="node271" href="$classQgsCapabilitiesCache.html" title="A cache for capabilities xml documents (by configuration file path) " alt="" coords="733,3631,893,3657"/>
+<area shape="rect" id="node272" href="$classQgsColorDialog.html" title="A native operating system dialog for selecting a color. " alt="" coords="753,3783,873,3809"/>
+<area shape="rect" id="node273" href="$classQgsComposerObject.html" title="A base class for objects which belong to a map composition. " alt="" coords="736,3023,891,3049"/>
+<area shape="rect" id="node282" href="$classQgsComposerTableColumn.html" title="Stores properties of a column in a QgsComposerTable. " alt="" coords="716,3833,911,3860"/>
+<area shape="rect" id="node283" href="$classQgsContextHelp.html" title="Provides a context based help browser for a dialog. " alt="" coords="750,3884,877,3911"/>
+<area shape="rect" id="node284" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems. " alt="" coords="723,3935,903,3961"/>
+<area shape="rect" id="node285" href="$classQgsCptCityDataItem.html" title="base class for all items in the model " alt="" coords="737,2668,890,2695"/>
+<area shape="rect" id="node291" href="$classQgsDataItem.html" title="Base class for all items in the model. " alt="" coords="760,2820,867,2847"/>
+<area shape="rect" id="node298" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations. " alt="" coords="748,3732,879,3759"/>
+<area shape="rect" id="node300" href="$classQgsEditorWidgetRegistry.html" title="This class manages all known edit widget factories. " alt="" coords="725,3985,902,4012"/>
+<area shape="rect" id="node301" href="$classQgsGml.html" title="This class reads data from a WFS server or alternatively from a GML file. " alt="" coords="777,4036,850,4063"/>
+<area shape="rect" id="node302" href="$classQgsGmlSchema.html" title="QgsGmlSchema" alt="" coords="750,4087,877,4113"/>
+<area shape="rect" id="node303" href="$classQgsGPSConnection.html" title="Abstract base class for connection to a GPS device. " alt="" coords="740,3073,887,3100"/>
+<area shape="rect" id="node307" href="$classQgsGPSDetector.html" title="QgsGPSDetector" alt="" coords="748,4137,879,4164"/>
+<area shape="rect" id="node308" href="$classQgsGraduatedHistogramEventFilter.html" title="QgsGraduatedHistogramEvent\lFilter" alt="" coords="704,4189,923,4230"/>
+<area shape="rect" id="node309" href="$classQgsGraphDirector.html" title="Determine making the graph. " alt="" coords="745,3124,882,3151"/>
+<area shape="rect" id="node311" href="$classQgsHttpTransaction.html" title="HTTP request/response manager that is redirect&#45;aware. " alt="" coords="740,4255,887,4281"/>
+<area shape="rect" id="node312" href="$classQgsIFeatureSelectionManager.html" title="Is an interface class to abstract feature selection handling. " alt="" coords="707,3175,920,3201"/>
+<area shape="rect" id="node315" href="$classQgsImageFetcher.html" title="Handles asynchronous download of images. " alt="" coords="746,4305,881,4332"/>
+<area shape="rect" id="node316" href="$classQgsLayerTreeMapCanvasBridge.html" title="The QgsLayerTreeMapCanvasBridge class takes care of updates of layer set for QgsMapCanvas from a laye..." alt="" coords="702,4356,925,4383"/>
+<area shape="rect" id="node317" href="$classQgsLayerTreeModelLegendNode.html" title="The QgsLegendRendererItem class is abstract interface for legend items returned from QgsMapLayerLegen..." alt="" coords="700,3225,927,3252"/>
+<area shape="rect" id="node323" href="$classQgsLayerTreeNode.html" title="This class is a base class for nodes in a layer tree. " alt="" coords="742,3327,885,3353"/>
+<area shape="rect" id="node326" href="$classQgsLayerTreeRegistryBridge.html" title="Listens to the updates in map layer registry and does changes in layer tree. " alt="" coords="714,4407,913,4433"/>
+<area shape="rect" id="node327" href="$classQgsLayerTreeViewDefaultActions.html" title="The QgsLayerTreeViewDefaultActions class serves as a factory of actions that can be used together wit..." alt="" coords="698,4457,929,4484"/>
+<area shape="rect" id="node328" href="$classQgsLegendInterface.html" title="QgsLegendInterface Abstract base class to make QgsLegend available to plugins. " alt="" coords="738,525,889,552"/>
+<area shape="rect" id="node329" href="$classQgsMapCanvasRendererSync.html" title="Class that does synchronization between QgsMapCanvas and its associated QgsMapRenderer: ..." alt="" coords="709,1537,918,1564"/>
+<area shape="rect" id="node330" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="759,3428,868,3455"/>
+<area shape="rect" id="node334" href="$classQgsMapLayerActionRegistry.html" title="This class tracks map layer actions. " alt="" coords="714,1588,913,1615"/>
+<area shape="rect" id="node335" href="$classQgsMapLayerLegend.html" title="The QgsMapLayerLegend class is abstract interface for implementations of legends for one map layer..." alt="" coords="735,4559,891,4585"/>
+<area shape="rect" id="node339" href="$classQgsMapLayerRegistry.html" title="This class tracks map layers that are currently loaded and provides a means to fetch a pointer to a m..." alt="" coords="734,1639,893,1665"/>
+<area shape="rect" id="node340" href="$classQgsMapLayerStyleManager.html" title="Management of styles for use with one map layer. " alt="" coords="715,1689,912,1716"/>
+<area shape="rect" id="node341" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter. " alt="" coords="748,1740,879,1767"/>
+<area shape="rect" id="node342" href="$classQgsMapRendererCache.html" title="This class is responsible for keeping cache of rendered images of individual layers. " alt="" coords="728,1791,899,1817"/>
+<area shape="rect" id="node343" href="$classQgsMapRendererJob.html" title="Abstract base class for map rendering implementations. " alt="" coords="738,3681,889,3708"/>
+<area shape="rect" id="node348" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="764,4609,863,4636"/>
+<area shape="rect" id="node355" href="$classQgsMessageLog.html" title="Interface for logging messages from QGIS in GUI independent way. " alt="" coords="750,1841,877,1868"/>
+<area shape="rect" id="node356" href="$classQgsMessageLogConsole.html" title="Default implementation of message logging interface. " alt="" coords="724,1892,903,1919"/>
+<area shape="rect" id="node357" href="$classQgsNetworkContentFetcher.html" title="HTTP network content fetcher. " alt="" coords="715,1993,912,2020"/>
+<area shape="rect" id="node358" href="$classQgsNetworkReplyParser.html" title="Multipart QNetworkReply parser. " alt="" coords="727,2044,899,2071"/>
+<area shape="rect" id="node359" href="$classQgsOfflineEditing.html" title="QgsOfflineEditing" alt="" coords="748,2095,879,2121"/>
+<area shape="rect" id="node360" href="$classQgsOSMDownload.html" title="OSMDownload is a utility class for downloading OpenStreetMap via Overpass API. " alt="" coords="744,2145,883,2172"/>
+<area shape="rect" id="node361" href="$classQgsOSMXmlImport.html" title="The QgsOSMXmlImport class imports OpenStreetMap XML format to our topological representation in a SQL..." alt="" coords="742,2247,885,2273"/>
+<area shape="rect" id="node362" href="$classQgsOWSConnection.html" title="Connections management. " alt="" coords="739,2297,888,2324"/>
+<area shape="rect" id="node363" href="$classQgsPluginManagerInterface.html" title="QgsPluginManagerInterface" alt="" coords="715,2348,912,2375"/>
+<area shape="rect" id="node364" href="$classQgsPointLocator.html" title="The class defines interface for querying point location: " alt="" coords="750,2399,877,2425"/>
+<area shape="rect" id="node365" href="$classQgsProject.html" title="Reads and writes project states. " alt="" coords="768,2449,859,2476"/>
+<area shape="rect" id="node366" href="$classQgsRelationManager.html" title="This class manages a set of relations between layers. " alt="" coords="737,2500,890,2527"/>
+<area shape="rect" id="node367" href="$classQgsRendererV2DataDefinedMenus.html" title="Utility class for providing GUI for data&#45;defined rendering. " alt="" coords="713,2551,914,2593"/>
+<area shape="rect" id="node368" href="$classQgsRunProcess.html" title="A class that executes an external program/script. " alt="" coords="753,2719,873,2745"/>
+<area shape="rect" id="node369" href="$classQgsSnappingUtils.html" title="This class has all the configuration of snapping and can return answers to snapping queries..." alt="" coords="746,677,881,704"/>
+<area shape="rect" id="node371" href="$classQgsStyleV2.html" title="QgsStyleV2" alt="" coords="765,2769,861,2796"/>
+<area shape="rect" id="node372" href="$classQgsSvgCache.html" title="A cache for images / pictures derived from svg files. " alt="" coords="758,2871,869,2897"/>
+<area shape="rect" id="node373" href="$classQgsVectorLayerCache.html" title="This class caches features of a given QgsVectorLayer. " alt="" coords="732,2921,895,2948"/>
+<area shape="rect" id="node374" href="$classQgsVectorLayerEditBuffer.html" title="QgsVectorLayerEditBuffer" alt="" coords="721,729,906,756"/>
+<area shape="rect" id="node376" href="$classQgsVectorLayerJoinBuffer.html" title="Manages joined fields for a vector layer. " alt="" coords="722,2972,905,2999"/>
+<area shape="rect" id="node377" href="$classQgsWidgetWrapper.html" title="Manages an editor widget Widget and wrapper share the same parent. " alt="" coords="742,627,885,653"/>
+<area shape="rect" id="node397" href="/usr/share/qt4/doc/html/qt.tags$qitemselectionmodel.html" title="QItemSelectionModel" alt="" coords="734,781,893,808"/>
+<area shape="rect" id="node399" href="/usr/share/qt4/doc/html/qt.tags$qnetworkaccessmanager.html" title="QNetworkAccessManager" alt="" coords="721,835,906,861"/>
+<area shape="rect" id="node401" href="/usr/share/qt4/doc/html/qt.tags$qstyle.html" title="QStyle" alt="" coords="781,576,845,603"/>
+<area shape="rect" id="node406" href="/usr/share/qt4/doc/html/qt.tags$qsyntaxhighlighter.html" title="QSyntaxHighlighter" alt="" coords="741,892,886,919"/>
+<area shape="rect" id="node408" href="/usr/share/qt4/doc/html/qt.tags$qthread.html" title="QThread" alt="" coords="775,955,851,981"/>
+<area shape="rect" id="node410" href="/usr/share/qt4/doc/html/qt.tags$qvalidator.html" title="QValidator" alt="" coords="769,1031,857,1057"/>
+<area shape="rect" id="node413" href="/usr/share/qt4/doc/html/qt.tags$qwidget.html" title="QWidget" alt="" coords="776,6244,851,6271"/>
+<area shape="rect" id="node208" href="$classQgsColorSwatchDelegate.html" title="A delegate for showing a color swatch in a list. " alt="" coords="1027,1081,1211,1108"/>
+<area shape="rect" id="node209" href="$classQgsDetailedItemDelegate.html" title="A custom model/view delegate that can display an icon, heading and detail sections. " alt="" coords="1025,1132,1212,1159"/>
+<area shape="rect" id="node210" href="/usr/share/qt4/doc/html/qt.tags$qitemdelegate.html" title="QItemDelegate" alt="" coords="1059,1183,1178,1209"/>
+<area shape="rect" id="node211" href="$classItemDelegate.html" title="ItemDelegate" alt="" coords="1359,1073,1468,1100"/>
+<area shape="rect" id="node212" href="$classQgsAttributeTableDelegate.html" title="A delegate item class for QgsAttributeTable (see Qt documentation for QItemDelegate). " alt="" coords="1317,1124,1510,1151"/>
+<area shape="rect" id="node213" href="$classQgsFeatureListViewDelegate.html" title="QgsFeatureListViewDelegate" alt="" coords="1311,972,1515,999"/>
+<area shape="rect" id="node214" href="$classSpinBoxDelegate.html" title="SpinBoxDelegate" alt="" coords="1347,1023,1479,1049"/>
+<area shape="rect" id="node216" href="/usr/share/qt4/doc/html/qt.tags$qabstractlistmodel.html" title="QAbstractListModel" alt="" coords="1045,1436,1192,1463"/>
+<area shape="rect" id="node220" href="/usr/share/qt4/doc/html/qt.tags$qabstractproxymodel.html" title="QAbstractProxyModel" alt="" coords="1039,1487,1198,1513"/>
+<area shape="rect" id="node229" href="/usr/share/qt4/doc/html/qt.tags$qabstracttablemodel.html" title="QAbstractTableModel" alt="" coords="1041,1284,1197,1311"/>
+<area shape="rect" id="node233" href="$classQgsBrowserModel.html" title="QgsBrowserModel" alt="" coords="1051,1537,1187,1564"/>
+<area shape="rect" id="node234" href="$classQgsCategorizedSymbolRendererV2Model.html" title="QgsCategorizedSymbolRenderer\lV2Model" alt="" coords="1004,1589,1233,1630"/>
+<area shape="rect" id="node235" href="$classQgsColorSchemeModel.html" title="A model for colors in a color scheme. " alt="" coords="1033,1655,1204,1681"/>
+<area shape="rect" id="node236" href="$classQgsComposerModel.html" title="A model for items attached to a composition. " alt="" coords="1043,1705,1194,1732"/>
+<area shape="rect" id="node237" href="$classQgsCptCityBrowserModel.html" title="QgsCptCityBrowserModel" alt="" coords="1027,1756,1210,1783"/>
+<area shape="rect" id="node238" href="$classQgsFieldModel.html" title="The QgsFieldModel class is a model to display the list of fields of a layer in widgets. " alt="" coords="1062,1807,1175,1833"/>
+<area shape="rect" id="node239" href="$classQgsGraduatedSymbolRendererV2Model.html" title="QgsGraduatedSymbolRenderer\lV2Model" alt="" coords="1009,1858,1229,1899"/>
+<area shape="rect" id="node240" href="$classQgsLayerTreeModel.html" title="The QgsLayerTreeModel class is model implementation for Qt item views framework. " alt="" coords="1045,1335,1192,1361"/>
+<area shape="rect" id="node242" href="$classQgsMapLayerModel.html" title="The QgsMapLayerModel class is a model to display layers in widgets. " alt="" coords="1045,1924,1192,1951"/>
+<area shape="rect" id="node243" href="$classQgsRuleBasedRendererV2Model.html" title="QgsRuleBasedRendererV2Model" alt="" coords="1006,1975,1231,2001"/>
+<area shape="rect" id="node244" href="/usr/share/qt4/doc/html/qt.tags$qstandarditemmodel.html" title="QStandardItemModel" alt="" coords="1039,1385,1198,1412"/>
+<area shape="rect" id="node217" href="$classCustomLayerOrderModel.html" title="CustomLayerOrderModel" alt="" coords="1323,1712,1504,1739"/>
+<area shape="rect" id="node218" href="$classQgsSvgListModel.html" title="QgsSvgListModel" alt="" coords="1348,1611,1479,1637"/>
+<area shape="rect" id="node219" href="$classQgsSvgSelectorListModel.html" title="QgsSvgSelectorListModel" alt="" coords="1321,1661,1505,1688"/>
+<area shape="rect" id="node221" href="/usr/share/qt4/doc/html/qt.tags$qsortfilterproxymodel.html" title="QSortFilterProxyModel" alt="" coords="1332,1893,1495,1920"/>
+<area shape="rect" id="node222" href="$classQgsComposerTableSortColumnsProxyModel.html" title="Allows for filtering QgsComposerAttributeTable columns by columns which are sorted or unsorted..." alt="" coords="1582,1762,1810,1803"/>
+<area shape="rect" id="node223" href="$classQgsComposerTableSortColumnsProxyModelV2.html" title="Allows for filtering QgsComposerAttributeTable columns by columns which are sorted or unsorted..." alt="" coords="1582,1827,1810,1869"/>
+<area shape="rect" id="node224" href="$classQgsDbFilterProxyModel.html" title="A class that implements a custom filter and can be used as a proxy for QgsDbTableModel. " alt="" coords="1612,1893,1780,1920"/>
+<area shape="rect" id="node225" href="$classQgsExpressionItemSearchProxy.html" title="Search proxy used to filter the QgsExpressionBuilderWidget tree. " alt="" coords="1583,1944,1809,1971"/>
+<area shape="rect" id="node226" href="$classQgsFieldProxyModel.html" title="The QgsFieldProxyModel class provides an easy to use model to display the list of fields of a layer..." alt="" coords="1622,1995,1770,2021"/>
+<area shape="rect" id="node227" href="$classQgsMapLayerProxyModel.html" title="The QgsMapLayerProxyModel class provides an easy to use model to display the list of layers in widget..." alt="" coords="1605,2045,1787,2072"/>
+<area shape="rect" id="node228" href="$classTreeFilterProxyModel.html" title="TreeFilterProxyModel" alt="" coords="1621,1711,1771,1737"/>
+<area shape="rect" id="node230" href="$classQgsAttributeTableModel.html" title="A model backed by a QgsVectorLayerCache which is able to provide feature/attribute information to a Q..." alt="" coords="1327,1225,1500,1252"/>
+<area shape="rect" id="node231" href="$classQgsComposerAttributeTableColumnModel.html" title="A model for displaying columns shown in a QgsComposerAttributeTable. " alt="" coords="1313,1277,1514,1318"/>
+<area shape="rect" id="node232" href="$classQgsComposerAttributeTableColumnModelV2.html" title="A model for displaying columns shown in a QgsComposerAttributeTableV2. " alt="" coords="1313,1342,1514,1383"/>
+<area shape="rect" id="node241" href="$classQgsLegendModelV2.html" title="Item model implementation based on layer tree model for composer legend. " alt="" coords="1339,1408,1488,1435"/>
+<area shape="rect" id="node245" href="$classQgsLegendModel.html" title="A model that provides group, layer and classification items. " alt="" coords="1347,1459,1479,1485"/>
+<area shape="rect" id="node246" href="$classQgsSvgGroupsModel.html" title="QgsSvgGroupsModel" alt="" coords="1336,1509,1491,1536"/>
+<area shape="rect" id="node247" href="$classQgsSvgSelectorGroupsModel.html" title="QgsSvgSelectorGroupsModel" alt="" coords="1309,1560,1517,1587"/>
+<area shape="rect" id="node249" href="$classQgsAttributeTableAction.html" title="QgsAttributeTableAction" alt="" coords="1031,2127,1206,2153"/>
+<area shape="rect" id="node250" href="$classQgsAttributeTableMapLayerAction.html" title="QgsAttributeTableMapLayer\lAction" alt="" coords="1020,2178,1217,2219"/>
+<area shape="rect" id="node251" href="$classQgsMapLayerAction.html" title="An action which can run on map layers. " alt="" coords="1044,2025,1193,2052"/>
+<area shape="rect" id="node252" href="/usr/share/qt4/doc/html/qt.tags$qwidgetaction.html" title="QWidgetAction" alt="" coords="1061,2076,1176,2103"/>
+<area shape="rect" id="node253" href="$classQgsColorSwatchGridAction.html" title="QgsColorSwatchGridAction" alt="" coords="1317,2076,1509,2103"/>
+<area shape="rect" id="node255" href="/usr/share/qt4/doc/html/qt.tags$qapplication.html" title="QApplication" alt="" coords="1067,1233,1170,1260"/>
+<area shape="rect" id="node256" href="$classQgsApplication.html" title="Extends QApplication to provide access to QGIS specific resources such as theme paths, database paths etc. " alt="" coords="1355,1175,1472,1201"/>
+<area shape="rect" id="node259" href="$classQgsComposerEffect.html" title="QgsComposerEffect" alt="" coords="1044,2295,1193,2321"/>
+<area shape="rect" id="node260" href="$classQgsPreviewEffect.html" title="A graphics effect which can be applied to a widget to simulate various printing and color blindness m..." alt="" coords="1053,2244,1184,2271"/>
+<area shape="rect" id="node262" href="$classQgsComposition.html" title="Graphics scene for map printing. " alt="" coords="1055,2345,1182,2372"/>
+<area shape="rect" id="node268" href="$classQgsAttributeEditorContainer.html" title="This is a container for attribute editors, used to group them visually in the attribute form if it is..." alt="" coords="1017,2504,1220,2531"/>
+<area shape="rect" id="node269" href="$classQgsAttributeEditorField.html" title="This element will load a field&#39;s widget onto the form. " alt="" coords="1035,2403,1203,2429"/>
+<area shape="rect" id="node270" href="$classQgsAttributeEditorRelation.html" title="This element will load a relation editor onto the form. " alt="" coords="1023,2453,1214,2480"/>
+<area shape="rect" id="node274" href="$classQgsComposerMapItem.html" title="An item which is drawn inside a QgsComposerMap, eg a grid or map overview. " alt="" coords="1034,2859,1203,2885"/>
+<area shape="rect" id="node277" href="$classQgsComposerMultiFrame.html" title="Abstract base class for composer items with the ability to distribute the content to several frames (..." alt="" coords="1027,2909,1210,2936"/>
+<area shape="rect" id="node275" href="$classQgsComposerMapGrid.html" title="An individual grid which is drawn above the map content in a QgsComposerMap. " alt="" coords="1330,2909,1497,2936"/>
+<area shape="rect" id="node276" href="$classQgsComposerMapOverview.html" title="An individual overview which is drawn above the map content in a QgsComposerMap, and shows the extent..." alt="" coords="1315,2859,1512,2885"/>
+<area shape="rect" id="node278" href="$classQgsComposerHtml.html" title="QgsComposerHtml" alt="" coords="1341,2960,1485,2987"/>
+<area shape="rect" id="node279" href="$classQgsComposerTableV2.html" title="A class to display a table in the print composer, and allow the table to span over multiple frames..." alt="" coords="1332,3011,1495,3037"/>
+<area shape="rect" id="node280" href="$classQgsComposerAttributeTableV2.html" title="A table that displays attributes from a vector layer. " alt="" coords="1587,3036,1805,3063"/>
+<area shape="rect" id="node281" href="$classQgsComposerTextTableV2.html" title="A text table item that reads text from string lists. " alt="" coords="1603,2985,1789,3012"/>
+<area shape="rect" id="node286" href="$classQgsCptCityCollectionItem.html" title="A Collection: logical collection of subcollections and color ramps. " alt="" coords="1027,2555,1211,2581"/>
+<area shape="rect" id="node290" href="$classQgsCptCityColorRampItem.html" title="Item that represents a layer that can be opened with one of the providers. " alt="" coords="1023,2605,1215,2632"/>
+<area shape="rect" id="node287" href="$classQgsCptCityAllRampsItem.html" title="An &quot;All ramps item&quot;, which contains all items in a flat hierarchy. " alt="" coords="1323,2504,1504,2531"/>
+<area shape="rect" id="node288" href="$classQgsCptCityDirectoryItem.html" title="A directory: contains subdirectories and color ramps. " alt="" coords="1323,2555,1503,2581"/>
+<area shape="rect" id="node289" href="$classQgsCptCitySelectionItem.html" title="A selection: contains subdirectories and color ramps. " alt="" coords="1323,2605,1504,2632"/>
+<area shape="rect" id="node292" href="$classQgsDataCollectionItem.html" title="A Collection: logical collection of layers or subcollections, e.g. " alt="" coords="1034,2808,1203,2835"/>
+<area shape="rect" id="node296" href="$classQgsErrorItem.html" title="Data item that can be used to report problems (e.g. " alt="" coords="1065,2757,1172,2784"/>
+<area shape="rect" id="node297" href="$classQgsLayerItem.html" title="Item that represents a layer that can be opened with one of the providers. " alt="" coords="1063,2656,1174,2683"/>
+<area shape="rect" id="node293" href="$classQgsDirectoryItem.html" title="A directory: contains subdirectories and layers. " alt="" coords="1346,2808,1481,2835"/>
+<area shape="rect" id="node294" href="$classQgsFavouritesItem.html" title="Contains various Favourites directories. " alt="" coords="1343,2707,1484,2733"/>
+<area shape="rect" id="node295" href="$classQgsZipItem.html" title="A zip file: contains layers, using GDAL/OGR VSIFILE mechanism. " alt="" coords="1365,2757,1462,2784"/>
+<area shape="rect" id="node299" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers. " alt="" coords="1033,4065,1204,4092"/>
+<area shape="rect" id="node304" href="$classQgsNMEAConnection.html" title="Evaluates NMEA sentences coming from a GPS device. " alt="" coords="1040,2960,1197,2987"/>
+<area shape="rect" id="node306" href="$classQgsQtLocationConnection.html" title="QgsQtLocationConnection" alt="" coords="1025,3011,1213,3037"/>
+<area shape="rect" id="node305" href="$classQgsGpsdConnection.html" title="Evaluates NMEA sentences coming from gpsd. " alt="" coords="1337,3061,1489,3088"/>
+<area shape="rect" id="node310" href="$classQgsLineVectorLayerDirector.html" title="Determine making the graph from vector line layer. " alt="" coords="1019,3061,1219,3088"/>
+<area shape="rect" id="node313" href="$classQgsGenericFeatureSelectionManager.html" title="This selection manager synchronizes a local set of selected features with an attribute table..." alt="" coords="1017,3163,1220,3205"/>
+<area shape="rect" id="node314" href="$classQgsVectorLayerSelectionManager.html" title="QgsVectorLayerSelectionManager" alt="" coords="999,3112,1238,3139"/>
+<area shape="rect" id="node318" href="$classQgsImageLegendNode.html" title="Implementation of legend node interface for displaying arbitrary raster image. " alt="" coords="1035,3381,1203,3408"/>
+<area shape="rect" id="node319" href="$classQgsRasterSymbolLegendNode.html" title="Implementation of legend node interface for displaying raster legend entries. " alt="" coords="1010,3432,1227,3459"/>
+<area shape="rect" id="node320" href="$classQgsSimpleLegendNode.html" title="Implementation of legend node interface for displaying arbitrary label with icon. ..." alt="" coords="1033,3229,1205,3256"/>
+<area shape="rect" id="node321" href="$classQgsSymbolV2LegendNode.html" title="Implementation of legend node interface for displaying preview of vector symbols and their labels and..." alt="" coords="1022,3280,1215,3307"/>
+<area shape="rect" id="node322" href="$classQgsWMSLegendNode.html" title="Implementation of legend node interface for displaying WMS legend entries. " alt="" coords="1039,3331,1198,3357"/>
+<area shape="rect" id="node324" href="$classQgsLayerTreeGroup.html" title="Layer tree group node serves as a container for layers and further groups. " alt="" coords="1045,3533,1192,3560"/>
+<area shape="rect" id="node325" href="$classQgsLayerTreeLayer.html" title="Layer tree node points to a map layer. " alt="" coords="1047,3483,1190,3509"/>
+<area shape="rect" id="node331" href="$classQgsPluginLayer.html" title="Base class for plugin layers. " alt="" coords="1059,3685,1179,3712"/>
+<area shape="rect" id="node332" href="$classQgsRasterLayer.html" title="This class provides qgis with the ability to render raster datasets onto the mapcanvas. " alt="" coords="1057,3584,1180,3611"/>
+<area shape="rect" id="node333" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="1057,3635,1180,3661"/>
+<area shape="rect" id="node336" href="$classQgsDefaultPluginLayerLegend.html" title="Default legend implementation for plugin layers. " alt="" coords="1012,4457,1225,4484"/>
+<area shape="rect" id="node337" href="$classQgsDefaultRasterLayerLegend.html" title="Default legend implementation for raster layers. " alt="" coords="1011,4305,1227,4332"/>
+<area shape="rect" id="node338" href="$classQgsDefaultVectorLayerLegend.html" title="Default legend implementation for vector layers. " alt="" coords="1011,4407,1227,4433"/>
+<area shape="rect" id="node344" href="$classQgsMapRendererCustomPainterJob.html" title="Job implementation that renders everything sequentially using a custom painter. " alt="" coords="997,3787,1241,3813"/>
+<area shape="rect" id="node345" href="$classQgsMapRendererQImageJob.html" title="Intermediate base class adding functionality that allows client to query the rendered image..." alt="" coords="1019,3736,1219,3763"/>
+<area shape="rect" id="node346" href="$classQgsMapRendererParallelJob.html" title="Job implementation that renders all layers in parallel. " alt="" coords="1316,3736,1511,3763"/>
+<area shape="rect" id="node347" href="$classQgsMapRendererSequentialJob.html" title="Job implementation that renders everything sequentially in one thread. " alt="" coords="1304,3685,1523,3712"/>
+<area shape="rect" id="node349" href="$classQgsMapToolEmitPoint.html" title="A map tool that simply emits a point when clicking on the map. " alt="" coords="1039,4711,1198,4737"/>
+<area shape="rect" id="node350" href="$classQgsMapToolIdentify.html" title="Map tool for identifying features in layers. " alt="" coords="1047,4559,1191,4585"/>
+<area shape="rect" id="node352" href="$classQgsMapToolPan.html" title="A map tool for panning the map. " alt="" coords="1058,4508,1179,4535"/>
+<area shape="rect" id="node353" href="$classQgsMapToolTouch.html" title="A map tool for panning the map. " alt="" coords="1051,4609,1186,4636"/>
+<area shape="rect" id="node354" href="$classQgsMapToolZoom.html" title="A map tool for zooming into the map. " alt="" coords="1050,4660,1187,4687"/>
+<area shape="rect" id="node351" href="$classQgsMapToolIdentifyFeature.html" title="The QgsMapToolIdentifyFeature class is a map tool to identify a feature on a chosen layer..." alt="" coords="1317,4559,1509,4585"/>
+<area shape="rect" id="node370" href="$classQgsMapCanvasSnappingUtils.html" title="Snapping utils instance that is connected to a canvas and updates the configuration (map settings + c..." alt="" coords="1014,676,1223,703"/>
+<area shape="rect" id="node375" href="$classQgsVectorLayerEditPassthrough.html" title="QgsVectorLayerEditPassthrough" alt="" coords="1005,727,1232,753"/>
+<area shape="rect" id="node378" href="$classQgsEditorWidgetWrapper.html" title="Manages an editor widget Widget and wrapper share the same parent. " alt="" coords="1029,525,1208,552"/>
+<area shape="rect" id="node396" href="$classQgsRelationWidgetWrapper.html" title="QgsRelationWidgetWrapper" alt="" coords="1023,625,1215,652"/>
+<area shape="rect" id="node379" href="$classQgsCheckboxWidgetWrapper.html" title="Wraps a checkbox widget. " alt="" coords="1311,196,1515,223"/>
+<area shape="rect" id="node380" href="$classQgsClassificationWidgetWrapper.html" title="QgsClassificationWidgetWrapper" alt="" coords="1301,247,1526,273"/>
+<area shape="rect" id="node381" href="$classQgsColorWidgetWrapper.html" title="Wraps a color widget. " alt="" coords="1326,297,1501,324"/>
+<area shape="rect" id="node382" href="$classQgsDateTimeEditWrapper.html" title="Wraps a date time widget. " alt="" coords="1321,348,1506,375"/>
+<area shape="rect" id="node383" href="$classQgsDefaultSearchWidgetWrapper.html" title="Wraps a search widget. " alt="" coords="1297,399,1530,425"/>
+<area shape="rect" id="node384" href="$classQgsEnumerationWidgetWrapper.html" title="QgsEnumerationWidgetWrapper" alt="" coords="1301,449,1525,476"/>
+<area shape="rect" id="node385" href="$classQgsFileNameWidgetWrapper.html" title="Wraps a file name widget. " alt="" coords="1313,500,1514,527"/>
+<area shape="rect" id="node386" href="$classQgsHiddenWidgetWrapper.html" title="Wraps a hidden widget. " alt="" coords="1320,551,1507,577"/>
+<area shape="rect" id="node387" href="$classQgsPhotoWidgetWrapper.html" title="Wraps a photo widget. " alt="" coords="1324,601,1503,628"/>
+<area shape="rect" id="node388" href="$classQgsRangeWidgetWrapper.html" title="Wraps a range widget. " alt="" coords="1322,652,1505,679"/>
+<area shape="rect" id="node389" href="$classQgsRelationReferenceWidgetWrapper.html" title="Wraps a relation reference widget. " alt="" coords="1312,703,1515,745"/>
+<area shape="rect" id="node390" href="$classQgsTextEditWrapper.html" title="Wraps a text widget. " alt="" coords="1339,769,1487,796"/>
+<area shape="rect" id="node391" href="$classQgsUniqueValuesWidgetWrapper.html" title="Wraps a unique value widget. " alt="" coords="1299,820,1528,847"/>
+<area shape="rect" id="node392" href="$classQgsUuidWidgetWrapper.html" title="Wraps a uuid widget. " alt="" coords="1328,871,1499,897"/>
+<area shape="rect" id="node393" href="$classQgsValueMapWidgetWrapper.html" title="Wraps a value map widget. " alt="" coords="1311,921,1515,948"/>
+<area shape="rect" id="node394" href="$classQgsValueRelationWidgetWrapper.html" title="Wraps a value relation widget. " alt="" coords="1300,95,1527,121"/>
+<area shape="rect" id="node395" href="$classQgsWebViewWidgetWrapper.html" title="Wraps a web view widget. " alt="" coords="1315,145,1512,172"/>
+<area shape="rect" id="node398" href="$classQgsFeatureSelectionModel.html" title="QgsFeatureSelectionModel" alt="" coords="1023,777,1215,804"/>
+<area shape="rect" id="node400" href="$classQgsNetworkAccessManager.html" title="QgsNetworkAccessManager" alt="" coords="1019,828,1219,855"/>
+<area shape="rect" id="node402" href="/usr/share/qt4/doc/html/qt.tags$qcommonstyle.html" title="QCommonStyle" alt="" coords="1057,247,1180,273"/>
+<area shape="rect" id="node403" href="/usr/share/qt4/doc/html/qt.tags$qproxystyle.html" title="QProxyStyle" alt="" coords="1364,44,1463,71"/>
+<area shape="rect" id="node404" href="$classQgsCategorizedSymbolRendererV2ViewStyle.html" title="QgsCategorizedSymbolRenderer\lV2ViewStyle" alt="" coords="1581,70,1811,111"/>
+<area shape="rect" id="node405" href="$classQgsGraduatedSymbolRendererV2ViewStyle.html" title="QgsGraduatedSymbolRenderer\lV2ViewStyle" alt="" coords="1586,5,1806,46"/>
+<area shape="rect" id="node407" href="$classQgsExpressionHighlighter.html" title="QgsExpressionHighlighter" alt="" coords="1026,879,1211,905"/>
+<area shape="rect" id="node409" href="$classQgsGeometryValidator.html" title="QgsGeometryValidator" alt="" coords="1035,929,1202,956"/>
+<area shape="rect" id="node411" href="$classQgsFieldValidator.html" title="QgsFieldValidator" alt="" coords="1053,1031,1184,1057"/>
+<area shape="rect" id="node412" href="$classQgsLongLongValidator.html" title="QgsLongLongValidator" alt="" coords="1036,980,1201,1007"/>
+<area shape="rect" id="node414" href="$classCharacterWidget.html" title="[0] " alt="" coords="1055,5788,1183,5815"/>
+<area shape="rect" id="node415" href="/usr/share/qt4/doc/html/qt.tags$qabstractbutton.html" title="QAbstractButton" alt="" coords="1054,5991,1183,6017"/>
+<area shape="rect" id="node422" href="/usr/share/qt4/doc/html/qt.tags$qabstractslider.html" title="QAbstractSlider" alt="" coords="1057,8772,1180,8799"/>
+<area shape="rect" id="node427" href="/usr/share/qt4/doc/html/qt.tags$qabstractspinbox.html" title="QAbstractSpinBox" alt="" coords="1049,10500,1188,10527"/>
+<area shape="rect" id="node434" href="/usr/share/qt4/doc/html/qt.tags$qcombobox.html" title="QComboBox" alt="" coords="1067,10804,1170,10831"/>
+<area shape="rect" id="node445" href="/usr/share/qt4/doc/html/qt.tags$qdialog.html" title="QDialog" alt="" coords="1083,7511,1155,7537"/>
+<area shape="rect" id="node459" href="/usr/share/qt4/doc/html/qt.tags$qdockwidget.html" title="QDockWidget" alt="" coords="1065,5636,1172,5663"/>
+<area shape="rect" id="node461" href="/usr/share/qt4/doc/html/qt.tags$qframe.html" title="QFrame" alt="" coords="1083,5940,1155,5967"/>
+<area shape="rect" id="node479" href="/usr/share/qt4/doc/html/qt.tags$qgroupbox.html" title="QGroupBox" alt="" coords="1071,5687,1166,5713"/>
+<area shape="rect" id="node483" href="$classQgsAttributeForm.html" title="QgsAttributeForm" alt="" coords="1051,6193,1187,6220"/>
+<area shape="rect" id="node484" href="$classQgsColorSwatchGrid.html" title="A grid of color swatches, which allows for user selection. " alt="" coords="1043,6244,1195,6271"/>
+<area shape="rect" id="node485" href="$classQgsColorWidget.html" title="A base class for interactive color widgets. " alt="" coords="1057,5737,1180,5764"/>
+<area shape="rect" id="node492" href="$classQgsComposerRuler.html" title="A class to show paper scale and the current cursor position. " alt="" coords="1047,6345,1191,6372"/>
+<area shape="rect" id="node493" href="$classQgsCustomLayerOrderWidget.html" title="The QgsCustomLayerOrderWidget class provides a list box where the user can define custom order for dr..." alt="" coords="1013,6396,1224,6423"/>
+<area shape="rect" id="node494" href="$classQgsEditorConfigWidget.html" title="This class should be subclassed for every configurable editor widget type. " alt="" coords="1035,10145,1202,10172"/>
+<area shape="rect" id="node495" href="$classQgsEffectStackCompactWidget.html" title="A small widget consisting of a check box for enabling/disabling an effect stack and a button for open..." alt="" coords="1009,6497,1229,6524"/>
+<area shape="rect" id="node496" href="$classQgsFieldExpressionWidget.html" title="The QgsFieldExpressionWidget class reates a widget to choose fields and edit expressions It contains ..." alt="" coords="1025,6548,1212,6575"/>
+<area shape="rect" id="node497" href="$classQgsMapOverviewCanvas.html" title="A widget that displays an overview map. " alt="" coords="1029,6599,1208,6625"/>
+<area shape="rect" id="node498" href="$classQgsMessageBarItem.html" title="QgsMessageBarItem" alt="" coords="1041,6649,1196,6676"/>
+<area shape="rect" id="node499" href="$classQgsPaintEffectWidget.html" title="Base class for effect properties widgets. " alt="" coords="1040,8975,1197,9001"/>
+<area shape="rect" id="node506" href="$classQgsPanningWidget.html" title="widget that serves as rectangle showing current extent in overview " alt="" coords="1049,6751,1189,6777"/>
+<area shape="rect" id="node507" href="$classQgsProjectionSelectionWidget.html" title="A widget for selecting a projection. " alt="" coords="1013,6801,1225,6828"/>
+<area shape="rect" id="node508" href="$classQgsRasterRendererWidget.html" title="QgsRasterRendererWidget" alt="" coords="1025,9295,1213,9321"/>
+<area shape="rect" id="node509" href="$classQgsRelationReferenceWidget.html" title="QgsRelationReferenceWidget" alt="" coords="1017,6903,1220,6929"/>
+<area shape="rect" id="node510" href="$classQgsRendererV2Widget.html" title="Base class for renderer settings widgets. " alt="" coords="1037,9659,1201,9685"/>
+<area shape="rect" id="node512" href="$classQgsScaleRangeWidget.html" title="QgsScaleRangeWidget" alt="" coords="1036,7004,1201,7031"/>
+<area shape="rect" id="node513" href="$classQgsScaleWidget.html" title="A combobox which lets the user select map scale from predefined list and highlights nearest to curren..." alt="" coords="1056,7055,1181,7081"/>
+<area shape="rect" id="node514" href="$classQgsSvgSelectorWidget.html" title="QgsSvgSelectorWidget" alt="" coords="1035,11436,1202,11463"/>
+<area shape="rect" id="node515" href="$classQgsSymbolLayerV2Widget.html" title="QgsSymbolLayerV2Widget" alt="" coords="1023,11385,1214,11412"/>
+<area shape="rect" id="node531" href="$classQgsSymbolsListWidget.html" title="QgsSymbolsListWidget" alt="" coords="1035,11487,1202,11513"/>
+<area shape="rect" id="node532" href="$classQgsWebView.html" title="The QgsWebView class is a collection of stubs to mimic the API of QWebView on systems where the real ..." alt="" coords="1067,7156,1170,7183"/>
+<area shape="rect" id="node533" href="/usr/share/qt4/doc/html/qt.tags$qlineedit.html" title="QLineEdit" alt="" coords="1077,5839,1160,5865"/>
+<area shape="rect" id="node536" href="/usr/share/qt4/doc/html/qt.tags$qmenu.html" title="QMenu" alt="" coords="1085,5889,1152,5916"/>
+<area shape="rect" id="node416" href="/usr/share/qt4/doc/html/qt.tags$qpushbutton.html" title="QPushButton" alt="" coords="1360,6193,1467,6220"/>
+<area shape="rect" id="node418" href="/usr/share/qt4/doc/html/qt.tags$qtoolbutton.html" title="QToolButton" alt="" coords="1364,6244,1463,6271"/>
+<area shape="rect" id="node417" href="$classQgsColorButton.html" title="A cross platform button subclass for selecting colors. Will open a color chooser dialog when clicked..." alt="" coords="1635,6143,1757,6169"/>
+<area shape="rect" id="node419" href="$classQgsColorButtonV2.html" title="A cross platform button subclass for selecting colors. " alt="" coords="1626,6295,1766,6321"/>
+<area shape="rect" id="node420" href="$classQgsDataDefinedButton.html" title="A button for defining data source field mappings or expressions. " alt="" coords="1611,6193,1781,6220"/>
+<area shape="rect" id="node421" href="$classQgsGroupBoxCollapseButton.html" title="QgsGroupBoxCollapseButton" alt="" coords="1593,6244,1799,6271"/>
+<area shape="rect" id="node423" href="/usr/share/qt4/doc/html/qt.tags$qdial.html" title="QDial" alt="" coords="1385,8823,1441,8849"/>
+<area shape="rect" id="node425" href="/usr/share/qt4/doc/html/qt.tags$qslider.html" title="QSlider" alt="" coords="1379,8772,1447,8799"/>
+<area shape="rect" id="node424" href="$classQgsDial.html" title="QgsDial" alt="" coords="1661,8823,1731,8849"/>
+<area shape="rect" id="node426" href="$classQgsSlider.html" title="QgsSlider" alt="" coords="1655,8772,1737,8799"/>
+<area shape="rect" id="node428" href="/usr/share/qt4/doc/html/qt.tags$qdatetimeedit.html" title="QDateTimeEdit" alt="" coords="1354,10551,1473,10577"/>
+<area shape="rect" id="node430" href="/usr/share/qt4/doc/html/qt.tags$qdoublespinbox.html" title="QDoubleSpinBox" alt="" coords="1349,10449,1478,10476"/>
+<area shape="rect" id="node432" href="/usr/share/qt4/doc/html/qt.tags$qspinbox.html" title="QSpinBox" alt="" coords="1371,10500,1455,10527"/>
+<area shape="rect" id="node429" href="$classQgsDateTimeEdit.html" title="The QgsDateTimeEdit class is a QDateTimeEdit with the capability of setting/reading null date/times..." alt="" coords="1629,10551,1763,10577"/>
+<area shape="rect" id="node431" href="$classQgsDoubleSpinBox.html" title="The QgsSpinBox is a spin box with a clear button that will set the value to the defined clear value..." alt="" coords="1624,10449,1768,10476"/>
+<area shape="rect" id="node433" href="$classQgsSpinBox.html" title="The QgsSpinBox is a spin box with a clear button that will set the value to the defined clear value..." alt="" coords="1647,10500,1745,10527"/>
+<area shape="rect" id="node435" href="$classQgsBlendModeComboBox.html" title="A combobox which lets the user select blend modes from a predefined list. " alt="" coords="1319,11057,1507,11084"/>
+<area shape="rect" id="node436" href="$classQgsBrushStyleComboBox.html" title="QgsBrushStyleComboBox" alt="" coords="1320,10601,1507,10628"/>
+<area shape="rect" id="node437" href="$classQgsColorRampComboBox.html" title="QgsColorRampComboBox" alt="" coords="1320,10652,1507,10679"/>
+<area shape="rect" id="node438" href="$classQgsEffectDrawModeComboBox.html" title="A combo box allowing selection of paint effect draw modes. " alt="" coords="1303,10703,1523,10729"/>
+<area shape="rect" id="node439" href="$classQgsFieldComboBox.html" title="The QgsFieldComboBox is a combo box which displays the list of fields of a given layer. " alt="" coords="1341,10753,1486,10780"/>
+<area shape="rect" id="node440" href="$classQgsMapLayerComboBox.html" title="The QgsMapLayerComboBox class is a combo box which displays the list of layers. " alt="" coords="1324,10804,1503,10831"/>
+<area shape="rect" id="node441" href="$classQgsPenCapStyleComboBox.html" title="QgsPenCapStyleComboBox" alt="" coords="1314,10855,1513,10881"/>
+<area shape="rect" id="node442" href="$classQgsPenJoinStyleComboBox.html" title="QgsPenJoinStyleComboBox" alt="" coords="1316,10905,1511,10932"/>
+<area shape="rect" id="node443" href="$classQgsPenStyleComboBox.html" title="QgsPenStyleComboBox" alt="" coords="1327,10956,1500,10983"/>
+<area shape="rect" id="node444" href="$classQgsScaleComboBox.html" title="A combobox which lets the user select map scale from predefined list and highlights nearest to curren..." alt="" coords="1337,11007,1489,11033"/>
+<area shape="rect" id="node446" href="/usr/share/qt4/doc/html/qt.tags$qfiledialog.html" title="QFileDialog" alt="" coords="1367,7359,1459,7385"/>
+<area shape="rect" id="node448" href="$classQgsApplyDialog.html" title="Interface class for dialogs that have an apply operation (e.g. " alt="" coords="1352,6953,1475,6980"/>
+<area shape="rect" id="node449" href="$classQgsAttributeDialog.html" title="QgsAttributeDialog" alt="" coords="1342,7511,1485,7537"/>
+<area shape="rect" id="node450" href="$classQgsBusyIndicatorDialog.html" title="A simple dialog to show an indeterminate busy progress indicator. " alt="" coords="1327,7004,1500,7031"/>
+<area shape="rect" id="node451" href="$classQgsDataDefinedAssistant.html" title="An assistant (wizard) dialog, accessible from a QgsDataDefinedButton. " alt="" coords="1320,7308,1507,7335"/>
+<area shape="rect" id="node453" href="$classQgsDialog.html" title="A generic dialog with layout and button box. " alt="" coords="1370,7409,1457,7436"/>
+<area shape="rect" id="node456" href="$classQgsOptionsDialogBase.html" title="A base dialog for options and properties dialogs that offers vertical tabs. " alt="" coords="1329,7105,1497,7132"/>
+<area shape="rect" id="node457" href="$classQgsScaleVisibilityDialog.html" title="QgsScaleVisibilityDialog" alt="" coords="1327,7460,1500,7487"/>
+<area shape="rect" id="node458" href="$classQgsSvgSelectorDialog.html" title="QgsSvgSelectorDialog" alt="" coords="1331,7055,1495,7081"/>
+<area shape="rect" id="node447" href="$classQgsEncodingFileDialog.html" title="A file dialog which lets the user select the preferred encoding type for a data provider. " alt="" coords="1613,7351,1779,7377"/>
+<area shape="rect" id="node452" href="$classQgsSizeScaleWidget.html" title="QgsSizeScaleWidget" alt="" coords="1620,7228,1772,7255"/>
+<area shape="rect" id="node454" href="$classQgsEffectStackPropertiesDialog.html" title="A dialog for modifying the properties of a QgsEffectStack, including adding and reordering effects wi..." alt="" coords="1604,7402,1788,7443"/>
+<area shape="rect" id="node455" href="$classQgsNewNameDialog.html" title="New name, for example new layer name dialog. " alt="" coords="1619,7468,1773,7495"/>
+<area shape="rect" id="node460" href="$classQgsUserInputDockWidget.html" title="The QgsUserInputDockWidget class is a dock widget that shall be used to display widgets for user inpu..." alt="" coords="1321,5383,1505,5409"/>
+<area shape="rect" id="node462" href="/usr/share/qt4/doc/html/qt.tags$qabstractscrollarea.html" title="QAbstractScrollArea" alt="" coords="1338,5991,1489,6017"/>
+<area shape="rect" id="node477" href="$classQgsMessageBar.html" title="A bar for displaying non&#45;blocking messages to the user. " alt="" coords="1350,6041,1477,6068"/>
+<area shape="rect" id="node478" href="/usr/share/qt4/doc/html/qt.tags$qstackedwidget.html" title="QStackedWidget" alt="" coords="1350,6092,1477,6119"/>
+<area shape="rect" id="node463" href="/usr/share/qt4/doc/html/qt.tags$qabstractitemview.html" title="QAbstractItemView" alt="" coords="1624,6016,1768,6043"/>
+<area shape="rect" id="node474" href="/usr/share/qt4/doc/html/qt.tags$qgraphicsview.html" title="QGraphicsView" alt="" coords="1637,5940,1755,5967"/>
+<area shape="rect" id="node464" href="/usr/share/qt4/doc/html/qt.tags$qlistview.html" title="QListView" alt="" coords="1907,6117,1989,6144"/>
+<area shape="rect" id="node466" href="/usr/share/qt4/doc/html/qt.tags$qtableview.html" title="QTableView" alt="" coords="1901,5991,1995,6017"/>
+<area shape="rect" id="node468" href="/usr/share/qt4/doc/html/qt.tags$qtreeview.html" title="QTreeView" alt="" coords="1905,6041,1991,6068"/>
+<area shape="rect" id="node465" href="$classQgsFeatureListView.html" title="Shows a list of features and renders a edit button next to each feature. " alt="" coords="2095,6168,2241,6195"/>
+<area shape="rect" id="node467" href="$classQgsAttributeTableView.html" title="Provides a table view of features of a QgsVectorLayer. " alt="" coords="2086,5915,2250,5941"/>
+<area shape="rect" id="node469" href="$classQgsBrowserTreeView.html" title="The QgsBrowserTreeView class extends QTreeView with save/restore tree state functionality. " alt="" coords="2091,6117,2245,6144"/>
+<area shape="rect" id="node470" href="$classQgsColorSchemeList.html" title="An editable list of color swatches, taken from an associated QgsColorScheme. " alt="" coords="2091,5965,2245,5992"/>
+<area shape="rect" id="node471" href="$classQgsLayerTreeView.html" title="The QgsLayerTreeView class extends QTreeView and provides some additional functionality when working ..." alt="" coords="2099,6016,2237,6043"/>
+<area shape="rect" id="node472" href="/usr/share/qt4/doc/html/qt.tags$qtreewidget.html" title="QTreeWidget" alt="" coords="2117,6067,2219,6093"/>
+<area shape="rect" id="node473" href="$classQgsDirectoryParamWidget.html" title="QgsDirectoryParamWidget" alt="" coords="2299,6067,2488,6093"/>
+<area shape="rect" id="node475" href="$classQgsComposerView.html" title="Widget to display the composer items. " alt="" coords="1877,5889,2019,5916"/>
+<area shape="rect" id="node476" href="$classQgsMapCanvas.html" title="Map canvas is a class for displaying all GIS data types on a canvas. " alt="" coords="1887,5940,2009,5967"/>
+<area shape="rect" id="node480" href="$classQgsCollapsibleGroupBoxBasic.html" title="A groupbox that collapses/expands when toggled. " alt="" coords="1307,5433,1519,5460"/>
+<area shape="rect" id="node481" href="$classQgsCollapsibleGroupBox.html" title="A groupbox that collapses/expands when toggled and can save its collapsed and checked states..." alt="" coords="1607,5433,1785,5460"/>
+<area shape="rect" id="node482" href="$classQgsRelationEditorWidget.html" title="QgsRelationEditorWidget" alt="" coords="1859,5433,2037,5460"/>
+<area shape="rect" id="node486" href="$classQgsColorBox.html" title="A color box widget. " alt="" coords="1361,5585,1465,5612"/>
+<area shape="rect" id="node487" href="$classQgsColorPreviewWidget.html" title="A preview box which displays one or two colors as swatches. " alt="" coords="1328,5636,1499,5663"/>
+<area shape="rect" id="node488" href="$classQgsColorRampWidget.html" title="A color ramp widget. " alt="" coords="1333,5687,1493,5713"/>
+<area shape="rect" id="node489" href="$classQgsColorSliderWidget.html" title="A composite horizontal color ramp widget and associated spinbox for manual value entry. " alt="" coords="1334,5737,1493,5764"/>
+<area shape="rect" id="node490" href="$classQgsColorTextWidget.html" title="A line edit widget which displays colors as text and accepts string representations of colors..." alt="" coords="1339,5484,1487,5511"/>
+<area shape="rect" id="node491" href="$classQgsColorWheel.html" title="A color wheel widget. " alt="" coords="1354,5535,1473,5561"/>
+<area shape="rect" id="node500" href="$classQgsBlurWidget.html" title="QgsBlurWidget" alt="" coords="1356,8873,1471,8900"/>
+<area shape="rect" id="node501" href="$classQgsColorEffectWidget.html" title="QgsColorEffectWidget" alt="" coords="1334,8924,1493,8951"/>
+<area shape="rect" id="node502" href="$classQgsDrawSourceWidget.html" title="QgsDrawSourceWidget" alt="" coords="1330,8975,1497,9001"/>
+<area shape="rect" id="node503" href="$classQgsGlowWidget.html" title="QgsGlowWidget" alt="" coords="1353,9025,1473,9052"/>
+<area shape="rect" id="node504" href="$classQgsShadowEffectWidget.html" title="QgsShadowEffectWidget" alt="" coords="1325,9076,1501,9103"/>
+<area shape="rect" id="node505" href="$classQgsTransformWidget.html" title="QgsTransformWidget" alt="" coords="1337,9127,1490,9153"/>
+<area shape="rect" id="node511" href="$classQgsSingleSymbolRendererV2Widget.html" title="QgsSingleSymbolRendererV2\lWidget" alt="" coords="1309,9645,1517,9686"/>
+<area shape="rect" id="node516" href="$classQgsCentroidFillSymbolLayerV2Widget.html" title="QgsCentroidFillSymbolLayer\lV2Widget" alt="" coords="1314,11109,1513,11150"/>
+<area shape="rect" id="node517" href="$classQgsEllipseSymbolLayerV2Widget.html" title="QgsEllipseSymbolLayerV2Widget" alt="" coords="1298,11175,1529,11201"/>
+<area shape="rect" id="node518" href="$classQgsFontMarkerSymbolLayerV2Widget.html" title="QgsFontMarkerSymbolLayer\lV2Widget" alt="" coords="1312,11226,1515,11267"/>
+<area shape="rect" id="node519" href="$classQgsGradientFillSymbolLayerV2Widget.html" title="QgsGradientFillSymbolLayer\lV2Widget" alt="" coords="1313,11291,1513,11333"/>
+<area shape="rect" id="node520" href="$classQgsLinePatternFillSymbolLayerWidget.html" title="QgsLinePatternFillSymbol\lLayerWidget" alt="" coords="1322,11357,1505,11398"/>
+<area shape="rect" id="node521" href="$classQgsMarkerLineSymbolLayerV2Widget.html" title="QgsMarkerLineSymbolLayer\lV2Widget" alt="" coords="1313,11422,1513,11463"/>
+<area shape="rect" id="node522" href="$classQgsPointPatternFillSymbolLayerWidget.html" title="QgsPointPatternFillSymbol\lLayerWidget" alt="" coords="1319,11487,1507,11529"/>
+<area shape="rect" id="node523" href="$classQgsRasterFillSymbolLayerWidget.html" title="QgsRasterFillSymbolLayer\lWidget" alt="" coords="1320,11553,1507,11594"/>
+<area shape="rect" id="node524" href="$classQgsShapeburstFillSymbolLayerV2Widget.html" title="QgsShapeburstFillSymbolLayer\lV2Widget" alt="" coords="1304,11709,1523,11750"/>
+<area shape="rect" id="node525" href="$classQgsSimpleFillSymbolLayerV2Widget.html" title="QgsSimpleFillSymbolLayer\lV2Widget" alt="" coords="1319,11934,1508,11975"/>
+<area shape="rect" id="node526" href="$classQgsSimpleLineSymbolLayerV2Widget.html" title="QgsSimpleLineSymbolLayer\lV2Widget" alt="" coords="1313,12063,1513,12105"/>
+<area shape="rect" id="node527" href="$classQgsSimpleMarkerSymbolLayerV2Widget.html" title="QgsSimpleMarkerSymbolLayer\lV2Widget" alt="" coords="1304,12150,1523,12191"/>
+<area shape="rect" id="node528" href="$classQgsSVGFillSymbolLayerWidget.html" title="QgsSVGFillSymbolLayerWidget" alt="" coords="1305,12259,1521,12285"/>
+<area shape="rect" id="node529" href="$classQgsSvgMarkerSymbolLayerV2Widget.html" title="QgsSvgMarkerSymbolLayerV2\lWidget" alt="" coords="1306,12338,1521,12379"/>
+<area shape="rect" id="node530" href="$classQgsVectorFieldSymbolLayerWidget.html" title="QgsVectorFieldSymbolLayer\lWidget" alt="" coords="1314,12459,1513,12501"/>
+<area shape="rect" id="node534" href="$classQgsFileDropEdit.html" title="A line edit for capturing file names that can have files dropped onto it via drag &amp; drop..." alt="" coords="1352,5839,1475,5865"/>
+<area shape="rect" id="node535" href="$classQgsFilterLineEdit.html" title="Lineedit with builtin clear button. " alt="" coords="1350,5788,1477,5815"/>
+<area shape="rect" id="node537" href="$classQgsActionMenu.html" title="This class is a menu that is populated automatically with the actions defined for a given layer..." alt="" coords="1352,5940,1475,5967"/>
+<area shape="rect" id="node538" href="$classQgsIdentifyMenu.html" title="The QgsIdentifyMenu class builds a menu to be used with identify results (. " alt="" coords="1349,5889,1477,5916"/>
+<area shape="rect" id="node539" href="/usr/share/qt4/doc/html/qt.tags$qpaintdevice.html" title="QPaintDevice" alt="" coords="480,12127,587,12153"/>
+<area shape="rect" id="node540" href="$classQgsDxfPaintDevice.html" title="A paint device for drawing into dxf files. " alt="" coords="742,12504,885,12531"/>
+<area shape="rect" id="node541" href="/usr/share/qt4/doc/html/qt.tags$qundocommand.html" title="QUndoCommand" alt="" coords="467,11891,600,11917"/>
+<area shape="rect" id="node542" href="$classQgsAddRemoveMultiFrameCommand.html" title="QgsAddRemoveMultiFrameCommand" alt="" coords="683,11891,943,11917"/>
+<area shape="rect" id="node543" href="$classQgsComposerItemCommand.html" title="Undo command to undo/redo all composer item related changes. " alt="" coords="709,12036,918,12063"/>
+<area shape="rect" id="node545" href="$classQgsComposerMultiFrameCommand.html" title="QgsComposerMultiFrameCommand" alt="" coords="688,12116,939,12143"/>
+<area shape="rect" id="node547" href="$classQgsVectorLayerUndoCommand.html" title="QgsVectorLayerUndoCommand" alt="" coords="701,11792,925,11819"/>
+<area shape="rect" id="node544" href="$classQgsComposerMergeCommand.html" title="A composer command that merges together with other commands having the same context (=id)..." alt="" coords="1009,12083,1229,12109"/>
+<area shape="rect" id="node546" href="$classQgsComposerMultiFrameMergeCommand.html" title="A composer command that merges together with other commands having the same context (=id) for multi f..." alt="" coords="1007,12185,1230,12226"/>
+<area shape="rect" id="node548" href="$classQgsVectorLayerUndoCommandAddAttribute.html" title="QgsVectorLayerUndoCommand\lAddAttribute" alt="" coords="1007,11850,1231,11891"/>
+<area shape="rect" id="node549" href="$classQgsVectorLayerUndoCommandAddFeature.html" title="QgsVectorLayerUndoCommand\lAddFeature" alt="" coords="1007,11785,1231,11826"/>
+<area shape="rect" id="node550" href="$classQgsVectorLayerUndoCommandChangeAttribute.html" title="QgsVectorLayerUndoCommand\lChangeAttribute" alt="" coords="1007,11719,1231,11761"/>
+<area shape="rect" id="node551" href="$classQgsVectorLayerUndoCommandChangeGeometry.html" title="QgsVectorLayerUndoCommand\lChangeGeometry" alt="" coords="1007,11915,1231,11957"/>
+<area shape="rect" id="node552" href="$classQgsVectorLayerUndoCommandDeleteAttribute.html" title="QgsVectorLayerUndoCommand\lDeleteAttribute" alt="" coords="1007,11589,1231,11630"/>
+<area shape="rect" id="node553" href="$classQgsVectorLayerUndoCommandDeleteFeature.html" title="QgsVectorLayerUndoCommand\lDeleteFeature" alt="" coords="1007,11654,1231,11695"/>
+</map>

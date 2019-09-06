@@ -1,0 +1,9 @@
+<map id="QgsVectorLayerUndoCommand" name="QgsVectorLayerUndoCommand">
+<area shape="rect" id="node3" href="$classQgsVectorLayerUndoCommandAddAttribute.html" title="QgsVectorLayerUndoCommand\lAddAttribute" alt="" coords="459,5,683,46"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayerUndoCommandAddFeature.html" title="QgsVectorLayerUndoCommand\lAddFeature" alt="" coords="459,70,683,111"/>
+<area shape="rect" id="node5" href="$classQgsVectorLayerUndoCommandChangeAttribute.html" title="QgsVectorLayerUndoCommand\lChangeAttribute" alt="" coords="459,135,683,177"/>
+<area shape="rect" id="node6" href="$classQgsVectorLayerUndoCommandChangeGeometry.html" title="QgsVectorLayerUndoCommand\lChangeGeometry" alt="" coords="459,201,683,242"/>
+<area shape="rect" id="node7" href="$classQgsVectorLayerUndoCommandDeleteAttribute.html" title="QgsVectorLayerUndoCommand\lDeleteAttribute" alt="" coords="459,266,683,307"/>
+<area shape="rect" id="node8" href="$classQgsVectorLayerUndoCommandDeleteFeature.html" title="QgsVectorLayerUndoCommand\lDeleteFeature" alt="" coords="459,331,683,373"/>
+<area shape="rect" id="node2" href="/usr/share/qt4/doc/html/qt.tags$qundocommand.html" title="QUndoCommand" alt="" coords="5,176,139,203"/>
+</map>

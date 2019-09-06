@@ -1,0 +1,35 @@
+<map id="/tmp/buildd/qgis&#45;2.10.1+git20150822+dd4475c+20trusty/src/core/geometry/qgswkbtypes.h" name="/tmp/buildd/qgis&#45;2.10.1+git20150822+dd4475c+20trusty/src/core/geometry/qgswkbtypes.h">
+<area shape="rect" id="node2" href="$qgsdatasourceuri_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/qgsdatasourceuri.cpp" alt="" coords="5,109,248,165"/>
+<area shape="rect" id="node3" href="$qgsabstractgeometryv2_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgsabstractgeometryv2.h" alt="" coords="857,109,1169,165"/>
+<area shape="rect" id="node13" href="$qgsgeometryfactory_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgsgeometryfactory.cpp" alt="" coords="103,541,404,597"/>
+<area shape="rect" id="node29" href="$qgswkbptr_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgswkbptr.h" alt="" coords="3504,317,3747,373"/>
+<area shape="rect" id="node32" href="$qgsgeometryfactory_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgsgeometryfactory.h" alt="" coords="374,429,660,485"/>
+<area shape="rect" id="node34" href="$qgswkbtypes_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgswkbtypes.cpp" alt="" coords="1365,109,1621,165"/>
+<area shape="rect" id="node4" href="$qgsabstractgeometryv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgsabstractgeometryv2.cpp" alt="" coords="4931,429,5257,485"/>
+<area shape="rect" id="node5" href="$qgspointv2_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgspointv2.h" alt="" coords="997,213,1240,269"/>
+<area shape="rect" id="node6" href="$qgscurvev2_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgscurvev2.h" alt="" coords="3771,317,4013,373"/>
+<area shape="rect" id="node14" href="$qgsgeos_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgsgeos.cpp" alt="" coords="695,541,937,597"/>
+<area shape="rect" id="node17" href="$qgssurfacev2_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgssurfacev2.h" alt="" coords="761,317,1004,373"/>
+<area shape="rect" id="node20" href="$qgsgeometry_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgsgeometry.h" alt="" coords="2437,317,2680,373"/>
+<area shape="rect" id="node28" href="$qgsgeometrycollectionv2_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgsgeometrycollectionv2.h" alt="" coords="737,429,1055,485"/>
+<area shape="rect" id="node8" href="$qgscircularstringv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgscircularstringv2.cpp" alt="" coords="3801,541,4095,597"/>
+<area shape="rect" id="node11" href="$qgsgeometry_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgsgeometry.cpp" alt="" coords="1321,541,1577,597"/>
+<area shape="rect" id="node12" href="$qgsgeometrycollectionv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgsgeometrycollectionv2.cpp" alt="" coords="962,541,1296,597"/>
+<area shape="rect" id="node18" href="$qgsmultipointv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgsmultipointv2.cpp" alt="" coords="1283,429,1559,485"/>
+<area shape="rect" id="node19" href="$qgspointv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgspointv2.cpp" alt="" coords="1583,429,1827,485"/>
+<area shape="rect" id="node7" href="$qgslinestringv2_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgslinestringv2.h" alt="" coords="4449,429,4703,485"/>
+<area shape="rect" id="node9" href="$qgscompoundcurvev2_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgscompoundcurvev2.cpp" alt="" coords="5023,541,5337,597"/>
+<area shape="rect" id="node10" href="$qgscurvepolygonv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgscurvepolygonv2.cpp" alt="" coords="4119,541,4416,597"/>
+<area shape="rect" id="node15" href="$qgslinestringv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgslinestringv2.cpp" alt="" coords="4441,541,4711,597"/>
+<area shape="rect" id="node16" href="$qgspolygonv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgspolygonv2.cpp" alt="" coords="4735,541,4997,597"/>
+<area shape="rect" id="node21" href="$qgsclipper_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/qgsclipper.cpp" alt="" coords="3504,429,3747,485"/>
+<area shape="rect" id="node22" href="$qgsdistancearea_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/qgsdistancearea.cpp" alt="" coords="2437,429,2680,485"/>
+<area shape="rect" id="node23" href="$qgsogcutils_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/qgsogcutils.cpp" alt="" coords="2704,429,2947,485"/>
+<area shape="rect" id="node24" href="$qgspointlocator_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/qgspointlocator.cpp" alt="" coords="2971,429,3213,485"/>
+<area shape="rect" id="node25" href="$qgsrendererv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/symbology&#45;ng/qgsrendererv2.cpp" alt="" coords="1851,429,2145,485"/>
+<area shape="rect" id="node26" href="$qgsinterpolator_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/analysis/interpolation\l/qgsinterpolator.cpp" alt="" coords="2171,422,2413,493"/>
+<area shape="rect" id="node27" href="$qgstininterpolator_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/analysis/interpolation\l/qgstininterpolator.cpp" alt="" coords="3237,422,3480,493"/>
+<area shape="rect" id="node30" href="$qgsgeometryutils_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgsgeometryutils.cpp" alt="" coords="3821,429,4105,485"/>
+<area shape="rect" id="node31" href="$qgswkbptr_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/geometry/qgswkbptr.cpp" alt="" coords="4131,429,4373,485"/>
+<area shape="rect" id="node33" href="$qgsdxfpaintengine_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/dxf/qgsdxfpaintengine.h" alt="" coords="428,541,671,597"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QgsDerivativeFilter" name="QgsDerivativeFilter">
+<area shape="rect" id="node3" href="$classQgsAspectFilter.html" title="Calculates aspect values in a window of 3x3 cells based on first order derivatives in x&#45; and y&#45; direc..." alt="" coords="5,155,125,181"/>
+<area shape="rect" id="node4" href="$classQgsHillshadeFilter.html" title="QgsHillshadeFilter" alt="" coords="150,155,284,181"/>
+<area shape="rect" id="node5" href="$classQgsSlopeFilter.html" title="Calculates slope values in a window of 3x3 cells based on first order derivatives in x&#45; and y&#45; direct..." alt="" coords="309,155,421,181"/>
+<area shape="rect" id="node2" href="$classQgsNineCellFilter.html" title="Base class for raster analysis methods that work with a 3x3 cell filter and calculate the value of ea..." alt="" coords="153,5,281,32"/>
+</map>

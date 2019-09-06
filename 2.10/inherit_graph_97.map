@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsColorScheme.html" title="Abstract base class for color schemes. " alt="" coords="5,81,139,108"/>
+<area shape="rect" id="node2" href="$classQgsCustomColorScheme.html" title="A color scheme which contains custom colors set through QGIS app options dialog. " alt="" coords="187,5,370,32"/>
+<area shape="rect" id="node3" href="$classQgsGplColorScheme.html" title="A color scheme which stores its colors in a gpl palette file. " alt="" coords="201,56,356,83"/>
+<area shape="rect" id="node5" href="$classQgsProjectColorScheme.html" title="A color scheme which contains project specific colors set through project properties dialog..." alt="" coords="190,107,367,133"/>
+<area shape="rect" id="node6" href="$classQgsRecentColorScheme.html" title="A color scheme which contains the most recently used colors. " alt="" coords="191,157,367,184"/>
+<area shape="rect" id="node4" href="$classQgsUserColorScheme.html" title="A color scheme which stores its colors in a gpl palette file within the &quot;palettes&quot; subfolder off th..." alt="" coords="419,56,581,83"/>
+</map>

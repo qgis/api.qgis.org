@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['radiobuttonexclusive',['radioButtonExclusive',['/usr/share/qt4/doc/html/q3buttongroup.html#radioButtonExclusive-prop',1,'Q3ButtonGroup']]],
+  ['readonly',['readOnly',['/usr/share/qt4/doc/html/qfiledialog-obsolete.html#readOnly-prop',1,'QFileDialog::readOnly()'],['/usr/share/qt4/doc/html/qfilesystemmodel.html#readOnly-prop',1,'QFileSystemModel::readOnly()'],['/usr/share/qt4/doc/html/q3databrowser.html#readOnly-prop',1,'Q3DataBrowser::readOnly()'],['/usr/share/qt4/doc/html/qtextbrowser.html#readOnly-prop',1,'QTextBrowser::readOnly()'],['/usr/share/qt4/doc/html/qplaintextedit.html#readOnly-prop',1,'QPlainTextEdit::readOnly()'],['/usr/share/qt4/doc/html/q3table.html#readOnly-prop',1,'Q3Table::readOnly()'],['/usr/share/qt4/doc/html/qtextedit.html#readOnly-prop',1,'QTextEdit::readOnly()'],['/usr/share/qt4/doc/html/q3textedit.html#readOnly-prop',1,'Q3TextEdit::readOnly()'],['/usr/share/qt4/doc/html/qdirmodel.html#readOnly-prop',1,'QDirModel::readOnly()'],['/usr/share/qt4/doc/html/qabstractspinbox.html#readOnly-prop',1,'QAbstractSpinBox::readOnly()'],['/usr/share/qt4/doc/html/qlineedit.html#readOnly-prop',1,'QLineEdit::readOnly()']]],
+  ['rect',['rect',['/usr/share/qt4/doc/html/qwidget.html#rect-prop',1,'QWidget']]],
+  ['redoavailable',['redoAvailable',['/usr/share/qt4/doc/html/qlineedit.html#redoAvailable-prop',1,'QLineEdit']]],
+  ['regexp',['regExp',['/usr/share/qt4/doc/html/qregexpvalidator.html#regExp-prop',1,'QRegExpValidator']]],
+  ['registeredservicenames',['registeredServiceNames',['/usr/share/qt4/doc/html/qdbusconnectioninterface.html#registeredServiceNames-prop',1,'QDBusConnectionInterface']]],
+  ['renderhints',['renderHints',['/usr/share/qt4/doc/html/qgraphicswebview.html#renderHints-prop',1,'QGraphicsWebView::renderHints()'],['/usr/share/qt4/doc/html/qgraphicsview.html#renderHints-prop',1,'QGraphicsView::renderHints()'],['/usr/share/qt4/doc/html/qwebview.html#renderHints-prop',1,'QWebView::renderHints()']]],
+  ['requestedurl',['requestedUrl',['/usr/share/qt4/doc/html/qwebframe.html#requestedUrl-prop',1,'QWebFrame']]],
+  ['resizeanchor',['resizeAnchor',['/usr/share/qt4/doc/html/qgraphicsview.html#resizeAnchor-prop',1,'QGraphicsView']]],
+  ['resizeenabled',['resizeEnabled',['/usr/share/qt4/doc/html/q3dockwindow.html#resizeEnabled-prop',1,'Q3DockWindow']]],
+  ['resizegripsvisible',['resizeGripsVisible',['/usr/share/qt4/doc/html/qcolumnview.html#resizeGripsVisible-prop',1,'QColumnView']]],
+  ['resizemode',['resizeMode',['/usr/share/qt4/doc/html/q3listview.html#resizeMode-prop',1,'Q3ListView::resizeMode()'],['/usr/share/qt4/doc/html/qdeclarativeview.html#resizeMode-prop',1,'QDeclarativeView::resizeMode()'],['/usr/share/qt4/doc/html/qlistview.html#resizeMode-prop',1,'QListView::resizeMode()'],['/usr/share/qt4/doc/html/q3iconview.html#resizeMode-prop',1,'Q3IconView::resizeMode()']]],
+  ['resizepolicy',['resizePolicy',['/usr/share/qt4/doc/html/q3scrollview.html#resizePolicy-prop',1,'Q3ScrollView']]],
+  ['resizestocontents',['resizesToContents',['/usr/share/qt4/doc/html/qgraphicswebview.html#resizesToContents-prop',1,'QGraphicsWebView']]],
+  ['resolution',['resolution',['/usr/share/qt4/doc/html/qsvggenerator.html#resolution-prop',1,'QSvgGenerator']]],
+  ['resolvesymlinks',['resolveSymlinks',['/usr/share/qt4/doc/html/qfiledialog-obsolete.html#resolveSymlinks-prop',1,'QFileDialog::resolveSymlinks()'],['/usr/share/qt4/doc/html/qfilesystemmodel.html#resolveSymlinks-prop',1,'QFileSystemModel::resolveSymlinks()'],['/usr/share/qt4/doc/html/qdirmodel.html#resolveSymlinks-prop',1,'QDirModel::resolveSymlinks()']]],
+  ['rightjustification',['rightJustification',['/usr/share/qt4/doc/html/q3mainwindow.html#rightJustification-prop',1,'Q3MainWindow']]],
+  ['rootisdecorated',['rootIsDecorated',['/usr/share/qt4/doc/html/q3listview.html#rootIsDecorated-prop',1,'Q3ListView::rootIsDecorated()'],['/usr/share/qt4/doc/html/qtreeview.html#rootIsDecorated-prop',1,'QTreeView::rootIsDecorated()']]],
+  ['rotation',['rotation',['/usr/share/qt4/doc/html/qgraphicsobject.html#rotation-prop',1,'QGraphicsObject']]],
+  ['rotationangle',['rotationAngle',['/usr/share/qt4/doc/html/qpinchgesture.html#rotationAngle-prop',1,'QPinchGesture']]],
+  ['rowcount',['rowCount',['/usr/share/qt4/doc/html/qtablewidget.html#rowCount-prop',1,'QTableWidget']]],
+  ['rowmode',['rowMode',['/usr/share/qt4/doc/html/q3listbox.html#rowMode-prop',1,'Q3ListBox']]],
+  ['rowmovingenabled',['rowMovingEnabled',['/usr/share/qt4/doc/html/q3table.html#rowMovingEnabled-prop',1,'Q3Table']]],
+  ['rowwrappolicy',['rowWrapPolicy',['/usr/share/qt4/doc/html/qformlayout.html#rowWrapPolicy-prop',1,'QFormLayout']]],
+  ['rubberbandselectionmode',['rubberBandSelectionMode',['/usr/share/qt4/doc/html/qgraphicsview.html#rubberBandSelectionMode-prop',1,'QGraphicsView']]]
+];

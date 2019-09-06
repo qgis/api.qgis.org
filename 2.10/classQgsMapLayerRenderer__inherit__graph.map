@@ -1,0 +1,5 @@
+<map id="QgsMapLayerRenderer" name="QgsMapLayerRenderer">
+<area shape="rect" id="node2" href="$classQgsPluginLayerRenderer.html" title="Fallback layer renderer implementation for layer that do not support map renderer yet..." alt="" coords="5,80,181,107"/>
+<area shape="rect" id="node3" href="$classQgsRasterLayerRenderer.html" title="Implementation of threaded rendering for raster layers. " alt="" coords="206,80,385,107"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayerRenderer.html" title="Implementation of threaded rendering for vector layers. " alt="" coords="410,80,589,107"/>
+</map>

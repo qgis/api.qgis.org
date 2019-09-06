@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsMapLayerRenderer.html" title="Base class for utility classes that encapsulate information necessary for rendering of map layers..." alt="" coords="6,56,173,83"/>
+<area shape="rect" id="node2" href="$classQgsPluginLayerRenderer.html" title="Fallback layer renderer implementation for layer that do not support map renderer yet..." alt="" coords="223,5,401,32"/>
+<area shape="rect" id="node3" href="$classQgsRasterLayerRenderer.html" title="Implementation of threaded rendering for raster layers. " alt="" coords="222,56,402,83"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayerRenderer.html" title="Implementation of threaded rendering for vector layers. " alt="" coords="222,107,402,133"/>
+</map>

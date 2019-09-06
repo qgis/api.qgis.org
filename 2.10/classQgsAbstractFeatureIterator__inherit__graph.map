@@ -1,0 +1,7 @@
+<map id="QgsAbstractFeatureIterator" name="QgsAbstractFeatureIterator">
+<area shape="rect" id="node2" href="$classQgsAbstractFeatureIteratorFromSource.html" title="helper template that cares of two things: 1. " alt="" coords="285,5,481,46"/>
+<area shape="rect" id="node3" href="$classQgsAbstractFeatureIteratorFromSource.html" title="QgsAbstractFeatureIterator\lFromSource\&lt; QgsVectorLayerFeature\lSource \&gt;" alt="" coords="251,69,514,125"/>
+<area shape="rect" id="node5" href="$classQgsCachedFeatureIterator.html" title="Delivers features from the cache. " alt="" coords="287,149,478,176"/>
+<area shape="rect" id="node6" href="$classQgsCachedFeatureWriterIterator.html" title="Uses another iterator as backend and writes features to the cache. " alt="" coords="269,200,496,227"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayerFeatureIterator.html" title="QgsVectorLayerFeatureIterator" alt="" coords="563,84,781,111"/>
+</map>

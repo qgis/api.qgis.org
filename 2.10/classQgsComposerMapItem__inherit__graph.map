@@ -1,0 +1,6 @@
+<map id="QgsComposerMapItem" name="QgsComposerMapItem">
+<area shape="rect" id="node4" href="$classQgsComposerMapGrid.html" title="An individual grid which is drawn above the map content in a QgsComposerMap. " alt="" coords="5,229,171,256"/>
+<area shape="rect" id="node5" href="$classQgsComposerMapOverview.html" title="An individual overview which is drawn above the map content in a QgsComposerMap, and shows the extent..." alt="" coords="196,229,393,256"/>
+<area shape="rect" id="node2" href="$classQgsComposerObject.html" title="A base class for objects which belong to a map composition. " alt="" coords="113,80,267,107"/>
+<area shape="rect" id="node3" href="/usr/share/qt4/doc/html/qt.tags$qobject.html" title="QObject" alt="" coords="154,5,227,32"/>
+</map>

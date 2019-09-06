@@ -1,0 +1,6 @@
+<map id="QgsDialog" name="QgsDialog">
+<area shape="rect" id="node4" href="$classQgsEffectStackPropertiesDialog.html" title="A dialog for modifying the properties of a QgsEffectStack, including adding and reordering effects wi..." alt="" coords="5,230,189,271"/>
+<area shape="rect" id="node5" href="$classQgsNewNameDialog.html" title="New name, for example new layer name dialog. " alt="" coords="214,237,367,264"/>
+<area shape="rect" id="node2" href="/usr/share/qt4/doc/html/qt.tags$qdialog.html" title="QDialog" alt="" coords="157,80,229,107"/>
+<area shape="rect" id="node3" href="/usr/share/qt4/doc/html/qt.tags$qwidget.html" title="QWidget" alt="" coords="156,5,229,32"/>
+</map>

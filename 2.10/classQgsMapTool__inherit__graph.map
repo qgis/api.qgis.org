@@ -1,0 +1,9 @@
+<map id="QgsMapTool" name="QgsMapTool">
+<area shape="rect" id="node3" href="$classQgsMapToolEmitPoint.html" title="A map tool that simply emits a point when clicking on the map. " alt="" coords="5,155,163,181"/>
+<area shape="rect" id="node4" href="$classQgsMapToolIdentify.html" title="Map tool for identifying features in layers. " alt="" coords="188,155,332,181"/>
+<area shape="rect" id="node6" href="$classQgsMapToolPan.html" title="A map tool for panning the map. " alt="" coords="357,155,477,181"/>
+<area shape="rect" id="node7" href="$classQgsMapToolTouch.html" title="A map tool for panning the map. " alt="" coords="502,155,636,181"/>
+<area shape="rect" id="node8" href="$classQgsMapToolZoom.html" title="A map tool for zooming into the map. " alt="" coords="661,155,797,181"/>
+<area shape="rect" id="node2" href="/usr/share/qt4/doc/html/qt.tags$qobject.html" title="QObject" alt="" coords="381,5,453,32"/>
+<area shape="rect" id="node5" href="$classQgsMapToolIdentifyFeature.html" title="The QgsMapToolIdentifyFeature class is a map tool to identify a feature on a chosen layer..." alt="" coords="164,229,356,256"/>
+</map>

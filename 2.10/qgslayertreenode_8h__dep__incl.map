@@ -1,0 +1,26 @@
+<map id="/tmp/buildd/qgis&#45;2.10.1+git20150822+dd4475c+20trusty/src/core/layertree/qgslayertreenode.h" name="/tmp/buildd/qgis&#45;2.10.1+git20150822+dd4475c+20trusty/src/core/layertree/qgslayertreenode.h">
+<area shape="rect" id="node2" href="$qgslayertree_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/layertree/qgslayertree.h" alt="" coords="2879,213,3121,269"/>
+<area shape="rect" id="node12" href="$qgslayertreenode_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/layertree/qgslayertreenode.cpp" alt="" coords="5,317,285,373"/>
+<area shape="rect" id="node19" href="$qgslayertreegroup_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/layertree/qgslayertreegroup.h" alt="" coords="3806,109,4076,165"/>
+<area shape="rect" id="node24" href="$qgslayertreelayer_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/layertree/qgslayertreelayer.h" alt="" coords="4373,109,4637,165"/>
+<area shape="rect" id="node3" href="$qgslayerdefinition_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/qgslayerdefinition.cpp" alt="" coords="4524,317,4767,373"/>
+<area shape="rect" id="node4" href="$qgslegendrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/qgslegendrenderer.cpp" alt="" coords="692,317,935,373"/>
+<area shape="rect" id="node5" href="$qgsmaplayerlegend_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/qgsmaplayerlegend.cpp" alt="" coords="959,317,1201,373"/>
+<area shape="rect" id="node6" href="$qgsproject_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/qgsproject.cpp" alt="" coords="1225,317,1468,373"/>
+<area shape="rect" id="node7" href="$qgscomposerlegend_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/composer/qgscomposerlegend.cpp" alt="" coords="1492,317,1797,373"/>
+<area shape="rect" id="node8" href="$qgslegendmodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/composer/qgslegendmodel.cpp" alt="" coords="1823,317,2104,373"/>
+<area shape="rect" id="node9" href="$qgslayertreegroup_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/layertree/qgslayertreegroup.cpp" alt="" coords="4791,317,5077,373"/>
+<area shape="rect" id="node10" href="$qgslayertreemodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/layertree/qgslayertreemodel.cpp" alt="" coords="2130,317,2419,373"/>
+<area shape="rect" id="node11" href="$qgslayertreemodellegendnode_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/layertree/qgslayertreemodellegendnode.cpp" alt="" coords="2443,317,2807,373"/>
+<area shape="rect" id="node13" href="$qgslayertreeregistrybridge_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/layertree/qgslayertreeregistrybridge.cpp" alt="" coords="2831,317,3168,373"/>
+<area shape="rect" id="node14" href="$qgslayertreeutils_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/layertree/qgslayertreeutils.cpp" alt="" coords="3193,317,3468,373"/>
+<area shape="rect" id="node15" href="$qgscustomlayerorderwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/gui/layertree/qgscustomlayerorderwidget.cpp" alt="" coords="3493,317,3829,373"/>
+<area shape="rect" id="node16" href="$qgslayertreemapcanvasbridge_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/gui/layertree/qgslayertreemapcanvasbridge.cpp" alt="" coords="3855,317,4209,373"/>
+<area shape="rect" id="node17" href="$qgslayertreeview_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/gui/layertree/qgslayertreeview.cpp" alt="" coords="4233,317,4500,373"/>
+<area shape="rect" id="node18" href="$qgslayertreeviewdefaultactions_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/gui/layertree/qgslayertreeviewdefaultactions.cpp" alt="" coords="311,317,668,373"/>
+<area shape="rect" id="node20" href="$qgslayerdefinition_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/qgslayerdefinition.h" alt="" coords="3741,213,3984,269"/>
+<area shape="rect" id="node21" href="$qgsofflineediting_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/qgsofflineediting.cpp" alt="" coords="4384,213,4627,269"/>
+<area shape="rect" id="node22" href="$qgssizescalewidget_8h.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/gui/symbology&#45;ng/qgssizescalewidget.h" alt="" coords="4059,213,4359,269"/>
+<area shape="rect" id="node23" href="$qgssizescalewidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/gui/symbology&#45;ng/qgssizescalewidget.cpp" alt="" coords="5103,317,5417,373"/>
+<area shape="rect" id="node25" href="$qgslayertreelayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.10.1\l+git20150822+dd4475c+20trusty\l/src/core/layertree/qgslayertreelayer.cpp" alt="" coords="4702,213,4980,269"/>
+</map>

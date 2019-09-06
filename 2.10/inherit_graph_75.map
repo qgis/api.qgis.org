@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="/usr/share/qt4/doc/html/qt.tags$qevent.html" title="QEvent" alt="" coords="6,31,74,57"/>
+<area shape="rect" id="node2" href="$classQgsProviderCountCalcEvent.html" title="A custom event that is designed to be fired when a layer count has been fully calculated. " alt="" coords="124,5,324,32"/>
+<area shape="rect" id="node3" href="$classQgsProviderExtentCalcEvent.html" title="A custom event that is designed to be fired when a layer extent has been fully calculated. " alt="" coords="123,56,325,83"/>
+</map>

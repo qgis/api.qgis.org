@@ -1,0 +1,5 @@
+<map id="QgsContrastEnhancementFunction" name="QgsContrastEnhancementFunction">
+<area shape="rect" id="node2" href="$classQgsClipToMinMaxEnhancement.html" title="A raster contrast enhancement that will clip a value to the specified min/max range. " alt="" coords="301,5,521,32"/>
+<area shape="rect" id="node3" href="$classQgsLinearMinMaxEnhancement.html" title="A color enhancement function that performs a linear enhanceContrast between min and max..." alt="" coords="299,56,522,83"/>
+<area shape="rect" id="node4" href="$classQgsLinearMinMaxEnhancementWithClip.html" title="A linear enhanceContrast enhancement that first clips to min max and then enhanceContrastes linearly ..." alt="" coords="299,107,522,149"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsTextAnnotationItem" name="QgsTextAnnotationItem">
+<area shape="rect" id="node2" href="$classQgsAnnotationItem.html" title="An annotation item can be either placed either on screen corrdinates or on map coordinates. " alt="" coords="17,80,164,107"/>
+<area shape="rect" id="node3" href="$classQgsMapCanvasItem.html" title="An abstract class for items that can be placed on the map canvas. " alt="" coords="15,5,165,32"/>
+</map>

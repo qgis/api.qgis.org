@@ -1,0 +1,4 @@
+<map id="QgsComposerAttributeTableV2" name="QgsComposerAttributeTableV2">
+<area shape="rect" id="node2" href="$classQgsComposerTableV2.html" title="A class to display a table in the print composer, and allow the table to span over multiple frames..." alt="" coords="33,80,196,107"/>
+<area shape="rect" id="node3" href="$classQgsComposerMultiFrame.html" title="Abstract base class for composer items with the ability to distribute the content to several frames (..." alt="" coords="23,5,205,32"/>
+</map>

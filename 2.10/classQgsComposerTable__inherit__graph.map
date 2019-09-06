@@ -1,0 +1,7 @@
+<map id="QgsComposerTable" name="QgsComposerTable">
+<area shape="rect" id="node5" href="$classQgsComposerAttributeTable.html" title="A table class that displays a vector attribute table. " alt="" coords="5,229,205,256"/>
+<area shape="rect" id="node6" href="$classQgsComposerTextTable.html" title="A text table item that reads text from string lists. " alt="" coords="231,229,401,256"/>
+<area shape="rect" id="node2" href="$classQgsComposerItem.html" title="A item that forms part of a map composition. " alt="" coords="139,80,281,107"/>
+<area shape="rect" id="node3" href="$classQgsComposerObject.html" title="A base class for objects which belong to a map composition. " alt="" coords="47,5,200,32"/>
+<area shape="rect" id="node4" href="/usr/share/qt4/doc/html/qt.tags$qgraphicsrectitem.html" title="QGraphicsRectItem" alt="" coords="225,5,369,32"/>
+</map>

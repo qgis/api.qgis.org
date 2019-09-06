@@ -1,0 +1,16 @@
+<map id="QgsEditorConfigWidget" name="QgsEditorConfigWidget">
+<area shape="rect" id="node5" href="$classQgsCheckBoxConfigDlg.html" title="QgsCheckBoxConfigDlg" alt="" coords="524,5,695,32"/>
+<area shape="rect" id="node6" href="$classQgsDateTimeEditConfig.html" title="QgsDateTimeEditConfig" alt="" coords="523,56,696,83"/>
+<area shape="rect" id="node7" href="$classQgsDummyConfigDlg.html" title="QgsDummyConfigDlg" alt="" coords="530,107,689,133"/>
+<area shape="rect" id="node8" href="$classQgsPhotoConfigDlg.html" title="QgsPhotoConfigDlg" alt="" coords="537,157,682,184"/>
+<area shape="rect" id="node9" href="$classQgsRangeConfigDlg.html" title="QgsRangeConfigDlg" alt="" coords="535,208,683,235"/>
+<area shape="rect" id="node10" href="$classQgsRelationReferenceConfigDlg.html" title="QgsRelationReferenceConfigDlg" alt="" coords="499,259,720,285"/>
+<area shape="rect" id="node11" href="$classQgsTextEditConfigDlg.html" title="QgsTextEditConfigDlg" alt="" coords="531,309,688,336"/>
+<area shape="rect" id="node12" href="$classQgsUniqueValuesConfigDlg.html" title="QgsUniqueValuesConfigDlg" alt="" coords="512,360,707,387"/>
+<area shape="rect" id="node13" href="$classQgsValueMapConfigDlg.html" title="QgsValueMapConfigDlg" alt="" coords="524,411,695,437"/>
+<area shape="rect" id="node14" href="$classQgsValueRelationConfigDlg.html" title="QgsValueRelationConfigDlg" alt="" coords="513,461,706,488"/>
+<area shape="rect" id="node15" href="$classQgsWebViewWidgetConfigDlg.html" title="QgsWebViewWidgetConfigDlg" alt="" coords="506,512,713,539"/>
+<area shape="rect" id="node2" href="/usr/share/qt4/doc/html/qt.tags$qwidget.html" title="QWidget" alt="" coords="160,259,235,285"/>
+<area shape="rect" id="node3" href="/usr/share/qt4/doc/html/qt.tags$qobject.html" title="QObject" alt="" coords="22,233,95,260"/>
+<area shape="rect" id="node4" href="/usr/share/qt4/doc/html/qt.tags$qpaintdevice.html" title="QPaintDevice" alt="" coords="5,284,112,311"/>
+</map>
