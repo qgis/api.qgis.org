@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsMapRendererJob.html" title="Abstract base class for map rendering implementations." alt="" coords="7,30,156,58"/>
+<area shape="rect" id="node3" href="$classQgsMapRendererCustomPainterJob.html" title="Job implementation that renders everything sequentially using a custom painter." alt="" coords="207,5,449,33"/>
+<area shape="rect" id="node5" href="$classQgsMapRendererQImageJob.html" title="Intermediate base class adding functionality that allows client to query the rendered image..." alt="" coords="228,55,428,83"/>
+<area shape="rect" id="node7" href="$classQgsMapRendererParallelJob.html" title="Job implementation that renders all layers in parallel." alt="" coords="511,30,705,58"/>
+<area shape="rect" id="node9" href="$classQgsMapRendererSequentialJob.html" title="Job implementation that renders everything sequentially in one thread." alt="" coords="499,81,717,109"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QgsDataItem" name="QgsDataItem">
+<area shape="rect" id="node3" href="$classQgsDataCollectionItem.html" title="A Collection: logical collection of layers or subcollections, e.g." alt="" coords="5,83,173,111"/>
+<area shape="rect" id="node5" href="$classQgsErrorItem.html" title="Data item that can be used to report problems (e.g." alt="" coords="197,83,304,111"/>
+<area shape="rect" id="node7" href="$classQgsLayerItem.html" title="Item that represents a layer that can be opened with one of the providers." alt="" coords="328,83,437,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QgsMapLayerLegend" name="QgsMapLayerLegend">
+<area shape="rect" id="node3" href="$classQgsDefaultPluginLayerLegend.html" title="Default legend implementation for plugin layers." alt="" coords="212,5,425,33"/>
+<area shape="rect" id="node5" href="$classQgsDefaultRasterLayerLegend.html" title="Default legend implementation for raster layers." alt="" coords="211,55,427,83"/>
+<area shape="rect" id="node7" href="$classQgsDefaultVectorLayerLegend.html" title="Default legend implementation for vector layers." alt="" coords="211,106,427,134"/>
+</map>

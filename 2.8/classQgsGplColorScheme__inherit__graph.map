@@ -1,0 +1,4 @@
+<map id="QgsGplColorScheme" name="QgsGplColorScheme">
+<area shape="rect" id="node5" href="$classQgsUserColorScheme.html" title="A color scheme which stores its colors in a gpl palette file within the &quot;palettes&quot; subfolder off th..." alt="" coords="5,161,168,189"/>
+<area shape="rect" id="node2" href="$classQgsColorScheme.html" title="Abstract base class for color schemes." alt="" coords="20,6,153,34"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/gui/qgisgui.h" name="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/gui/qgisgui.h">
+<area shape="rect" id="node3" href="$qgisgui_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgisgui.cpp" alt="" coords="5,107,224,151"/>
+<area shape="rect" id="node5" href="$qgscollapsiblegroupbox_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgscollapsiblegroupbox.h" alt="" coords="248,107,555,151"/>
+<area shape="rect" id="node7" href="$qgsbusyindicatordialog_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsbusyindicatordialog.h" alt="" coords="579,107,883,151"/>
+<area shape="rect" id="node9" href="$qgscharacterselectdialog_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgscharacterselectdialog.h" alt="" coords="907,107,1224,151"/>
+<area shape="rect" id="node11" href="$qgscolordialog_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgscolordialog.h" alt="" coords="1248,107,1499,151"/>
+<area shape="rect" id="node13" href="$qgscredentialdialog_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgscredentialdialog.h" alt="" coords="1523,107,1805,151"/>
+<area shape="rect" id="node15" href="$qgsdialog_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsdialog.h" alt="" coords="1829,107,2048,151"/>
+<area shape="rect" id="node17" href="$qgserrordialog_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgserrordialog.h" alt="" coords="2072,107,2323,151"/>
+<area shape="rect" id="node19" href="$qgsmessageviewer_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmessageviewer.h" alt="" coords="2347,107,2624,151"/>
+<area shape="rect" id="node21" href="$qgsmessagebar_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmessagebar.h" alt="" coords="2648,107,2907,151"/>
+<area shape="rect" id="node23" href="$qgsgenericprojectionselector_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsgenericprojectionselector.h" alt="" coords="2931,107,3272,151"/>
+<area shape="rect" id="node25" href="$qgsludialog_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsludialog.h" alt="" coords="3296,107,3525,151"/>
+<area shape="rect" id="node27" href="$qgsmessagelogviewer_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmessagelogviewer.h" alt="" coords="3549,107,3848,151"/>
+<area shape="rect" id="node29" href="$qgsnewhttpconnection_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsnewhttpconnection.h" alt="" coords="3872,107,4173,151"/>
+<area shape="rect" id="node31" href="$qgsnewmemorylayerdialog_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsnewmemorylayerdialog.h" alt="" coords="4197,107,4525,151"/>
+<area shape="rect" id="node33" href="$qgsnewvectorlayerdialog_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsnewvectorlayerdialog.h" alt="" coords="4549,107,4864,151"/>
+<area shape="rect" id="node35" href="$qgsoptionsdialogbase_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsoptionsdialogbase.h" alt="" coords="4888,107,5184,151"/>
+<area shape="rect" id="node37" href="$qgsowssourceselect_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsowssourceselect.h" alt="" coords="5208,107,5493,151"/>
+<area shape="rect" id="node39" href="$qgsprojectbadlayerguihandler_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsprojectbadlayerguihandler.cpp" alt="" coords="5517,107,5877,151"/>
+<area shape="rect" id="node41" href="$qgsquerybuilder_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsquerybuilder.h" alt="" coords="5901,107,6160,151"/>
+<area shape="rect" id="node43" href="$qgssearchquerybuilder_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgssearchquerybuilder.h" alt="" coords="6184,107,6485,151"/>
+<area shape="rect" id="node45" href="$qgsrasterhistogramwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/raster\l/qgsrasterhistogramwidget.cpp" alt="" coords="6509,99,6728,159"/>
+<area shape="rect" id="node47" href="$qgspointdisplacementrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgspointdisplacementrendererwidget.cpp" alt="" coords="6752,99,7061,159"/>
+<area shape="rect" id="node49" href="$qgssvgselectorwidget_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgssvgselectorwidget.h" alt="" coords="7085,99,7299,159"/>
+</map>

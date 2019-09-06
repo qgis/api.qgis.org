@@ -1,0 +1,26 @@
+<map id="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/core/symbology&#45;ng/qgsrendererv2.h" name="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/core/symbology&#45;ng/qgsrendererv2.h">
+<area shape="rect" id="node3" href="$qgsmaphittest_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsmaphittest.cpp" alt="" coords="5,233,280,277"/>
+<area shape="rect" id="node5" href="$qgsmaplayerlegend_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsmaplayerlegend.cpp" alt="" coords="376,123,683,167"/>
+<area shape="rect" id="node7" href="$qgsvectorfilewriter_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectorfilewriter.cpp" alt="" coords="707,123,1003,167"/>
+<area shape="rect" id="node9" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectorlayer.cpp" alt="" coords="784,233,1059,277"/>
+<area shape="rect" id="node11" href="$qgsvectorlayerrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectorlayerrenderer.cpp" alt="" coords="1083,233,1413,277"/>
+<area shape="rect" id="node13" href="$qgscomposerlegenditem_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgscomposerlegenditem.cpp" alt="" coords="1685,115,1904,175"/>
+<area shape="rect" id="node15" href="$qgslegendmodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgslegendmodel.cpp" alt="" coords="1928,115,2147,175"/>
+<area shape="rect" id="node17" href="$qgsdxfexport_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/dxf\l/qgsdxfexport.cpp" alt="" coords="2171,115,2344,175"/>
+<area shape="rect" id="node19" href="$qgslayertreemodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/layertree\l/qgslayertreemodel.cpp" alt="" coords="2368,115,2579,175"/>
+<area shape="rect" id="node21" href="$qgslayertreemodellegendnode_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/layertree\l/qgslayertreemodellegendnode.cpp" alt="" coords="2603,115,2851,175"/>
+<area shape="rect" id="node23" href="$qgscategorizedsymbolrendererv2_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgscategorizedsymbolrendererv2.h" alt="" coords="2875,115,3147,175"/>
+<area shape="rect" id="node25" href="$qgspointdisplacementrenderer_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgspointdisplacementrenderer.h" alt="" coords="99,115,352,175"/>
+<area shape="rect" id="node28" href="$qgsinvertedpolygonrenderer_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgsinvertedpolygonrenderer.h" alt="" coords="3171,115,3408,175"/>
+<area shape="rect" id="node30" href="$qgsgraduatedsymbolrendererv2_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgsgraduatedsymbolrendererv2.h" alt="" coords="3432,115,3696,175"/>
+<area shape="rect" id="node32" href="$qgsheatmaprenderer_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgsheatmaprenderer.h" alt="" coords="3720,115,3944,175"/>
+<area shape="rect" id="node34" href="$qgssinglesymbolrendererv2_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgssinglesymbolrendererv2.h" alt="" coords="1077,115,1312,175"/>
+<area shape="rect" id="node38" href="$qgsrendererv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgsrendererv2.cpp" alt="" coords="1437,225,1661,285"/>
+<area shape="rect" id="node41" href="$qgsrulebasedrendererv2_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgsrulebasedrendererv2.h" alt="" coords="1437,115,1661,175"/>
+<area shape="rect" id="node44" href="$qgshighlight_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgshighlight.h" alt="" coords="3968,123,4203,167"/>
+<area shape="rect" id="node46" href="$qgsmaptoolidentify_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmaptoolidentify.cpp" alt="" coords="4227,123,4520,167"/>
+<area shape="rect" id="node48" href="$qgsattributetablefiltermodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/attributetable\l/qgsattributetablefiltermodel.cpp" alt="" coords="4544,115,4776,175"/>
+<area shape="rect" id="node50" href="$qgsattributetablemodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/attributetable\l/qgsattributetablemodel.cpp" alt="" coords="4800,115,5032,175"/>
+<area shape="rect" id="node52" href="$qgsrendererv2propertiesdialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgsrendererv2propertiesdialog.cpp" alt="" coords="5056,115,5325,175"/>
+<area shape="rect" id="node54" href="$qgssymbollevelsv2dialog_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgssymbollevelsv2dialog.h" alt="" coords="5349,115,5565,175"/>
+</map>

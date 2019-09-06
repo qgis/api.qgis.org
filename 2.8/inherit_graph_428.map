@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations." alt="" coords="12,30,143,58"/>
+<area shape="rect" id="node3" href="$classQgsRasterDataProvider.html" title="Base class for raster data providers." alt="" coords="212,55,383,83"/>
+<area shape="rect" id="node5" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers." alt="" coords="212,5,383,33"/>
+<area shape="rect" id="node6" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc." alt="" coords="5,207,149,235"/>
+<area shape="rect" id="node8" href="$classQgsBrightnessContrastFilter.html" title="Brightness/contrast filter pipe for rasters." alt="" coords="197,106,397,134"/>
+<area shape="rect" id="node10" href="$classQgsHueSaturationFilter.html" title="Color and saturation filter pipe for rasters." alt="" coords="212,157,383,185"/>
+<area shape="rect" id="node13" href="$classQgsRasterNuller.html" title="Raster pipe that deals with null values." alt="" coords="235,207,360,235"/>
+<area shape="rect" id="node15" href="$classQgsRasterProjector.html" title="QgsRasterProjector" alt="" coords="225,258,369,286"/>
+<area shape="rect" id="node17" href="$classQgsRasterRenderer.html" title="Raster renderer pipe that applies colors to a raster." alt="" coords="225,309,369,337"/>
+<area shape="rect" id="node29" href="$classQgsRasterResampleFilter.html" title="Resample filter pipe for rasters." alt="" coords="208,359,387,387"/>
+<area shape="rect" id="node19" href="$classQgsMultiBandColorRenderer.html" title="Renderer for multiband images with the color components." alt="" coords="465,207,665,235"/>
+<area shape="rect" id="node21" href="$classQgsPalettedRasterRenderer.html" title="Renderer for paletted raster images." alt="" coords="467,258,664,286"/>
+<area shape="rect" id="node23" href="$classQgsSingleBandColorDataRenderer.html" title="Raster renderer pipe for single band color." alt="" coords="445,309,685,337"/>
+<area shape="rect" id="node25" href="$classQgsSingleBandGrayRenderer.html" title="Raster renderer pipe for single band gray." alt="" coords="463,359,668,387"/>
+<area shape="rect" id="node27" href="$classQgsSingleBandPseudoColorRenderer.html" title="Raster renderer pipe for single band pseudocolor." alt="" coords="467,410,664,454"/>
+</map>

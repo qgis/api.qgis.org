@@ -1,0 +1,35 @@
+<map id="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/core/qgsmaplayer.h" name="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/core/qgsmaplayer.h">
+<area shape="rect" id="node3" href="$qgsvectorlayer_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectorlayer.h" alt="" coords="1109,107,1368,151"/>
+<area shape="rect" id="node5" href="$qgsmaplayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsmaplayer.cpp" alt="" coords="5,217,269,261"/>
+<area shape="rect" id="node7" href="$qgsmaprenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsmaprenderer.cpp" alt="" coords="853,217,1141,261"/>
+<area shape="rect" id="node9" href="$qgslegendmodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgslegendmodel.cpp" alt="" coords="293,209,512,269"/>
+<area shape="rect" id="node11" href="$qgsfieldcombobox_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsfieldcombobox.cpp" alt="" coords="1165,217,1453,261"/>
+<area shape="rect" id="node13" href="$qgshighlight_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgshighlight.cpp" alt="" coords="1477,217,1728,261"/>
+<area shape="rect" id="node15" href="$qgsmapcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmapcanvas.cpp" alt="" coords="1752,217,2021,261"/>
+<area shape="rect" id="node17" href="$qgsmaplayerproxymodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmaplayerproxymodel.cpp" alt="" coords="2045,217,2376,261"/>
+<area shape="rect" id="node19" href="$qgsmaptoolidentify_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmaptoolidentify.cpp" alt="" coords="536,217,829,261"/>
+<area shape="rect" id="node21" href="$qgslayertreemapcanvasbridge_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/layertree\l/qgslayertreemapcanvasbridge.cpp" alt="" coords="2400,209,2645,269"/>
+<area shape="rect" id="node23" href="$qgstolerance_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgstolerance.h" alt="" coords="1595,107,1845,151"/>
+<area shape="rect" id="node25" href="$qgsdataitem_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsdataitem.h" alt="" coords="1869,107,2117,151"/>
+<area shape="rect" id="node27" href="$qgsdatumtransformstore_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsdatumtransformstore.cpp" alt="" coords="2141,107,2483,151"/>
+<area shape="rect" id="node29" href="$qgslayerdefinition_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgslayerdefinition.cpp" alt="" coords="2507,107,2800,151"/>
+<area shape="rect" id="node32" href="$qgspluginlayer_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgspluginlayer.h" alt="" coords="20,107,279,151"/>
+<area shape="rect" id="node35" href="$qgsmaplayerregistry_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsmaplayerregistry.cpp" alt="" coords="2824,107,3133,151"/>
+<area shape="rect" id="node37" href="$qgsmaplayerstylemanager_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsmaplayerstylemanager.cpp" alt="" coords="3157,107,3509,151"/>
+<area shape="rect" id="node40" href="$qgsmaprenderercache_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsmaprenderercache.cpp" alt="" coords="3533,107,3859,151"/>
+<area shape="rect" id="node42" href="$qgsmaprendererjob_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsmaprendererjob.cpp" alt="" coords="3883,107,4189,151"/>
+<area shape="rect" id="node44" href="$qgsmapsettings_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsmapsettings.cpp" alt="" coords="4213,107,4499,151"/>
+<area shape="rect" id="node46" href="$qgsofflineediting_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsofflineediting.cpp" alt="" coords="4523,107,4808,151"/>
+<area shape="rect" id="node49" href="$qgslayertreegroup_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/layertree\l/qgslayertreegroup.cpp" alt="" coords="4832,99,5043,159"/>
+<area shape="rect" id="node51" href="$qgslayertreelayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/layertree\l/qgslayertreelayer.cpp" alt="" coords="5067,99,5277,159"/>
+<area shape="rect" id="node53" href="$qgsrasterlayer_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/raster\l/qgsrasterlayer.h" alt="" coords="440,99,632,159"/>
+<area shape="rect" id="node58" href="$qgsmaplayeractionregistry_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmaplayeractionregistry.h" alt="" coords="5301,107,5627,151"/>
+<area shape="rect" id="node60" href="$qgsattributetypeloaddialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsattributetypeloaddialog.cpp" alt="" coords="5651,107,5995,151"/>
+<area shape="rect" id="node64" href="$qgsmaptoolidentify_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmaptoolidentify.h" alt="" coords="656,107,933,151"/>
+<area shape="rect" id="node67" href="$qgslegendinterface_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgslegendinterface.h" alt="" coords="6019,107,6299,151"/>
+<area shape="rect" id="node70" href="$qgsmapcanvasmap_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmapcanvasmap.cpp" alt="" coords="6323,107,6621,151"/>
+<area shape="rect" id="node73" href="$qgsmapoverviewcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmapoverviewcanvas.cpp" alt="" coords="6645,107,6971,151"/>
+<area shape="rect" id="node76" href="$qgsscalerangewidget_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsscalerangewidget.h" alt="" coords="6995,107,7285,151"/>
+<area shape="rect" id="node78" href="$qgscustomlayerorderwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/layertree\l/qgscustomlayerorderwidget.cpp" alt="" coords="7309,99,7539,159"/>
+<area shape="rect" id="node81" href="$qgslayertreeview_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/layertree\l/qgslayertreeview.cpp" alt="" coords="7563,99,7765,159"/>
+</map>

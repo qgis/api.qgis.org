@@ -1,0 +1,14 @@
+<map id="QgsComposerItem" name="QgsComposerItem">
+<area shape="rect" id="node5" href="$classQgsComposerArrow.html" title="An item that draws an arrow between to points." alt="" coords="416,5,565,33"/>
+<area shape="rect" id="node7" href="$classQgsComposerFrame.html" title="Frame item for a composer multiframe item." alt="" coords="415,55,567,83"/>
+<area shape="rect" id="node9" href="$classQgsComposerItemGroup.html" title="A container for grouping several QgsComposerItems." alt="" coords="400,106,581,134"/>
+<area shape="rect" id="node11" href="$classQgsComposerLabel.html" title="A label that can be placed onto a map composition." alt="" coords="417,157,564,185"/>
+<area shape="rect" id="node13" href="$classQgsComposerLegend.html" title="A legend that can be placed onto a map composition." alt="" coords="411,207,571,235"/>
+<area shape="rect" id="node15" href="$classQgsComposerMap.html" title="Object representing map window." alt="" coords="421,258,560,286"/>
+<area shape="rect" id="node17" href="$classQgsComposerPicture.html" title="A composer class that displays svg files or raster format (jpg, png, ...)" alt="" coords="412,309,569,337"/>
+<area shape="rect" id="node19" href="$classQgsComposerScaleBar.html" title="A scale bar item that can be added to a map composition." alt="" coords="405,359,576,387"/>
+<area shape="rect" id="node21" href="$classQgsComposerShape.html" title="A composer items that draws common shapes (ellipse, triangle, rectangle)" alt="" coords="413,410,568,438"/>
+<area shape="rect" id="node23" href="$classQgsComposerTable.html" title="A class to display feature attributes in the print composer." alt="" coords="419,461,563,489"/>
+<area shape="rect" id="node25" href="$classQgsPaperItem.html" title="Item representing the paper." alt="" coords="435,511,547,539"/>
+<area shape="rect" id="node2" href="$classQgsComposerObject.html" title="A base class for objects which belong to a map composition." alt="" coords="5,258,160,286"/>
+</map>

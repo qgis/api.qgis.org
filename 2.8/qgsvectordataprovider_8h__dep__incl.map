@@ -1,0 +1,40 @@
+<map id="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/core/qgsvectordataprovider.h" name="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/core/qgsvectordataprovider.h">
+<area shape="rect" id="node3" href="$qgsofflineediting_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsofflineediting.cpp" alt="" coords="5,107,291,151"/>
+<area shape="rect" id="node5" href="$qgspallabeling_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgspallabeling.cpp" alt="" coords="315,107,587,151"/>
+<area shape="rect" id="node7" href="$qgsprojectfiletransform_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsprojectfiletransform.cpp" alt="" coords="611,107,941,151"/>
+<area shape="rect" id="node9" href="$qgstransaction_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgstransaction.cpp" alt="" coords="965,107,1243,151"/>
+<area shape="rect" id="node11" href="$qgsvectordataprovider_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectordataprovider.cpp" alt="" coords="1267,107,1592,151"/>
+<area shape="rect" id="node13" href="$qgsvectorfilewriter_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectorfilewriter.cpp" alt="" coords="1616,107,1912,151"/>
+<area shape="rect" id="node15" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectorlayer.cpp" alt="" coords="1936,107,2211,151"/>
+<area shape="rect" id="node17" href="$qgsvectorlayereditbuffer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectorlayereditbuffer.cpp" alt="" coords="2235,107,2571,151"/>
+<area shape="rect" id="node19" href="$qgsvectorlayereditpassthrough_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectorlayereditpassthrough.cpp" alt="" coords="2595,107,2973,151"/>
+<area shape="rect" id="node21" href="$qgsvectorlayereditutils_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectorlayereditutils.cpp" alt="" coords="2997,107,3323,151"/>
+<area shape="rect" id="node23" href="$qgsvectorlayerfeatureiterator_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectorlayerfeatureiterator.cpp" alt="" coords="3347,107,3715,151"/>
+<area shape="rect" id="node25" href="$qgsvectorlayerimport_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectorlayerimport.h" alt="" coords="3739,107,4040,151"/>
+<area shape="rect" id="node27" href="$qgsvectorlayerjoinbuffer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsvectorlayerjoinbuffer.cpp" alt="" coords="4064,107,4397,151"/>
+<area shape="rect" id="node29" href="$qgsatlascomposition_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgsatlascomposition.cpp" alt="" coords="4421,99,4640,159"/>
+<area shape="rect" id="node31" href="$qgscomposition_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgscomposition.cpp" alt="" coords="4664,99,4883,159"/>
+<area shape="rect" id="node33" href="$qgslegendmodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgslegendmodel.cpp" alt="" coords="4907,99,5125,159"/>
+<area shape="rect" id="node35" href="$qgsdxfexport_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/dxf\l/qgsdxfexport.cpp" alt="" coords="5149,99,5323,159"/>
+<area shape="rect" id="node37" href="$qgsgraduatedsymbolrendererv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgsgraduatedsymbolrendererv2.cpp" alt="" coords="5347,99,5624,159"/>
+<area shape="rect" id="node39" href="$qgsattributeeditor_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsattributeeditor.cpp" alt="" coords="5648,107,5933,151"/>
+<area shape="rect" id="node41" href="$qgsattributetypeloaddialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsattributetypeloaddialog.cpp" alt="" coords="5957,107,6301,151"/>
+<area shape="rect" id="node43" href="$qgsencodingfiledialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsencodingfiledialog.cpp" alt="" coords="6325,107,6635,151"/>
+<area shape="rect" id="node45" href="$qgsmaptoolidentify_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmaptoolidentify.cpp" alt="" coords="6659,107,6952,151"/>
+<area shape="rect" id="node47" href="$qgsnewmemorylayerdialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsnewmemorylayerdialog.cpp" alt="" coords="6976,107,7320,151"/>
+<area shape="rect" id="node49" href="$qgsnewvectorlayerdialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsnewvectorlayerdialog.cpp" alt="" coords="7344,107,7675,151"/>
+<area shape="rect" id="node51" href="$qgsquerybuilder_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsquerybuilder.cpp" alt="" coords="7699,107,7973,151"/>
+<area shape="rect" id="node53" href="$qgsrelationeditorwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsrelationeditorwidget.cpp" alt="" coords="7997,107,8320,151"/>
+<area shape="rect" id="node55" href="$qgsattributetabledelegate_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/attributetable\l/qgsattributetabledelegate.cpp" alt="" coords="8344,99,8576,159"/>
+<area shape="rect" id="node57" href="$qgsattributetableview_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/attributetable\l/qgsattributetableview.cpp" alt="" coords="8600,99,8832,159"/>
+<area shape="rect" id="node59" href="$qgsdualview_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/attributetable\l/qgsdualview.cpp" alt="" coords="8856,99,9088,159"/>
+<area shape="rect" id="node61" href="$qgsfeaturelistmodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/attributetable\l/qgsfeaturelistmodel.cpp" alt="" coords="9112,99,9344,159"/>
+<area shape="rect" id="node63" href="$qgsfeaturelistview_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/attributetable\l/qgsfeaturelistview.cpp" alt="" coords="9368,99,9600,159"/>
+<area shape="rect" id="node65" href="$qgsenumerationwidgetfactory_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/editorwidgets\l/qgsenumerationwidgetfactory.cpp" alt="" coords="9624,99,9864,159"/>
+<area shape="rect" id="node67" href="$qgsenumerationwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/editorwidgets\l/qgsenumerationwidgetwrapper.cpp" alt="" coords="9888,99,10136,159"/>
+<area shape="rect" id="node69" href="$qgsinterpolator_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/analysis\l/interpolation/qgsinterpolator.cpp" alt="" coords="10160,99,10392,159"/>
+<area shape="rect" id="node71" href="$qgslinevectorlayerdirector_8cpp.html" title="implementation of QgsLineVectorLayerDirector" alt="" coords="10416,99,10685,159"/>
+<area shape="rect" id="node73" href="$qgsgeometryanalyzer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/analysis\l/vector/qgsgeometryanalyzer.cpp" alt="" coords="10709,99,10944,159"/>
+<area shape="rect" id="node75" href="$qgsoverlayanalyzer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/analysis\l/vector/qgsoverlayanalyzer.cpp" alt="" coords="10968,99,11187,159"/>
+<area shape="rect" id="node77" href="$qgszonalstatistics_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/analysis\l/vector/qgszonalstatistics.cpp" alt="" coords="11211,99,11421,159"/>
+</map>

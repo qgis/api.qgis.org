@@ -1,0 +1,5 @@
+<map id="QgsMapRendererQImageJob" name="QgsMapRendererQImageJob">
+<area shape="rect" id="node5" href="$classQgsMapRendererParallelJob.html" title="Job implementation that renders all layers in parallel." alt="" coords="5,161,200,189"/>
+<area shape="rect" id="node7" href="$classQgsMapRendererSequentialJob.html" title="Job implementation that renders everything sequentially in one thread." alt="" coords="224,161,443,189"/>
+<area shape="rect" id="node2" href="$classQgsMapRendererJob.html" title="Abstract base class for map rendering implementations." alt="" coords="143,6,292,34"/>
+</map>

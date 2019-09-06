@@ -1,0 +1,18 @@
+<map id="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/core/layertree/qgslayertree.h" name="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/core/layertree/qgslayertree.h">
+<area shape="rect" id="node3" href="$qgslayerdefinition_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgslayerdefinition.cpp" alt="" coords="5,123,299,167"/>
+<area shape="rect" id="node5" href="$qgslegendrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgslegendrenderer.cpp" alt="" coords="323,123,624,167"/>
+<area shape="rect" id="node7" href="$qgsmaplayerlegend_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsmaplayerlegend.cpp" alt="" coords="648,123,955,167"/>
+<area shape="rect" id="node9" href="$qgsproject_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsproject.cpp" alt="" coords="979,123,1227,167"/>
+<area shape="rect" id="node11" href="$qgscomposerlegend_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgscomposerlegend.cpp" alt="" coords="1251,115,1469,175"/>
+<area shape="rect" id="node13" href="$qgslegendmodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgslegendmodel.cpp" alt="" coords="1493,115,1712,175"/>
+<area shape="rect" id="node15" href="$qgslayertreegroup_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/layertree\l/qgslayertreegroup.cpp" alt="" coords="1736,115,1947,175"/>
+<area shape="rect" id="node17" href="$qgslayertreemodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/layertree\l/qgslayertreemodel.cpp" alt="" coords="1971,115,2181,175"/>
+<area shape="rect" id="node19" href="$qgslayertreemodellegendnode_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/layertree\l/qgslayertreemodellegendnode.cpp" alt="" coords="2205,115,2453,175"/>
+<area shape="rect" id="node21" href="$qgslayertreenode_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/layertree\l/qgslayertreenode.cpp" alt="" coords="2477,115,2688,175"/>
+<area shape="rect" id="node23" href="$qgslayertreeregistrybridge_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/layertree\l/qgslayertreeregistrybridge.cpp" alt="" coords="2712,115,2933,175"/>
+<area shape="rect" id="node25" href="$qgslayertreeutils_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/layertree\l/qgslayertreeutils.cpp" alt="" coords="2957,115,3168,175"/>
+<area shape="rect" id="node27" href="$qgscustomlayerorderwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/layertree\l/qgscustomlayerorderwidget.cpp" alt="" coords="3192,115,3421,175"/>
+<area shape="rect" id="node29" href="$qgslayertreemapcanvasbridge_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/layertree\l/qgslayertreemapcanvasbridge.cpp" alt="" coords="3445,115,3691,175"/>
+<area shape="rect" id="node31" href="$qgslayertreeview_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/layertree\l/qgslayertreeview.cpp" alt="" coords="3715,115,3917,175"/>
+<area shape="rect" id="node33" href="$qgslayertreeviewdefaultactions_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/layertree\l/qgslayertreeviewdefaultactions.cpp" alt="" coords="3941,115,4192,175"/>
+</map>

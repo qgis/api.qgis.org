@@ -1,0 +1,24 @@
+<map id="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/core/symbology&#45;ng/qgsvectorcolorrampv2.h" name="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/core/symbology&#45;ng/qgsvectorcolorrampv2.h">
+<area shape="rect" id="node3" href="$qgsexpression_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsexpression.cpp" alt="" coords="5,123,280,167"/>
+<area shape="rect" id="node5" href="$qgsimageoperation_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/effects\l/qgsimageoperation.cpp" alt="" coords="304,115,501,175"/>
+<area shape="rect" id="node7" href="$qgscategorizedsymbolrendererv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgscategorizedsymbolrendererv2.cpp" alt="" coords="525,115,813,175"/>
+<area shape="rect" id="node9" href="$qgscptcityarchive_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgscptcityarchive.h" alt="" coords="888,115,1112,175"/>
+<area shape="rect" id="node11" href="$qgsvectorcolorrampv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgsvectorcolorrampv2.cpp" alt="" coords="681,225,905,285"/>
+<area shape="rect" id="node13" href="$qgscptcitycolorrampv2dialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgscptcitycolorrampv2dialog.cpp" alt="" coords="929,225,1185,285"/>
+<area shape="rect" id="node15" href="$qgsvectorgradientcolorrampv2dialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgsvectorgradientcolorrampv2dialog.cpp" alt="" coords="1209,225,1516,285"/>
+<area shape="rect" id="node17" href="$qgsfillsymbollayerv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgsfillsymbollayerv2.cpp" alt="" coords="1237,115,1461,175"/>
+<area shape="rect" id="node19" href="$qgsgraduatedsymbolrendererv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgsgraduatedsymbolrendererv2.cpp" alt="" coords="1485,115,1763,175"/>
+<area shape="rect" id="node21" href="$qgsheatmaprenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgsheatmaprenderer.cpp" alt="" coords="1787,115,2011,175"/>
+<area shape="rect" id="node23" href="$qgsstylev2_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgsstylev2.cpp" alt="" coords="2035,115,2259,175"/>
+<area shape="rect" id="node25" href="$qgssymbollayerv2utils_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/symbology\l&#45;ng/qgssymbollayerv2utils.cpp" alt="" coords="2283,115,2507,175"/>
+<area shape="rect" id="node28" href="$qgssinglebandpseudocolorrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/raster\l/qgssinglebandpseudocolorrendererwidget.cpp" alt="" coords="2531,115,2848,175"/>
+<area shape="rect" id="node30" href="$qgscategorizedsymbolrendererv2widget_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgscategorizedsymbolrendererv2widget.cpp" alt="" coords="2872,115,3200,175"/>
+<area shape="rect" id="node32" href="$qgscolorrampcombobox_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgscolorrampcombobox.cpp" alt="" coords="3224,115,3453,175"/>
+<area shape="rect" id="node35" href="$qgsgraduatedsymbolrendererv2widget_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgsgraduatedsymbolrendererv2widget.cpp" alt="" coords="3477,115,3797,175"/>
+<area shape="rect" id="node37" href="$qgsheatmaprendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgsheatmaprendererwidget.cpp" alt="" coords="3821,115,4072,175"/>
+<area shape="rect" id="node39" href="$qgsstylev2exportimportdialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgsstylev2exportimportdialog.cpp" alt="" coords="4096,115,4357,175"/>
+<area shape="rect" id="node41" href="$qgsstylev2managerdialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgsstylev2managerdialog.cpp" alt="" coords="4381,115,4619,175"/>
+<area shape="rect" id="node43" href="$qgssymbollayerv2widget_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgssymbollayerv2widget.cpp" alt="" coords="4643,115,4872,175"/>
+<area shape="rect" id="node45" href="$qgsvectorcolorbrewercolorrampv2dialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgsvectorcolorbrewercolorrampv2dialog.cpp" alt="" coords="4896,115,5224,175"/>
+<area shape="rect" id="node48" href="$qgsvectorrandomcolorrampv2dialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/symbology\l&#45;ng/qgsvectorrandomcolorrampv2dialog.cpp" alt="" coords="5248,115,5552,175"/>
+</map>

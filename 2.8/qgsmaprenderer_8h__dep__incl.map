@@ -1,0 +1,24 @@
+<map id="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/core/qgsmaprenderer.h" name="/tmp/buildd/qgis&#45;2.8.2+12wheezy/src/core/qgsmaprenderer.h">
+<area shape="rect" id="node3" href="$qgsmaplayer_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsmaplayer.h" alt="" coords="615,107,863,151"/>
+<area shape="rect" id="node5" href="$qgstolerance_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgstolerance.h" alt="" coords="5,217,256,261"/>
+<area shape="rect" id="node7" href="$qgsmaprenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsmaprenderer.cpp" alt="" coords="280,217,568,261"/>
+<area shape="rect" id="node9" href="$qgshighlight_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgshighlight.cpp" alt="" coords="592,217,843,261"/>
+<area shape="rect" id="node11" href="$qgsmapcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmapcanvas.cpp" alt="" coords="1189,217,1459,261"/>
+<area shape="rect" id="node13" href="$qgsmapcanvasmap_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmapcanvasmap.cpp" alt="" coords="867,217,1165,261"/>
+<area shape="rect" id="node16" href="$qgslabelsearchtree_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgslabelsearchtree.h" alt="" coords="1228,107,1516,151"/>
+<area shape="rect" id="node18" href="$qgspallabeling_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgspallabeling.cpp" alt="" coords="1483,217,1755,261"/>
+<area shape="rect" id="node21" href="$qgspallabeling_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgspallabeling.h" alt="" coords="1540,107,1799,151"/>
+<area shape="rect" id="node24" href="$qgscomposermap_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgscomposermap.cpp" alt="" coords="1779,209,1997,269"/>
+<area shape="rect" id="node26" href="$qgsdxfpallabeling_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/dxf\l/qgsdxfpallabeling.h" alt="" coords="2021,209,2195,269"/>
+<area shape="rect" id="node29" href="$qgsrenderchecker_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgsrenderchecker.h" alt="" coords="1924,107,2204,151"/>
+<area shape="rect" id="node32" href="$qgssnapper_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/qgssnapper.cpp" alt="" coords="2228,107,2484,151"/>
+<area shape="rect" id="node34" href="$qgscomposeritem_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgscomposeritem.h" alt="" coords="2559,99,2777,159"/>
+<area shape="rect" id="node36" href="$qgscomposeritem_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgscomposeritem.cpp" alt="" coords="2485,209,2704,269"/>
+<area shape="rect" id="node40" href="$qgscomposermapgrid_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgscomposermapgrid.cpp" alt="" coords="2801,99,3020,159"/>
+<area shape="rect" id="node42" href="$qgscomposerscalebar_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/composer\l/qgscomposerscalebar.cpp" alt="" coords="3044,99,3263,159"/>
+<area shape="rect" id="node45" href="$qgsrasterchecker_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/core/raster\l/qgsrasterchecker.h" alt="" coords="3287,99,3479,159"/>
+<area shape="rect" id="node47" href="$qgsblendmodecombobox_8h.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsblendmodecombobox.h" alt="" coords="3503,107,3823,151"/>
+<area shape="rect" id="node51" href="$qgsmapcanvasitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmapcanvasitem.cpp" alt="" coords="3847,107,4145,151"/>
+<area shape="rect" id="node54" href="$qgsmaptool_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsmaptool.cpp" alt="" coords="4169,107,4417,151"/>
+<area shape="rect" id="node56" href="$qgsrubberband_8cpp.html" title="/tmp/buildd/qgis&#45;2.8.2\l+12wheezy/src/gui/qgsrubberband.cpp" alt="" coords="4441,107,4711,151"/>
+</map>

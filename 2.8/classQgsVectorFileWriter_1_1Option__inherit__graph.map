@@ -1,0 +1,6 @@
+<map id="QgsVectorFileWriter::Option" name="QgsVectorFileWriter::Option">
+<area shape="rect" id="node3" href="$classQgsVectorFileWriter_1_1HiddenOption.html" title="QgsVectorFileWriter\l::HiddenOption" alt="" coords="197,5,341,49"/>
+<area shape="rect" id="node5" href="$classQgsVectorFileWriter_1_1IntOption.html" title="QgsVectorFileWriter\l::IntOption" alt="" coords="197,71,341,115"/>
+<area shape="rect" id="node7" href="$classQgsVectorFileWriter_1_1SetOption.html" title="QgsVectorFileWriter\l::SetOption" alt="" coords="197,138,341,182"/>
+<area shape="rect" id="node9" href="$classQgsVectorFileWriter_1_1StringOption.html" title="QgsVectorFileWriter\l::StringOption" alt="" coords="197,205,341,249"/>
+</map>

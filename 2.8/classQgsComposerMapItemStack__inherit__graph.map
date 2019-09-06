@@ -1,0 +1,4 @@
+<map id="QgsComposerMapItemStack" name="QgsComposerMapItemStack">
+<area shape="rect" id="node3" href="$classQgsComposerMapGridStack.html" title="A collection of grids which is drawn above the map content in a QgsComposerMap." alt="" coords="5,83,208,111"/>
+<area shape="rect" id="node5" href="$classQgsComposerMapOverviewStack.html" title="A collection of overviews which are drawn above the map content in a QgsComposerMap." alt="" coords="232,83,464,111"/>
+</map>

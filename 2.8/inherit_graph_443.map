@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsRasterShaderFunction.html" title="The raster shade function applies a shader to a pixel at render time &#45; typically used to render grays..." alt="" coords="5,30,192,58"/>
+<area shape="rect" id="node3" href="$classQgsColorRampShader.html" title="A ramp shader will color a raster pixel based on a list of values ranges in a ramp." alt="" coords="245,5,408,33"/>
+<area shape="rect" id="node5" href="$classQgsPseudoColorShader.html" title="A raster color shader that highlighs low values in blue and high values in red." alt="" coords="240,55,413,83"/>
+</map>
