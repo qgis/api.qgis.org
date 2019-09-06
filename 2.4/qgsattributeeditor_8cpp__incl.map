@@ -1,0 +1,20 @@
+<map id="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/gui/qgsattributeeditor.cpp" name="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/gui/qgsattributeeditor.cpp">
+<area shape="rect" id="node9" href="$qgsattributedialog_8h.html" title="qgsattributedialog.h" alt="" coords="1083,99,1232,127"/>
+<area shape="rect" id="node17" href="$qgsattributeeditorcontext_8h.html" title="qgsattributeeditorcontext.h" alt="" coords="512,254,709,282"/>
+<area shape="rect" id="node20" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="712,331,837,359"/>
+<area shape="rect" id="node36" href="$qgsattributeeditor_8h.html" title="qgsattributeeditor.h" alt="" coords="1465,177,1612,205"/>
+<area shape="rect" id="node44" href="$qgsrelationmanager_8h.html" title="qgsrelationmanager.h" alt="" coords="1307,254,1469,282"/>
+<area shape="rect" id="node47" href="$qgscategorizedsymbolrendererv2_8h.html" title="qgscategorizedsymbolrendererv2.h" alt="" coords="1767,99,2015,127"/>
+<area shape="rect" id="node49" href="$qgsexpression_8h.html" title="qgsexpression.h" alt="" coords="1836,177,1961,205"/>
+<area shape="rect" id="node53" href="$qgscolorbutton_8h.html" title="qgscolorbutton.h" alt="" coords="2039,99,2169,127"/>
+<area shape="rect" id="node58" href="$qgsfieldvalidator_8h.html" title="qgsfieldvalidator.h" alt="" coords="1556,99,1692,127"/>
+<area shape="rect" id="node63" href="$qgsfilterlineedit_8h.html" title="qgsfilterlineedit.h" alt="" coords="2244,99,2375,127"/>
+<area shape="rect" id="node67" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="2449,99,2545,127"/>
+<area shape="rect" id="node69" href="$qgslonglongvalidator_8h.html" title="qgslonglongvalidator.h" alt="" coords="2569,99,2735,127"/>
+<area shape="rect" id="node71" href="$qgsmaplayerregistry_8h.html" title="qgsmaplayerregistry.h" alt="" coords="364,409,527,437"/>
+<area shape="rect" id="node74" href="$qgsnetworkaccessmanager_8h.html" title="qgsnetworkaccessmanager.h" alt="" coords="2759,99,2967,127"/>
+<area shape="rect" id="node76" href="$qgsrelationeditor_8h.html" title="qgsrelationeditor.h" alt="" coords="568,177,709,205"/>
+<area shape="rect" id="node80" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="461,331,637,359"/>
+<area shape="rect" id="node11" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1005,409,1107,437"/>
+<area shape="rect" id="node24" href="$qgsattributeform_8h.html" title="qgsattributeform.h" alt="" coords="940,177,1081,205"/>
+</map>

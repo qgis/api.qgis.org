@@ -1,0 +1,14 @@
+<map id="QgsScaleRangeWidget" name="QgsScaleRangeWidget">
+<area shape="rect" id="node21" href="$classQgsMapOverviewCanvas.html" title="A widget that displays an overview map. " alt="" coords="352,494,531,522"/>
+<area shape="rect" id="node4" href="$classQgsMapCanvas.html" title="Map canvas is a class for displaying all GIS data types on a canvas. " alt="" coords="712,303,832,331"/>
+<area shape="rect" id="node27" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="1116,305,1215,333"/>
+<area shape="rect" id="node8" href="$classQgsMapCanvasMap.html" title="A rectangular graphics item representing the map on the canvas. " alt="" coords="368,329,515,357"/>
+<area shape="rect" id="node10" href="$classQgsMapRendererCache.html" title="This class is responsible for keeping cache of rendered images of individual layers. " alt="" coords="356,379,527,407"/>
+<area shape="rect" id="node12" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter. " alt="" coords="376,62,507,90"/>
+<area shape="rect" id="node14" href="$classQgsMapSettings.html" title="The QgsMapSettings class contains configuration for rendering of the map. " alt="" coords="43,217,168,245"/>
+<area shape="rect" id="node16" href="$classQgsPreviewEffect.html" title="A graphics effect which can be applied to a widget to simulate various printing and color blindness m..." alt="" coords="376,11,507,39"/>
+<area shape="rect" id="node18" href="$classQgsMapRendererQImageJob.html" title="Intermediate base class adding functionality that allows client to query the rendered image..." alt="" coords="5,461,205,489"/>
+<area shape="rect" id="node30" href="$classQgsLabelingResults.html" title="Class that stores computed placement from labeling engine. " alt="" coords="369,113,513,141"/>
+<area shape="rect" id="node32" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="387,163,496,191"/>
+<area shape="rect" id="node34" href="$classQgsScaleComboBox.html" title="A combobox which lets the user select map scale from predefined list and highlights nearest to curren..." alt="" coords="696,601,848,629"/>
+</map>

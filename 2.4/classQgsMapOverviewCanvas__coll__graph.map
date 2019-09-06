@@ -1,0 +1,13 @@
+<map id="QgsMapOverviewCanvas" name="QgsMapOverviewCanvas">
+<area shape="rect" id="node4" href="$classQgsMapCanvas.html" title="Map canvas is a class for displaying all GIS data types on a canvas. " alt="" coords="836,234,956,262"/>
+<area shape="rect" id="node31" href="$classQgsPanningWidget.html" title="widget that serves as rectangle showing current extent in overview " alt="" coords="161,295,300,323"/>
+<area shape="rect" id="node22" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="1168,234,1267,262"/>
+<area shape="rect" id="node8" href="$classQgsMapCanvasMap.html" title="A rectangular graphics item representing the map on the canvas. " alt="" coords="507,93,653,121"/>
+<area shape="rect" id="node10" href="$classQgsMapRendererCache.html" title="This class is responsible for keeping cache of rendered images of individual layers. " alt="" coords="495,143,665,171"/>
+<area shape="rect" id="node12" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter. " alt="" coords="515,194,645,222"/>
+<area shape="rect" id="node14" href="$classQgsMapSettings.html" title="The QgsMapSettings class contains configuration for rendering of the map. " alt="" coords="168,154,293,182"/>
+<area shape="rect" id="node16" href="$classQgsPreviewEffect.html" title="A graphics effect which can be applied to a widget to simulate various printing and color blindness m..." alt="" coords="515,318,645,346"/>
+<area shape="rect" id="node18" href="$classQgsMapRendererQImageJob.html" title="Intermediate base class adding functionality that allows client to query the rendered image..." alt="" coords="131,358,331,386"/>
+<area shape="rect" id="node25" href="$classQgsLabelingResults.html" title="Class that stores computed placement from labeling engine. " alt="" coords="508,433,652,461"/>
+<area shape="rect" id="node27" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="525,483,635,511"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QgsScaleBarStyle" name="QgsScaleBarStyle">
+<area shape="rect" id="node2" href="$classQgsComposerScaleBar.html" title="A scale bar item that can be added to a map composition. " alt="" coords="80,179,251,207"/>
+<area shape="rect" id="node4" href="$classQgsComposerItem.html" title="A item that forms part of a map composition. " alt="" coords="177,6,319,34"/>
+<area shape="rect" id="node6" href="$classQgsComposerMap.html" title="Object representing map window. " alt="" coords="251,86,389,114"/>
+</map>

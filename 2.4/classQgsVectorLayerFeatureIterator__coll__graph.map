@@ -1,0 +1,8 @@
+<map id="QgsVectorLayerFeatureIterator" name="QgsVectorLayerFeatureIterator">
+<area shape="rect" id="node2" href="$classQgsAbstractFeatureIteratorFromSource.html" title="QgsAbstractFeatureIterator\lFromSource\&lt; QgsVectorLayerFeature\lSource \&gt;" alt="" coords="863,115,1124,175"/>
+<area shape="rect" id="node4" href="$classQgsAbstractFeatureIterator.html" title="Internal feature iterator to be implemented within data providers. " alt="" coords="429,78,624,106"/>
+<area shape="rect" id="node14" href="$classQgsFeatureIterator.html" title="Wrapper for iterator of features from vector data provider or vector layer. " alt="" coords="923,65,1064,93"/>
+<area shape="rect" id="node6" href="$classQgsAbstractGeometrySimplifier.html" title="Abstract base class for simplify geometries using a specific algorithm. " alt="" coords="5,42,229,70"/>
+<area shape="rect" id="node8" href="$classQgsFeatureRequest.html" title="This class wraps a request for features to a vector layer (or directly its vector data provider)..." alt="" coords="44,137,191,165"/>
+<area shape="rect" id="node10" href="$classQgsVectorLayerFeatureSource.html" title="Partial snapshot of vector layer&#39;s state (only the members necessary for access to features) ..." alt="" coords="419,141,635,169"/>
+</map>

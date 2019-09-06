@@ -1,0 +1,14 @@
+<map id="QgsAttributeTableMapLayerAction" name="QgsAttributeTableMapLayerAction">
+<area shape="rect" id="node34" href="$classQgsMapLayerAction.html" title="An action which can run on map layers. " alt="" coords="1563,55,1712,83"/>
+<area shape="rect" id="node4" href="$classQgsDualView.html" title="This widget is used to show the attributes of a set of features of a QgsVectorLayer. " alt="" coords="1585,345,1689,373"/>
+<area shape="rect" id="node10" href="$classQgsAttributeTableModel.html" title="A model backed by a QgsVectorLayerCache which is able to provide feature/attribute information to a Q..." alt="" coords="349,299,523,327"/>
+<area shape="rect" id="node29" href="$classQgsAttributeTableFilterModel.html" title="QgsAttributeTableFilterModel" alt="" coords="763,329,965,357"/>
+<area shape="rect" id="node12" href="$classQgsVectorLayerCache.html" title="This class caches features of a given QgsVectorLayer. " alt="" coords="5,299,168,327"/>
+<area shape="rect" id="node15" href="$classQgsCachedFeatureIterator.html" title="Delivers features from the cache. " alt="" coords="548,399,737,427"/>
+<area shape="rect" id="node18" href="$classQgsAttributeForm.html" title="QgsAttributeForm" alt="" coords="1159,598,1295,626"/>
+<area shape="rect" id="node20" href="$classQgsAttributeEditorContext.html" title="This class contains context information for attribute editor widgets. " alt="" coords="769,537,959,565"/>
+<area shape="rect" id="node22" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator. " alt="" coords="369,501,503,529"/>
+<area shape="rect" id="node25" href="$classQgsIFeatureSelectionManager.html" title="Is an interface class to abstract feature selection handling. " alt="" coords="1120,649,1333,677"/>
+<area shape="rect" id="node27" href="$classQgsFeatureListModel.html" title="QgsFeatureListModel" alt="" coords="1149,382,1304,410"/>
+<area shape="rect" id="node37" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="1172,65,1281,93"/>
+</map>

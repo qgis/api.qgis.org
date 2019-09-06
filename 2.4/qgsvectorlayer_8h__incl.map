@@ -1,0 +1,19 @@
+<map id="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/qgsvectorlayer.h" name="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/qgsvectorlayer.h">
+<area shape="rect" id="node11" href="$qgis_8h.html" title="qgis.h" alt="" coords="790,563,849,591"/>
+<area shape="rect" id="node31" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="981,254,1096,282"/>
+<area shape="rect" id="node63" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1169,409,1270,437"/>
+<area shape="rect" id="node70" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1586,486,1669,514"/>
+<area shape="rect" id="node79" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="2198,254,2348,282"/>
+<area shape="rect" id="node89" href="$qgseditorwidgetconfig_8h.html" title="qgseditorwidgetconfig.h" alt="" coords="270,409,444,437"/>
+<area shape="rect" id="node95" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="1374,99,1481,127"/>
+<area shape="rect" id="node107" href="$qgsrelation_8h.html" title="qgsrelation.h" alt="" coords="2032,177,2136,205"/>
+<area shape="rect" id="node115" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="2422,99,2617,127"/>
+<area shape="rect" id="node47" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="2172,409,2257,437"/>
+<area shape="rect" id="node51" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1460,409,1577,437"/>
+<area shape="rect" id="node57" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="1257,331,1396,359"/>
+<area shape="rect" id="node74" href="$qgsobjectcustomproperties_8h.html" title="qgsobjectcustomproperties.h" alt="" coords="38,409,246,437"/>
+<area shape="rect" id="node53" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1474,486,1562,514"/>
+<area shape="rect" id="node81" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="1692,331,1844,359"/>
+<area shape="rect" id="node86" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="2238,563,2334,591"/>
+<area shape="rect" id="node98" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="1369,177,1486,205"/>
+</map>

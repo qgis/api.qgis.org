@@ -1,0 +1,8 @@
+<map id="QgsRasterRenderer" name="QgsRasterRenderer">
+<area shape="rect" id="node5" href="$classQgsMultiBandColorRenderer.html" title="Renderer for multiband images with the color components. " alt="" coords="412,5,612,33"/>
+<area shape="rect" id="node7" href="$classQgsPalettedRasterRenderer.html" title="Renderer for paletted raster images. " alt="" coords="413,55,611,83"/>
+<area shape="rect" id="node9" href="$classQgsSingleBandColorDataRenderer.html" title="Raster renderer pipe for single band color. " alt="" coords="392,106,632,134"/>
+<area shape="rect" id="node11" href="$classQgsSingleBandGrayRenderer.html" title="Raster renderer pipe for single band gray. " alt="" coords="409,157,615,185"/>
+<area shape="rect" id="node13" href="$classQgsSingleBandPseudoColorRenderer.html" title="Raster renderer pipe for single band pseudocolor. " alt="" coords="413,207,611,251"/>
+<area shape="rect" id="node2" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc. " alt="" coords="5,106,149,134"/>
+</map>

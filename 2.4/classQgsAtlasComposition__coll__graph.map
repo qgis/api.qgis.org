@@ -1,0 +1,28 @@
+<map id="QgsAtlasComposition" name="QgsAtlasComposition">
+<area shape="rect" id="node53" href="$classQgsComposition.html" title="Graphics scene for map printing. " alt="" coords="2068,811,2193,839"/>
+<area shape="rect" id="node6" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems. " alt="" coords="375,542,553,570"/>
+<area shape="rect" id="node13" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="812,677,921,705"/>
+<area shape="rect" id="node30" href="$classQgsVectorLayerEditBuffer.html" title="QgsVectorLayerEditBuffer" alt="" coords="1607,338,1791,366"/>
+<area shape="rect" id="node57" href="$classQgsComposerMouseHandles.html" title="Handles drawing of selection outlines and mouse handles. " alt="" coords="2375,765,2580,793"/>
+<area shape="rect" id="node65" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter. " alt="" coords="1205,991,1336,1019"/>
+<area shape="rect" id="node4" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="409,821,519,849"/>
+<area shape="rect" id="node25" href="$classQgsGeometryCache.html" title="QgsGeometryCache" alt="" coords="792,729,941,757"/>
+<area shape="rect" id="node69" href="$classQgsMapSettings.html" title="The QgsMapSettings class contains configuration for rendering of the map. " alt="" coords="804,887,929,915"/>
+<area shape="rect" id="node77" href="$classQgsComposerMap.html" title="Object representing map window. " alt="" coords="1629,837,1768,865"/>
+<area shape="rect" id="node18" href="$classQgsDiagramLayerSettings.html" title="QgsDiagramLayerSettings" alt="" coords="772,157,961,185"/>
+<area shape="rect" id="node9" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS) " alt="" coords="5,865,235,893"/>
+<area shape="rect" id="node11" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="1209,338,1332,366"/>
+<area shape="rect" id="node34" href="$classQgsAttributeAction.html" title="Storage and management of actions associated with Qgis layer attributes. " alt="" coords="1628,266,1769,294"/>
+<area shape="rect" id="node21" href="$classQgsFields.html" title="Container of fields for a vector layer. " alt="" coords="423,243,505,271"/>
+<area shape="rect" id="node41" href="$classQgsLabel.html" title="A class to render labels. " alt="" coords="827,271,907,299"/>
+<area shape="rect" id="node48" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="820,575,913,603"/>
+<area shape="rect" id="node23" href="$classQgsDiagramRendererV2.html" title="Returns diagram settings for a feature. " alt="" coords="376,114,552,142"/>
+<area shape="rect" id="node28" href="$classQgsFeatureRendererV2.html" title="QgsFeatureRendererV2" alt="" coords="783,322,951,350"/>
+<area shape="rect" id="node37" href="$classQgsVectorSimplifyMethod.html" title="This class contains information how to simplify geometries fetched from a vector layer. " alt="" coords="773,373,960,401"/>
+<area shape="rect" id="node39" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers. " alt="" coords="781,423,952,451"/>
+<area shape="rect" id="node46" href="$classQgsVectorLayerJoinBuffer.html" title="Manages joined fields for a vector layer. " alt="" coords="776,474,957,502"/>
+<area shape="rect" id="node50" href="$classQgsGeometry.html" title="QgsGeometry" alt="" coords="409,593,519,621"/>
+<area shape="rect" id="node61" href="$classQgsFillSymbolV2.html" title="QgsFillSymbolV2" alt="" coords="1208,783,1333,811"/>
+<area shape="rect" id="node63" href="$classQgsComposerMultiFrameCommand.html" title="QgsComposerMultiFrameCommand" alt="" coords="1573,1053,1824,1081"/>
+<area shape="rect" id="node74" href="$classQgsComposerItemCommand.html" title="Undo command to undo/redo all composer item related changes. " alt="" coords="1595,786,1803,814"/>
+</map>

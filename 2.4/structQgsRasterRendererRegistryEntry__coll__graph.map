@@ -1,0 +1,8 @@
+<map id="QgsRasterRendererRegistryEntry" name="QgsRasterRendererRegistryEntry">
+<area shape="rect" id="node2" href="$classQgsRasterRenderer.html" title="Raster renderer pipe that applies colors to a raster. " alt="" coords="260,99,404,127"/>
+<area shape="rect" id="node4" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc. " alt="" coords="5,6,149,34"/>
+<area shape="rect" id="node7" href="$classQgsRasterTransparency.html" title="Defines the list of pixel values to be considered as transparent or semi transparent when rendering r..." alt="" coords="247,6,417,34"/>
+<area shape="rect" id="node9" href="$classQgsRasterRendererWidget.html" title="QgsRasterRendererWidget" alt="" coords="464,99,651,127"/>
+<area shape="rect" id="node13" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="548,6,657,34"/>
+<area shape="rect" id="node15" href="$classQgsRasterLayer.html" title="This class provides qgis with the ability to render raster datasets onto the mapcanvas. " alt="" coords="681,6,804,34"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsDistanceArea" name="QgsDistanceArea">
+<area shape="rect" id="node2" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems. " alt="" coords="39,115,217,143"/>
+<area shape="rect" id="node6" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS) " alt="" coords="101,6,331,34"/>
+</map>

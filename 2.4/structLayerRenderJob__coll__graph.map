@@ -1,0 +1,9 @@
+<map id="LayerRenderJob" name="LayerRenderJob">
+<area shape="rect" id="node2" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation. " alt="" coords="424,106,565,134"/>
+<area shape="rect" id="node4" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="51,5,160,33"/>
+<area shape="rect" id="node6" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems. " alt="" coords="16,55,195,83"/>
+<area shape="rect" id="node8" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface. " alt="" coords="7,106,204,134"/>
+<area shape="rect" id="node10" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates. " alt="" coords="48,157,163,185"/>
+<area shape="rect" id="node12" href="$classQgsVectorSimplifyMethod.html" title="This class contains information how to simplify geometries fetched from a vector layer. " alt="" coords="12,207,199,235"/>
+<area shape="rect" id="node14" href="$classQgsMapLayerRenderer.html" title="Base class for utility classes that encapsulate information necessary for rendering of map layers..." alt="" coords="412,157,577,185"/>
+</map>

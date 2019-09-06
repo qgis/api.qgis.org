@@ -1,0 +1,5 @@
+<map id="QgsCacheIndexFeatureId" name="QgsCacheIndexFeatureId">
+<area shape="rect" id="node2" href="$classQgsAbstractCacheIndex.html" title="Abstract base class for cache indices. " alt="" coords="5,99,179,127"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayerCache.html" title="This class caches features of a given QgsVectorLayer. " alt="" coords="203,99,365,127"/>
+<area shape="rect" id="node8" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="283,6,405,34"/>
+</map>

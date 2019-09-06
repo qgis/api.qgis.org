@@ -1,0 +1,7 @@
+<map id="QgsComposerView" name="QgsComposerView">
+<area shape="rect" id="node4" href="$classQgsPreviewEffect.html" title="A graphics effect which can be applied to a widget to simulate various printing and color blindness m..." alt="" coords="5,139,136,167"/>
+<area shape="rect" id="node16" href="$classQgsComposerEffect.html" title="QgsComposerEffect" alt="" coords="100,86,249,114"/>
+<area shape="rect" id="node8" href="$classQgsComposerItem.html" title="A item that forms part of a map composition. " alt="" coords="301,193,443,221"/>
+<area shape="rect" id="node14" href="$classQgsComposition.html" title="Graphics scene for map printing. " alt="" coords="537,86,663,114"/>
+<area shape="rect" id="node19" href="$classQgsComposerRuler.html" title="A class to show paper scale and the current cursor position. " alt="" coords="531,193,675,221"/>
+</map>

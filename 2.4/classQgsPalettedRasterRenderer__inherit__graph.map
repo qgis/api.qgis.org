@@ -1,0 +1,4 @@
+<map id="QgsPalettedRasterRenderer" name="QgsPalettedRasterRenderer">
+<area shape="rect" id="node2" href="$classQgsRasterRenderer.html" title="Raster renderer pipe that applies colors to a raster. " alt="" coords="32,83,176,111"/>
+<area shape="rect" id="node4" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc. " alt="" coords="32,6,176,34"/>
+</map>

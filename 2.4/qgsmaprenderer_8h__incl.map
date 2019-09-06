@@ -1,0 +1,15 @@
+<map id="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/qgsmaprenderer.h" name="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/qgsmaprenderer.h">
+<area shape="rect" id="node13" href="$qgis_8h.html" title="qgis.h" alt="" coords="696,409,755,437"/>
+<area shape="rect" id="node33" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1104,254,1221,282"/>
+<area shape="rect" id="node43" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="677,99,824,127"/>
+<area shape="rect" id="node65" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1220,331,1321,359"/>
+<area shape="rect" id="node81" href="$qgsmapsettings_8h.html" title="qgsmapsettings.h" alt="" coords="460,177,596,205"/>
+<area shape="rect" id="node39" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="868,331,956,359"/>
+<area shape="rect" id="node47" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="940,177,1127,205"/>
+<area shape="rect" id="node59" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="851,254,979,282"/>
+<area shape="rect" id="node63" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="721,177,916,205"/>
+<area shape="rect" id="node51" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="612,331,844,359"/>
+<area shape="rect" id="node76" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1321,409,1404,437"/>
+<area shape="rect" id="node89" href="$qgsdatumtransformstore_8h.html" title="qgsdatumtransformstore.h" alt="" coords="397,254,592,282"/>
+<area shape="rect" id="node94" href="$qgsscalecalculator_8h.html" title="qgsscalecalculator.h" alt="" coords="363,331,512,359"/>
+</map>

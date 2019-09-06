@@ -1,0 +1,6 @@
+<map id="QgsAttributeFormInterface" name="QgsAttributeFormInterface">
+<area shape="rect" id="node2" href="$classQgsAttributeForm.html" title="QgsAttributeForm" alt="" coords="187,99,323,127"/>
+<area shape="rect" id="node6" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="104,6,227,34"/>
+<area shape="rect" id="node8" href="$classQgsAttributeEditorContext.html" title="This class contains context information for attribute editor widgets. " alt="" coords="251,6,440,34"/>
+<area shape="rect" id="node10" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="464,6,557,34"/>
+</map>

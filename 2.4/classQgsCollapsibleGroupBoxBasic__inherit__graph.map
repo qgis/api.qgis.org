@@ -1,0 +1,5 @@
+<map id="QgsCollapsibleGroupBoxBasic" name="QgsCollapsibleGroupBoxBasic">
+<area shape="rect" id="node5" href="$classQgsCollapsibleGroupBox.html" title="A groupbox that collapses/expands when toggled and can save its collapsed and checked states..." alt="" coords="84,161,263,189"/>
+<area shape="rect" id="node7" href="$classQgsExtentGroupBox.html" title="Collapsible group box for configuration of extent, typically for a save operation. " alt="" coords="5,238,155,266"/>
+<area shape="rect" id="node9" href="$classQgsRelationEditorWidget.html" title="QgsRelationEditorWidget" alt="" coords="179,238,355,266"/>
+</map>

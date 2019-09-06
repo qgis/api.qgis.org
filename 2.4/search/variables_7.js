@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['gcontexthelp',['gContextHelp',['../classQgsContextHelp.html#a8ab964b354685015a8dba1a8bcf85625',1,'QgsContextHelp']]],
+  ['gcontexthelptexts',['gContextHelpTexts',['../classQgsContextHelp.html#a31e429f380bcf392d18f3a91cacd6ebf',1,'QgsContextHelp']]],
+  ['geo_5fepsg_5fcrs_5fauthid',['GEO_EPSG_CRS_AUTHID',['../qgis_8cpp.html#a3e69b84de72e91dcfc1c412f6dc9f170',1,'GEO_EPSG_CRS_AUTHID():&#160;qgis.cpp'],['../qgis_8h.html#a707f0f3bbce5e473b6c728082cb594e7',1,'GEO_EPSG_CRS_AUTHID():&#160;qgis.cpp']]],
+  ['geo_5fepsg_5fcrs_5fid',['GEO_EPSG_CRS_ID',['../qgis_8h.html#a4f3930408d4e169b0d66944827e3becd',1,'qgis.h']]],
+  ['geo_5fnone',['GEO_NONE',['../qgis_8cpp.html#afad393309305fdd4a57332d5b461f8bc',1,'GEO_NONE():&#160;qgis.cpp'],['../qgis_8h.html#a50a3ba3468166907716e061f9c5b997c',1,'GEO_NONE():&#160;qgis.cpp']]],
+  ['geocrs_5fid',['GEOCRS_ID',['../qgis_8h.html#af5cd54d47652544adf35af98511e41f4',1,'qgis.h']]],
+  ['geom_5fwkt',['geom_wkt',['../structQgsOfflineEditing_1_1GeometryChange.html#ac76a4153ca8386c236d924e7f8592d36',1,'QgsOfflineEditing::GeometryChange']]],
+  ['geometries',['geometries',['../classQgsDiagramLayerSettings.html#ac033a211b77dec28fa8c5089423840a7',1,'QgsDiagramLayerSettings::geometries()'],['../classQgsPalLayerSettings.html#a2cacdf8357f4cce05062ac73506f16ea',1,'QgsPalLayerSettings::geometries()'],['../structQgsInvertedPolygonRenderer_1_1CombinedFeature.html#a73562dc75db71c06a506f97cdf5b9e1e',1,'QgsInvertedPolygonRenderer::CombinedFeature::geometries()']]],
+  ['geoproj4',['GEOPROJ4',['../qgis_8cpp.html#a6b39ede692d2b84d30949f9bca86386b',1,'GEOPROJ4():&#160;qgis.cpp'],['../qgis_8h.html#a710e2fb460753ca57f175fc0252847e8',1,'GEOPROJ4():&#160;qgis.cpp']]],
+  ['geosinit',['geosinit',['../qgsgeometry_8cpp.html#acad3db39b5b438e04af58069dc33dc24',1,'qgsgeometry.cpp']]],
+  ['geosrid',['GEOSRID',['../qgis_8h.html#ae871d544e7c226a95116ce1682276836',1,'qgis.h']]],
+  ['geowkt',['GEOWKT',['../qgis_8cpp.html#abb0d578198298d0438413c12601fd83d',1,'GEOWKT():&#160;qgis.cpp'],['../qgis_8h.html#a8808eba3df7a19ea1c7d20257f6af86e',1,'GEOWKT():&#160;qgis.cpp']]],
+  ['gfunctionhelptexts',['gFunctionHelpTexts',['../classQgsExpression.html#a238d702806b222cead97de7a2a9a8fe0',1,'QgsExpression']]],
+  ['ggroups',['gGroups',['../classQgsExpression.html#afbda42e70d097907c6cc475b32eb3741',1,'QgsExpression']]],
+  ['glob',['glob',['../structQgsVectorFileWriter_1_1MetaData.html#a827192092e4d0ee8ea82453d4143a945',1,'QgsVectorFileWriter::MetaData']]],
+  ['gmbuiltinfunctions',['gmBuiltinFunctions',['../classQgsExpression.html#a08ec75841ad7d2127bb553e144993f37',1,'QgsExpression']]],
+  ['gmfunctions',['gmFunctions',['../classQgsExpression.html#aa1b29317debd3395456466eab16ed20a',1,'QgsExpression']]],
+  ['gml_5fnamespace',['GML_NAMESPACE',['../qgsgml_8cpp.html#a81f9ecaa6d5f0f81ce7825e8bb13ca12',1,'GML_NAMESPACE():&#160;qgsgml.cpp'],['../qgsgmlschema_8cpp.html#a81f9ecaa6d5f0f81ce7825e8bb13ca12',1,'GML_NAMESPACE():&#160;qgsgmlschema.cpp'],['../qgsogcutils_8cpp.html#a81f9ecaa6d5f0f81ce7825e8bb13ca12',1,'GML_NAMESPACE():&#160;qgsogcutils.cpp']]],
+  ['gmspecialcolumns',['gmSpecialColumns',['../classQgsExpression.html#a000139e9389c7c9bf5dd161aaa29ae96',1,'QgsExpression']]],
+  ['green',['green',['../structQgsRasterTransparency_1_1TransparentThreeValuePixel.html#abae3aa93dad5125e558e581879ecac3b',1,'QgsRasterTransparency::TransparentThreeValuePixel']]]
+];

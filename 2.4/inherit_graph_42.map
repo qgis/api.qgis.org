@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$classQgsBlendModeComboBox.html" title="A combobox which lets the user select blend modes from a predefined list. " alt="" coords="159,5,345,33"/>
+<area shape="rect" id="node5" href="$classQgsFieldComboBox.html" title="The QgsFieldComboBox is a combo box which displays the list of fields of a given layer. " alt="" coords="180,55,324,83"/>
+<area shape="rect" id="node7" href="$classQgsMapLayerComboBox.html" title="The QgsMapLayerComboBox class is a combo box which displays the list of layers. " alt="" coords="163,106,341,134"/>
+<area shape="rect" id="node9" href="$classQgsScaleComboBox.html" title="A combobox which lets the user select map scale from predefined list and highlights nearest to curren..." alt="" coords="176,157,328,185"/>
+</map>

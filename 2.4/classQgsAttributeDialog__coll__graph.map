@@ -1,0 +1,10 @@
+<map id="QgsAttributeDialog" name="QgsAttributeDialog">
+<area shape="rect" id="node10" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="132,93,241,121"/>
+<area shape="rect" id="node4" href="$classQgsAttributeForm.html" title="QgsAttributeForm" alt="" coords="683,107,819,135"/>
+<area shape="rect" id="node8" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="408,93,531,121"/>
+<area shape="rect" id="node19" href="$classQgsHighlight.html" title="A class for highlight features on the map. " alt="" coords="700,269,801,297"/>
+<area shape="rect" id="node13" href="$classQgsAttributeEditorContext.html" title="This class contains context information for attribute editor widgets. " alt="" coords="375,143,564,171"/>
+<area shape="rect" id="node15" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="423,215,516,243"/>
+<area shape="rect" id="node17" href="$classQgsGeometry.html" title="QgsGeometry" alt="" coords="132,275,241,303"/>
+<area shape="rect" id="node21" href="$classQgsMapCanvasItem.html" title="An abstract class for items that can be placed on the map canvas. " alt="" coords="395,394,544,422"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QgsRelief" name="QgsRelief">
+<area shape="rect" id="node2" href="$classQgsAspectFilter.html" title="Calculates aspect values in a window of 3x3 cells based on first order derivatives in x&#45; and y&#45; direc..." alt="" coords="5,86,125,114"/>
+<area shape="rect" id="node4" href="$classQgsDerivativeFilter.html" title="Adds the ability to calculate derivatives in x&#45; and y&#45;directions. " alt="" coords="145,6,287,34"/>
+<area shape="rect" id="node6" href="$classQgsHillshadeFilter.html" title="QgsHillshadeFilter" alt="" coords="149,86,283,114"/>
+<area shape="rect" id="node9" href="$classQgsSlopeFilter.html" title="Calculates slope values in a window of 3x3 cells based on first order derivatives in x&#45; and y&#45; direct..." alt="" coords="307,86,419,114"/>
+</map>

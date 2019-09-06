@@ -1,0 +1,15 @@
+<map id="QgsPointSample" name="QgsPointSample">
+<area shape="rect" id="node2" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="693,246,816,274"/>
+<area shape="rect" id="node16" href="$classQgsVectorLayerEditBuffer.html" title="QgsVectorLayerEditBuffer" alt="" coords="951,234,1135,262"/>
+<area shape="rect" id="node19" href="$classQgsAttributeAction.html" title="Storage and management of actions associated with Qgis layer attributes. " alt="" coords="972,306,1113,334"/>
+<area shape="rect" id="node4" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="332,5,441,33"/>
+<area shape="rect" id="node6" href="$classQgsDiagramLayerSettings.html" title="QgsDiagramLayerSettings" alt="" coords="292,170,481,198"/>
+<area shape="rect" id="node8" href="$classQgsFields.html" title="Container of fields for a vector layer. " alt="" coords="52,119,135,147"/>
+<area shape="rect" id="node26" href="$classQgsLabel.html" title="A class to render labels. " alt="" coords="347,119,427,147"/>
+<area shape="rect" id="node10" href="$classQgsDiagramRendererV2.html" title="Returns diagram settings for a feature. " alt="" coords="5,362,181,390"/>
+<area shape="rect" id="node12" href="$classQgsGeometryCache.html" title="QgsGeometryCache" alt="" coords="312,221,461,249"/>
+<area shape="rect" id="node14" href="$classQgsFeatureRendererV2.html" title="QgsFeatureRendererV2" alt="" coords="303,271,471,299"/>
+<area shape="rect" id="node22" href="$classQgsVectorSimplifyMethod.html" title="This class contains information how to simplify geometries fetched from a vector layer. " alt="" coords="293,322,480,350"/>
+<area shape="rect" id="node24" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers. " alt="" coords="301,373,472,401"/>
+<area shape="rect" id="node31" href="$classQgsVectorLayerJoinBuffer.html" title="Manages joined fields for a vector layer. " alt="" coords="296,487,477,515"/>
+</map>

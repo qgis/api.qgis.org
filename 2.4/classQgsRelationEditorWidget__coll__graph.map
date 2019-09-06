@@ -1,0 +1,18 @@
+<map id="QgsRelationEditorWidget" name="QgsRelationEditorWidget">
+<area shape="rect" id="node2" href="$classQgsCollapsibleGroupBox.html" title="A groupbox that collapses/expands when toggled and can save its collapsed and checked states..." alt="" coords="1885,5,2064,33"/>
+<area shape="rect" id="node4" href="$classQgsCollapsibleGroupBoxBasic.html" title="A groupbox that collapses/expands when toggled. " alt="" coords="1417,5,1628,33"/>
+<area shape="rect" id="node8" href="$classQgsDualView.html" title="This widget is used to show the attributes of a set of features of a QgsVectorLayer. " alt="" coords="1923,449,2027,477"/>
+<area shape="rect" id="node14" href="$classQgsAttributeTableModel.html" title="A model backed by a QgsVectorLayerCache which is able to provide feature/attribute information to a Q..." alt="" coords="645,607,819,635"/>
+<area shape="rect" id="node39" href="$classQgsAttributeTableFilterModel.html" title="QgsAttributeTableFilterModel" alt="" coords="1059,607,1261,635"/>
+<area shape="rect" id="node16" href="$classQgsVectorLayerCache.html" title="This class caches features of a given QgsVectorLayer. " alt="" coords="301,607,464,635"/>
+<area shape="rect" id="node23" href="$classQgsCachedFeatureIterator.html" title="Delivers features from the cache. " alt="" coords="844,731,1033,759"/>
+<area shape="rect" id="node18" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="5,607,128,635"/>
+<area shape="rect" id="node26" href="$classQgsAttributeForm.html" title="QgsAttributeForm" alt="" coords="1455,258,1591,286"/>
+<area shape="rect" id="node47" href="$classQgsRelation.html" title="QgsRelation" alt="" coords="507,765,603,793"/>
+<area shape="rect" id="node20" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="336,157,429,185"/>
+<area shape="rect" id="node29" href="$classQgsAttributeEditorContext.html" title="This class contains context information for attribute editor widgets. " alt="" coords="1065,269,1255,297"/>
+<area shape="rect" id="node31" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator. " alt="" coords="665,371,799,399"/>
+<area shape="rect" id="node35" href="$classQgsIFeatureSelectionManager.html" title="Is an interface class to abstract feature selection handling. " alt="" coords="1416,207,1629,235"/>
+<area shape="rect" id="node44" href="$classQgsGenericFeatureSelectionManager.html" title="This selection manager synchronizes a local set of selected features with an attribute table..." alt="" coords="1873,207,2076,251"/>
+<area shape="rect" id="node37" href="$classQgsFeatureListModel.html" title="QgsFeatureListModel" alt="" coords="1445,639,1600,667"/>
+</map>

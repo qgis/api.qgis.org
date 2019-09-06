@@ -1,0 +1,10 @@
+<map id="QgsComposerMouseHandles" name="QgsComposerMouseHandles">
+<area shape="rect" id="node6" href="$classQgsComposition.html" title="Graphics scene for map printing. " alt="" coords="881,189,1007,217"/>
+<area shape="rect" id="node15" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter. " alt="" coords="447,155,577,183"/>
+<area shape="rect" id="node26" href="$classQgsAtlasComposition.html" title="Class used to render an Atlas, iterating over geometry features. " alt="" coords="1188,143,1345,171"/>
+<area shape="rect" id="node11" href="$classQgsFillSymbolV2.html" title="QgsFillSymbolV2" alt="" coords="15,397,140,425"/>
+<area shape="rect" id="node23" href="$classQgsComposerMap.html" title="Object representing map window. " alt="" coords="443,371,581,399"/>
+<area shape="rect" id="node13" href="$classQgsComposerMultiFrameCommand.html" title="QgsComposerMultiFrameCommand" alt="" coords="387,320,637,348"/>
+<area shape="rect" id="node18" href="$classQgsMapSettings.html" title="The QgsMapSettings class contains configuration for rendering of the map. " alt="" coords="15,215,140,243"/>
+<area shape="rect" id="node20" href="$classQgsComposerItemCommand.html" title="Undo command to undo/redo all composer item related changes. " alt="" coords="408,104,616,132"/>
+</map>

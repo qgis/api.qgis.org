@@ -1,0 +1,6 @@
+<map id="CloughTocherInterpolator" name="CloughTocherInterpolator">
+<area shape="rect" id="node2" href="$classTriangleInterpolator.html" title="This is an interface for interpolator classes for triangulations. " alt="" coords="5,6,149,34"/>
+<area shape="rect" id="node4" href="$classNormVecDecorator.html" title="Decorator class which adds the functionality of estimating normals at the data points. " alt="" coords="109,99,253,127"/>
+<area shape="rect" id="node6" href="$classTriDecorator.html" title="Decorator class for Triangulations (s. " alt="" coords="179,6,277,34"/>
+<area shape="rect" id="node9" href="$classPoint3D.html" title="Point3D is a class to represent a three dimensional point. " alt="" coords="277,99,349,127"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QgsRuleBasedRendererV2" name="QgsRuleBasedRendererV2">
+<area shape="rect" id="node2" href="$classQgsFeatureRendererV2.html" title="QgsFeatureRendererV2" alt="" coords="5,107,173,135"/>
+<area shape="rect" id="node4" href="$classQgsRuleBasedRendererV2_1_1Rule.html" title="This class keeps data about a rules for rule&#45;based renderer. " alt="" coords="197,99,384,143"/>
+<area shape="rect" id="node6" href="$classQgsSymbolV2.html" title="QgsSymbolV2" alt="" coords="165,6,277,34"/>
+<area shape="rect" id="node9" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;). " alt="" coords="301,6,416,34"/>
+</map>

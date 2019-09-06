@@ -1,0 +1,18 @@
+<map id="QgsAttributeTableFilterModel" name="QgsAttributeTableFilterModel">
+<area shape="rect" id="node4" href="$classQgsFeatureModel.html" title="QgsFeatureModel" alt="" coords="665,55,799,83"/>
+<area shape="rect" id="node6" href="$classQgsAttributeTableModel.html" title="A model backed by a QgsVectorLayerCache which is able to provide feature/attribute information to a Q..." alt="" coords="645,106,819,134"/>
+<area shape="rect" id="node10" href="$classQgsVectorLayerCache.html" title="This class caches features of a given QgsVectorLayer. " alt="" coords="299,106,461,134"/>
+<area shape="rect" id="node12" href="$classQgsFeatureRequest.html" title="This class wraps a request for features to a vector layer (or directly its vector data provider)..." alt="" coords="307,157,453,185"/>
+<area shape="rect" id="node14" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="333,5,427,33"/>
+<area shape="rect" id="node16" href="$classQgsMapCanvas.html" title="Map canvas is a class for displaying all GIS data types on a canvas. " alt="" coords="672,446,792,474"/>
+<area shape="rect" id="node33" href="$classQgsMapOverviewCanvas.html" title="A widget that displays an overview map. " alt="" coords="1041,615,1220,643"/>
+<area shape="rect" id="node38" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="1081,443,1180,471"/>
+<area shape="rect" id="node20" href="$classQgsMapCanvasMap.html" title="A rectangular graphics item representing the map on the canvas. " alt="" coords="307,207,453,235"/>
+<area shape="rect" id="node22" href="$classQgsMapRendererCache.html" title="This class is responsible for keeping cache of rendered images of individual layers. " alt="" coords="295,258,465,286"/>
+<area shape="rect" id="node24" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter. " alt="" coords="315,309,445,337"/>
+<area shape="rect" id="node26" href="$classQgsMapSettings.html" title="The QgsMapSettings class contains configuration for rendering of the map. " alt="" coords="7,362,132,390"/>
+<area shape="rect" id="node28" href="$classQgsPreviewEffect.html" title="A graphics effect which can be applied to a widget to simulate various printing and color blindness m..." alt="" coords="315,423,445,451"/>
+<area shape="rect" id="node30" href="$classQgsMapRendererQImageJob.html" title="Intermediate base class adding functionality that allows client to query the rendered image..." alt="" coords="280,525,480,553"/>
+<area shape="rect" id="node41" href="$classQgsLabelingResults.html" title="Class that stores computed placement from labeling engine. " alt="" coords="308,474,452,502"/>
+<area shape="rect" id="node43" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="325,575,435,603"/>
+</map>

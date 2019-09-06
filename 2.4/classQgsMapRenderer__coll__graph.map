@@ -1,0 +1,13 @@
+<map id="QgsMapRenderer" name="QgsMapRenderer">
+<area shape="rect" id="node13" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems. " alt="" coords="384,552,563,580"/>
+<area shape="rect" id="node4" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="419,323,528,351"/>
+<area shape="rect" id="node10" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation. " alt="" coords="781,449,923,477"/>
+<area shape="rect" id="node23" href="$classQgsMapSettings.html" title="The QgsMapSettings class contains configuration for rendering of the map. " alt="" coords="789,160,915,188"/>
+<area shape="rect" id="node6" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor dpi. " alt="" coords="400,183,547,211"/>
+<area shape="rect" id="node8" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface. " alt="" coords="375,501,572,529"/>
+<area shape="rect" id="node32" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator. " alt="" coords="785,625,919,653"/>
+<area shape="rect" id="node16" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS) " alt="" coords="5,316,235,344"/>
+<area shape="rect" id="node28" href="$classQgsDatumTransformStore.html" title="The QgsDatumTransformStore class keeps track of datum transformations as chosen by the user..." alt="" coords="379,56,568,84"/>
+<area shape="rect" id="node19" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates. " alt="" coords="416,259,531,287"/>
+<area shape="rect" id="node21" href="$classQgsVectorSimplifyMethod.html" title="This class contains information how to simplify geometries fetched from a vector layer. " alt="" coords="380,451,567,479"/>
+</map>

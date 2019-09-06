@@ -1,0 +1,6 @@
+<map id="QgsVertexMarker" name="QgsVertexMarker">
+<area shape="rect" id="node2" href="$classQgsMapCanvasItem.html" title="An abstract class for items that can be placed on the map canvas. " alt="" coords="127,99,276,127"/>
+<area shape="rect" id="node6" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="147,6,256,34"/>
+<area shape="rect" id="node8" href="$classQgsMapCanvas.html" title="Map canvas is a class for displaying all GIS data types on a canvas. " alt="" coords="280,6,400,34"/>
+<area shape="rect" id="node10" href="$classQgsPoint.html" title="A class to represent a point geometry. " alt="" coords="300,99,377,127"/>
+</map>

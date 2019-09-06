@@ -1,0 +1,6 @@
+<map id="QgsLinePatternFillSymbolLayer" name="QgsLinePatternFillSymbolLayer">
+<area shape="rect" id="node2" href="$classQgsImageFillSymbolLayer.html" title="Base class for polygon renderers generating texture images. " alt="" coords="203,109,387,137"/>
+<area shape="rect" id="node4" href="$classQgsFillSymbolLayerV2.html" title="QgsFillSymbolLayerV2" alt="" coords="169,6,332,34"/>
+<area shape="rect" id="node6" href="$classQgsLineSymbolV2.html" title="QgsLineSymbolV2" alt="" coords="5,6,144,34"/>
+<area shape="rect" id="node8" href="$classQgsMapUnitScale.html" title="QgsMapUnitScale" alt="" coords="395,6,528,34"/>
+</map>

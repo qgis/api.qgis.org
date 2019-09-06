@@ -1,0 +1,4 @@
+<map id="QgsTicksScaleBarStyle" name="QgsTicksScaleBarStyle">
+<area shape="rect" id="node2" href="$classQgsScaleBarStyle.html" title="Abstraction of composer scale bar style. " alt="" coords="132,6,268,34"/>
+<area shape="rect" id="node4" href="$classQgsComposerScaleBar.html" title="A scale bar item that can be added to a map composition. " alt="" coords="195,99,365,127"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QgsTINInterpolator" name="QgsTINInterpolator">
+<area shape="rect" id="node2" href="$classQgsInterpolator.html" title="Interface class for interpolations. " alt="" coords="5,6,125,34"/>
+<area shape="rect" id="node4" href="$classTriangleInterpolator.html" title="This is an interface for interpolator classes for triangulations. " alt="" coords="149,6,293,34"/>
+<area shape="rect" id="node6" href="$classTriangulation.html" title="Interface for Triangulation classes. " alt="" coords="341,6,443,34"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/symbology&#45;ng/qgssymbollayerv2.h" name="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/symbology&#45;ng/qgssymbollayerv2.h">
+<area shape="rect" id="node3" href="$qgsvectorfilewriter_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/qgsvectorfilewriter.cpp" alt="" coords="584,123,880,167"/>
+<area shape="rect" id="node5" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/qgsvectorlayer.cpp" alt="" coords="904,123,1179,167"/>
+<area shape="rect" id="node7" href="$qgsvectorlayerrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/qgsvectorlayerrenderer.cpp" alt="" coords="1203,123,1533,167"/>
+<area shape="rect" id="node9" href="$qgsvectorcolorrampv2_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsvectorcolorrampv2.h" alt="" coords="1557,115,1781,175"/>
+<area shape="rect" id="node25" href="$qgssymbollayerv2utils_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgssymbollayerv2utils.cpp" alt="" coords="1856,225,2080,285"/>
+<area shape="rect" id="node30" href="$qgsmarkersymbollayerv2_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsmarkersymbollayerv2.h" alt="" coords="2681,115,2905,175"/>
+<area shape="rect" id="node44" href="$qgssymbolv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgssymbolv2.cpp" alt="" coords="3205,225,3429,285"/>
+<area shape="rect" id="node46" href="$qgshighlight_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/gui/qgshighlight.cpp" alt="" coords="3779,233,4029,277"/>
+<area shape="rect" id="node48" href="$qgsfillsymbollayerv2_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsfillsymbollayerv2.h" alt="" coords="2980,115,3204,175"/>
+<area shape="rect" id="node55" href="$qgslinesymbollayerv2_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgslinesymbollayerv2.h" alt="" coords="3228,115,3452,175"/>
+<area shape="rect" id="node64" href="$qgsinvertedpolygonrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsinvertedpolygonrenderer.cpp" alt="" coords="3476,115,3729,175"/>
+<area shape="rect" id="node66" href="$qgsrulebasedrendererv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsrulebasedrendererv2.cpp" alt="" coords="3753,115,3983,175"/>
+<area shape="rect" id="node68" href="$qgssinglesymbolrendererv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgssinglesymbolrendererv2.cpp" alt="" coords="4007,115,4257,175"/>
+<area shape="rect" id="node70" href="$qgssymbollayerv2registry_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgssymbollayerv2registry.h" alt="" coords="1831,115,2055,175"/>
+<area shape="rect" id="node75" href="$qgssymbollayerv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgssymbollayerv2.cpp" alt="" coords="4332,115,4556,175"/>
+<area shape="rect" id="node77" href="$qgsvectorfieldsymbollayer_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsvectorfieldsymbollayer.h" alt="" coords="4580,115,4804,175"/>
+<area shape="rect" id="node11" href="$qgsexpression_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/qgsexpression.cpp" alt="" coords="947,233,1221,277"/>
+<area shape="rect" id="node13" href="$qgscategorizedsymbolrendererv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgscategorizedsymbolrendererv2.cpp" alt="" coords="1245,225,1533,285"/>
+<area shape="rect" id="node15" href="$qgscptcityarchive_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgscptcityarchive.h" alt="" coords="5,225,229,285"/>
+<area shape="rect" id="node17" href="$qgsvectorcolorrampv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsvectorcolorrampv2.cpp" alt="" coords="80,334,304,394"/>
+<area shape="rect" id="node19" href="$qgsfillsymbollayerv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsfillsymbollayerv2.cpp" alt="" coords="2957,225,3181,285"/>
+<area shape="rect" id="node21" href="$qgsgraduatedsymbolrendererv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsgraduatedsymbolrendererv2.cpp" alt="" coords="304,225,581,285"/>
+<area shape="rect" id="node23" href="$qgsstylev2_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsstylev2.cpp" alt="" coords="1557,225,1781,285"/>
+<area shape="rect" id="node28" href="$qgssinglebandpseudocolorrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/gui/raster\l/qgssinglebandpseudocolorrendererwidget.cpp" alt="" coords="605,225,923,285"/>
+<area shape="rect" id="node32" href="$qgspallabeling_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/qgspallabeling.cpp" alt="" coords="2403,233,2675,277"/>
+<area shape="rect" id="node34" href="$qgsellipsesymbollayerv2_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsellipsesymbollayerv2.h" alt="" coords="2104,225,2328,285"/>
+<area shape="rect" id="node36" href="$qgssymbollayerv2registry_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgssymbollayerv2registry.cpp" alt="" coords="2936,334,3171,394"/>
+<area shape="rect" id="node39" href="$qgsmarkersymbollayerv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsmarkersymbollayerv2.cpp" alt="" coords="2699,225,2933,285"/>
+<area shape="rect" id="node42" href="$qgssymbologyv2conversion_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgssymbologyv2conversion.cpp" alt="" coords="3453,225,3704,285"/>
+<area shape="rect" id="node58" href="$qgslinesymbollayerv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgslinesymbollayerv2.cpp" alt="" coords="4053,225,4277,285"/>
+<area shape="rect" id="node80" href="$qgsvectorfieldsymbollayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/symbology\l&#45;ng/qgsvectorfieldsymbollayer.cpp" alt="" coords="4573,225,4811,285"/>
+</map>

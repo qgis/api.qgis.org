@@ -1,0 +1,6 @@
+<map id="QgsScaleBarStyle" name="QgsScaleBarStyle">
+<area shape="rect" id="node3" href="$classQgsDoubleBoxScaleBarStyle.html" title="Double box with alternating colors. " alt="" coords="189,5,395,33"/>
+<area shape="rect" id="node5" href="$classQgsNumericScaleBarStyle.html" title="A scale bar style that draws text in the form of &#39;1:XXXXX&#39;. " alt="" coords="197,55,387,83"/>
+<area shape="rect" id="node7" href="$classQgsSingleBoxScaleBarStyle.html" title="Scalebar style that draws a single box with alternating color for the segments. " alt="" coords="193,106,391,134"/>
+<area shape="rect" id="node9" href="$classQgsTicksScaleBarStyle.html" title="A scale bar that draws segments using short ticks. " alt="" coords="209,157,375,185"/>
+</map>

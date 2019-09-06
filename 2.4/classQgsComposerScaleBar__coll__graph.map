@@ -1,0 +1,7 @@
+<map id="QgsComposerScaleBar" name="QgsComposerScaleBar">
+<area shape="rect" id="node16" href="$classQgsScaleBarStyle.html" title="Abstraction of composer scale bar style. " alt="" coords="23,366,159,394"/>
+<area shape="rect" id="node2" href="$classQgsComposerItem.html" title="A item that forms part of a map composition. " alt="" coords="140,99,281,127"/>
+<area shape="rect" id="node10" href="$classQgsComposerMap.html" title="Object representing map window. " alt="" coords="141,179,280,207"/>
+<area shape="rect" id="node8" href="$classQgsComposition.html" title="Graphics scene for map printing. " alt="" coords="207,273,332,301"/>
+<area shape="rect" id="node13" href="$classQgsComposerEffect.html" title="QgsComposerEffect" alt="" coords="307,6,456,34"/>
+</map>

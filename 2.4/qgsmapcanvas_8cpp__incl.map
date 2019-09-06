@@ -1,0 +1,26 @@
+<map id="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/gui/qgsmapcanvas.cpp" name="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/gui/qgsmapcanvas.cpp">
+<area shape="rect" id="node43" href="$qgis_8h.html" title="qgis.h" alt="" coords="1703,331,1761,359"/>
+<area shape="rect" id="node54" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="715,254,840,282"/>
+<area shape="rect" id="node60" href="$qgscrscache_8h.html" title="qgscrscache.h" alt="" coords="2133,99,2248,127"/>
+<area shape="rect" id="node62" href="$qgsdatumtransformdialog_8h.html" title="qgsdatumtransformdialog.h" alt="" coords="2272,99,2472,127"/>
+<area shape="rect" id="node64" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="4637,254,4733,282"/>
+<area shape="rect" id="node67" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="1088,99,1219,127"/>
+<area shape="rect" id="node71" href="$qgsmapcanvasmap_8h.html" title="qgsmapcanvasmap.h" alt="" coords="2547,99,2707,127"/>
+<area shape="rect" id="node75" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="2229,177,2357,205"/>
+<area shape="rect" id="node77" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1849,177,1964,205"/>
+<area shape="rect" id="node82" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="1965,254,2104,282"/>
+<area shape="rect" id="node87" href="$qgsmaplayerregistry_8h.html" title="qgsmaplayerregistry.h" alt="" coords="3352,254,3515,282"/>
+<area shape="rect" id="node90" href="$qgsmaptoolpan_8h.html" title="qgsmaptoolpan.h" alt="" coords="3144,99,3277,127"/>
+<area shape="rect" id="node92" href="$qgsmaptoolzoom_8h.html" title="qgsmaptoolzoom.h" alt="" coords="1243,99,1389,127"/>
+<area shape="rect" id="node96" href="$qgsmapoverviewcanvas_8h.html" title="qgsmapoverviewcanvas.h" alt="" coords="2832,99,3019,127"/>
+<area shape="rect" id="node103" href="$qgsmaprenderercache_8h.html" title="qgsmaprenderercache.h" alt="" coords="3403,99,3581,127"/>
+<area shape="rect" id="node105" href="$qgsmaprenderercustompainterjob_8h.html" title="qgsmaprenderercustompainterjob.h" alt="" coords="3605,99,3859,127"/>
+<area shape="rect" id="node107" href="$qgsmaprendererparalleljob_8h.html" title="qgsmaprendererparalleljob.h" alt="" coords="3883,99,4088,127"/>
+<area shape="rect" id="node109" href="$qgsmaprenderersequentialjob_8h.html" title="qgsmaprenderersequentialjob.h" alt="" coords="4112,99,4339,127"/>
+<area shape="rect" id="node111" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="4128,254,4261,282"/>
+<area shape="rect" id="node114" href="$qgsmessageviewer_8h.html" title="qgsmessageviewer.h" alt="" coords="4285,254,4440,282"/>
+<area shape="rect" id="node117" href="$qgspallabeling_8h.html" title="qgspallabeling.h" alt="" coords="3075,177,3200,205"/>
+<area shape="rect" id="node121" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="4515,99,4616,127"/>
+<area shape="rect" id="node123" href="$qgsrubberband_8h.html" title="qgsrubberband.h" alt="" coords="4640,99,4771,127"/>
+<area shape="rect" id="node125" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1832,99,1957,127"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsDoubleBoxScaleBarStyle" name="QgsDoubleBoxScaleBarStyle">
+<area shape="rect" id="node2" href="$classQgsScaleBarStyle.html" title="Abstraction of composer scale bar style. " alt="" coords="172,6,308,34"/>
+<area shape="rect" id="node4" href="$classQgsComposerScaleBar.html" title="A scale bar item that can be added to a map composition. " alt="" coords="235,99,405,127"/>
+</map>

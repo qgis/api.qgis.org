@@ -1,0 +1,24 @@
+<map id="QgsMapCanvas" name="QgsMapCanvas">
+<area shape="rect" id="node6" href="$classQgsMapCanvasItem.html" title="An abstract class for items that can be placed on the map canvas. " alt="" coords="1801,373,1951,401"/>
+<area shape="rect" id="node49" href="$classQgsMapOverviewCanvas.html" title="A widget that displays an overview map. " alt="" coords="1787,705,1965,733"/>
+<area shape="rect" id="node59" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="1827,473,1925,501"/>
+<area shape="rect" id="node4" href="$classQgsMapCanvasMap.html" title="A rectangular graphics item representing the map on the canvas. " alt="" coords="2017,479,2164,507"/>
+<area shape="rect" id="node8" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="65,254,175,282"/>
+<area shape="rect" id="node11" href="$classQgsMapRendererCache.html" title="This class is responsible for keeping cache of rendered images of individual layers. " alt="" coords="416,751,587,779"/>
+<area shape="rect" id="node16" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter. " alt="" coords="757,310,888,338"/>
+<area shape="rect" id="node24" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation. " alt="" coords="431,125,572,153"/>
+<area shape="rect" id="node28" href="$classQgsMapSettings.html" title="The QgsMapSettings class contains configuration for rendering of the map. " alt="" coords="439,386,564,414"/>
+<area shape="rect" id="node67" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="447,606,556,634"/>
+<area shape="rect" id="node43" href="$classQgsMapRendererJob.html" title="Abstract base class for map rendering implementations. " alt="" coords="748,739,897,767"/>
+<area shape="rect" id="node20" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor dpi. " alt="" coords="47,327,193,355"/>
+<area shape="rect" id="node22" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface. " alt="" coords="21,69,219,97"/>
+<area shape="rect" id="node32" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS) " alt="" coords="5,439,235,467"/>
+<area shape="rect" id="node34" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator. " alt="" coords="435,335,568,363"/>
+<area shape="rect" id="node37" href="$classQgsPreviewEffect.html" title="A graphics effect which can be applied to a widget to simulate various printing and color blindness m..." alt="" coords="1104,371,1235,399"/>
+<area shape="rect" id="node41" href="$classQgsMapRendererQImageJob.html" title="Intermediate base class adding functionality that allows client to query the rendered image..." alt="" coords="1069,739,1269,767"/>
+<area shape="rect" id="node56" href="$classQgsPanningWidget.html" title="widget that serves as rectangle showing current extent in overview " alt="" coords="1436,907,1575,935"/>
+<area shape="rect" id="node63" href="$classQgsLabelingResults.html" title="Class that stores computed placement from labeling engine. " alt="" coords="1097,422,1241,450"/>
+<area shape="rect" id="node65" href="$classQgsLabelSearchTree.html" title="A class to query the labeling structure at a given point (small wraper around pal RTree class) ..." alt="" coords="747,422,899,450"/>
+<area shape="rect" id="node71" href="$classQgsError.html" title="QgsError is container for error messages (report). " alt="" coords="81,665,159,693"/>
+<area shape="rect" id="node74" href="$classQgsObjectCustomProperties.html" title="Simple key&#45;value store (keys = strings, values = variants) that supports loading/saving to/from XML i..." alt="" coords="19,614,221,642"/>
+</map>

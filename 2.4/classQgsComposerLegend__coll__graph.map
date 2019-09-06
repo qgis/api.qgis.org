@@ -1,0 +1,7 @@
+<map id="QgsComposerLegend" name="QgsComposerLegend">
+<area shape="rect" id="node2" href="$classQgsComposerItem.html" title="A item that forms part of a map composition. " alt="" coords="161,99,303,127"/>
+<area shape="rect" id="node10" href="$classQgsComposerMap.html" title="Object representing map window. " alt="" coords="163,179,301,207"/>
+<area shape="rect" id="node8" href="$classQgsComposition.html" title="Graphics scene for map printing. " alt="" coords="5,273,131,301"/>
+<area shape="rect" id="node13" href="$classQgsComposerEffect.html" title="QgsComposerEffect" alt="" coords="328,6,477,34"/>
+<area shape="rect" id="node15" href="$classQgsLegendModel.html" title="A model that provides group, layer and classification items. " alt="" coords="395,179,525,207"/>
+</map>

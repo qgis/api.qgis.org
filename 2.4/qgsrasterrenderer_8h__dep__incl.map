@@ -1,0 +1,23 @@
+<map id="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/raster/qgsrasterrenderer.h" name="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/raster/qgsrasterrenderer.h">
+<area shape="rect" id="node3" href="$qgsmultibandcolorrenderer_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsmultibandcolorrenderer.h" alt="" coords="596,225,807,285"/>
+<area shape="rect" id="node13" href="$qgspalettedrasterrenderer_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgspalettedrasterrenderer.h" alt="" coords="831,225,1036,285"/>
+<area shape="rect" id="node21" href="$qgsrasterpipe_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterpipe.h" alt="" coords="1580,115,1772,175"/>
+<area shape="rect" id="node36" href="$qgssinglebandcolordatarenderer_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgssinglebandcolordatarenderer.h" alt="" coords="329,225,572,285"/>
+<area shape="rect" id="node42" href="$qgssinglebandgrayrenderer_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgssinglebandgrayrenderer.h" alt="" coords="1060,225,1271,285"/>
+<area shape="rect" id="node49" href="$qgssinglebandpseudocolorrenderer_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgssinglebandpseudocolorrenderer.h" alt="" coords="1295,225,1556,285"/>
+<area shape="rect" id="node56" href="$qgsrasterrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterrenderer.cpp" alt="" coords="1796,115,1988,175"/>
+<area shape="rect" id="node5" href="$qgsmultibandcolorrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsmultibandcolorrenderer.cpp" alt="" coords="288,334,512,394"/>
+<area shape="rect" id="node7" href="$qgsrasterlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterlayer.cpp" alt="" coords="1019,334,1211,394"/>
+<area shape="rect" id="node9" href="$qgsrasterrendererregistry_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterrendererregistry.cpp" alt="" coords="536,334,749,394"/>
+<area shape="rect" id="node11" href="$qgsmultibandcolorrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/gui/raster\l/qgsmultibandcolorrendererwidget.cpp" alt="" coords="1235,334,1501,394"/>
+<area shape="rect" id="node15" href="$qgspalettedrasterrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgspalettedrasterrenderer.cpp" alt="" coords="773,334,995,394"/>
+<area shape="rect" id="node19" href="$qgspalettedrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/gui/raster\l/qgspalettedrendererwidget.cpp" alt="" coords="1776,334,2000,394"/>
+<area shape="rect" id="node23" href="$qgsrasterlayer_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterlayer.h" alt="" coords="2012,225,2204,285"/>
+<area shape="rect" id="node32" href="$qgsrasterfilewriter_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterfilewriter.h" alt="" coords="1796,225,1988,285"/>
+<area shape="rect" id="node34" href="$qgsrasterpipe_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterpipe.cpp" alt="" coords="1580,225,1772,285"/>
+<area shape="rect" id="node28" href="$qgssinglebandgrayrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/gui/raster\l/qgssinglebandgrayrendererwidget.cpp" alt="" coords="2024,334,2293,394"/>
+<area shape="rect" id="node30" href="$qgssinglebandpseudocolorrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/gui/raster\l/qgssinglebandpseudocolorrendererwidget.cpp" alt="" coords="2619,334,2936,394"/>
+<area shape="rect" id="node40" href="$qgssinglebandcolordatarenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgssinglebandcolordatarenderer.cpp" alt="" coords="5,334,264,394"/>
+<area shape="rect" id="node46" href="$qgssinglebandgrayrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgssinglebandgrayrenderer.cpp" alt="" coords="1525,334,1752,394"/>
+<area shape="rect" id="node53" href="$qgssinglebandpseudocolorrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgssinglebandpseudocolorrenderer.cpp" alt="" coords="2317,334,2595,394"/>
+</map>

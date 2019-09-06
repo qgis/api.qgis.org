@@ -1,0 +1,9 @@
+<map id="QgsComposerPicture" name="QgsComposerPicture">
+<area shape="rect" id="node2" href="$classQgsComposerItem.html" title="A item that forms part of a map composition. " alt="" coords="265,163,407,191"/>
+<area shape="rect" id="node10" href="$classQgsComposerMap.html" title="Object representing map window. " alt="" coords="545,163,684,191"/>
+<area shape="rect" id="node8" href="$classQgsComposition.html" title="Graphics scene for map printing. " alt="" coords="848,206,973,234"/>
+<area shape="rect" id="node13" href="$classQgsComposerEffect.html" title="QgsComposerEffect" alt="" coords="5,214,155,242"/>
+<area shape="rect" id="node16" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;). " alt="" coords="557,51,672,79"/>
+<area shape="rect" id="node18" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator. " alt="" coords="269,5,403,33"/>
+<area shape="rect" id="node20" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="257,55,415,83"/>
+</map>

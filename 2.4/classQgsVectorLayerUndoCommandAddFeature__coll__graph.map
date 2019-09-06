@@ -1,0 +1,7 @@
+<map id="QgsVectorLayerUndoCommandAddFeature" name="QgsVectorLayerUndoCommandAddFeature">
+<area shape="rect" id="node2" href="$classQgsVectorLayerUndoCommand.html" title="QgsVectorLayerUndoCommand" alt="" coords="139,99,363,127"/>
+<area shape="rect" id="node6" href="$classQgsVectorLayerEditBuffer.html" title="QgsVectorLayerEditBuffer" alt="" coords="163,6,347,34"/>
+<area shape="rect" id="node8" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="387,99,480,127"/>
+<area shape="rect" id="node10" href="$classQgsGeometry.html" title="QgsGeometry" alt="" coords="373,6,483,34"/>
+<area shape="rect" id="node12" href="$classQgsFields.html" title="Container of fields for a vector layer. " alt="" coords="507,6,589,34"/>
+</map>

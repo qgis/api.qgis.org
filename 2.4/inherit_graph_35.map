@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$classQgsDetailedItemWidget.html" title="A widget renderer for detailed item views. " alt="" coords="319,5,489,33"/>
+<area shape="rect" id="node6" href="$classQgsExpressionBuilderWidget.html" title="A reusable widget that can be used to build a expression string. " alt="" coords="303,55,505,83"/>
+<area shape="rect" id="node9" href="$classQgsMultiBandColorRendererWidget.html" title="QgsMultiBandColorRenderer\lWidget" alt="" coords="572,439,772,483"/>
+<area shape="rect" id="node12" href="$classQgsPalettedRendererWidget.html" title="QgsPalettedRendererWidget" alt="" coords="573,531,771,559"/>
+<area shape="rect" id="node15" href="$classQgsProjectionSelector.html" title="A widget for selecting a Coordinate reference system from a tree. " alt="" coords="323,106,485,134"/>
+<area shape="rect" id="node18" href="$classQgsRasterFormatSaveOptionsWidget.html" title="A widget to select format&#45;specific raster saving options. " alt="" coords="297,157,511,201"/>
+<area shape="rect" id="node21" href="$classQgsRasterHistogramWidget.html" title="Histogram widget. " alt="" coords="305,223,503,251"/>
+<area shape="rect" id="node24" href="$classQgsRasterMinMaxWidget.html" title="QgsRasterMinMaxWidget" alt="" coords="315,797,493,825"/>
+<area shape="rect" id="node27" href="$classQgsRasterPyramidsOptionsWidget.html" title="A widget to select format&#45;specific raster saving options. " alt="" coords="307,847,501,891"/>
+<area shape="rect" id="node30" href="$classQgsRelationManagerDialog.html" title="QgsRelationManagerDialog" alt="" coords="308,914,500,942"/>
+<area shape="rect" id="node33" href="$classQgsSingleBandGrayRendererWidget.html" title="QgsSingleBandGrayRenderer\lWidget" alt="" coords="569,767,775,811"/>
+<area shape="rect" id="node36" href="$classQgsSingleBandPseudoColorRendererWidget.html" title="QgsSingleBandPseudoColor\lRendererWidget" alt="" coords="573,933,771,977"/>
+<area shape="rect" id="node39" href="$classQgsUnitSelectionWidget.html" title="Widget displaying a combobox allowing the user to choose between millimeter and map units If the user..." alt="" coords="317,1098,491,1126"/>
+<area shape="rect" id="node42" href="$classQgsAttributeForm.html" title="QgsAttributeForm" alt="" coords="336,695,472,723"/>
+<area shape="rect" id="node44" href="$classQgsComposerRuler.html" title="A class to show paper scale and the current cursor position. " alt="" coords="332,746,476,774"/>
+<area shape="rect" id="node48" href="$classQgsFieldExpressionWidget.html" title="The QgsFieldExpressionWidget class reates a widget to choose fields and edit expressions It contains ..." alt="" coords="311,274,497,302"/>
+<area shape="rect" id="node50" href="$classQgsMapOverviewCanvas.html" title="A widget that displays an overview map. " alt="" coords="315,325,493,353"/>
+<area shape="rect" id="node52" href="$classQgsMessageBarItem.html" title="QgsMessageBarItem" alt="" coords="327,375,481,403"/>
+<area shape="rect" id="node54" href="$classQgsPanningWidget.html" title="widget that serves as rectangle showing current extent in overview " alt="" coords="335,594,473,622"/>
+<area shape="rect" id="node61" href="$classQgsRasterRendererWidget.html" title="QgsRasterRendererWidget" alt="" coords="311,543,497,571"/>
+<area shape="rect" id="node68" href="$classQgsScaleRangeWidget.html" title="QgsScaleRangeWidget" alt="" coords="321,645,487,673"/>
+</map>

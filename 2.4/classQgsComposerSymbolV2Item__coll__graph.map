@@ -1,0 +1,5 @@
+<map id="QgsComposerSymbolV2Item" name="QgsComposerSymbolV2Item">
+<area shape="rect" id="node2" href="$classQgsComposerLegendItem.html" title="Abstract base class for the legend item types. " alt="" coords="5,99,195,127"/>
+<area shape="rect" id="node6" href="$classQgsSymbolV2.html" title="QgsSymbolV2" alt="" coords="219,99,331,127"/>
+<area shape="rect" id="node8" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="213,6,336,34"/>
+</map>

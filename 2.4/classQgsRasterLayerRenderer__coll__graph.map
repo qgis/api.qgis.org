@@ -1,0 +1,9 @@
+<map id="QgsRasterLayerRenderer" name="QgsRasterLayerRenderer">
+<area shape="rect" id="node2" href="$classQgsMapLayerRenderer.html" title="Base class for utility classes that encapsulate information necessary for rendering of map layers..." alt="" coords="5,115,171,143"/>
+<area shape="rect" id="node4" href="$structQgsRasterViewPort.html" title="This class provides details of the viewable area that a raster will be rendered into. " alt="" coords="195,115,336,143"/>
+<area shape="rect" id="node6" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="81,6,191,34"/>
+<area shape="rect" id="node8" href="$classQgsPoint.html" title="A class to represent a point geometry. " alt="" coords="227,6,304,34"/>
+<area shape="rect" id="node10" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS) " alt="" coords="328,6,557,34"/>
+<area shape="rect" id="node12" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates. " alt="" coords="360,115,475,143"/>
+<area shape="rect" id="node14" href="$classQgsRasterPipe.html" title="Base class for processing modules. " alt="" coords="499,115,613,143"/>
+</map>

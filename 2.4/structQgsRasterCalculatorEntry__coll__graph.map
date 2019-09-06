@@ -1,0 +1,7 @@
+<map id="QgsRasterCalculatorEntry" name="QgsRasterCalculatorEntry">
+<area shape="rect" id="node2" href="$classQgsRasterLayer.html" title="This class provides qgis with the ability to render raster datasets onto the mapcanvas. " alt="" coords="224,99,347,127"/>
+<area shape="rect" id="node4" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="5,6,115,34"/>
+<area shape="rect" id="node6" href="$structQgsRasterViewPort.html" title="This class provides details of the viewable area that a raster will be rendered into. " alt="" coords="139,6,280,34"/>
+<area shape="rect" id="node8" href="$classQgsRasterPipe.html" title="Base class for processing modules. " alt="" coords="304,6,419,34"/>
+<area shape="rect" id="node10" href="$classQgsRasterDataProvider.html" title="Base class for raster data providers. " alt="" coords="443,6,613,34"/>
+</map>

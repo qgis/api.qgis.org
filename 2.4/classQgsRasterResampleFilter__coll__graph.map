@@ -1,0 +1,4 @@
+<map id="QgsRasterResampleFilter" name="QgsRasterResampleFilter">
+<area shape="rect" id="node2" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc. " alt="" coords="5,6,149,34"/>
+<area shape="rect" id="node5" href="$classQgsRasterResampler.html" title="Interface for resampling rasters (e.g. " alt="" coords="247,6,401,34"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="QgsMapCanvasItem" name="QgsMapCanvasItem">
+<area shape="rect" id="node10" href="$classQgsMapCanvasMap.html" title="A rectangular graphics item representing the map on the canvas. " alt="" coords="664,381,811,409"/>
+<area shape="rect" id="node4" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="9,319,119,347"/>
+<area shape="rect" id="node13" href="$classQgsMapRendererCache.html" title="This class is responsible for keeping cache of rendered images of individual layers. " alt="" coords="443,483,613,511"/>
+<area shape="rect" id="node16" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter. " alt="" coords="672,101,803,129"/>
+<area shape="rect" id="node19" href="$classQgsMapSettings.html" title="The QgsMapSettings class contains configuration for rendering of the map. " alt="" coords="280,137,405,165"/>
+<area shape="rect" id="node37" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="473,319,583,347"/>
+<area shape="rect" id="node6" href="$classQgsMapCanvas.html" title="Map canvas is a class for displaying all GIS data types on a canvas. " alt="" coords="1004,258,1124,286"/>
+<area shape="rect" id="node27" href="$classQgsMapOverviewCanvas.html" title="A widget that displays an overview map. " alt="" coords="1336,55,1515,83"/>
+<area shape="rect" id="node32" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="1376,257,1475,285"/>
+<area shape="rect" id="node22" href="$classQgsPreviewEffect.html" title="A graphics effect which can be applied to a widget to simulate various printing and color blindness m..." alt="" coords="672,559,803,587"/>
+<area shape="rect" id="node24" href="$classQgsMapRendererQImageJob.html" title="Intermediate base class adding functionality that allows client to query the rendered image..." alt="" coords="637,41,837,69"/>
+<area shape="rect" id="node35" href="$classQgsLabelingResults.html" title="Class that stores computed placement from labeling engine. " alt="" coords="665,151,809,179"/>
+</map>

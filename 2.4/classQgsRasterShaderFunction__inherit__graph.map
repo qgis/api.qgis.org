@@ -1,0 +1,4 @@
+<map id="QgsRasterShaderFunction" name="QgsRasterShaderFunction">
+<area shape="rect" id="node3" href="$classQgsColorRampShader.html" title="A ramp shader will color a raster pixel based on a list of values ranges in a ramp. " alt="" coords="5,83,168,111"/>
+<area shape="rect" id="node5" href="$classQgsPseudoColorShader.html" title="A raster color shader that highlighs low values in blue and high values in red. " alt="" coords="192,83,365,111"/>
+</map>

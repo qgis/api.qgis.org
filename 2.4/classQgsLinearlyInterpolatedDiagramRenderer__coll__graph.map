@@ -1,0 +1,5 @@
+<map id="QgsLinearlyInterpolatedDiagramRenderer" name="QgsLinearlyInterpolatedDiagramRenderer">
+<area shape="rect" id="node2" href="$classQgsDiagramRendererV2.html" title="Returns diagram settings for a feature. " alt="" coords="5,6,181,34"/>
+<area shape="rect" id="node4" href="$classQgsDiagramInterpolationSettings.html" title="QgsDiagramInterpolationSettings" alt="" coords="205,6,440,34"/>
+<area shape="rect" id="node6" href="$classQgsDiagramSettings.html" title="QgsDiagramSettings" alt="" coords="464,6,619,34"/>
+</map>

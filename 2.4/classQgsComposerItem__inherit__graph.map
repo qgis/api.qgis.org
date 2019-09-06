@@ -1,0 +1,15 @@
+<map id="QgsComposerItem" name="QgsComposerItem">
+<area shape="rect" id="node7" href="$classQgsComposerArrow.html" title="An item that draws an arrow between to points. " alt="" coords="405,5,555,33"/>
+<area shape="rect" id="node9" href="$classQgsComposerFrame.html" title="Frame for html, table, text which can be divided onto several frames. " alt="" coords="404,55,556,83"/>
+<area shape="rect" id="node11" href="$classQgsComposerItemGroup.html" title="A container for grouping several QgsComposerItems. " alt="" coords="389,106,571,134"/>
+<area shape="rect" id="node13" href="$classQgsComposerLabel.html" title="A label that can be placed onto a map composition. " alt="" coords="407,157,553,185"/>
+<area shape="rect" id="node15" href="$classQgsComposerLegend.html" title="A legend that can be placed onto a map composition. " alt="" coords="400,207,560,235"/>
+<area shape="rect" id="node17" href="$classQgsComposerMap.html" title="Object representing map window. " alt="" coords="411,258,549,286"/>
+<area shape="rect" id="node19" href="$classQgsComposerPicture.html" title="A composer class that displays svg files or raster format (jpg, png, ...) " alt="" coords="401,309,559,337"/>
+<area shape="rect" id="node21" href="$classQgsComposerScaleBar.html" title="A scale bar item that can be added to a map composition. " alt="" coords="395,359,565,387"/>
+<area shape="rect" id="node23" href="$classQgsComposerShape.html" title="A composer items that draws common shapes (ellipse, triangle, rectangle) " alt="" coords="403,410,557,438"/>
+<area shape="rect" id="node25" href="$classQgsComposerTable.html" title="A class to display feature attributes in the print composer. " alt="" coords="408,461,552,489"/>
+<area shape="rect" id="node31" href="$classQgsPaperItem.html" title="Item representing the paper. " alt="" coords="424,511,536,539"/>
+<area shape="rect" id="node27" href="$classQgsComposerAttributeTable.html" title="A table class that displays a vector attribute table. " alt="" coords="620,435,820,463"/>
+<area shape="rect" id="node29" href="$classQgsComposerTextTable.html" title="A text table item that reads text from string lists. " alt="" coords="635,486,805,514"/>
+</map>

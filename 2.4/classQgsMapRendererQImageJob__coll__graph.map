@@ -1,0 +1,5 @@
+<map id="QgsMapRendererQImageJob" name="QgsMapRendererQImageJob">
+<area shape="rect" id="node2" href="$classQgsMapRendererJob.html" title="Abstract base class for map rendering implementations. " alt="" coords="51,179,200,207"/>
+<area shape="rect" id="node6" href="$classQgsMapRendererCache.html" title="This class is responsible for keeping cache of rendered images of individual layers. " alt="" coords="40,86,211,114"/>
+<area shape="rect" id="node9" href="$classQgsMapSettings.html" title="The QgsMapSettings class contains configuration for rendering of the map. " alt="" coords="235,86,360,114"/>
+</map>

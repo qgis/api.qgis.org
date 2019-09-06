@@ -1,0 +1,5 @@
+<map id="LinTriangleInterpolator" name="LinTriangleInterpolator">
+<area shape="rect" id="node2" href="$classTriangleInterpolator.html" title="This is an interface for interpolator classes for triangulations. " alt="" coords="5,6,149,34"/>
+<area shape="rect" id="node4" href="$classDualEdgeTriangulation.html" title="DualEdgeTriangulation is an implementation of a triangulation class based on the dual edge data struc..." alt="" coords="135,99,297,127"/>
+<area shape="rect" id="node6" href="$classTriangulation.html" title="Interface for Triangulation classes. " alt="" coords="229,6,331,34"/>
+</map>

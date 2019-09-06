@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$classQgsBrowserModel.html" title="QgsBrowserModel" alt="" coords="232,5,368,33"/>
+<area shape="rect" id="node5" href="$classQgsCptCityBrowserModel.html" title="QgsCptCityBrowserModel" alt="" coords="209,55,391,83"/>
+<area shape="rect" id="node7" href="$classQgsFieldModel.html" title="The QgsFieldModel class is a model to display the list of fields of a layer in widgets. " alt="" coords="244,106,356,134"/>
+<area shape="rect" id="node9" href="$classQgsMapLayerModel.html" title="The QgsMapLayerModel class is a model to display layers in widgets. " alt="" coords="227,157,373,185"/>
+</map>

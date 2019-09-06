@@ -1,0 +1,15 @@
+<map id="QgsVectorLayerCache" name="QgsVectorLayerCache">
+<area shape="rect" id="node6" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="332,31,441,59"/>
+<area shape="rect" id="node19" href="$classQgsVectorLayerEditBuffer.html" title="QgsVectorLayerEditBuffer" alt="" coords="945,182,1129,210"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="693,275,816,303"/>
+<area shape="rect" id="node23" href="$classQgsAttributeAction.html" title="Storage and management of actions associated with Qgis layer attributes. " alt="" coords="967,298,1108,326"/>
+<area shape="rect" id="node9" href="$classQgsDiagramLayerSettings.html" title="QgsDiagramLayerSettings" alt="" coords="292,197,481,225"/>
+<area shape="rect" id="node11" href="$classQgsFields.html" title="Container of fields for a vector layer. " alt="" coords="52,171,135,199"/>
+<area shape="rect" id="node30" href="$classQgsLabel.html" title="A class to render labels. " alt="" coords="347,247,427,275"/>
+<area shape="rect" id="node13" href="$classQgsDiagramRendererV2.html" title="Returns diagram settings for a feature. " alt="" coords="5,286,181,314"/>
+<area shape="rect" id="node15" href="$classQgsGeometryCache.html" title="QgsGeometryCache" alt="" coords="312,362,461,390"/>
+<area shape="rect" id="node17" href="$classQgsFeatureRendererV2.html" title="QgsFeatureRendererV2" alt="" coords="303,413,471,441"/>
+<area shape="rect" id="node26" href="$classQgsVectorSimplifyMethod.html" title="This class contains information how to simplify geometries fetched from a vector layer. " alt="" coords="293,463,480,491"/>
+<area shape="rect" id="node28" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers. " alt="" coords="301,514,472,542"/>
+<area shape="rect" id="node35" href="$classQgsVectorLayerJoinBuffer.html" title="Manages joined fields for a vector layer. " alt="" coords="296,565,477,593"/>
+</map>

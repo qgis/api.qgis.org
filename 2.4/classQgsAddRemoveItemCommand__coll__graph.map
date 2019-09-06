@@ -1,0 +1,5 @@
+<map id="QgsAddRemoveItemCommand" name="QgsAddRemoveItemCommand">
+<area shape="rect" id="node6" href="$classQgsComposerItem.html" title="A item that forms part of a map composition. " alt="" coords="273,99,415,127"/>
+<area shape="rect" id="node11" href="$classQgsComposition.html" title="Graphics scene for map printing. " alt="" coords="443,6,568,34"/>
+<area shape="rect" id="node13" href="$classQgsComposerEffect.html" title="QgsComposerEffect" alt="" coords="101,6,251,34"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="QgsAttributeTableModel" name="QgsAttributeTableModel">
+<area shape="rect" id="node4" href="$classQgsVectorLayerCache.html" title="This class caches features of a given QgsVectorLayer. " alt="" coords="587,55,749,83"/>
+<area shape="rect" id="node8" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="287,55,409,83"/>
+<area shape="rect" id="node10" href="$classQgsFields.html" title="Container of fields for a vector layer. " alt="" coords="20,77,103,105"/>
+<area shape="rect" id="node20" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="301,107,395,135"/>
+<area shape="rect" id="node12" href="$classQgsFeatureRequest.html" title="This class wraps a request for features to a vector layer (or directly its vector data provider)..." alt="" coords="595,193,741,221"/>
+<area shape="rect" id="node14" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="293,158,403,186"/>
+<area shape="rect" id="node16" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;). " alt="" coords="291,209,405,237"/>
+<area shape="rect" id="node18" href="$classQgsSimplifyMethod.html" title="This class contains information about how to simplify geometries fetched from a QgsFeatureIterator. " alt="" coords="276,259,420,287"/>
+<area shape="rect" id="node22" href="$classQgsGeometry.html" title="QgsGeometry" alt="" coords="7,149,116,177"/>
+</map>

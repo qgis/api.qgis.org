@@ -1,0 +1,6 @@
+<map id="QgsComposerAttributeTable" name="QgsComposerAttributeTable">
+<area shape="rect" id="node2" href="$classQgsComposerTable.html" title="A class to display feature attributes in the print composer. " alt="" coords="5,86,149,114"/>
+<area shape="rect" id="node4" href="$classQgsComposerItem.html" title="A item that forms part of a map composition. " alt="" coords="105,6,247,34"/>
+<area shape="rect" id="node8" href="$classQgsComposerMap.html" title="Object representing map window. " alt="" coords="173,86,312,114"/>
+<area shape="rect" id="node6" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="336,86,459,114"/>
+</map>

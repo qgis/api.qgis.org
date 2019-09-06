@@ -1,0 +1,17 @@
+<map id="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/raster/qgsrasternuller.h" name="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/raster/qgsrasternuller.h">
+<area shape="rect" id="node3" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="1031,115,1204,143"/>
+<area shape="rect" id="node44" href="$qgsrasterinterface_8h.html" title="qgsrasterinterface.h" alt="" coords="1531,193,1680,221"/>
+<area shape="rect" id="node53" href="$qgsrasterrange_8h.html" title="qgsrasterrange.h" alt="" coords="5,193,136,221"/>
+<area shape="rect" id="node13" href="$qgscolorrampshader_8h.html" title="qgscolorrampshader.h" alt="" coords="1309,347,1475,375"/>
+<area shape="rect" id="node15" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="261,193,493,221"/>
+<area shape="rect" id="node17" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="805,193,941,221"/>
+<area shape="rect" id="node20" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="211,270,296,298"/>
+<area shape="rect" id="node25" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1067,193,1168,221"/>
+<area shape="rect" id="node29" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1127,270,1209,298"/>
+<area shape="rect" id="node33" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1384,270,1480,298"/>
+<area shape="rect" id="node35" href="$qgsrasterbandstats_8h.html" title="qgsrasterbandstats.h" alt="" coords="1504,270,1661,298"/>
+<area shape="rect" id="node38" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1640,347,1757,375"/>
+<area shape="rect" id="node40" href="$qgsraster_8h.html" title="qgsraster.h" alt="" coords="517,193,611,221"/>
+<area shape="rect" id="node42" href="$qgsrasterhistogram_8h.html" title="qgsrasterhistogram.h" alt="" coords="1736,270,1896,298"/>
+<area shape="rect" id="node51" href="$qgsrasterpyramid_8h.html" title="qgsrasterpyramid.h" alt="" coords="635,193,781,221"/>
+</map>

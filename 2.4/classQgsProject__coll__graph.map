@@ -1,0 +1,4 @@
+<map id="QgsProject" name="QgsProject">
+<area shape="rect" id="node6" href="$classQgsRelationManager.html" title="This class manages a set of relations between layers. " alt="" coords="9,193,161,221"/>
+<area shape="rect" id="node4" href="$classQgsProjectBadLayerHandler.html" title="Interface for classes that handle missing layer files when reading project file. " alt="" coords="101,6,301,34"/>
+</map>

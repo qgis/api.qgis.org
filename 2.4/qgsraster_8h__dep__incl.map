@@ -1,0 +1,25 @@
+<map id="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/raster/qgsraster.h" name="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/raster/qgsraster.h">
+<area shape="rect" id="node3" href="$qgsrasterdataprovider_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterdataprovider.h" alt="" coords="1525,115,1717,175"/>
+<area shape="rect" id="node10" href="$qgsrasterlayer_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterlayer.h" alt="" coords="1521,443,1713,503"/>
+<area shape="rect" id="node49" href="$qgsrasteridentifyresult_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasteridentifyresult.h" alt="" coords="2667,225,2859,285"/>
+<area shape="rect" id="node67" href="$qgsraster_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsraster.cpp" alt="" coords="2984,115,3176,175"/>
+<area shape="rect" id="node5" href="$qgsbrightnesscontrastfilter_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsbrightnesscontrastfilter.cpp" alt="" coords="532,334,753,394"/>
+<area shape="rect" id="node7" href="$qgsbrightnesscontrastfilter_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsbrightnesscontrastfilter.h" alt="" coords="560,225,768,285"/>
+<area shape="rect" id="node12" href="$qgsrasterchecker_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterchecker.cpp" alt="" coords="2575,553,2767,613"/>
+<area shape="rect" id="node14" href="$qgsrasterlayersaveasdialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/gui/qgsrasterlayersaveasdialog.cpp" alt="" coords="248,561,595,605"/>
+<area shape="rect" id="node16" href="$qgsrasterrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/gui/raster\l/qgsrasterrendererwidget.cpp" alt="" coords="1788,553,1999,613"/>
+<area shape="rect" id="node18" href="$qgsrasterpipe_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterpipe.h" alt="" coords="905,334,1097,394"/>
+<area shape="rect" id="node21" href="$qgsrasterfilewriter_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterfilewriter.h" alt="" coords="683,443,875,503"/>
+<area shape="rect" id="node23" href="$qgshuesaturationfilter_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgshuesaturationfilter.cpp" alt="" coords="1388,334,1580,394"/>
+<area shape="rect" id="node25" href="$qgshuesaturationfilter_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgshuesaturationfilter.h" alt="" coords="1325,225,1517,285"/>
+<area shape="rect" id="node30" href="$qgsrasterrenderer_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterrenderer.h" alt="" coords="792,225,984,285"/>
+<area shape="rect" id="node36" href="$qgsrasternuller_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasternuller.h" alt="" coords="1059,225,1251,285"/>
+<area shape="rect" id="node39" href="$qgsrasternuller_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasternuller.cpp" alt="" coords="1121,334,1313,394"/>
+<area shape="rect" id="node41" href="$qgsrasterresamplefilter_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterresamplefilter.h" alt="" coords="1592,225,1784,285"/>
+<area shape="rect" id="node45" href="$qgsrasterresamplefilter_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterresamplefilter.cpp" alt="" coords="1655,334,1855,394"/>
+<area shape="rect" id="node47" href="$qgsrasterdataprovider_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterdataprovider.cpp" alt="" coords="2447,334,2641,394"/>
+<area shape="rect" id="node52" href="$qgsrasteridentifyresult_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasteridentifyresult.cpp" alt="" coords="2665,334,2860,394"/>
+<area shape="rect" id="node57" href="$qgsrasterprojector_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterprojector.cpp" alt="" coords="1960,225,2152,285"/>
+<area shape="rect" id="node60" href="$qgsrasterformatsaveoptionswidget_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/gui/qgsrasterformatsaveoptionswidget.h" alt="" coords="5,451,384,495"/>
+<area shape="rect" id="node64" href="$qgsrasterpyramidsoptionswidget_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/gui/qgsrasterpyramidsoptionswidget.h" alt="" coords="2176,233,2541,277"/>
+</map>

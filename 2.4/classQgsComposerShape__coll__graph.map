@@ -1,0 +1,6 @@
+<map id="QgsComposerShape" name="QgsComposerShape">
+<area shape="rect" id="node2" href="$classQgsComposerItem.html" title="A item that forms part of a map composition. " alt="" coords="261,193,403,221"/>
+<area shape="rect" id="node8" href="$classQgsComposition.html" title="Graphics scene for map printing. " alt="" coords="269,99,395,127"/>
+<area shape="rect" id="node10" href="$classQgsFillSymbolV2.html" title="QgsFillSymbolV2" alt="" coords="437,6,563,34"/>
+<area shape="rect" id="node12" href="$classQgsComposerEffect.html" title="QgsComposerEffect" alt="" coords="419,99,568,127"/>
+</map>

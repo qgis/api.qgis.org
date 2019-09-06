@@ -1,0 +1,6 @@
+<map id="QgsGmlSchema" name="QgsGmlSchema">
+<area shape="rect" id="node4" href="$classQgsError.html" title="QgsError is container for error messages (report). " alt="" coords="101,99,179,127"/>
+<area shape="rect" id="node6" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="203,99,296,127"/>
+<area shape="rect" id="node8" href="$classQgsGeometry.html" title="QgsGeometry" alt="" coords="135,6,244,34"/>
+<area shape="rect" id="node10" href="$classQgsFields.html" title="Container of fields for a vector layer. " alt="" coords="268,6,351,34"/>
+</map>

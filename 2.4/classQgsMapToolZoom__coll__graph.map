@@ -1,0 +1,6 @@
+<map id="QgsMapToolZoom" name="QgsMapToolZoom">
+<area shape="rect" id="node2" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="32,86,131,114"/>
+<area shape="rect" id="node6" href="$classQgsMapCanvas.html" title="Map canvas is a class for displaying all GIS data types on a canvas. " alt="" coords="89,195,209,223"/>
+<area shape="rect" id="node11" href="$classQgsMapCanvasItem.html" title="An abstract class for items that can be placed on the map canvas. " alt="" coords="75,289,224,317"/>
+<area shape="rect" id="node9" href="$classQgsRubberBand.html" title="A class for drawing transient features (e.g. " alt="" coords="77,369,200,397"/>
+</map>

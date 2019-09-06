@@ -1,0 +1,5 @@
+<map id="QgsScaleVisibilityDialog" name="QgsScaleVisibilityDialog">
+<area shape="rect" id="node4" href="$classQgsScaleRangeWidget.html" title="QgsScaleRangeWidget" alt="" coords="105,115,271,143"/>
+<area shape="rect" id="node8" href="$classQgsMapCanvas.html" title="Map canvas is a class for displaying all GIS data types on a canvas. " alt="" coords="128,6,248,34"/>
+<area shape="rect" id="node10" href="$classQgsScaleComboBox.html" title="A combobox which lets the user select map scale from predefined list and highlights nearest to curren..." alt="" coords="272,6,424,34"/>
+</map>

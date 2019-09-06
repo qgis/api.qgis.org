@@ -1,0 +1,9 @@
+<map id="QgsMapRendererSequentialJob" name="QgsMapRendererSequentialJob">
+<area shape="rect" id="node2" href="$classQgsMapRendererQImageJob.html" title="Intermediate base class adding functionality that allows client to query the rendered image..." alt="" coords="5,286,205,314"/>
+<area shape="rect" id="node4" href="$classQgsMapRendererJob.html" title="Abstract base class for map rendering implementations. " alt="" coords="31,193,180,221"/>
+<area shape="rect" id="node10" href="$classQgsMapRendererCustomPainterJob.html" title="Job implementation that renders everything sequentially using a custom painter. " alt="" coords="229,286,472,314"/>
+<area shape="rect" id="node6" href="$classQgsLabelingResults.html" title="Class that stores computed placement from labeling engine. " alt="" coords="445,99,589,127"/>
+<area shape="rect" id="node15" href="$classQgsPalLabeling.html" title="QgsPalLabeling" alt="" coords="204,193,321,221"/>
+<area shape="rect" id="node8" href="$classQgsLabelSearchTree.html" title="A class to query the labeling structure at a given point (small wraper around pal RTree class) ..." alt="" coords="441,6,593,34"/>
+<area shape="rect" id="node13" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation. " alt="" coords="345,193,487,221"/>
+</map>

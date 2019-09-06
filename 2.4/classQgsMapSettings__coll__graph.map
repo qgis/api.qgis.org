@@ -1,0 +1,7 @@
+<map id="QgsMapSettings" name="QgsMapSettings">
+<area shape="rect" id="node2" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor dpi. " alt="" coords="379,7,525,35"/>
+<area shape="rect" id="node4" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="397,67,507,95"/>
+<area shape="rect" id="node6" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates. " alt="" coords="395,118,509,146"/>
+<area shape="rect" id="node8" href="$classQgsDatumTransformStore.html" title="The QgsDatumTransformStore class keeps track of datum transformations as chosen by the user..." alt="" coords="357,233,547,261"/>
+<area shape="rect" id="node10" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS) " alt="" coords="5,195,235,223"/>
+</map>

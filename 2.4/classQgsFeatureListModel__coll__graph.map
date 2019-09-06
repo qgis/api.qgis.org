@@ -1,0 +1,9 @@
+<map id="QgsFeatureListModel" name="QgsFeatureListModel">
+<area shape="rect" id="node4" href="$classQgsFeatureModel.html" title="QgsFeatureModel" alt="" coords="25,55,159,83"/>
+<area shape="rect" id="node12" href="$classQgsAttributeTableFilterModel.html" title="QgsAttributeTableFilterModel" alt="" coords="315,122,517,150"/>
+<area shape="rect" id="node6" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;). " alt="" coords="359,259,473,287"/>
+<area shape="rect" id="node8" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator. " alt="" coords="25,259,159,287"/>
+<area shape="rect" id="node10" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="13,310,171,338"/>
+<area shape="rect" id="node17" href="$classQgsAttributeTableModel.html" title="A model backed by a QgsVectorLayerCache which is able to provide feature/attribute information to a Q..." alt="" coords="5,158,179,186"/>
+<area shape="rect" id="node19" href="$classQgsMapCanvas.html" title="Map canvas is a class for displaying all GIS data types on a canvas. " alt="" coords="32,209,152,237"/>
+</map>

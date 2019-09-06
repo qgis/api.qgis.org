@@ -1,0 +1,5 @@
+<map id="QgsRasterFileWriter" name="QgsRasterFileWriter">
+<area shape="rect" id="node2" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS) " alt="" coords="5,6,235,34"/>
+<area shape="rect" id="node4" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc. " alt="" coords="259,6,403,34"/>
+<area shape="rect" id="node7" href="$classQgsRasterPipe.html" title="Base class for processing modules. " alt="" coords="500,6,615,34"/>
+</map>

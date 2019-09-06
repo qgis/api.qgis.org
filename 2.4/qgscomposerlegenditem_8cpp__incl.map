@@ -1,0 +1,33 @@
+<map id="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/composer/qgscomposerlegenditem.cpp" name="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/composer/qgscomposerlegenditem.cpp">
+<area shape="rect" id="node3" href="$qgscomposerlegendstyle_8h.html" title="qgscomposerlegendstyle.h" alt="" coords="1113,425,1308,453"/>
+<area shape="rect" id="node15" href="$qgscomposerlegenditem_8h.html" title="qgscomposerlegenditem.h" alt="" coords="1031,347,1223,375"/>
+<area shape="rect" id="node20" href="$qgscomposerlegend_8h.html" title="qgscomposerlegend.h" alt="" coords="1045,270,1208,298"/>
+<area shape="rect" id="node34" href="$qgsmaplayerregistry_8h.html" title="qgsmaplayerregistry.h" alt="" coords="540,425,703,453"/>
+<area shape="rect" id="node40" href="$qgsrasterlayer_8h.html" title="qgsrasterlayer.h" alt="" coords="2703,115,2828,143"/>
+<area shape="rect" id="node130" href="$qgsrendererv2_8h.html" title="qgsrendererv2.h" alt="" coords="3744,425,3869,453"/>
+<area shape="rect" id="node141" href="$qgssymbolv2_8h.html" title="qgssymbolv2.h" alt="" coords="727,425,844,453"/>
+<area shape="rect" id="node150" href="$qgssymbollayerv2utils_8h.html" title="qgssymbollayerv2utils.h" alt="" coords="203,347,376,375"/>
+<area shape="rect" id="node161" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1496,347,1621,375"/>
+<area shape="rect" id="node172" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="1708,425,1833,453"/>
+<area shape="rect" id="node23" href="$qgscomposeritem_8h.html" title="qgscomposeritem.h" alt="" coords="857,347,1007,375"/>
+<area shape="rect" id="node28" href="$qgslegendmodel_8h.html" title="qgslegendmodel.h" alt="" coords="327,425,465,453"/>
+<area shape="rect" id="node53" href="$qgis_8h.html" title="qgis.h" alt="" coords="2329,502,2388,530"/>
+<area shape="rect" id="node58" href="$qgsbrightnesscontrastfilter_8h.html" title="qgsbrightnesscontrastfilter.h" alt="" coords="2499,270,2701,298"/>
+<area shape="rect" id="node60" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="2652,347,2825,375"/>
+<area shape="rect" id="node64" href="$qgscolorrampshader_8h.html" title="qgscolorrampshader.h" alt="" coords="3165,425,3331,453"/>
+<area shape="rect" id="node68" href="$qgsrastershaderfunction_8h.html" title="qgsrastershaderfunction.h" alt="" coords="3336,502,3525,530"/>
+<area shape="rect" id="node80" href="$qgsraster_8h.html" title="qgsraster.h" alt="" coords="2359,425,2452,453"/>
+<area shape="rect" id="node84" href="$qgsrasterinterface_8h.html" title="qgsrasterinterface.h" alt="" coords="2483,425,2632,453"/>
+<area shape="rect" id="node88" href="$qgscontrastenhancement_8h.html" title="qgscontrastenhancement.h" alt="" coords="2955,193,3152,221"/>
+<area shape="rect" id="node91" href="$qgshuesaturationfilter_8h.html" title="qgshuesaturationfilter.h" alt="" coords="2776,270,2949,298"/>
+<area shape="rect" id="node95" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="2773,425,2888,453"/>
+<area shape="rect" id="node101" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1877,270,1965,298"/>
+<area shape="rect" id="node108" href="$qgsrasterpipe_8h.html" title="qgsrasterpipe.h" alt="" coords="2539,193,2661,221"/>
+<area shape="rect" id="node115" href="$qgsrasterresamplefilter_8h.html" title="qgsrasterresamplefilter.h" alt="" coords="2243,270,2424,298"/>
+<area shape="rect" id="node121" href="$qgsrastershader_8h.html" title="qgsrastershader.h" alt="" coords="3379,193,3517,221"/>
+<area shape="rect" id="node124" href="$qgsrastertransparency_8h.html" title="qgsrastertransparency.h" alt="" coords="2040,193,2216,221"/>
+<area shape="rect" id="node127" href="$qgsrasterviewport_8h.html" title="qgsrasterviewport.h" alt="" coords="1768,193,1915,221"/>
+<area shape="rect" id="node72" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1959,425,2060,453"/>
+<area shape="rect" id="node146" href="$qgsmapunitscale_8h.html" title="qgsmapunitscale.h" alt="" coords="117,502,259,530"/>
+<area shape="rect" id="node170" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="1484,425,1633,453"/>
+</map>

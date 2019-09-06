@@ -1,0 +1,4 @@
+<map id="QgsGPSDetector" name="QgsGPSDetector">
+<area shape="rect" id="node4" href="$classQgsGPSConnection.html" title="Abstract base class for connection to a GPS device. " alt="" coords="79,99,225,127"/>
+<area shape="rect" id="node7" href="$structQgsGPSInformation.html" title="QgsGPSInformation" alt="" coords="101,6,248,34"/>
+</map>

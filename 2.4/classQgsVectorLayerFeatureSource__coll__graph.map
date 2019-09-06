@@ -1,0 +1,5 @@
+<map id="QgsVectorLayerFeatureSource" name="QgsVectorLayerFeatureSource">
+<area shape="rect" id="node2" href="$classQgsAbstractFeatureSource.html" title="base class that can be used for any class that is capable of returning features " alt="" coords="5,6,200,34"/>
+<area shape="rect" id="node5" href="$classQgsFields.html" title="Container of fields for a vector layer. " alt="" coords="277,6,360,34"/>
+<area shape="rect" id="node7" href="$classQgsVectorLayerJoinBuffer.html" title="Manages joined fields for a vector layer. " alt="" coords="384,6,565,34"/>
+</map>

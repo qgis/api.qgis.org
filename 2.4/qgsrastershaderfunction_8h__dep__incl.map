@@ -1,0 +1,15 @@
+<map id="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/raster/qgsrastershaderfunction.h" name="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/raster/qgsrastershaderfunction.h">
+<area shape="rect" id="node3" href="$qgscolorrampshader_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgscolorrampshader.h" alt="" coords="396,115,588,175"/>
+<area shape="rect" id="node7" href="$qgsrasterlayer_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterlayer.h" alt="" coords="747,443,939,503"/>
+<area shape="rect" id="node22" href="$qgspseudocolorshader_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgspseudocolorshader.h" alt="" coords="1365,115,1557,175"/>
+<area shape="rect" id="node28" href="$qgsrastershader_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrastershader.h" alt="" coords="1039,115,1231,175"/>
+<area shape="rect" id="node34" href="$qgsrastershaderfunction_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrastershaderfunction.cpp" alt="" coords="1581,115,1789,175"/>
+<area shape="rect" id="node5" href="$qgsrasterdataprovider_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterdataprovider.h" alt="" coords="44,334,236,394"/>
+<area shape="rect" id="node9" href="$qgsrasterlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterlayer.cpp" alt="" coords="747,553,939,613"/>
+<area shape="rect" id="node11" href="$qgsrasterbandstats_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrasterbandstats.h" alt="" coords="44,225,236,285"/>
+<area shape="rect" id="node14" href="$qgscolorrampshader_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgscolorrampshader.cpp" alt="" coords="260,225,452,285"/>
+<area shape="rect" id="node18" href="$qgsrastershader_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgsrastershader.cpp" alt="" coords="905,225,1097,285"/>
+<area shape="rect" id="node20" href="$qgssinglebandpseudocolorrendererwidget_8h.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/gui/raster\l/qgssinglebandpseudocolorrendererwidget.h" alt="" coords="476,225,780,285"/>
+<area shape="rect" id="node24" href="$qgspseudocolorshader_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgspseudocolorshader.cpp" alt="" coords="1473,225,1671,285"/>
+<area shape="rect" id="node32" href="$qgssinglebandpseudocolorrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.4.0\l+unstable1/src/core/raster\l/qgssinglebandpseudocolorrenderer.cpp" alt="" coords="1172,225,1449,285"/>
+</map>

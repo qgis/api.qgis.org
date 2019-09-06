@@ -1,0 +1,7 @@
+<map id="QgsMultiBandColorRenderer" name="QgsMultiBandColorRenderer">
+<area shape="rect" id="node2" href="$classQgsRasterRenderer.html" title="Raster renderer pipe that applies colors to a raster. " alt="" coords="260,99,404,127"/>
+<area shape="rect" id="node4" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc. " alt="" coords="5,6,149,34"/>
+<area shape="rect" id="node7" href="$classQgsRasterTransparency.html" title="Defines the list of pixel values to be considered as transparent or semi transparent when rendering r..." alt="" coords="247,6,417,34"/>
+<area shape="rect" id="node9" href="$classQgsContrastEnhancement.html" title="Manipulates raster pixel values so that they enhanceContrast or clip into a specified numerical range..." alt="" coords="448,99,637,127"/>
+<area shape="rect" id="node11" href="$classQgsContrastEnhancementFunction.html" title="A contrast enhancement funcion is the base class for all raster contrast enhancements. " alt="" coords="441,6,684,34"/>
+</map>

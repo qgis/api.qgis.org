@@ -1,0 +1,9 @@
+<map id="QgsRasterLayerSaveAsDialog" name="QgsRasterLayerSaveAsDialog">
+<area shape="rect" id="node6" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="65,221,175,249"/>
+<area shape="rect" id="node12" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="412,301,521,329"/>
+<area shape="rect" id="node16" href="$structQgsRasterViewPort.html" title="This class provides details of the viewable area that a raster will be rendered into. " alt="" coords="396,351,537,379"/>
+<area shape="rect" id="node22" href="$classQgsRasterDataProvider.html" title="Base class for raster data providers. " alt="" coords="381,197,552,225"/>
+<area shape="rect" id="node8" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS) " alt="" coords="5,399,235,427"/>
+<area shape="rect" id="node10" href="$classQgsRasterLayer.html" title="This class provides qgis with the ability to render raster datasets onto the mapcanvas. " alt="" coords="741,258,864,286"/>
+<area shape="rect" id="node20" href="$classQgsRasterPipe.html" title="Base class for processing modules. " alt="" coords="409,250,524,278"/>
+</map>

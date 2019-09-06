@@ -1,0 +1,6 @@
+<map id="QgsSvgAnnotationItem" name="QgsSvgAnnotationItem">
+<area shape="rect" id="node2" href="$classQgsAnnotationItem.html" title="An annotation item can be either placed either on screen corrdinates or on map coordinates. " alt="" coords="183,99,329,127"/>
+<area shape="rect" id="node4" href="$classQgsMapCanvasItem.html" title="An abstract class for items that can be placed on the map canvas. " alt="" coords="5,6,155,34"/>
+<area shape="rect" id="node6" href="$classQgsMarkerSymbolV2.html" title="QgsMarkerSymbolV2" alt="" coords="179,6,333,34"/>
+<area shape="rect" id="node8" href="$classQgsPoint.html" title="A class to represent a point geometry. " alt="" coords="357,6,435,34"/>
+</map>

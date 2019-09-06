@@ -1,0 +1,17 @@
+<map id="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/gui/qgsrasterpyramidsoptionswidget.h" name="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/gui/qgsrasterpyramidsoptionswidget.h">
+<area shape="rect" id="node5" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="787,99,960,127"/>
+<area shape="rect" id="node15" href="$qgscolorrampshader_8h.html" title="qgscolorrampshader.h" alt="" coords="801,331,967,359"/>
+<area shape="rect" id="node17" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="403,177,635,205"/>
+<area shape="rect" id="node19" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="192,177,328,205"/>
+<area shape="rect" id="node22" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="307,254,392,282"/>
+<area shape="rect" id="node25" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="709,177,811,205"/>
+<area shape="rect" id="node28" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="624,254,707,282"/>
+<area shape="rect" id="node32" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1160,254,1256,282"/>
+<area shape="rect" id="node34" href="$qgsrasterbandstats_8h.html" title="qgsrasterbandstats.h" alt="" coords="928,254,1085,282"/>
+<area shape="rect" id="node37" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1064,331,1181,359"/>
+<area shape="rect" id="node39" href="$qgsraster_8h.html" title="qgsraster.h" alt="" coords="1211,177,1304,205"/>
+<area shape="rect" id="node41" href="$qgsrasterhistogram_8h.html" title="qgsrasterhistogram.h" alt="" coords="1280,254,1440,282"/>
+<area shape="rect" id="node43" href="$qgsrasterinterface_8h.html" title="qgsrasterinterface.h" alt="" coords="987,177,1136,205"/>
+<area shape="rect" id="node50" href="$qgsrasterpyramid_8h.html" title="qgsrasterpyramid.h" alt="" coords="1515,177,1661,205"/>
+<area shape="rect" id="node52" href="$qgsrasterrange_8h.html" title="qgsrasterrange.h" alt="" coords="1685,177,1816,205"/>
+</map>

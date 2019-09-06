@@ -1,0 +1,17 @@
+<map id="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/raster/qgsrasterresamplefilter.h" name="/tmp/buildd/qgis&#45;2.4.0+unstable1/src/core/raster/qgsrasterresamplefilter.h">
+<area shape="rect" id="node3" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="728,115,902,143"/>
+<area shape="rect" id="node41" href="$qgsrasterinterface_8h.html" title="qgsrasterinterface.h" alt="" coords="1431,193,1580,221"/>
+<area shape="rect" id="node13" href="$qgscolorrampshader_8h.html" title="qgscolorrampshader.h" alt="" coords="788,347,954,375"/>
+<area shape="rect" id="node15" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="268,193,500,221"/>
+<area shape="rect" id="node17" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="58,193,194,221"/>
+<area shape="rect" id="node20" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="172,270,258,298"/>
+<area shape="rect" id="node23" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="575,193,676,221"/>
+<area shape="rect" id="node26" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="499,270,582,298"/>
+<area shape="rect" id="node30" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1267,270,1363,298"/>
+<area shape="rect" id="node32" href="$qgsrasterbandstats_8h.html" title="qgsrasterbandstats.h" alt="" coords="950,270,1107,298"/>
+<area shape="rect" id="node35" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1375,347,1492,375"/>
+<area shape="rect" id="node37" href="$qgsraster_8h.html" title="qgsraster.h" alt="" coords="903,193,996,221"/>
+<area shape="rect" id="node39" href="$qgsrasterhistogram_8h.html" title="qgsrasterhistogram.h" alt="" coords="1471,270,1631,298"/>
+<area shape="rect" id="node48" href="$qgsrasterpyramid_8h.html" title="qgsrasterpyramid.h" alt="" coords="1106,193,1252,221"/>
+<area shape="rect" id="node50" href="$qgsrasterrange_8h.html" title="qgsrasterrange.h" alt="" coords="1276,193,1407,221"/>
+</map>

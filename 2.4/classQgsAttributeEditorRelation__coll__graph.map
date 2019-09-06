@@ -1,0 +1,5 @@
+<map id="QgsAttributeEditorRelation" name="QgsAttributeEditorRelation">
+<area shape="rect" id="node2" href="$classQgsAttributeEditorElement.html" title="QgsAttributeEditorElement" alt="" coords="5,115,197,143"/>
+<area shape="rect" id="node6" href="$classQgsRelation.html" title="QgsRelation" alt="" coords="221,115,317,143"/>
+<area shape="rect" id="node8" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="208,6,331,34"/>
+</map>

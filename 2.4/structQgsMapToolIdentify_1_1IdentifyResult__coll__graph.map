@@ -1,0 +1,10 @@
+<map id="QgsMapToolIdentify::IdentifyResult" name="QgsMapToolIdentify::IdentifyResult">
+<area shape="rect" id="node2" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="424,42,517,70"/>
+<area shape="rect" id="node4" href="$classQgsGeometry.html" title="QgsGeometry" alt="" coords="65,5,175,33"/>
+<area shape="rect" id="node6" href="$classQgsFields.html" title="Container of fields for a vector layer. " alt="" coords="79,59,161,87"/>
+<area shape="rect" id="node9" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="416,197,525,225"/>
+<area shape="rect" id="node13" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="65,171,175,199"/>
+<area shape="rect" id="node15" href="$classQgsError.html" title="QgsError is container for error messages (report). " alt="" coords="81,222,159,250"/>
+<area shape="rect" id="node17" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS) " alt="" coords="5,273,235,301"/>
+<area shape="rect" id="node19" href="$classQgsObjectCustomProperties.html" title="Simple key&#45;value store (keys = strings, values = variants) that supports loading/saving to/from XML i..." alt="" coords="19,323,221,351"/>
+</map>

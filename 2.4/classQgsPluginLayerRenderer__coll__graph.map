@@ -1,0 +1,11 @@
+<map id="QgsPluginLayerRenderer" name="QgsPluginLayerRenderer">
+<area shape="rect" id="node2" href="$classQgsMapLayerRenderer.html" title="Base class for utility classes that encapsulate information necessary for rendering of map layers..." alt="" coords="604,5,769,33"/>
+<area shape="rect" id="node4" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation. " alt="" coords="411,157,552,185"/>
+<area shape="rect" id="node6" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="51,39,160,67"/>
+<area shape="rect" id="node18" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="427,23,536,51"/>
+<area shape="rect" id="node8" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems. " alt="" coords="16,109,195,137"/>
+<area shape="rect" id="node10" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface. " alt="" coords="7,159,204,187"/>
+<area shape="rect" id="node12" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates. " alt="" coords="48,210,163,238"/>
+<area shape="rect" id="node14" href="$classQgsVectorSimplifyMethod.html" title="This class contains information how to simplify geometries fetched from a vector layer. " alt="" coords="12,261,199,289"/>
+<area shape="rect" id="node16" href="$classQgsPluginLayer.html" title="Base class for plugin layers. " alt="" coords="627,55,747,83"/>
+</map>

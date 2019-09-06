@@ -1,0 +1,17 @@
+<map id="QgsDualView" name="QgsDualView">
+<area shape="rect" id="node6" href="$classQgsAttributeTableModel.html" title="A model backed by a QgsVectorLayerCache which is able to provide feature/attribute information to a Q..." alt="" coords="985,507,1159,535"/>
+<area shape="rect" id="node51" href="$classQgsAttributeTableFilterModel.html" title="QgsAttributeTableFilterModel" alt="" coords="1307,507,1509,535"/>
+<area shape="rect" id="node10" href="$classQgsVectorLayerCache.html" title="This class caches features of a given QgsVectorLayer. " alt="" coords="535,382,697,410"/>
+<area shape="rect" id="node25" href="$classQgsCachedFeatureIterator.html" title="Delivers features from the cache. " alt="" coords="1313,395,1503,423"/>
+<area shape="rect" id="node41" href="$classQgsIFeatureSelectionManager.html" title="Is an interface class to abstract feature selection handling. " alt="" coords="736,139,949,167"/>
+<area shape="rect" id="node14" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="232,345,355,373"/>
+<area shape="rect" id="node31" href="$classQgsAttributeForm.html" title="QgsAttributeForm" alt="" coords="1004,253,1140,281"/>
+<area shape="rect" id="node16" href="$classQgsFeatureRequest.html" title="This class wraps a request for features to a vector layer (or directly its vector data provider)..." alt="" coords="543,539,689,567"/>
+<area shape="rect" id="node27" href="$classQgsAbstractFeatureIterator.html" title="Internal feature iterator to be implemented within data providers. " alt="" coords="975,457,1169,485"/>
+<area shape="rect" id="node18" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;). " alt="" coords="236,619,351,647"/>
+<area shape="rect" id="node44" href="$classQgsFeatureListModel.html" title="QgsFeatureListModel" alt="" coords="1667,575,1821,603"/>
+<area shape="rect" id="node20" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator. " alt="" coords="5,619,139,647"/>
+<area shape="rect" id="node36" href="$classQgsAttributeEditorContext.html" title="This class contains context information for attribute editor widgets. " alt="" coords="521,115,711,143"/>
+<area shape="rect" id="node22" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="569,331,663,359"/>
+<area shape="rect" id="node48" href="$classQgsFeatureModel.html" title="QgsFeatureModel" alt="" coords="1005,582,1139,610"/>
+</map>

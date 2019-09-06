@@ -1,0 +1,5 @@
+<map id="QgsBrowserModel" name="QgsBrowserModel">
+<area shape="rect" id="node4" href="$classQgsDirectoryItem.html" title="A directory: contains subdirectories and layers. " alt="" coords="181,86,315,114"/>
+<area shape="rect" id="node6" href="$classQgsDataCollectionItem.html" title="A Collection: logical collection of layers or subcollections, e.g. " alt="" coords="260,6,428,34"/>
+<area shape="rect" id="node8" href="$classQgsFavouritesItem.html" title="Contains various Favourites directories. " alt="" coords="339,86,480,114"/>
+</map>

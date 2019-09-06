@@ -1,0 +1,4 @@
+<map id="QgsMapToolTouch" name="QgsMapToolTouch">
+<area shape="rect" id="node2" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="67,86,165,114"/>
+<area shape="rect" id="node6" href="$classQgsMapCanvas.html" title="Map canvas is a class for displaying all GIS data types on a canvas. " alt="" coords="205,195,325,223"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QgsFieldProxyModel" name="QgsFieldProxyModel">
+<area shape="rect" id="node4" href="$classQgsFieldModel.html" title="The QgsFieldModel class is a model to display the list of fields of a layer in widgets. " alt="" coords="192,193,304,221"/>
+<area shape="rect" id="node8" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="325,99,448,127"/>
+<area shape="rect" id="node10" href="$classQgsFields.html" title="Container of fields for a vector layer. " alt="" coords="252,6,335,34"/>
+</map>

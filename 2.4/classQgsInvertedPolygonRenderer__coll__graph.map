@@ -1,0 +1,10 @@
+<map id="QgsInvertedPolygonRenderer" name="QgsInvertedPolygonRenderer">
+<area shape="rect" id="node2" href="$classQgsFeatureRendererV2.html" title="QgsFeatureRendererV2" alt="" coords="412,61,580,89"/>
+<area shape="rect" id="node4" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation. " alt="" coords="425,111,567,139"/>
+<area shape="rect" id="node6" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="51,10,160,38"/>
+<area shape="rect" id="node8" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems. " alt="" coords="16,61,195,89"/>
+<area shape="rect" id="node10" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface. " alt="" coords="7,111,204,139"/>
+<area shape="rect" id="node12" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates. " alt="" coords="48,162,163,190"/>
+<area shape="rect" id="node14" href="$classQgsVectorSimplifyMethod.html" title="This class contains information how to simplify geometries fetched from a vector layer. " alt="" coords="12,213,199,241"/>
+<area shape="rect" id="node16" href="$classQgsFields.html" title="Container of fields for a vector layer. " alt="" coords="455,162,537,190"/>
+</map>
