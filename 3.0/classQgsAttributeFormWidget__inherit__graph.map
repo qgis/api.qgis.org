@@ -1,0 +1,4 @@
+<map id="QgsAttributeFormWidget" name="QgsAttributeFormWidget">
+<area shape="rect" id="node3" href="$classQgsAttributeFormEditorWidget.html" title="A widget consisting of both an editor widget and additional widgets for controlling the behavior of t..." alt="" coords="5,162,221,189"/>
+<area shape="rect" id="node4" href="$classQgsAttributeFormRelationEditorWidget.html" title="Widget to show for child relations on an attribute form. " alt="" coords="245,155,432,196"/>
+</map>

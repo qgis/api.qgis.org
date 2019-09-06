@@ -1,0 +1,6 @@
+<map id="QgsLineSymbolLayer" name="QgsLineSymbolLayer">
+<area shape="rect" id="node3" href="$classQgsArrowSymbolLayer.html" title="Line symbol layer used for representing lines as arrows. " alt="" coords="5,155,172,181"/>
+<area shape="rect" id="node4" href="$classQgsMarkerLineSymbolLayer.html" title="QgsMarkerLineSymbolLayer" alt="" coords="197,155,397,181"/>
+<area shape="rect" id="node5" href="$classQgsSimpleLineSymbolLayer.html" title="QgsSimpleLineSymbolLayer" alt="" coords="421,155,621,181"/>
+<area shape="rect" id="node2" href="$classQgsSymbolLayer.html" title="QgsSymbolLayer" alt="" coords="231,5,362,32"/>
+</map>

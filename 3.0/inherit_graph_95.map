@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsAuthCertTrustPolicyComboBox.html" title="Widget for editing the trust policy associated with a Certificate (Intermediate) Authority. " alt="" coords="156,5,396,32"/>
+<area shape="rect" id="node3" href="$classQgsBlendModeComboBox.html" title="A combobox which lets the user select blend modes from a predefined list. " alt="" coords="182,56,370,83"/>
+<area shape="rect" id="node4" href="$classQgsBrushStyleComboBox.html" title="QgsBrushStyleComboBox" alt="" coords="183,107,369,133"/>
+<area shape="rect" id="node5" href="$classQgsCheckableComboBox.html" title="QComboBox subclass which allows selecting multiple items. " alt="" coords="185,157,367,184"/>
+<area shape="rect" id="node6" href="$classQgsEffectDrawModeComboBox.html" title="A combo box allowing selection of paint effect draw modes. " alt="" coords="166,208,386,235"/>
+<area shape="rect" id="node7" href="$classQgsFeatureListComboBox.html" title="This offers a combobox with autocompleter that allows selecting features from a layer. " alt="" coords="183,259,369,285"/>
+<area shape="rect" id="node8" href="$classQgsFieldComboBox.html" title="The QgsFieldComboBox is a combo box which displays the list of fields of a given layer. " alt="" coords="203,309,349,336"/>
+<area shape="rect" id="node9" href="$classQgsMapLayerComboBox.html" title="The QgsMapLayerComboBox class is a combo box which displays the list of layers. " alt="" coords="187,360,365,387"/>
+<area shape="rect" id="node10" href="$classQgsPenCapStyleComboBox.html" title="QgsPenCapStyleComboBox" alt="" coords="177,411,375,437"/>
+<area shape="rect" id="node11" href="$classQgsPenJoinStyleComboBox.html" title="QgsPenJoinStyleComboBox" alt="" coords="179,461,373,488"/>
+<area shape="rect" id="node12" href="$classQgsPenStyleComboBox.html" title="QgsPenStyleComboBox" alt="" coords="189,512,363,539"/>
+<area shape="rect" id="node13" href="$classQgsRasterBandComboBox.html" title="A combobox widget which displays the bands present in a raster layer. " alt="" coords="181,563,371,589"/>
+<area shape="rect" id="node14" href="$classQgsScaleComboBox.html" title="A combobox which lets the user select map scale from predefined list and highlights nearest to curren..." alt="" coords="200,613,352,640"/>
+</map>

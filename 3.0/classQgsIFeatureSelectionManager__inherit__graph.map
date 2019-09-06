@@ -1,0 +1,4 @@
+<map id="QgsIFeatureSelectionManager" name="QgsIFeatureSelectionManager">
+<area shape="rect" id="node3" href="$classQgsGenericFeatureSelectionManager.html" title="This selection manager synchronizes a local set of selected features with an attribute table..." alt="" coords="5,155,208,196"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayerSelectionManager.html" title="QgsVectorLayerSelectionManager" alt="" coords="233,162,471,189"/>
+</map>

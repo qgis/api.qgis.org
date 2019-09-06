@@ -1,0 +1,35 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/layout/qgslayoutmeasurement.h" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/layout/qgslayoutmeasurement.h">
+<area shape="rect" id="node2" href="$qgslayoutsnapper_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutsnapper.h" alt="" coords="2365,525,2557,581"/>
+<area shape="rect" id="node14" href="$qgslayoutguidecollection_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutguidecollection.h" alt="" coords="1445,421,1639,477"/>
+<area shape="rect" id="node15" href="$qgslayoutitem_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitem.h" alt="" coords="1021,109,1213,165"/>
+<area shape="rect" id="node18" href="$qgslayoutitemshape_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemshape.h" alt="" coords="161,317,353,373"/>
+<area shape="rect" id="node29" href="$qgslayoutgridsettings_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutgridsettings.h" alt="" coords="2631,525,2823,581"/>
+<area shape="rect" id="node30" href="$qgslayoutmeasurementconverter_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutmeasurementconverter.h" alt="" coords="2641,109,2891,165"/>
+<area shape="rect" id="node34" href="$qgslayoutmeasurement_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutmeasurement.cpp" alt="" coords="2916,109,3123,165"/>
+<area shape="rect" id="node3" href="$qgslayout_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayout.h" alt="" coords="2365,629,2557,685"/>
+<area shape="rect" id="node11" href="$qgslayoutsnapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutsnapper.cpp" alt="" coords="2618,837,2810,893"/>
+<area shape="rect" id="node4" href="$qgslayoutpagecollection_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutpagecollection.h" alt="" coords="1495,733,1687,789"/>
+<area shape="rect" id="node6" href="$qgslayout_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayout.cpp" alt="" coords="1153,837,1345,893"/>
+<area shape="rect" id="node7" href="$qgslayoutexporter_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutexporter.cpp" alt="" coords="1369,837,1561,893"/>
+<area shape="rect" id="node8" href="$qgslayoutgridsettings_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutgridsettings.cpp" alt="" coords="2215,837,2407,893"/>
+<area shape="rect" id="node9" href="$qgslayoutguidecollection_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutguidecollection.cpp" alt="" coords="1801,837,2011,893"/>
+<area shape="rect" id="node10" href="$qgslayoutitem_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitem.cpp" alt="" coords="1585,837,1777,893"/>
+<area shape="rect" id="node12" href="$qgslayoutaligner_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutaligner.cpp" alt="" coords="1914,733,2106,789"/>
+<area shape="rect" id="node13" href="$qgslayoutitemundocommand_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemundocommand.cpp" alt="" coords="2131,733,2372,789"/>
+<area shape="rect" id="node5" href="$qgscompositionconverter_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgscompositionconverter.cpp" alt="" coords="488,837,703,893"/>
+<area shape="rect" id="node16" href="$qgslayoutitempage_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitempage.h" alt="" coords="1442,317,1634,373"/>
+<area shape="rect" id="node17" href="$qgslayoutitemregistry_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemregistry.h" alt="" coords="763,213,955,269"/>
+<area shape="rect" id="node19" href="$qgslayoutitemmap_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemmap.h" alt="" coords="759,733,951,789"/>
+<area shape="rect" id="node20" href="$qgslayoutitemgroup_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemgroup.h" alt="" coords="975,733,1167,789"/>
+<area shape="rect" id="node21" href="$qgslayoutundostack_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutundostack.h" alt="" coords="1762,629,1954,685"/>
+<area shape="rect" id="node22" href="$qgslayoutitemlabel_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemlabel.h" alt="" coords="46,421,238,477"/>
+<area shape="rect" id="node23" href="$qgslayoutitempicture_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitempicture.h" alt="" coords="579,317,771,373"/>
+<area shape="rect" id="node24" href="$qgslayoutitemnodeitem_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemnodeitem.h" alt="" coords="1205,213,1397,269"/>
+<area shape="rect" id="node25" href="$qgslayoutitemscalebar_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemscalebar.h" alt="" coords="262,421,454,477"/>
+<area shape="rect" id="node26" href="$qgslayoutitemlegend_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemlegend.h" alt="" coords="446,525,638,581"/>
+<area shape="rect" id="node27" href="$qgslayoutframe_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutframe.h" alt="" coords="313,629,505,685"/>
+<area shape="rect" id="node28" href="$qgslayoutitemgroupundocommand_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemgroupundocommand.h" alt="" coords="1155,317,1417,373"/>
+<area shape="rect" id="node31" href="$qgslayoutrendercontext_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutrendercontext.h" alt="" coords="2641,213,2833,269"/>
+<area shape="rect" id="node32" href="$qgslayoutmeasurementconverter_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutmeasurementconverter.cpp" alt="" coords="2857,213,3123,269"/>
+<area shape="rect" id="node33" href="$qgspagesizeregistry_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgspagesizeregistry.cpp" alt="" coords="3147,213,3339,269"/>
+</map>

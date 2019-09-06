@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsException.html" title="Defines a QGIS exception class. " alt="" coords="5,81,115,108"/>
+<area shape="rect" id="node2" href="$classQgsCsException.html" title="Custom exception class for Coordinate Reference System related exceptions. " alt="" coords="189,5,315,32"/>
+<area shape="rect" id="node3" href="$classQgsProcessingException.html" title="Custom exception class for processing related exceptions. " alt="" coords="163,56,341,83"/>
+<area shape="rect" id="node4" href="$classQgsServerException.html" title="Exception base class for server exceptions. " alt="" coords="177,107,327,133"/>
+<area shape="rect" id="node6" href="$classQgsWkbException.html" title="Custom exception class for Wkb related exceptions. " alt="" coords="185,157,319,184"/>
+<area shape="rect" id="node5" href="$classQgsOgcServiceException.html" title="Exception base class for service exceptions. " alt="" coords="389,107,571,133"/>
+</map>

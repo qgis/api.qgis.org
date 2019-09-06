@@ -1,0 +1,30 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/layertree/qgslayertreegroup.h" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/layertree/qgslayertreegroup.h">
+<area shape="rect" id="node2" href="$qgsofflineediting_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsofflineediting.cpp" alt="" coords="5,221,289,262"/>
+<area shape="rect" id="node3" href="$qgslayertree_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layertree\l/qgslayertree.h" alt="" coords="2827,109,3038,165"/>
+<area shape="rect" id="node11" href="$qgslayertreegroup_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layertree\l/qgslayertreegroup.cpp" alt="" coords="313,213,523,269"/>
+<area shape="rect" id="node25" href="$qgslayoutitemlegend_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemlegend.h" alt="" coords="5563,109,5755,165"/>
+<area shape="rect" id="node27" href="$qgspropertyassistantwidget_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgspropertyassistantwidget.h" alt="" coords="6128,117,6460,158"/>
+<area shape="rect" id="node4" href="$qgslayerdefinition_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgslayerdefinition.cpp" alt="" coords="4479,221,4771,262"/>
+<area shape="rect" id="node5" href="$qgslegendrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgslegendrenderer.cpp" alt="" coords="4795,221,5095,262"/>
+<area shape="rect" id="node6" href="$qgsmaplayerlegend_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsmaplayerlegend.cpp" alt="" coords="5119,221,5426,262"/>
+<area shape="rect" id="node7" href="$qgsmapthemecollection_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsmapthemecollection.cpp" alt="" coords="547,221,881,262"/>
+<area shape="rect" id="node8" href="$qgsmimedatautils_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsmimedatautils.cpp" alt="" coords="905,221,1200,262"/>
+<area shape="rect" id="node9" href="$qgsproject_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsproject.cpp" alt="" coords="1224,221,1471,262"/>
+<area shape="rect" id="node10" href="$qgslayertree_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layertree\l/qgslayertree.cpp" alt="" coords="1494,213,1705,269"/>
+<area shape="rect" id="node12" href="$qgslayertreemodel_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layertree\l/qgslayertreemodel.cpp" alt="" coords="1729,213,1939,269"/>
+<area shape="rect" id="node13" href="$qgslayertreemodellegendnode_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layertree\l/qgslayertreemodellegendnode.cpp" alt="" coords="1963,213,2211,269"/>
+<area shape="rect" id="node14" href="$qgslayertreenode_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layertree\l/qgslayertreenode.cpp" alt="" coords="2235,213,2446,269"/>
+<area shape="rect" id="node15" href="$qgslayertreeregistrybridge_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layertree\l/qgslayertreeregistrybridge.cpp" alt="" coords="2470,213,2691,269"/>
+<area shape="rect" id="node16" href="$qgslayertreeutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layertree\l/qgslayertreeutils.cpp" alt="" coords="2715,213,2926,269"/>
+<area shape="rect" id="node17" href="$qgscompositionconverter_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgscompositionconverter.cpp" alt="" coords="5667,213,5881,269"/>
+<area shape="rect" id="node18" href="$qgslayoutitemlegend_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemlegend.cpp" alt="" coords="5450,213,5642,269"/>
+<area shape="rect" id="node19" href="$qgslayoutitemmap_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemmap.cpp" alt="" coords="2950,213,3142,269"/>
+<area shape="rect" id="node20" href="$qgscustomlayerorderwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/layertree\l/qgscustomlayerorderwidget.cpp" alt="" coords="3167,213,3397,269"/>
+<area shape="rect" id="node21" href="$qgslayertreemapcanvasbridge_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/layertree\l/qgslayertreemapcanvasbridge.cpp" alt="" coords="3421,213,3668,269"/>
+<area shape="rect" id="node22" href="$qgslayertreeview_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/layertree\l/qgslayertreeview.cpp" alt="" coords="3692,213,3893,269"/>
+<area shape="rect" id="node23" href="$qgslayertreeviewdefaultactions_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/layertree\l/qgslayertreeviewdefaultactions.cpp" alt="" coords="3918,213,4169,269"/>
+<area shape="rect" id="node24" href="$qgsdatadefinedsizelegendwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgsdatadefinedsizelegendwidget.cpp" alt="" coords="4193,213,4454,269"/>
+<area shape="rect" id="node26" href="$qgslayoutitemregistry_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemregistry.cpp" alt="" coords="5906,213,6098,269"/>
+<area shape="rect" id="node28" href="$qgspropertyassistantwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgspropertyassistantwidget.cpp" alt="" coords="6490,221,6837,262"/>
+<area shape="rect" id="node29" href="$qgspropertyoverridebutton_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgspropertyoverridebutton.cpp" alt="" coords="6123,221,6465,262"/>
+</map>

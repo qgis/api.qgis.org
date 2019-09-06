@@ -1,0 +1,23 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/gui/qgsgui.h" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/gui/qgsgui.h">
+<area shape="rect" id="node2" href="$qgsactionmenu_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsactionmenu.cpp" alt="" coords="5,102,276,143"/>
+<area shape="rect" id="node3" href="$qgsattributeform_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsattributeform.cpp" alt="" coords="300,102,579,143"/>
+<area shape="rect" id="node4" href="$qgsattributeformeditorwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsattributeformeditorwidget.cpp" alt="" coords="603,102,961,143"/>
+<area shape="rect" id="node5" href="$qgsconfigureshortcutsdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsconfigureshortcutsdialog.cpp" alt="" coords="985,102,1336,143"/>
+<area shape="rect" id="node6" href="$qgsdatasourcemanagerdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsdatasourcemanagerdialog.cpp" alt="" coords="1361,102,1723,143"/>
+<area shape="rect" id="node7" href="$qgsexpressionbuilderdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsexpressionbuilderdialog.cpp" alt="" coords="1747,102,2091,143"/>
+<area shape="rect" id="node8" href="$qgsexpressionselectiondialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsexpressionselectiondialog.cpp" alt="" coords="2116,102,2475,143"/>
+<area shape="rect" id="node9" href="$qgsformannotation_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsformannotation.cpp" alt="" coords="2499,102,2793,143"/>
+<area shape="rect" id="node10" href="$qgsgui_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsgui.cpp" alt="" coords="2817,102,3030,143"/>
+<area shape="rect" id="node11" href="$qgsidentifymenu_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsidentifymenu.cpp" alt="" coords="3054,102,3331,143"/>
+<area shape="rect" id="node12" href="$qgsmaplayeractionregistry_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsmaplayeractionregistry.cpp" alt="" coords="3355,102,3694,143"/>
+<area shape="rect" id="node13" href="$qgsnewgeopackagelayerdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsnewgeopackagelayerdialog.cpp" alt="" coords="3719,102,4085,143"/>
+<area shape="rect" id="node14" href="$qgsprojectionselectiondialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsprojectionselectiondialog.cpp" alt="" coords="4110,102,4462,143"/>
+<area shape="rect" id="node15" href="$qgsattributetabledelegate_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/attributetable\l/qgsattributetabledelegate.cpp" alt="" coords="4487,95,4717,151"/>
+<area shape="rect" id="node16" href="$qgsattributetablemodel_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/attributetable\l/qgsattributetablemodel.cpp" alt="" coords="4741,95,4972,151"/>
+<area shape="rect" id="node17" href="$qgsattributetableview_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/attributetable\l/qgsattributetableview.cpp" alt="" coords="4996,95,5227,151"/>
+<area shape="rect" id="node18" href="$qgsdualview_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/attributetable\l/qgsdualview.cpp" alt="" coords="5251,95,5481,151"/>
+<area shape="rect" id="node19" href="$qgseditorwidgetautoconf_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/editorwidgets\l/core/qgseditorwidgetautoconf.cpp" alt="" coords="5505,95,5747,151"/>
+<area shape="rect" id="node20" href="$qgslayertreeembeddedconfigwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/layertree\l/qgslayertreeembeddedconfigwidget.cpp" alt="" coords="5771,95,6052,151"/>
+<area shape="rect" id="node21" href="$qgslayertreeview_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/layertree\l/qgslayertreeview.cpp" alt="" coords="6076,95,6277,151"/>
+<area shape="rect" id="node22" href="$qgsprocessingalgorithmdialogbase_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/processing\l/qgsprocessingalgorithmdialogbase.cpp" alt="" coords="6302,95,6577,151"/>
+</map>

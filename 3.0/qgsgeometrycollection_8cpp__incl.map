@@ -1,0 +1,22 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/geometry/qgsgeometrycollection.cpp" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/geometry/qgsgeometrycollection.cpp">
+<area shape="rect" id="node2" href="$qgsgeometrycollection_8h.html" title="qgsgeometrycollection.h" alt="" coords="1336,259,1515,285"/>
+<area shape="rect" id="node9" href="$qgswkbptr_8h.html" title="qgswkbptr.h" alt="" coords="1755,483,1853,509"/>
+<area shape="rect" id="node10" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="1857,557,1983,584"/>
+<area shape="rect" id="node11" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1091,333,1181,360"/>
+<area shape="rect" id="node12" href="$qgsgeometryfactory_8h.html" title="qgsgeometryfactory.h" alt="" coords="114,483,275,509"/>
+<area shape="rect" id="node14" href="$qgsgeometryutils_8h.html" title="qgsgeometryutils.h" alt="" coords="315,259,461,285"/>
+<area shape="rect" id="node16" href="$qgscircularstring_8h.html" title="qgscircularstring.h" alt="" coords="987,259,1125,285"/>
+<area shape="rect" id="node18" href="$qgscompoundcurve_8h.html" title="qgscompoundcurve.h" alt="" coords="752,259,912,285"/>
+<area shape="rect" id="node19" href="$qgslinestring_8h.html" title="qgslinestring.h" alt="" coords="716,184,831,211"/>
+<area shape="rect" id="node21" href="$qgsmultilinestring_8h.html" title="qgsmultilinestring.h" alt="" coords="1744,109,1891,136"/>
+<area shape="rect" id="node23" href="$qgsmultipoint_8h.html" title="qgsmultipoint.h" alt="" coords="1246,184,1367,211"/>
+<area shape="rect" id="node24" href="$qgspolygon_8h.html" title="qgspolygon.h" alt="" coords="472,483,579,509"/>
+<area shape="rect" id="node26" href="$qgsmultipolygon_8h.html" title="qgsmultipolygon.h" alt="" coords="1517,109,1656,136"/>
+<area shape="rect" id="node5" href="$qgis_8h.html" title="qgis.h" alt="" coords="1079,632,1139,659"/>
+<area shape="rect" id="node8" href="$qgsabstractgeometry_8h.html" title="qgsabstractgeometry.h" alt="" coords="1141,408,1312,435"/>
+<area shape="rect" id="node13" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="144,557,245,584"/>
+<area shape="rect" id="node17" href="$qgscurve_8h.html" title="qgscurve.h" alt="" coords="873,333,965,360"/>
+<area shape="rect" id="node22" href="$qgsmulticurve_8h.html" title="qgsmulticurve.h" alt="" coords="1729,184,1853,211"/>
+<area shape="rect" id="node25" href="$qgscurvepolygon_8h.html" title="qgscurvepolygon.h" alt="" coords="371,557,514,584"/>
+<area shape="rect" id="node27" href="$qgsmultisurface_8h.html" title="qgsmultisurface.h" alt="" coords="1568,184,1704,211"/>
+</map>

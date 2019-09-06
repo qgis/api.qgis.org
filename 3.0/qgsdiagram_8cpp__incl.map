@@ -1,0 +1,17 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/diagram/qgsdiagram.cpp" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/diagram/qgsdiagram.cpp">
+<area shape="rect" id="node2" href="$qgsdiagram_8h.html" title="qgsdiagram.h" alt="" coords="94,333,205,360"/>
+<area shape="rect" id="node9" href="$qgsdiagramrenderer_8h.html" title="qgsdiagramrenderer.h" alt="" coords="899,109,1063,136"/>
+<area shape="rect" id="node23" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="1541,259,1688,285"/>
+<area shape="rect" id="node28" href="$qgssymbollayerutils_8h.html" title="qgssymbollayerutils.h" alt="" coords="1931,109,2091,136"/>
+<area shape="rect" id="node4" href="$qgis_8h.html" title="qgis.h" alt="" coords="1407,408,1467,435"/>
+<area shape="rect" id="node5" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1877,483,1963,509"/>
+<area shape="rect" id="node16" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="1038,333,1213,360"/>
+<area shape="rect" id="node17" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="1245,259,1336,285"/>
+<area shape="rect" id="node18" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="1593,333,1781,360"/>
+<area shape="rect" id="node19" href="$qgssymbol_8h.html" title="qgssymbol.h" alt="" coords="1530,184,1633,211"/>
+<area shape="rect" id="node24" href="$qgsproperty_8h.html" title="qgsproperty.h" alt="" coords="664,259,773,285"/>
+<area shape="rect" id="node26" href="$qgspropertycollection_8h.html" title="qgspropertycollection.h" alt="" coords="896,184,1067,211"/>
+<area shape="rect" id="node27" href="$qgsdatadefinedsizelegend_8h.html" title="qgsdatadefinedsizelegend.h" alt="" coords="518,184,719,211"/>
+<area shape="rect" id="node21" href="$qgsmapunitscale_8h.html" title="qgsmapunitscale.h" alt="" coords="1907,333,2050,360"/>
+<area shape="rect" id="node25" href="$qgscolorramp_8h.html" title="qgscolorramp.h" alt="" coords="891,333,1013,360"/>
+</map>

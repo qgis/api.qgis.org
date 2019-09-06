@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsAbstractLabelProvider.html" title="The QgsAbstractLabelProvider class is an interface class. " alt="" coords="5,31,192,57"/>
+<area shape="rect" id="node2" href="$classQgsVectorLayerDiagramProvider.html" title="The QgsVectorLayerDiagramProvider class implements support for diagrams within the labeling engine..." alt="" coords="240,5,471,32"/>
+<area shape="rect" id="node3" href="$classQgsVectorLayerLabelProvider.html" title="The QgsVectorLayerLabelProvider class implements a label provider for vector layers. " alt="" coords="251,56,460,83"/>
+<area shape="rect" id="node4" href="$classQgsDxfLabelProvider.html" title="Implements a derived label provider internally used for DXF export. " alt="" coords="541,31,695,57"/>
+<area shape="rect" id="node5" href="$classQgsRuleBasedLabelProvider.html" title="QgsRuleBasedLabelProvider" alt="" coords="519,81,717,108"/>
+<area shape="rect" id="node6" href="$classQgsDxfRuleBasedLabelProvider.html" title="Implements a derived label provider for rule based labels internally used for DXF export..." alt="" coords="765,81,985,108"/>
+</map>

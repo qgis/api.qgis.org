@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsRendererAbstractMetadata.html" title="Stores metadata about one renderer class. " alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node2" href="$classQgsRendererMetadata.html" title="Convenience metadata class that uses static functions to create renderer and its widget. " alt="" coords="272,5,437,32"/>
+</map>

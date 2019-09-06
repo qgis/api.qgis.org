@@ -1,0 +1,29 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/qgsofflineediting.cpp" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/qgsofflineediting.cpp">
+<area shape="rect" id="node2" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="483,319,610,345"/>
+<area shape="rect" id="node11" href="$qgsdatasourceuri_8h.html" title="qgsdatasourceuri.h" alt="" coords="1963,393,2109,420"/>
+<area shape="rect" id="node13" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1196,244,1313,271"/>
+<area shape="rect" id="node25" href="$qgslayertreegroup_8h.html" title="qgslayertreegroup.h" alt="" coords="3278,169,3429,196"/>
+<area shape="rect" id="node28" href="$qgslayertreelayer_8h.html" title="qgslayertreelayer.h" alt="" coords="3059,169,3203,196"/>
+<area shape="rect" id="node30" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="3163,393,3279,420"/>
+<area shape="rect" id="node32" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="2640,319,2741,345"/>
+<area shape="rect" id="node33" href="$qgsofflineediting_8h.html" title="qgsofflineediting.h" alt="" coords="2493,169,2632,196"/>
+<area shape="rect" id="node35" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="2134,319,2311,345"/>
+<area shape="rect" id="node36" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="3523,319,3672,345"/>
+<area shape="rect" id="node37" href="$qgsvectorlayereditbuffer_8h.html" title="qgsvectorlayereditbuffer.h" alt="" coords="1730,169,1918,196"/>
+<area shape="rect" id="node38" href="$qgsvectorlayerjoinbuffer_8h.html" title="qgsvectorlayerjoinbuffer.h" alt="" coords="195,393,381,420"/>
+<area shape="rect" id="node39" href="$qgsspatialiteutils_8h.html" title="qgsspatialiteutils.h" alt="" coords="2656,169,2797,196"/>
+<area shape="rect" id="node40" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="635,319,731,345"/>
+<area shape="rect" id="node41" href="$qgsvectorlayerutils_8h.html" title="qgsvectorlayerutils.h" alt="" coords="2315,169,2469,196"/>
+<area shape="rect" id="node42" href="$qgsrelationmanager_8h.html" title="qgsrelationmanager.h" alt="" coords="3884,244,4047,271"/>
+<area shape="rect" id="node43" href="$qgsmapthemecollection_8h.html" title="qgsmapthemecollection.h" alt="" coords="2766,319,2954,345"/>
+<area shape="rect" id="node44" href="$qgslayertree_8h.html" title="qgslayertree.h" alt="" coords="3176,95,3291,121"/>
+<area shape="rect" id="node7" href="$qgis_8h.html" title="qgis.h" alt="" coords="1313,468,1373,495"/>
+<area shape="rect" id="node20" href="$qgsabstractgeometry_8h.html" title="qgsabstractgeometry.h" alt="" coords="907,393,1077,420"/>
+<area shape="rect" id="node21" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1785,393,1887,420"/>
+<area shape="rect" id="node22" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="1507,393,1608,420"/>
+<area shape="rect" id="node24" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1127,319,1217,345"/>
+<area shape="rect" id="node26" href="$qgslayertreenode_8h.html" title="qgslayertreenode.h" alt="" coords="3283,244,3429,271"/>
+<area shape="rect" id="node27" href="$qgsreadwritecontext_8h.html" title="qgsreadwritecontext.h" alt="" coords="3233,319,3397,345"/>
+<area shape="rect" id="node29" href="$qgsmaplayerref_8h.html" title="qgsmaplayerref.h" alt="" coords="2973,244,3107,271"/>
+<area shape="rect" id="node34" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="2337,244,2463,271"/>
+</map>

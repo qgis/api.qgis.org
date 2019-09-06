@@ -1,0 +1,31 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/qgsdatasourceuri.h" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/qgsdatasourceuri.h">
+<area shape="rect" id="node2" href="$qgsdataprovider_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsdataprovider.h" alt="" coords="2784,102,3052,143"/>
+<area shape="rect" id="node4" href="$qgsmaplayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsmaplayer.cpp" alt="" coords="303,310,565,351"/>
+<area shape="rect" id="node5" href="$qgsofflineediting_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsofflineediting.cpp" alt="" coords="860,310,1144,351"/>
+<area shape="rect" id="node6" href="$qgsproject_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsproject.cpp" alt="" coords="589,310,836,351"/>
+<area shape="rect" id="node7" href="$qgstransaction_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgstransaction.cpp" alt="" coords="1169,310,1443,351"/>
+<area shape="rect" id="node8" href="$qgstransactiongroup_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgstransactiongroup.cpp" alt="" coords="1467,310,1779,351"/>
+<area shape="rect" id="node9" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsvectorlayer.cpp" alt="" coords="5,310,279,351"/>
+<area shape="rect" id="node10" href="$qgsvectorlayerexporter_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsvectorlayerexporter.cpp" alt="" coords="1804,310,2131,351"/>
+<area shape="rect" id="node20" href="$qgsrasterlayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/raster\l/qgsrasterlayer.cpp" alt="" coords="4097,303,4288,359"/>
+<area shape="rect" id="node23" href="$qgsowssourceselect_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsowssourceselect.cpp" alt="" coords="4573,206,4871,247"/>
+<area shape="rect" id="node24" href="$qgsauxiliarystorage_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsauxiliarystorage.h" alt="" coords="344,206,633,247"/>
+<area shape="rect" id="node25" href="$qgsdatasourceuri_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsdatasourceuri.cpp" alt="" coords="5450,102,5741,143"/>
+<area shape="rect" id="node26" href="$qgsowsconnection_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsowsconnection.cpp" alt="" coords="4896,206,5193,247"/>
+<area shape="rect" id="node27" href="$qgsowsconnection_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsowsconnection.h" alt="" coords="4771,102,5054,143"/>
+<area shape="rect" id="node28" href="$qgsgeonodeconnection_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/geocms\l/geonode/qgsgeonodeconnection.cpp" alt="" coords="5217,199,5480,255"/>
+<area shape="rect" id="node29" href="$qgsgeonodeconnection_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/geocms\l/geonode/qgsgeonodeconnection.h" alt="" coords="5179,95,5425,151"/>
+<area shape="rect" id="node30" href="$qgsowssourceselect_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsowssourceselect.h" alt="" coords="4464,102,4748,143"/>
+<area shape="rect" id="node3" href="$qgsvectordataprovider_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsvectordataprovider.h" alt="" coords="1040,206,1348,247"/>
+<area shape="rect" id="node11" href="$qgsactionmanager_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsactionmanager.cpp" alt="" coords="1525,206,1823,247"/>
+<area shape="rect" id="node12" href="$qgsmaplayerref_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsmaplayerref.h" alt="" coords="1847,206,2111,247"/>
+<area shape="rect" id="node13" href="$qgsbrowsermodel_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsbrowsermodel.cpp" alt="" coords="2135,206,2429,247"/>
+<area shape="rect" id="node14" href="$qgsdataitem_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsdataitem.cpp" alt="" coords="2453,206,2714,247"/>
+<area shape="rect" id="node15" href="$qgsdataitemproviderregistry_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsdataitemproviderregistry.cpp" alt="" coords="2739,206,3097,247"/>
+<area shape="rect" id="node16" href="$qgsdataprovider_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsdataprovider.cpp" alt="" coords="3122,206,3405,247"/>
+<area shape="rect" id="node17" href="$qgspluginlayer_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgspluginlayer.h" alt="" coords="709,206,965,247"/>
+<area shape="rect" id="node18" href="$qgsproviderregistry_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsproviderregistry.cpp" alt="" coords="3429,206,3730,247"/>
+<area shape="rect" id="node19" href="$qgsrasterdataprovider_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/raster\l/qgsrasterdataprovider.h" alt="" coords="3755,199,3945,255"/>
+<area shape="rect" id="node21" href="$qgscptcityarchive_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/symbology\l/qgscptcityarchive.cpp" alt="" coords="3969,199,4192,255"/>
+<area shape="rect" id="node22" href="$qgsmetadatawidget_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsmetadatawidget.h" alt="" coords="4215,206,4498,247"/>
+</map>

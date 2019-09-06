@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsSQLStatement_1_1Visitor.html" title="Support for visitor pattern &#45; algorithms dealing with the statement may be implemented without modify..." alt="" coords="5,13,196,39"/>
+<area shape="rect" id="node2" href="$classQgsSQLStatement_1_1RecursiveVisitor.html" title="A visitor that recursively explores all children. " alt="" coords="244,5,455,47"/>
+<area shape="rect" id="node3" href="$classQgsSQLStatementCollectTableNames.html" title="Internal use. " alt="" coords="503,5,720,47"/>
+</map>

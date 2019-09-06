@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsInterpolator.html" title="Interface class for interpolations. " alt="" coords="5,31,127,57"/>
+<area shape="rect" id="node2" href="$classQgsIDWInterpolator.html" title="Inverse distance weight interpolator. " alt="" coords="175,5,320,32"/>
+<area shape="rect" id="node3" href="$classQgsTinInterpolator.html" title="Interpolation in a triangular irregular network. " alt="" coords="178,56,317,83"/>
+</map>

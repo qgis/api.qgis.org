@@ -1,0 +1,4 @@
+<map id="QgsTableWidgetBase" name="QgsTableWidgetBase">
+<area shape="rect" id="node4" href="$classQgsKeyValueWidget.html" title="Widget allowing to edit a QVariantMap, using a table. " alt="" coords="5,155,152,181"/>
+<area shape="rect" id="node5" href="$classQgsListWidget.html" title="Widget allowing to edit a QVariantList, using a table. " alt="" coords="176,155,288,181"/>
+</map>

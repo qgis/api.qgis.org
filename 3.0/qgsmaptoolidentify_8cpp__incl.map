@@ -1,0 +1,34 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/gui/qgsmaptoolidentify.cpp" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/gui/qgsmaptoolidentify.cpp">
+<area shape="rect" id="node2" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="157,169,283,196"/>
+<area shape="rect" id="node10" href="$qgsdistancearea_8h.html" title="qgsdistancearea.h" alt="" coords="1986,95,2126,121"/>
+<area shape="rect" id="node15" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1621,244,1854,271"/>
+<area shape="rect" id="node19" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="3258,244,3361,271"/>
+<area shape="rect" id="node22" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="3457,319,3548,345"/>
+<area shape="rect" id="node23" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="3623,319,3740,345"/>
+<area shape="rect" id="node24" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="1344,169,1493,196"/>
+<area shape="rect" id="node25" href="$qgsfeaturestore_8h.html" title="qgsfeaturestore.h" alt="" coords="2701,169,2837,196"/>
+<area shape="rect" id="node26" href="$qgsidentifymenu_8h.html" title="qgsidentifymenu.h" alt="" coords="890,95,1030,121"/>
+<area shape="rect" id="node28" href="$qgsmaptoolidentify_8h.html" title="qgsmaptoolidentify.h" alt="" coords="2861,169,3016,196"/>
+<area shape="rect" id="node29" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="432,169,528,196"/>
+<area shape="rect" id="node30" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="552,169,683,196"/>
+<area shape="rect" id="node31" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="2401,244,2529,271"/>
+<area shape="rect" id="node32" href="$qgsmessageviewer_8h.html" title="qgsmessageviewer.h" alt="" coords="2181,95,2336,121"/>
+<area shape="rect" id="node33" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1203,169,1319,196"/>
+<area shape="rect" id="node34" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="661,244,835,271"/>
+<area shape="rect" id="node35" href="$qgsrasterlayer_8h.html" title="qgsrasterlayer.h" alt="" coords="1055,95,1180,121"/>
+<area shape="rect" id="node36" href="$qgsrasteridentifyresult_8h.html" title="qgsrasteridentifyresult.h" alt="" coords="285,319,462,345"/>
+<area shape="rect" id="node37" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="3345,169,3522,196"/>
+<area shape="rect" id="node38" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="3066,95,3193,121"/>
+<area shape="rect" id="node39" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="2360,95,2461,121"/>
+<area shape="rect" id="node40" href="$qgsrenderer_8h.html" title="qgsrenderer.h" alt="" coords="3831,244,3942,271"/>
+<area shape="rect" id="node42" href="$qgsgeometryutils_8h.html" title="qgsgeometryutils.h" alt="" coords="538,319,683,345"/>
+<area shape="rect" id="node43" href="$qgsgeometrycollection_8h.html" title="qgsgeometrycollection.h" alt="" coords="2372,319,2551,345"/>
+<area shape="rect" id="node44" href="$qgscurve_8h.html" title="qgscurve.h" alt="" coords="1305,319,1397,345"/>
+<area shape="rect" id="node45" href="$qgscoordinateutils_8h.html" title="qgscoordinateutils.h" alt="" coords="4119,393,4270,420"/>
+<area shape="rect" id="node46" href="$qgsexception_8h.html" title="qgsexception.h" alt="" coords="4294,393,4413,420"/>
+<area shape="rect" id="node47" href="$qgssettings_8h.html" title="qgssettings.h" alt="" coords="2575,319,2683,345"/>
+<area shape="rect" id="node7" href="$qgis_8h.html" title="qgis.h" alt="" coords="1842,393,1902,420"/>
+<area shape="rect" id="node13" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="1619,169,1807,196"/>
+<area shape="rect" id="node17" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="2029,319,2145,345"/>
+<area shape="rect" id="node18" href="$qgsellipsoidutils_8h.html" title="qgsellipsoidutils.h" alt="" coords="1883,169,2018,196"/>
+</map>

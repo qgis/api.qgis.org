@@ -1,0 +1,4 @@
+<map id="QgsProcessingParameterFileDestination" name="QgsProcessingParameterFileDestination">
+<area shape="rect" id="node2" href="$classQgsProcessingDestinationParameter.html" title="Base class for all parameter definitions which represent file or layer destinations, e.g. " alt="" coords="32,80,221,121"/>
+<area shape="rect" id="node3" href="$classQgsProcessingParameterDefinition.html" title="Base class for the definition of processing parameters. " alt="" coords="5,5,248,32"/>
+</map>

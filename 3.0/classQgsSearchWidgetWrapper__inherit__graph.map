@@ -1,0 +1,11 @@
+<map id="QgsSearchWidgetWrapper" name="QgsSearchWidgetWrapper">
+<area shape="rect" id="node4" href="$classQgsCheckboxSearchWidgetWrapper.html" title="Wraps a checkbox edit widget for searching. " alt="" coords="552,5,801,32"/>
+<area shape="rect" id="node5" href="$classQgsDateTimeSearchWidgetWrapper.html" title="Wraps a date/time edit widget for searching. " alt="" coords="552,56,801,83"/>
+<area shape="rect" id="node6" href="$classQgsDefaultSearchWidgetWrapper.html" title="Wraps a search widget. " alt="" coords="560,107,793,133"/>
+<area shape="rect" id="node8" href="$classQgsRelationAggregateSearchWidgetWrapper.html" title="Search widget for the children of a relation. " alt="" coords="572,158,781,199"/>
+<area shape="rect" id="node9" href="$classQgsRelationReferenceSearchWidgetWrapper.html" title="Wraps a relation reference search widget. " alt="" coords="574,223,779,265"/>
+<area shape="rect" id="node10" href="$classQgsValueMapSearchWidgetWrapper.html" title="Wraps a value map search widget. " alt="" coords="552,289,801,316"/>
+<area shape="rect" id="node11" href="$classQgsValueRelationSearchWidgetWrapper.html" title="Wraps a value relation search widget. " alt="" coords="567,341,787,382"/>
+<area shape="rect" id="node2" href="$classQgsWidgetWrapper.html" title="Manages an editor widget Widget and wrapper share the same parent. " alt="" coords="127,165,269,192"/>
+<area shape="rect" id="node7" href="$classQgsTextEditSearchWidgetWrapper.html" title="Wraps a text edit widget for searching. " alt="" coords="849,107,1085,133"/>
+</map>

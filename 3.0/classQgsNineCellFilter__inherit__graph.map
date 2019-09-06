@@ -1,0 +1,8 @@
+<map id="QgsNineCellFilter" name="QgsNineCellFilter">
+<area shape="rect" id="node2" href="$classQgsDerivativeFilter.html" title="Adds the ability to calculate derivatives in x&#45; and y&#45;directions. " alt="" coords="147,80,289,107"/>
+<area shape="rect" id="node6" href="$classQgsRuggednessFilter.html" title="Calculates the ruggedness index based on a 3x3 moving window. " alt="" coords="313,80,467,107"/>
+<area shape="rect" id="node7" href="$classQgsTotalCurvatureFilter.html" title="Calculates total curvature as described by Wilson, Gallant (2000): terrain analysis. " alt="" coords="492,80,661,107"/>
+<area shape="rect" id="node3" href="$classQgsAspectFilter.html" title="Calculates aspect values in a window of 3x3 cells based on first order derivatives in x&#45; and y&#45; direc..." alt="" coords="5,155,127,181"/>
+<area shape="rect" id="node4" href="$classQgsHillshadeFilter.html" title="QgsHillshadeFilter" alt="" coords="151,155,285,181"/>
+<area shape="rect" id="node5" href="$classQgsSlopeFilter.html" title="Calculates slope values in a window of 3x3 cells based on first order derivatives in x&#45; and y&#45; direct..." alt="" coords="309,155,423,181"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/symbology/qgsstyle.h" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/symbology/qgsstyle.h">
+<area shape="rect" id="node2" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsvectorlayer.cpp" alt="" coords="5,117,279,158"/>
+<area shape="rect" id="node3" href="$qgsstyle_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/symbology\l/qgsstyle.cpp" alt="" coords="303,109,525,165"/>
+<area shape="rect" id="node4" href="$qgssymbol_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/symbology\l/qgssymbol.cpp" alt="" coords="549,109,772,165"/>
+<area shape="rect" id="node5" href="$qgscolorrampbutton_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgscolorrampbutton.h" alt="" coords="948,117,1235,158"/>
+<area shape="rect" id="node6" href="$qgscolorrampbutton_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgscolorrampbutton.cpp" alt="" coords="1882,221,2183,262"/>
+<area shape="rect" id="node7" href="$qgspainteffectwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/effects\l/qgspainteffectwidget.cpp" alt="" coords="209,213,395,269"/>
+<area shape="rect" id="node8" href="$qgssinglebandpseudocolorrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/raster\l/qgssinglebandpseudocolorrendererwidget.cpp" alt="" coords="420,213,739,269"/>
+<area shape="rect" id="node9" href="$qgscategorizedsymbolrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgscategorizedsymbolrendererwidget.cpp" alt="" coords="763,213,1057,269"/>
+<area shape="rect" id="node10" href="$qgsgraduatedsymbolrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgsgraduatedsymbolrendererwidget.cpp" alt="" coords="1081,213,1365,269"/>
+<area shape="rect" id="node11" href="$qgsheatmaprendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgsheatmaprendererwidget.cpp" alt="" coords="1389,213,1620,269"/>
+<area shape="rect" id="node12" href="$qgssymbollayerwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgssymbollayerwidget.cpp" alt="" coords="1645,213,1858,269"/>
+<area shape="rect" id="node13" href="$qgssymbolbutton_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgssymbolbutton.cpp" alt="" coords="1486,117,1769,158"/>
+<area shape="rect" id="node14" href="$qgsfieldconditionalformatwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/attributetable\l/qgsfieldconditionalformatwidget.cpp" alt="" coords="1793,109,2048,165"/>
+<area shape="rect" id="node15" href="$qgsdatadefinedsizelegendwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgsdatadefinedsizelegendwidget.cpp" alt="" coords="2073,109,2334,165"/>
+<area shape="rect" id="node16" href="$qgspointclusterrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgspointclusterrendererwidget.cpp" alt="" coords="2357,109,2604,165"/>
+<area shape="rect" id="node17" href="$qgspointdisplacementrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgspointdisplacementrendererwidget.cpp" alt="" coords="2629,109,2919,165"/>
+<area shape="rect" id="node18" href="$qgssmartgroupeditordialog_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgssmartgroupeditordialog.h" alt="" coords="2994,109,3207,165"/>
+<area shape="rect" id="node19" href="$qgssmartgroupeditordialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgssmartgroupeditordialog.cpp" alt="" coords="2865,213,3091,269"/>
+<area shape="rect" id="node20" href="$qgsstylemanagerdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgsstylemanagerdialog.cpp" alt="" coords="3138,213,3351,269"/>
+<area shape="rect" id="node21" href="$qgsstyleexportimportdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgsstyleexportimportdialog.cpp" alt="" coords="3282,109,3509,165"/>
+<area shape="rect" id="node22" href="$qgsstylegroupselectiondialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgsstylegroupselectiondialog.cpp" alt="" coords="3533,109,3772,165"/>
+<area shape="rect" id="node23" href="$qgsstylesavedialog_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgsstylesavedialog.h" alt="" coords="3797,109,4010,165"/>
+<area shape="rect" id="node24" href="$qgsstylesavedialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgsstylesavedialog.cpp" alt="" coords="3775,213,3989,269"/>
+<area shape="rect" id="node25" href="$qgssymbolslistwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgssymbolslistwidget.cpp" alt="" coords="4013,213,4226,269"/>
+<area shape="rect" id="node26" href="$qgssymbolselectordialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/symbology\l/qgssymbolselectordialog.cpp" alt="" coords="4135,109,4349,165"/>
+</map>

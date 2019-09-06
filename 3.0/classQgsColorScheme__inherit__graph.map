@@ -1,0 +1,8 @@
+<map id="QgsColorScheme" name="QgsColorScheme">
+<area shape="rect" id="node2" href="$classQgsCustomColorScheme.html" title="A color scheme which contains custom colors set through QGIS app options dialog. " alt="" coords="201,5,383,32"/>
+<area shape="rect" id="node3" href="$classQgsGplColorScheme.html" title="A color scheme which stores its colors in a gpl palette file. " alt="" coords="215,56,369,83"/>
+<area shape="rect" id="node5" href="$classQgsPresetSchemeColorRamp.html" title="A scheme based color ramp consisting of a list of predefined colors. " alt="" coords="187,107,397,133"/>
+<area shape="rect" id="node6" href="$classQgsProjectColorScheme.html" title="A color scheme which contains project specific colors set through project properties dialog..." alt="" coords="203,157,381,184"/>
+<area shape="rect" id="node7" href="$classQgsRecentColorScheme.html" title="A color scheme which contains the most recently used colors. " alt="" coords="204,208,380,235"/>
+<area shape="rect" id="node4" href="$classQgsUserColorScheme.html" title="A color scheme which stores its colors in a gpl palette file within the &quot;palettes&quot; subfolder off the ..." alt="" coords="445,56,608,83"/>
+</map>

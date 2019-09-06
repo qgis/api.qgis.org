@@ -1,0 +1,13 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/qgsfeaturesink.h" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/qgsfeaturesink.h">
+<area shape="rect" id="node3" href="$qgis_8h.html" title="qgis.h" alt="" coords="1243,468,1303,495"/>
+<area shape="rect" id="node23" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="685,244,787,271"/>
+<area shape="rect" id="node31" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="324,95,473,121"/>
+<area shape="rect" id="node19" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="651,543,768,569"/>
+<area shape="rect" id="node20" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="667,617,752,644"/>
+<area shape="rect" id="node21" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="793,543,909,569"/>
+<area shape="rect" id="node28" href="$qgsattributes_8h.html" title="qgsattributes.h" alt="" coords="677,319,795,345"/>
+<area shape="rect" id="node29" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="528,393,619,420"/>
+<area shape="rect" id="node30" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1157,319,1275,345"/>
+<area shape="rect" id="node32" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="260,169,412,196"/>
+<area shape="rect" id="node33" href="$qgsindexedfeature_8h.html" title="qgsindexedfeature.h" alt="" coords="545,169,698,196"/>
+</map>

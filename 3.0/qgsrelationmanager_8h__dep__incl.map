@@ -1,0 +1,19 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/qgsrelationmanager.h" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/qgsrelationmanager.h">
+<area shape="rect" id="node2" href="$qgsattributeeditorelement_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsattributeeditorelement.cpp" alt="" coords="5,102,353,143"/>
+<area shape="rect" id="node3" href="$qgseditformconfig_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgseditformconfig.cpp" alt="" coords="377,102,672,143"/>
+<area shape="rect" id="node4" href="$qgsjsonutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsjsonutils.cpp" alt="" coords="696,102,951,143"/>
+<area shape="rect" id="node5" href="$qgsofflineediting_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsofflineediting.cpp" alt="" coords="975,102,1259,143"/>
+<area shape="rect" id="node6" href="$qgsproject_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsproject.cpp" alt="" coords="1283,102,1529,143"/>
+<area shape="rect" id="node7" href="$qgsrelationmanager_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsrelationmanager.cpp" alt="" coords="1553,102,1861,143"/>
+<area shape="rect" id="node8" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsvectorlayer.cpp" alt="" coords="1885,102,2159,143"/>
+<area shape="rect" id="node9" href="$qgsvectorlayerutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsvectorlayerutils.cpp" alt="" coords="2183,102,2483,143"/>
+<area shape="rect" id="node10" href="$qgsrelationreferencefieldformatter_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/fieldformatter\l/qgsrelationreferencefieldformatter.cpp" alt="" coords="2507,95,2777,151"/>
+<area shape="rect" id="node11" href="$qgslayoutitemattributetable_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/layout\l/qgslayoutitemattributetable.cpp" alt="" coords="2801,95,3032,151"/>
+<area shape="rect" id="node12" href="$qgsattributeform_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsattributeform.cpp" alt="" coords="3056,102,3335,143"/>
+<area shape="rect" id="node13" href="$qgsexpressionbuilderwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsexpressionbuilderwidget.cpp" alt="" coords="3359,102,3706,143"/>
+<area shape="rect" id="node14" href="$qgsrelationreferenceconfigdlg_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/editorwidgets\l/qgsrelationreferenceconfigdlg.cpp" alt="" coords="3730,95,3973,151"/>
+<area shape="rect" id="node15" href="$qgsrelationreferencefactory_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/editorwidgets\l/qgsrelationreferencefactory.cpp" alt="" coords="3997,95,4226,151"/>
+<area shape="rect" id="node16" href="$qgsrelationreferencesearchwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/editorwidgets\l/qgsrelationreferencesearchwidgetwrapper.cpp" alt="" coords="4251,95,4569,151"/>
+<area shape="rect" id="node17" href="$qgsrelationreferencewidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/editorwidgets\l/qgsrelationreferencewidgetwrapper.cpp" alt="" coords="4593,95,4869,151"/>
+<area shape="rect" id="node18" href="$qgsrelationwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/editorwidgets\l/qgsrelationwidgetwrapper.cpp" alt="" coords="4894,95,5123,151"/>
+</map>

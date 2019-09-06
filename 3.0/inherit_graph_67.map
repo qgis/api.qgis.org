@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsAbstractVectorLayerLabeling.html" title="Abstract base class &#45; its implementations define different approaches to the labeling of a vector lay..." alt="" coords="5,31,236,57"/>
+<area shape="rect" id="node2" href="$classQgsRuleBasedLabeling.html" title="QgsRuleBasedLabeling" alt="" coords="311,5,477,32"/>
+<area shape="rect" id="node3" href="$classQgsVectorLayerSimpleLabeling.html" title="Basic implementation of the labeling interface. " alt="" coords="284,56,504,83"/>
+</map>

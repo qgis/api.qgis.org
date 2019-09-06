@@ -1,0 +1,13 @@
+<map id="QgsEditorConfigWidget" name="QgsEditorConfigWidget">
+<area shape="rect" id="node4" href="$classQgsCheckBoxConfigDlg.html" title="QgsCheckBoxConfigDlg" alt="" coords="524,5,695,32"/>
+<area shape="rect" id="node5" href="$classQgsDateTimeEditConfig.html" title="QgsDateTimeEditConfig" alt="" coords="523,56,696,83"/>
+<area shape="rect" id="node6" href="$classQgsDummyConfigDlg.html" title="QgsDummyConfigDlg" alt="" coords="530,107,689,133"/>
+<area shape="rect" id="node7" href="$classQgsExternalResourceConfigDlg.html" title="QgsExternalResourceConfigDlg" alt="" coords="500,157,719,184"/>
+<area shape="rect" id="node8" href="$classQgsRangeConfigDlg.html" title="QgsRangeConfigDlg" alt="" coords="535,208,683,235"/>
+<area shape="rect" id="node9" href="$classQgsRelationReferenceConfigDlg.html" title="QgsRelationReferenceConfigDlg" alt="" coords="499,259,720,285"/>
+<area shape="rect" id="node10" href="$classQgsTextEditConfigDlg.html" title="QgsTextEditConfigDlg" alt="" coords="531,309,688,336"/>
+<area shape="rect" id="node11" href="$classQgsUniqueValuesConfigDlg.html" title="QgsUniqueValuesConfigDlg" alt="" coords="512,360,707,387"/>
+<area shape="rect" id="node12" href="$classQgsValueMapConfigDlg.html" title="QgsValueMapConfigDlg" alt="" coords="524,411,695,437"/>
+<area shape="rect" id="node13" href="$classQgsValueRelationConfigDlg.html" title="QgsValueRelationConfigDlg" alt="" coords="513,461,706,488"/>
+<area shape="rect" id="node3" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="5,259,236,285"/>
+</map>

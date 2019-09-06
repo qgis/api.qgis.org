@@ -1,0 +1,5 @@
+<map id="Triangulation" name="Triangulation">
+<area shape="rect" id="node2" href="$classDualEdgeTriangulation.html" title="DualEdgeTriangulation is an implementation of a triangulation class based on the dual edge data struc..." alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node3" href="$classTriDecorator.html" title="Decorator class for Triangulations (s. " alt="" coords="192,80,291,107"/>
+<area shape="rect" id="node4" href="$classNormVecDecorator.html" title="Decorator class which adds the functionality of estimating normals at the data points. " alt="" coords="169,155,314,181"/>
+</map>

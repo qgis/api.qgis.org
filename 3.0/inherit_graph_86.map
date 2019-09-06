@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsAttributeEditorElement.html" title="This is an abstract base class for any elements of a drag and drop form. " alt="" coords="5,56,199,83"/>
+<area shape="rect" id="node2" href="$classQgsAttributeEditorContainer.html" title="This is a container for attribute editors, used to group them visually in the attribute form if it is..." alt="" coords="247,5,449,32"/>
+<area shape="rect" id="node3" href="$classQgsAttributeEditorField.html" title="This element will load a field&#39;s widget onto the form. " alt="" coords="264,56,432,83"/>
+<area shape="rect" id="node4" href="$classQgsAttributeEditorRelation.html" title="This element will load a relation editor onto the form. " alt="" coords="253,107,443,133"/>
+</map>

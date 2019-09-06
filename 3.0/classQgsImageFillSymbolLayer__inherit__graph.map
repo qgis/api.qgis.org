@@ -1,0 +1,8 @@
+<map id="QgsImageFillSymbolLayer" name="QgsImageFillSymbolLayer">
+<area shape="rect" id="node4" href="$classQgsLinePatternFillSymbolLayer.html" title="QgsLinePatternFillSymbol\lLayer" alt="" coords="613,5,796,47"/>
+<area shape="rect" id="node5" href="$classQgsPointPatternFillSymbolLayer.html" title="QgsPointPatternFillSymbol\lLayer" alt="" coords="611,71,799,112"/>
+<area shape="rect" id="node6" href="$classQgsRasterFillSymbolLayer.html" title="A class for filling symbols with a repeated raster image. " alt="" coords="611,137,798,163"/>
+<area shape="rect" id="node7" href="$classQgsSVGFillSymbolLayer.html" title="A class for svg fill patterns. " alt="" coords="618,187,791,214"/>
+<area shape="rect" id="node2" href="$classQgsFillSymbolLayer.html" title="QgsFillSymbolLayer" alt="" coords="184,107,329,134"/>
+<area shape="rect" id="node3" href="$classQgsSymbolLayer.html" title="QgsSymbolLayer" alt="" coords="5,107,136,134"/>
+</map>

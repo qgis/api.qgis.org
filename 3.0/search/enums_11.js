@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['rasterbuildpyramids',['RasterBuildPyramids',['../classQgsRaster.html#a6f898af7555e4f159740604d66a9ea8b',1,'QgsRaster']]],
+  ['rasterformatoption',['RasterFormatOption',['../classQgsRasterFileWriter.html#abf55eefc4c19c69790b04d71a4b3ec54',1,'QgsRasterFileWriter']]],
+  ['rasterprogresstype',['RasterProgressType',['../classQgsRaster.html#afea3af5cf1bd321b224751db0c18d975',1,'QgsRaster']]],
+  ['rasterpyramidsformat',['RasterPyramidsFormat',['../classQgsRaster.html#a39a8125e4438b3e0064c6036325d5c5a',1,'QgsRaster']]],
+  ['referencepoint',['ReferencePoint',['../classQgsLayoutItem.html#a5f78205a1c6a1fa169c2271fac02a294',1,'QgsLayoutItem']]],
+  ['registerresult',['RegisterResult',['../classQgsRuleBasedLabeling_1_1Rule.html#a73737c47214144ae4177985bce52bf9e',1,'QgsRuleBasedLabeling::Rule']]],
+  ['relationmode',['RelationMode',['../classQgsAttributeEditorContext.html#a60d0ea0bfc599fb2eb9f8b2eaf5b5696',1,'QgsAttributeEditorContext']]],
+  ['relationstrength',['RelationStrength',['../classQgsRelation.html#a907e161b799292cd990ea0e904761d5e',1,'QgsRelation']]],
+  ['relativestorage',['RelativeStorage',['../classQgsFileWidget.html#a5d65b06fac6bd540ddab8d89f35bbfa4',1,'QgsFileWidget']]],
+  ['renderhint',['RenderHint',['../classQgsSymbol.html#a639384f951e63e8ea5125f3ca53f2d30',1,'QgsSymbol']]],
+  ['renderresult',['RenderResult',['../classQgsRuleBasedRenderer_1_1Rule.html#a4114cd3a3898c72bc1c6e0d73fb561bd',1,'QgsRuleBasedRenderer::Rule']]],
+  ['renderunit',['RenderUnit',['../classQgsUnitTypes.html#ae04d6633d29996dbc2ab07e737a04adf',1,'QgsUnitTypes']]],
+  ['resamplealg',['ResampleAlg',['../classQgsAlignRaster.html#af40cecf7d70c33dda90b7c3f005b163d',1,'QgsAlignRaster']]],
+  ['resize',['Resize',['../classQgsLayoutAligner.html#a2017594d97e0a4bdad3f214d10ad0e8c',1,'QgsLayoutAligner']]],
+  ['resizemode',['ResizeMode',['../classQgsLayoutItemPicture.html#af39051fb4d51f729ce43f4e5ec3a0aca',1,'QgsLayoutItemPicture::ResizeMode()'],['../classQgsLayoutMultiFrame.html#a97164b74de7ba1bf5ae6fb5013b72baf',1,'QgsLayoutMultiFrame::ResizeMode()']]],
+  ['resolutionstate',['ResolutionState',['../classQgsRasterLayerSaveAsDialog.html#a9f1f55965e521b64a573c789134bcc32',1,'QgsRasterLayerSaveAsDialog']]],
+  ['result',['Result',['../classQgsSqlExpressionCompiler.html#a5177a38c1f4d3f50c48d8e28d1f40d24',1,'QgsSqlExpressionCompiler::Result()'],['../classQgsInterpolator.html#a7aab4d165c2262fd4d8dc0bdf0d551fa',1,'QgsInterpolator::Result()'],['../classQgsKernelDensityEstimation.html#a43ec223a8d4a0dd0fd2b4e98a9224bcd',1,'QgsKernelDensityEstimation::Result()'],['../classQgsRasterCalculator.html#abd4932102407a12b53036588893fa2cc',1,'QgsRasterCalculator::Result()']]],
+  ['role',['Role',['../classQgsFeatureFilterModel.html#a3ab5e7356530d3625bcc1eace46361cd',1,'QgsFeatureFilterModel::Role()'],['../classQgsLocatorModel.html#ad2be5435ab79082b34219ff25840b598',1,'QgsLocatorModel::Role()'],['../classQgsRasterPipe.html#afefca192393083b5a8cee16d3b935b27',1,'QgsRasterPipe::Role()'],['../classQgsAttributeTableFilterModel.html#a1e00468e7b080e08f629e4676da1fd1f',1,'QgsAttributeTableFilterModel::Role()'],['../classQgsAttributeTableModel.html#ad2a1fab62639c671c9982af13091a67d',1,'QgsAttributeTableModel::Role()'],['../classQgsFeatureListModel.html#ad90173739ec625280dc83bd1f8c85c73',1,'QgsFeatureListModel::Role()']]],
+  ['roles',['Roles',['../classQgsLayoutGuideCollection.html#aee2a3372d00ba1d68ce9d5c07e09a9c4',1,'QgsLayoutGuideCollection']]],
+  ['rotationtype',['RotationType',['../classQgsTextBackgroundSettings.html#ad4ff0a4e4a19c336d7576632ff61612f',1,'QgsTextBackgroundSettings']]]
+];

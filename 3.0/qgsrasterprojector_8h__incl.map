@@ -1,0 +1,16 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/raster/qgsrasterprojector.h" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/raster/qgsrasterprojector.h">
+<area shape="rect" id="node3" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="2047,483,2132,509"/>
+<area shape="rect" id="node6" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="935,259,1052,285"/>
+<area shape="rect" id="node14" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1466,184,1699,211"/>
+<area shape="rect" id="node20" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="1554,109,1742,136"/>
+<area shape="rect" id="node24" href="$qgsrasterinterface_8h.html" title="qgsrasterinterface.h" alt="" coords="707,109,858,136"/>
+<area shape="rect" id="node9" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="1056,333,1157,360"/>
+<area shape="rect" id="node10" href="$qgis_8h.html" title="qgis.h" alt="" coords="1501,408,1561,435"/>
+<area shape="rect" id="node18" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="1645,333,1761,360"/>
+<area shape="rect" id="node19" href="$qgssqliteutils_8h.html" title="qgssqliteutils.h" alt="" coords="1144,408,1261,435"/>
+<area shape="rect" id="node23" href="$qgscoordinatetransformcontext_8h.html" title="qgscoordinatetransformcontext.h" alt="" coords="1182,333,1418,360"/>
+<area shape="rect" id="node28" href="$qgsfeedback_8h.html" title="qgsfeedback.h" alt="" coords="576,333,691,360"/>
+<area shape="rect" id="node29" href="$qgsrasterbandstats_8h.html" title="qgsrasterbandstats.h" alt="" coords="379,184,538,211"/>
+<area shape="rect" id="node30" href="$qgsrasterblock_8h.html" title="qgsrasterblock.h" alt="" coords="769,184,897,211"/>
+<area shape="rect" id="node31" href="$qgsrasterhistogram_8h.html" title="qgsrasterhistogram.h" alt="" coords="144,184,304,211"/>
+</map>

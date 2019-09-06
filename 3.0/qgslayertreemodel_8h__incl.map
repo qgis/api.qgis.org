@@ -1,0 +1,19 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/layertree/qgslayertreemodel.h" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/layertree/qgslayertreemodel.h">
+<area shape="rect" id="node8" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="515,184,632,211"/>
+<area shape="rect" id="node25" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1571,109,1687,136"/>
+<area shape="rect" id="node36" href="$qgslayertreemodellegendnode_8h.html" title="qgslayertreemodellegendnode.h" alt="" coords="1976,184,2205,211"/>
+<area shape="rect" id="node16" href="$qgis_8h.html" title="qgis.h" alt="" coords="1247,483,1307,509"/>
+<area shape="rect" id="node19" href="$qgsabstractgeometry_8h.html" title="qgsabstractgeometry.h" alt="" coords="744,408,915,435"/>
+<area shape="rect" id="node20" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="465,259,567,285"/>
+<area shape="rect" id="node21" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="1192,408,1293,435"/>
+<area shape="rect" id="node23" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1027,259,1117,285"/>
+<area shape="rect" id="node24" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1301,333,1419,360"/>
+<area shape="rect" id="node30" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="246,483,333,509"/>
+<area shape="rect" id="node31" href="$qgsobjectcustomproperties_8h.html" title="qgsobjectcustomproperties.h" alt="" coords="2430,483,2639,509"/>
+<area shape="rect" id="node32" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1534,259,1767,285"/>
+<area shape="rect" id="node33" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="856,259,1003,285"/>
+<area shape="rect" id="node34" href="$qgsmaplayerdependency_8h.html" title="qgsmaplayerdependency.h" alt="" coords="459,483,653,509"/>
+<area shape="rect" id="node35" href="$qgslayermetadata_8h.html" title="qgslayermetadata.h" alt="" coords="1718,184,1869,211"/>
+<area shape="rect" id="node37" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="2314,259,2489,285"/>
+<area shape="rect" id="node38" href="$qgslegendsymbolitem_8h.html" title="qgslegendsymbolitem.h" alt="" coords="1777,408,1951,435"/>
+</map>

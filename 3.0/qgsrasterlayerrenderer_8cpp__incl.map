@@ -1,0 +1,35 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/raster/qgsrasterlayerrenderer.cpp" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/raster/qgsrasterlayerrenderer.cpp">
+<area shape="rect" id="node2" href="$qgsrasterlayerrenderer_8h.html" title="qgsrasterlayerrenderer.h" alt="" coords="2204,408,2384,435"/>
+<area shape="rect" id="node17" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="4138,483,4272,509"/>
+<area shape="rect" id="node19" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="1004,333,1179,360"/>
+<area shape="rect" id="node29" href="$qgsrasteriterator_8h.html" title="qgsrasteriterator.h" alt="" coords="973,483,1114,509"/>
+<area shape="rect" id="node31" href="$qgsrasterdrawer_8h.html" title="qgsrasterdrawer.h" alt="" coords="558,483,695,509"/>
+<area shape="rect" id="node32" href="$qgsrasterlayer_8h.html" title="qgsrasterlayer.h" alt="" coords="2002,109,2128,136"/>
+<area shape="rect" id="node37" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="2926,259,3073,285"/>
+<area shape="rect" id="node44" href="$qgsrasterprojector_8h.html" title="qgsrasterprojector.h" alt="" coords="1180,259,1331,285"/>
+<area shape="rect" id="node45" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="3660,109,3761,136"/>
+<area shape="rect" id="node50" href="$qgsexception_8h.html" title="qgsexception.h" alt="" coords="4388,557,4507,584"/>
+<area shape="rect" id="node3" href="$qgsmaplayerrenderer_8h.html" title="qgsmaplayerrenderer.h" alt="" coords="3041,483,3212,509"/>
+<area shape="rect" id="node6" href="$qgsrasterinterface_8h.html" title="qgsrasterinterface.h" alt="" coords="1319,483,1470,509"/>
+<area shape="rect" id="node7" href="$qgis_8h.html" title="qgis.h" alt="" coords="3284,557,3344,584"/>
+<area shape="rect" id="node14" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="325,632,410,659"/>
+<area shape="rect" id="node16" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1572,557,1689,584"/>
+<area shape="rect" id="node20" href="$qgscolorrampshader_8h.html" title="qgscolorrampshader.h" alt="" coords="1660,408,1825,435"/>
+<area shape="rect" id="node23" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="3874,483,4011,509"/>
+<area shape="rect" id="node24" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="2346,483,2437,509"/>
+<area shape="rect" id="node25" href="$qgsraster_8h.html" title="qgsraster.h" alt="" coords="2770,483,2864,509"/>
+<area shape="rect" id="node26" href="$qgsrasterpyramid_8h.html" title="qgsrasterpyramid.h" alt="" coords="622,408,769,435"/>
+<area shape="rect" id="node27" href="$qgsrasterrange_8h.html" title="qgsrasterrange.h" alt="" coords="844,408,976,435"/>
+<area shape="rect" id="node34" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="2831,184,2947,211"/>
+<area shape="rect" id="node40" href="$qgsrasterpipe_8h.html" title="qgsrasterpipe.h" alt="" coords="2149,483,2272,509"/>
+<area shape="rect" id="node41" href="$qgsrasterviewport_8h.html" title="qgsrasterviewport.h" alt="" coords="1778,333,1926,360"/>
+<area shape="rect" id="node42" href="$qgsrasterminmaxorigin_8h.html" title="qgsrasterminmaxorigin.h" alt="" coords="2563,483,2746,509"/>
+<area shape="rect" id="node43" href="$qgscontrastenhancement_8h.html" title="qgscontrastenhancement.h" alt="" coords="3040,408,3239,435"/>
+<area shape="rect" id="node35" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="2619,408,2852,435"/>
+<area shape="rect" id="node36" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="3428,483,3544,509"/>
+<area shape="rect" id="node38" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="2612,333,2800,360"/>
+<area shape="rect" id="node39" href="$qgscoordinatetransformcontext_8h.html" title="qgscoordinatetransformcontext.h" alt="" coords="3464,408,3700,435"/>
+<area shape="rect" id="node47" href="$qgssnappingconfig_8h.html" title="qgssnappingconfig.h" alt="" coords="4975,557,5128,584"/>
+<area shape="rect" id="node48" href="$qgsprojectversion_8h.html" title="qgsprojectversion.h" alt="" coords="4398,483,4545,509"/>
+<area shape="rect" id="node49" href="$qgsexpressioncontextgenerator_8h.html" title="qgsexpressioncontextgenerator.h" alt="" coords="3515,184,3751,211"/>
+</map>

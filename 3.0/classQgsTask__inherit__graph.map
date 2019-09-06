@@ -1,0 +1,9 @@
+<map id="QgsTask" name="QgsTask">
+<area shape="rect" id="node3" href="$classQgsMapRendererTask.html" title="QgsTask task which draws a map to an image file or a painter as a background task. " alt="" coords="282,5,441,32"/>
+<area shape="rect" id="node4" href="$classQgsNetworkContentFetcherTask.html" title="Handles HTTP network content fetching in a background task. " alt="" coords="249,56,473,83"/>
+<area shape="rect" id="node5" href="$classQgsProcessingAlgRunnerTask.html" title="QgsTask task which runs a QgsProcessingAlgorithm in a background task. " alt="" coords="258,107,465,133"/>
+<area shape="rect" id="node6" href="$classQgsRasterFileWriterTask.html" title="QgsTask task which performs a QgsRasterFileWriter layer saving operation as a background task..." alt="" coords="276,157,447,184"/>
+<area shape="rect" id="node7" href="$classQgsVectorFileWriterTask.html" title="QgsTask task which performs a QgsVectorFileWriter layer saving operation as a background task..." alt="" coords="276,208,447,235"/>
+<area shape="rect" id="node8" href="$classQgsVectorLayerExporterTask.html" title="QgsTask task which performs a QgsVectorLayerExporter layer export operation as a background task..." alt="" coords="259,259,463,285"/>
+<area shape="rect" id="node9" href="$classQgsVectorLayerFeatureCounter.html" title="Counts the features in a QgsVectorLayer in task. " alt="" coords="250,309,473,336"/>
+</map>

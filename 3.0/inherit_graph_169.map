@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsEditorWidgetAutoConfPlugin.html" title="Base class for plugins allowing to pick automatically a widget type for editing fields. " alt="" coords="5,31,229,57"/>
+<area shape="rect" id="node2" href="$classFromDbTablePlugin.html" title="Widget auto conf plugin that reads the widget setup to use from what the data provider says..." alt="" coords="281,5,423,32"/>
+<area shape="rect" id="node3" href="$classFromFactoriesPlugin.html" title="Widget auto conf plugin that guesses what widget type to use in function of what the widgets support..." alt="" coords="277,56,427,83"/>
+</map>

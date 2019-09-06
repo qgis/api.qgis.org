@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsAbstract3DSymbol.html" title="3 Abstract base class for 3D symbols that are used by VectorLayer3DRenderer objects. " alt="" coords="5,56,172,83"/>
+<area shape="rect" id="node2" href="$classQgsLine3DSymbol.html" title="3 3D symbol that draws linestring geometries as planar polygons (created from lines using a buffer wi..." alt="" coords="232,5,371,32"/>
+<area shape="rect" id="node3" href="$classQgsPoint3DSymbol.html" title="3 3D symbol that draws point geometries as 3D objects using one of the predefined shapes..." alt="" coords="229,56,374,83"/>
+<area shape="rect" id="node4" href="$classQgsPolygon3DSymbol.html" title="3 3D symbol that draws polygon geometries as planar polygons, optionally extruded (with added walls)..." alt="" coords="220,107,383,133"/>
+</map>

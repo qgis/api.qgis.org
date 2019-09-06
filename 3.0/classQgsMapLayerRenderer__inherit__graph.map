@@ -1,0 +1,4 @@
+<map id="QgsMapLayerRenderer" name="QgsMapLayerRenderer">
+<area shape="rect" id="node2" href="$classQgsRasterLayerRenderer.html" title="Implementation of threaded rendering for raster layers. " alt="" coords="5,80,185,107"/>
+<area shape="rect" id="node3" href="$classQgsVectorLayerRenderer.html" title="Implementation of threaded rendering for vector layers. " alt="" coords="209,80,389,107"/>
+</map>

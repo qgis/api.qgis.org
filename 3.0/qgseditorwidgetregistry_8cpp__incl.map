@@ -1,0 +1,30 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/gui/editorwidgets/core/qgseditorwidgetregistry.cpp" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/gui/editorwidgets/core/qgseditorwidgetregistry.cpp">
+<area shape="rect" id="node2" href="$qgseditorwidgetregistry_8h.html" title="qgseditorwidgetregistry.h" alt="" coords="1021,184,1202,211"/>
+<area shape="rect" id="node12" href="$qgsattributeeditorcontext_8h.html" title="qgsattributeeditorcontext.h" alt="" coords="999,259,1197,285"/>
+<area shape="rect" id="node13" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="645,333,772,360"/>
+<area shape="rect" id="node14" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="418,333,519,360"/>
+<area shape="rect" id="node16" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="5,333,140,360"/>
+<area shape="rect" id="node17" href="$qgseditorwidgetwrapper_8h.html" title="qgseditorwidgetwrapper.h" alt="" coords="493,109,679,136"/>
+<area shape="rect" id="node19" href="$qgssearchwidgetwrapper_8h.html" title="qgssearchwidgetwrapper.h" alt="" coords="729,109,920,136"/>
+<area shape="rect" id="node20" href="$qgsclassificationwidgetwrapperfactory_8h.html" title="qgsclassificationwidgetwrapperfactory.h" alt="" coords="2466,184,2738,211"/>
+<area shape="rect" id="node21" href="$qgscheckboxwidgetfactory_8h.html" title="qgscheckboxwidgetfactory.h" alt="" coords="2762,184,2962,211"/>
+<area shape="rect" id="node22" href="$qgscolorwidgetfactory_8h.html" title="qgscolorwidgetfactory.h" alt="" coords="2986,184,3157,211"/>
+<area shape="rect" id="node23" href="$qgsdatetimeeditfactory_8h.html" title="qgsdatetimeeditfactory.h" alt="" coords="3181,184,3362,211"/>
+<area shape="rect" id="node24" href="$qgsenumerationwidgetfactory_8h.html" title="qgsenumerationwidgetfactory.h" alt="" coords="3387,184,3609,211"/>
+<area shape="rect" id="node25" href="$qgsexternalresourcewidgetfactory_8h.html" title="qgsexternalresourcewidgetfactory.h" alt="" coords="3633,184,3881,211"/>
+<area shape="rect" id="node26" href="$qgshiddenwidgetfactory_8h.html" title="qgshiddenwidgetfactory.h" alt="" coords="3905,184,4088,211"/>
+<area shape="rect" id="node27" href="$qgskeyvaluewidgetfactory_8h.html" title="qgskeyvaluewidgetfactory.h" alt="" coords="4112,184,4308,211"/>
+<area shape="rect" id="node28" href="$qgslistwidgetfactory_8h.html" title="qgslistwidgetfactory.h" alt="" coords="4332,184,4491,211"/>
+<area shape="rect" id="node29" href="$qgsrangewidgetfactory_8h.html" title="qgsrangewidgetfactory.h" alt="" coords="4515,184,4692,211"/>
+<area shape="rect" id="node30" href="$qgsrelationreferencefactory_8h.html" title="qgsrelationreferencefactory.h" alt="" coords="1574,184,1782,211"/>
+<area shape="rect" id="node31" href="$qgstexteditwidgetfactory_8h.html" title="qgstexteditwidgetfactory.h" alt="" coords="4717,184,4906,211"/>
+<area shape="rect" id="node32" href="$qgsuniquevaluewidgetfactory_8h.html" title="qgsuniquevaluewidgetfactory.h" alt="" coords="1807,184,2024,211"/>
+<area shape="rect" id="node33" href="$qgsuuidwidgetfactory_8h.html" title="qgsuuidwidgetfactory.h" alt="" coords="2048,184,2215,211"/>
+<area shape="rect" id="node34" href="$qgsvaluemapwidgetfactory_8h.html" title="qgsvaluemapwidgetfactory.h" alt="" coords="2239,184,2442,211"/>
+<area shape="rect" id="node35" href="$qgsvaluerelationwidgetfactory_8h.html" title="qgsvaluerelationwidgetfactory.h" alt="" coords="1327,184,1549,211"/>
+<area shape="rect" id="node4" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1021,483,1106,509"/>
+<area shape="rect" id="node5" href="$qgis_8h.html" title="qgis.h" alt="" coords="679,408,739,435"/>
+<area shape="rect" id="node10" href="$qgseditorwidgetfactory_8h.html" title="qgseditorwidgetfactory.h" alt="" coords="2572,259,2749,285"/>
+<area shape="rect" id="node15" href="$qgseditorwidgetautoconf_8h.html" title="qgseditorwidgetautoconf.h" alt="" coords="1373,259,1564,285"/>
+<area shape="rect" id="node18" href="$qgswidgetwrapper_8h.html" title="qgswidgetwrapper.h" alt="" coords="696,184,844,211"/>
+</map>

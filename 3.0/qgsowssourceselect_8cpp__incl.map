@@ -1,0 +1,21 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/gui/qgsowssourceselect.cpp" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/gui/qgsowssourceselect.cpp">
+<area shape="rect" id="node2" href="$qgis_8h.html" title="qgis.h" alt="" coords="1350,244,1410,271"/>
+<area shape="rect" id="node22" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="297,169,530,196"/>
+<area shape="rect" id="node23" href="$qgsdatasourceuri_8h.html" title="qgsdatasourceuri.h" alt="" coords="1157,169,1302,196"/>
+<area shape="rect" id="node24" href="$qgsprojectionselectiondialog_8h.html" title="qgsprojectionselectiondialog.h" alt="" coords="929,95,1143,121"/>
+<area shape="rect" id="node25" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="2476,244,2572,271"/>
+<area shape="rect" id="node26" href="$qgsmanageconnectionsdialog_8h.html" title="qgsmanageconnectionsdialog.h" alt="" coords="2557,95,2782,121"/>
+<area shape="rect" id="node28" href="$qgsmessageviewer_8h.html" title="qgsmessageviewer.h" alt="" coords="2596,244,2751,271"/>
+<area shape="rect" id="node29" href="$qgsnewhttpconnection_8h.html" title="qgsnewhttpconnection.h" alt="" coords="2807,95,2985,121"/>
+<area shape="rect" id="node30" href="$qgstreewidgetitem_8h.html" title="qgstreewidgetitem.h" alt="" coords="1510,169,1663,196"/>
+<area shape="rect" id="node31" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="285,95,387,121"/>
+<area shape="rect" id="node32" href="$qgsproviderregistry_8h.html" title="qgsproviderregistry.h" alt="" coords="2297,244,2452,271"/>
+<area shape="rect" id="node33" href="$qgsowsconnection_8h.html" title="qgsowsconnection.h" alt="" coords="1167,95,1318,121"/>
+<area shape="rect" id="node34" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="1673,95,1810,121"/>
+<area shape="rect" id="node35" href="$qgsowssourceselect_8h.html" title="qgsowssourceselect.h" alt="" coords="1835,95,1997,121"/>
+<area shape="rect" id="node37" href="$qgsnetworkaccessmanager_8h.html" title="qgsnetworkaccessmanager.h" alt="" coords="2072,95,2280,121"/>
+<area shape="rect" id="node38" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="1841,169,1967,196"/>
+<area shape="rect" id="node39" href="$qgssettings_8h.html" title="qgssettings.h" alt="" coords="1326,169,1434,196"/>
+<area shape="rect" id="node18" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="1741,319,1859,345"/>
+<area shape="rect" id="node20" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="1601,319,1717,345"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classspatialite__database__unique__ptr.html" title="Unique pointer for spatialite databases, which automatically closes the database when the pointer goe..." alt="" coords="177,5,324,47"/>
+<area shape="rect" id="node3" href="$classsqlite3__database__unique__ptr.html" title="Unique pointer for sqlite3 databases, which automatically closes the database when the pointer goes o..." alt="" coords="147,71,354,98"/>
+<area shape="rect" id="node4" href="$classsqlite3__statement__unique__ptr.html" title="Unique pointer for sqlite3 prepared statements, which automatically finalizes the statement when the ..." alt="" coords="144,122,357,149"/>
+</map>

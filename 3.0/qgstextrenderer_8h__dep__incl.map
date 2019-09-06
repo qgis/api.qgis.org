@@ -1,0 +1,28 @@
+<map id="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/qgstextrenderer.h" name="/tmp/buildd/qgis&#45;3.0.2+14stretch/src/core/qgstextrenderer.h">
+<area shape="rect" id="node2" href="$qgspallabeling_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgspallabeling.h" alt="" coords="2457,95,2713,136"/>
+<area shape="rect" id="node13" href="$qgsmapsettingsutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsmapsettingsutils.cpp" alt="" coords="3621,191,3930,233"/>
+<area shape="rect" id="node21" href="$qgstextrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgstextrenderer.cpp" alt="" coords="4578,191,4861,233"/>
+<area shape="rect" id="node22" href="$qgstextrenderer__p_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgstextrenderer_p.h" alt="" coords="4595,95,4878,136"/>
+<area shape="rect" id="node23" href="$qgsfontbutton_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsfontbutton.h" alt="" coords="4275,95,4521,136"/>
+<area shape="rect" id="node25" href="$qgstextformatwidget_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgstextformatwidget.h" alt="" coords="3962,95,4250,136"/>
+<area shape="rect" id="node26" href="$qgstextpreview_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgstextpreview.h" alt="" coords="4902,95,5153,136"/>
+<area shape="rect" id="node3" href="$qgsauxiliarystorage_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsauxiliarystorage.h" alt="" coords="1969,191,2259,233"/>
+<area shape="rect" id="node4" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsvectorlayer.cpp" alt="" coords="1885,288,2159,329"/>
+<area shape="rect" id="node5" href="$qgslabelfeature_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgslabelfeature.h" alt="" coords="2283,191,2547,233"/>
+<area shape="rect" id="node6" href="$qgslabelingengine_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgslabelingengine.h" alt="" coords="2622,191,2902,233"/>
+<area shape="rect" id="node7" href="$qgsmaprendererjob_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsmaprendererjob.cpp" alt="" coords="2693,288,2999,329"/>
+<area shape="rect" id="node8" href="$qgspalgeometry_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgspalgeometry.h" alt="" coords="2402,288,2669,329"/>
+<area shape="rect" id="node9" href="$qgspallabeling_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgspallabeling.cpp" alt="" coords="3024,288,3295,329"/>
+<area shape="rect" id="node10" href="$qgslabelsearchtree_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgslabelsearchtree.h" alt="" coords="3259,191,3545,233"/>
+<area shape="rect" id="node11" href="$qgsvectorlayerlabelprovider_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsvectorlayerlabelprovider.cpp" alt="" coords="3377,288,3731,329"/>
+<area shape="rect" id="node12" href="$qgsmaprenderersequentialjob_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsmaprenderersequentialjob.cpp" alt="" coords="5,191,377,233"/>
+<area shape="rect" id="node14" href="$pal_8h.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/pal/pal.h" alt="" coords="3028,191,3235,233"/>
+<area shape="rect" id="node15" href="$qgstextlabelfeature_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgstextlabelfeature.cpp" alt="" coords="402,191,706,233"/>
+<area shape="rect" id="node16" href="$qgsvectorlayerlabeling_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsvectorlayerlabeling.cpp" alt="" coords="730,191,1053,233"/>
+<area shape="rect" id="node17" href="$qgsvectorlayerrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/qgsvectorlayerrenderer.cpp" alt="" coords="1077,191,1405,233"/>
+<area shape="rect" id="node18" href="$qgsdxfpallabeling_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/core/dxf\l/qgsdxfpallabeling.cpp" alt="" coords="1429,184,1601,240"/>
+<area shape="rect" id="node19" href="$qgsmapcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsmapcanvas.cpp" alt="" coords="1625,191,1893,233"/>
+<area shape="rect" id="node20" href="$qgstextformatwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgstextformatwidget.cpp" alt="" coords="3955,191,4257,233"/>
+<area shape="rect" id="node24" href="$qgsfontbutton_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgsfontbutton.cpp" alt="" coords="4282,191,4543,233"/>
+<area shape="rect" id="node27" href="$qgstextpreview_8cpp.html" title="/tmp/buildd/qgis&#45;3.0.2\l+14stretch/src/gui/qgstextpreview.cpp" alt="" coords="4894,191,5161,233"/>
+</map>

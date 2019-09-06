@@ -1,0 +1,4 @@
+<map id="QgsVectorLayerUndoPassthroughCommandUpdate" name="QgsVectorLayerUndoPassthroughCommandUpdate">
+<area shape="rect" id="node2" href="$classQgsVectorLayerUndoPassthroughCommand.html" title="Undo command for vector layer in transaction group mode. " alt="" coords="5,80,241,121"/>
+<area shape="rect" id="node3" href="$classQgsVectorLayerUndoCommand.html" title="Base class for undo commands within a QgsVectorLayerEditBuffer. " alt="" coords="11,5,235,32"/>
+</map>
