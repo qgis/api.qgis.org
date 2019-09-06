@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsdistancearea_8cpp.html" title="src/core/qgsdistancearea.cpp" alt="" coords="5,84,213,111"/>
+<area shape="rect" href="$qgsexpression_8cpp.html" title="src/core/qgsexpression.cpp" alt="" coords="237,84,432,111"/>
+<area shape="rect" href="$qgsmaprenderer_8cpp.html" title="src/core/qgsmaprenderer.cpp" alt="" coords="456,84,664,111"/>
+<area shape="rect" href="$qgssearchtreenode_8cpp.html" title="src/core/qgssearchtreenode.cpp" alt="" coords="688,84,915,111"/>
+<area shape="rect" href="$qgsgeometryanalyzer_8h.html" title="src/analysis/vector/qgsgeometryanalyzer.h" alt="" coords="939,84,1232,111"/>
+<area shape="rect" href="$qgsgeometryanalyzer_8cpp.html" title="src/analysis/vector/qgsgeometryanalyzer.cpp" alt="" coords="951,161,1257,188"/>
+<area shape="rect" href="$qgsoverlayanalyzer_8h.html" title="src/analysis/vector/qgsoverlayanalyzer.h" alt="" coords="1307,84,1584,111"/>
+<area shape="rect" href="$qgsoverlayanalyzer_8cpp.html" title="src/analysis/vector/qgsoverlayanalyzer.cpp" alt="" coords="1300,161,1591,188"/>
+<area shape="rect" href="$qgsgraphbuilderintr_8h.html" title="src/analysis/network/qgsgraphbuilderintr.h" alt="" coords="1659,84,1947,111"/>
+<area shape="rect" href="$qgslinevectorlayerdirector_8cpp.html" title="implementation of QgsLineVectorLayerDirector" alt="" coords="1905,161,2249,188"/>
+<area shape="rect" href="$qgsgraphbuilder_8h.html" title="src/analysis/network/qgsgraphbuilder.h" alt="" coords="1615,161,1881,188"/>
+<area shape="rect" href="$qgsgraphbuilder_8cpp.html" title="implementation of QgsGraphBuilder" alt="" coords="1607,239,1889,265"/>
+</map>

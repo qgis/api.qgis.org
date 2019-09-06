@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsnewvectorlayerdialog_8h.html" title="qgsnewvectorlayerdialog.h" alt="" coords="709,84,899,111"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="893,161,952,188"/>
+<area shape="rect" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="1015,84,1140,111"/>
+<area shape="rect" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1333,84,1429,111"/>
+<area shape="rect" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1453,84,1685,111"/>
+<area shape="rect" href="$qgsgenericprojectionselector_8h.html" title="qgsgenericprojectionselector.h" alt="" coords="260,84,476,111"/>
+<area shape="rect" href="$qgsencodingfiledialog_8h.html" title="qgsencodingfiledialog.h" alt="" coords="2173,84,2344,111"/>
+<area shape="rect" href="$qgsproviderregistry_8h.html" title="qgsproviderregistry.h" alt="" coords="1760,84,1915,111"/>
+<area shape="rect" href="$qgisgui_8h.html" title="qgisgui.h" alt="" coords="373,161,451,188"/>
+<area shape="rect" href="$qgscontexthelp_8h.html" title="qgscontexthelp.h" alt="" coords="739,161,869,188"/>
+</map>

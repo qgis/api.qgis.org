@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsInterpolator.html" title="Interface class for interpolations." alt="" coords="5,31,125,57"/>
+<area shape="rect" href="$classQgsIDWInterpolator.html" title="QgsIDWInterpolator" alt="" coords="173,5,317,32"/>
+<area shape="rect" href="$classQgsTINInterpolator.html" title="Interpolation in a triangular irregular network." alt="" coords="176,56,315,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsSymbolV2.html" title="QgsSymbolV2" alt="" coords="5,199,117,225"/>
+<area shape="rect" href="$structQgsRuleBasedRendererV2_1_1FeatureToRender.html" title="QgsRuleBasedRendererV2::FeatureToRender" alt="" coords="141,199,440,225"/>
+<area shape="rect" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="244,103,337,129"/>
+<area shape="rect" href="$classQgsGeometry.html" title="A geometry is the spatial representation of a feature." alt="" coords="236,7,345,33"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgscomposition_8h.html" title="qgscomposition.h" alt="" coords="299,316,432,343"/>
+<area shape="rect" href="$qgscomposeritem_8h.html" title="qgscomposeritem.h" alt="" coords="1008,239,1157,265"/>
+<area shape="rect" href="$qgspaperitem_8h.html" title="qgspaperitem.h" alt="" coords="371,161,493,188"/>
+<area shape="rect" href="$qgscomposerarrow_8h.html" title="qgscomposerarrow.h" alt="" coords="1005,161,1160,188"/>
+<area shape="rect" href="$qgscomposerlabel_8h.html" title="qgscomposerlabel.h" alt="" coords="1199,84,1348,111"/>
+<area shape="rect" href="$qgscomposerlegend_8h.html" title="qgscomposerlegend.h" alt="" coords="133,84,296,111"/>
+<area shape="rect" href="$qgscomposermap_8h.html" title="qgscomposermap.h" alt="" coords="1677,84,1827,111"/>
+<area shape="rect" href="$qgscomposeritemgroup_8h.html" title="qgscomposeritemgroup.h" alt="" coords="1285,161,1472,188"/>
+<area shape="rect" href="$qgscomposerpicture_8h.html" title="qgscomposerpicture.h" alt="" coords="777,84,940,111"/>
+<area shape="rect" href="$qgscomposerscalebar_8h.html" title="qgscomposerscalebar.h" alt="" coords="509,84,683,111"/>
+<area shape="rect" href="$qgscomposershape_8h.html" title="qgscomposershape.h" alt="" coords="1015,84,1175,111"/>
+<area shape="rect" href="$qgscomposerattributetable_8h.html" title="qgscomposerattributetable.h" alt="" coords="1431,84,1639,111"/>
+<area shape="rect" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="2012,239,2108,265"/>
+<area shape="rect" href="$qgscomposeritemcommand_8h.html" title="qgscomposeritemcommand.h" alt="" coords="501,393,715,420"/>
+<area shape="rect" href="$qgsaddremoveitemcommand_8h.html" title="qgsaddremoveitemcommand.h" alt="" coords="739,393,963,420"/>
+<area shape="rect" href="$qgslegendmodel_8h.html" title="qgslegendmodel.h" alt="" coords="107,161,245,188"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1723,161,1837,188"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1652,239,1740,265"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="1533,316,1592,343"/>
+<area shape="rect" href="$qgscomposertable_8h.html" title="qgscomposertable.h" alt="" coords="1547,161,1699,188"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1421,239,1523,265"/>
+</map>

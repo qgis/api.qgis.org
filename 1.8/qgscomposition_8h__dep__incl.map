@@ -1,0 +1,37 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgscomposeritem_8h.html" title="src/core/composer/qgscomposeritem.h" alt="" coords="1616,84,1888,111"/>
+<area shape="rect" href="$qgscomposition_8cpp.html" title="src/core/composer/qgscomposition.cpp" alt="" coords="1031,316,1303,343"/>
+<area shape="rect" href="$qgscomposeritem_8cpp.html" title="src/core/composer/qgscomposeritem.cpp" alt="" coords="3091,161,3379,188"/>
+<area shape="rect" href="$qgscomposeritemgroup_8cpp.html" title="src/core/composer/qgscomposeritemgroup.cpp" alt="" coords="3645,239,3968,265"/>
+<area shape="rect" href="$qgsaddremoveitemcommand_8cpp.html" title="src/core/composer/qgsaddremoveitemcommand.cpp" alt="" coords="2605,161,2965,188"/>
+<area shape="rect" href="$qgscomposerarrow_8h.html" title="src/core/composer/qgscomposerarrow.h" alt="" coords="629,239,907,265"/>
+<area shape="rect" href="$qgscomposertable_8h.html" title="src/core/composer/qgscomposertable.h" alt="" coords="1931,161,2205,188"/>
+<area shape="rect" href="$qgscomposermap_8h.html" title="src/core/composer/qgscomposermap.h" alt="" coords="2707,239,2979,265"/>
+<area shape="rect" href="$qgscomposeritemcommand_8cpp.html" title="src/core/composer/qgscomposeritemcommand.cpp" alt="" coords="2229,161,2581,188"/>
+<area shape="rect" href="$qgscomposeritemgroup_8h.html" title="src/core/composer/qgscomposeritemgroup.h" alt="" coords="1597,161,1907,188"/>
+<area shape="rect" href="$qgscomposerlabel_8h.html" title="src/core/composer/qgscomposerlabel.h" alt="" coords="333,239,605,265"/>
+<area shape="rect" href="$qgscomposerlegend_8h.html" title="src/core/composer/qgscomposerlegend.h" alt="" coords="1677,239,1963,265"/>
+<area shape="rect" href="$qgscomposerpicture_8h.html" title="src/core/composer/qgscomposerpicture.h" alt="" coords="1365,239,1653,265"/>
+<area shape="rect" href="$qgscomposerscalebar_8h.html" title="src/core/composer/qgscomposerscalebar.h" alt="" coords="3325,239,3621,265"/>
+<area shape="rect" href="$qgscomposershape_8h.html" title="src/core/composer/qgscomposershape.h" alt="" coords="27,239,309,265"/>
+<area shape="rect" href="$qgspaperitem_8h.html" title="src/core/composer/qgspaperitem.h" alt="" coords="1039,161,1284,188"/>
+<area shape="rect" href="$qgscomposerarrow_8cpp.html" title="src/core/composer/qgscomposerarrow.cpp" alt="" coords="637,316,928,343"/>
+<area shape="rect" href="$qgscomposerview_8cpp.html" title="src/gui/qgscomposerview.cpp" alt="" coords="1405,316,1613,343"/>
+<area shape="rect" href="$qgscomposerattributetable_8h.html" title="src/core/composer/qgscomposerattributetable.h" alt="" coords="2352,239,2683,265"/>
+<area shape="rect" href="$qgscomposertable_8cpp.html" title="src/core/composer/qgscomposertable.cpp" alt="" coords="2037,239,2328,265"/>
+<area shape="rect" href="$qgscomposertexttable_8h.html" title="src/core/composer/qgscomposertexttable.h" alt="" coords="3003,239,3301,265"/>
+<area shape="rect" href="$qgscomposerattributetable_8cpp.html" title="src/core/composer/qgscomposerattributetable.cpp" alt="" coords="2288,316,2632,343"/>
+<area shape="rect" href="$qgscomposertexttable_8cpp.html" title="src/core/composer/qgscomposertexttable.cpp" alt="" coords="2968,316,3283,343"/>
+<area shape="rect" href="$qgscomposerlegend_8cpp.html" title="src/core/composer/qgscomposerlegend.cpp" alt="" coords="1963,316,2264,343"/>
+<area shape="rect" href="$qgscomposermap_8cpp.html" title="src/core/composer/qgscomposermap.cpp" alt="" coords="2656,316,2944,343"/>
+<area shape="rect" href="$qgscomposerpicture_8cpp.html" title="src/core/composer/qgscomposerpicture.cpp" alt="" coords="1637,316,1939,343"/>
+<area shape="rect" href="$qgscomposerscalebar_8cpp.html" title="src/core/composer/qgscomposerscalebar.cpp" alt="" coords="3661,316,3973,343"/>
+<area shape="rect" href="$qgsnumericscalebarstyle_8cpp.html" title="src/core/composer/qgsnumericscalebarstyle.cpp" alt="" coords="3307,316,3637,343"/>
+<area shape="rect" href="$qgscomposerlabel_8cpp.html" title="src/core/composer/qgscomposerlabel.cpp" alt="" coords="325,316,613,343"/>
+<area shape="rect" href="$qgsdoubleboxscalebarstyle_8cpp.html" title="src/core/composer/qgsdoubleboxscalebarstyle.cpp" alt="" coords="4691,316,5035,343"/>
+<area shape="rect" href="$qgsscalebarstyle_8cpp.html" title="src/core/composer/qgsscalebarstyle.cpp" alt="" coords="5059,316,5336,343"/>
+<area shape="rect" href="$qgssingleboxscalebarstyle_8cpp.html" title="src/core/composer/qgssingleboxscalebarstyle.cpp" alt="" coords="3997,316,4336,343"/>
+<area shape="rect" href="$qgsticksscalebarstyle_8cpp.html" title="src/core/composer/qgsticksscalebarstyle.cpp" alt="" coords="4360,316,4667,343"/>
+<area shape="rect" href="$qgscomposershape_8cpp.html" title="src/core/composer/qgscomposershape.cpp" alt="" coords="5,316,301,343"/>
+<area shape="rect" href="$qgspaperitem_8cpp.html" title="src/core/composer/qgspaperitem.cpp" alt="" coords="1032,239,1291,265"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="824,471,883,497"/>
+<area shape="rect" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="668,161,783,188"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="813,393,901,420"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="856,316,971,343"/>
+<area shape="rect" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="1403,316,1528,343"/>
+<area shape="rect" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="2813,393,2909,420"/>
+<area shape="rect" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="1693,239,1827,265"/>
+<area shape="rect" href="$qgsmaplayerregistry_8h.html" title="qgsmaplayerregistry.h" alt="" coords="1507,239,1669,265"/>
+<area shape="rect" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="2329,161,2455,188"/>
+<area shape="rect" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="2920,239,3019,265"/>
+<area shape="rect" href="$qgsgeometryvalidator_8h.html" title="qgsgeometryvalidator.h" alt="" coords="763,84,933,111"/>
+<area shape="rect" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="763,239,949,265"/>
+<area shape="rect" href="$qgscsexception_8h.html" title="qgscsexception.h" alt="" coords="565,316,696,343"/>
+<area shape="rect" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1147,316,1379,343"/>
+<area shape="rect" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="2012,239,2127,265"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="2563,316,2664,343"/>
+<area shape="rect" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="2512,239,2619,265"/>
+<area shape="rect" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="2739,316,2821,343"/>
+<area shape="rect" href="$qgsprojectversion_8h.html" title="qgsprojectversion.h" alt="" coords="2896,316,3043,343"/>
+</map>

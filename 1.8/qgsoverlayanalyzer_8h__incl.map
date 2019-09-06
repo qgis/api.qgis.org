@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="525,84,651,111"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="613,393,715,420"/>
+<area shape="rect" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1605,239,1688,265"/>
+<area shape="rect" href="$qgsspatialindex_8h.html" title="qgsspatialindex.h" alt="" coords="749,316,880,343"/>
+<area shape="rect" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1869,393,1984,420"/>
+<area shape="rect" href="$qgsdistancearea_8h.html" title="qgsdistancearea.h" alt="" coords="1656,393,1795,420"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="1080,703,1139,729"/>
+<area shape="rect" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="461,393,576,420"/>
+<area shape="rect" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="859,161,965,188"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1213,548,1328,575"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1569,625,1657,652"/>
+<area shape="rect" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="1145,239,1260,265"/>
+<area shape="rect" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="1403,471,1531,497"/>
+<area shape="rect" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="1133,316,1272,343"/>
+<area shape="rect" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="1333,393,1480,420"/>
+<area shape="rect" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="1656,471,1843,497"/>
+<area shape="rect" href="$qgscsexception_8h.html" title="qgscsexception.h" alt="" coords="2040,625,2171,652"/>
+<area shape="rect" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1837,548,2069,575"/>
+<area shape="rect" href="$qgsexception_8h.html" title="qgsexception.h" alt="" coords="2044,703,2161,729"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsFeatureRendererV2.html" title="QgsFeatureRendererV2" alt="" coords="5,107,173,133"/>
+<area shape="rect" href="$classQgsCategorizedSymbolRendererV2.html" title="QgsCategorizedSymbolRendererV2" alt="" coords="221,5,467,32"/>
+<area shape="rect" href="$classQgsGraduatedSymbolRendererV2.html" title="QgsGraduatedSymbolRendererV2" alt="" coords="227,56,461,83"/>
+<area shape="rect" href="$classQgsPointDisplacementRenderer.html" title="A renderer that automatically displaces points with the same position." alt="" coords="232,107,456,133"/>
+<area shape="rect" href="$classQgsRuleBasedRendererV2.html" title="When drawing a vector layer with rule&#45;based renderer, it goes through the rules and draws features wi..." alt="" coords="251,157,437,184"/>
+<area shape="rect" href="$classQgsSingleSymbolRendererV2.html" title="QgsSingleSymbolRendererV2" alt="" coords="240,208,448,235"/>
+</map>

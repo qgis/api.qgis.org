@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgscomposerlegenditem_8h.html" title="qgscomposerlegenditem.h" alt="" coords="292,84,484,111"/>
+<area shape="rect" href="$qgsmaplayerregistry_8h.html" title="qgsmaplayerregistry.h" alt="" coords="1925,161,2088,188"/>
+<area shape="rect" href="$qgsrasterlayer_8h.html" title="qgsrasterlayer.h" alt="" coords="1279,84,1401,111"/>
+<area shape="rect" href="$qgssymbol_8h.html" title="qgssymbol.h" alt="" coords="3112,161,3213,188"/>
+<area shape="rect" href="$qgssymbolv2_8h.html" title="qgssymbolv2.h" alt="" coords="1395,239,1512,265"/>
+<area shape="rect" href="$qgssymbollayerv2utils_8h.html" title="qgssymbollayerv2utils.h" alt="" coords="360,161,533,188"/>
+<area shape="rect" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="2232,84,2357,111"/>
+<area shape="rect" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="2875,161,3000,188"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="2123,316,2181,343"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1755,239,1843,265"/>
+<area shape="rect" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="2112,161,2227,188"/>
+<area shape="rect" href="$qgsrasterviewport_8h.html" title="qgsrasterviewport.h" alt="" coords="1704,161,1851,188"/>
+<area shape="rect" href="$qgscontrastenhancement_8h.html" title="qgscontrastenhancement.h" alt="" coords="832,161,1029,188"/>
+<area shape="rect" href="$qgsrastertransparency_8h.html" title="qgsrastertransparency.h" alt="" coords="1053,161,1229,188"/>
+<area shape="rect" href="$qgsrastershader_8h.html" title="qgsrastershader.h" alt="" coords="200,161,336,188"/>
+<area shape="rect" href="$qgsrastershaderfunction_8h.html" title="qgsrastershaderfunction.h" alt="" coords="140,316,329,343"/>
+<area shape="rect" href="$qgscolorrampshader_8h.html" title="qgscolorrampshader.h" alt="" coords="659,239,821,265"/>
+<area shape="rect" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="1253,161,1427,188"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="2709,239,2811,265"/>
+<area shape="rect" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="2531,161,2637,188"/>
+<area shape="rect" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="2603,239,2685,265"/>
+</map>

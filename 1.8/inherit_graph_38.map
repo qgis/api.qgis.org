@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsDataItem.html" title="base class for all items in the model" alt="" coords="5,107,112,133"/>
+<area shape="rect" href="$classQgsDataCollectionItem.html" title="A Collection: logical collection of layers or subcollections, e.g." alt="" coords="160,56,328,83"/>
+<area shape="rect" href="$classQgsErrorItem.html" title="Data item that can be used to report problems (e.g." alt="" coords="191,107,297,133"/>
+<area shape="rect" href="$classQgsLayerItem.html" title="Item that represents a layer that can be opened with one of the providers." alt="" coords="189,157,299,184"/>
+<area shape="rect" href="$classQgsDirectoryItem.html" title="A directory: contains subdirectories and layers." alt="" coords="380,5,513,32"/>
+<area shape="rect" href="$classQgsFavouritesItem.html" title="Contains various Favourites directories." alt="" coords="377,56,516,83"/>
+<area shape="rect" href="$classQgsZipItem.html" title="A zip file: contains layers, using GDAL/OGR VSIFILE mechanism." alt="" coords="399,107,495,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsLinePatternFillSymbolLayer.html" title="QgsLinePatternFillSymbolLayer" alt="" coords="5,239,221,265"/>
+<area shape="rect" href="$classQgsPointPatternFillSymbolLayer.html" title="QgsPointPatternFillSymbolLayer" alt="" coords="245,239,467,265"/>
+<area shape="rect" href="$classQgsSVGFillSymbolLayer.html" title="A class for svg fill patterns." alt="" coords="491,239,661,265"/>
+<area shape="rect" href="$classQgsFillSymbolLayerV2.html" title="QgsFillSymbolLayerV2" alt="" coords="276,84,436,111"/>
+<area shape="rect" href="$classQgsSymbolLayerV2.html" title="QgsSymbolLayerV2" alt="" coords="283,7,429,33"/>
+</map>

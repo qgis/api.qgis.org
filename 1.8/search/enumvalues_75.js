@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['ui',['UI',['../classQgisPlugin.html#adc803c3541b57f87ecb259264ff80b67abdb83318bdc9b4824fbec977cc2cd57d',1,'QgisPlugin']]],
+  ['uint16',['UInt16',['../classQgsRasterDataProvider.html#ae9409f481869827695f725681482d3d0acf82bbc5a10add29a7bfd3700bb263ce',1,'QgsRasterDataProvider']]],
+  ['uint32',['UInt32',['../classQgsRasterDataProvider.html#ae9409f481869827695f725681482d3d0a1b4db287f5fd09411705f048aa68adeb',1,'QgsRasterDataProvider']]],
+  ['undefinedcolorinterpretation',['UndefinedColorInterpretation',['../classQgsRasterDataProvider.html#aabd52eb3de63c739f2a720eec33b1cd5a7936b3305cba3cbdca6b8a13248ca0f5',1,'QgsRasterDataProvider']]],
+  ['undefineddrawingstyle',['UndefinedDrawingStyle',['../classQgsRasterLayer.html#a36796f1a303dac9848ba3dce3e5527dca926744b3f36306ddaafdfdbe65086544',1,'QgsRasterLayer']]],
+  ['undefinedshader',['UndefinedShader',['../classQgsRasterLayer.html#a47b4332f6756a3f688ffb8bf74924700afbe01555f303913fc37de56efaeaab94',1,'QgsRasterLayer']]],
+  ['underline',['Underline',['../classQgsLabel.html#a1d33f4c0dd8b1d9d2b74a5a3b64e0cb2a03742b6dd846f7af8fa6f12c5f395c97',1,'QgsLabel::Underline()'],['../classQgsPalLayerSettings.html#aa4a68d8eea503219523ce0c7f0ba3ceaa2aa75696a4bd40eea9dcb40cfaf44837',1,'QgsPalLayerSettings::Underline()']]],
+  ['uniquevalues',['UniqueValues',['../classQgsVectorLayer.html#a441a8cbb0170c48da6aa7b02dad4b5a3ac1c6648a20f8e2f86b30aa649c70e7ce',1,'QgsVectorLayer']]],
+  ['uniquevalueseditable',['UniqueValuesEditable',['../classQgsVectorLayer.html#a441a8cbb0170c48da6aa7b02dad4b5a3afd622672a40f62505ab24a4e467868cf',1,'QgsVectorLayer']]],
+  ['unix',['Unix',['../classQgsAction.html#afb360f2e24100c27aa1cb40512288f05a86a75d1fb79cb3e481960ab3a5b3e0cc',1,'QgsAction']]],
+  ['unknown',['Unknown',['../classQgsComposerMergeCommand.html#a329040dc88651356dcf1e5ba257f4faea8309f05377b9be53de0a28d9c7771df5',1,'QgsComposerMergeCommand::Unknown()'],['../classQgsComposerPicture.html#ae8a26a7bddc5b7f003552678ead487a2a4ed3c02cdf8dc916947233ad056dc218',1,'QgsComposerPicture::Unknown()'],['../qgsexpression_8cpp.html#a7c099d420c3ea6fcba01ccd776df7c41a4e81c184ac3ad48a389cd4454c4a05bb',1,'Unknown():&#160;qgsexpression.cpp']]],
+  ['unknowndatatype',['UnknownDataType',['../classQgsRasterDataProvider.html#ae9409f481869827695f725681482d3d0a2cf759e7a3d0d29d826f2dd53591164c',1,'QgsRasterDataProvider']]],
+  ['unknowngeometry',['UnknownGeometry',['../classQGis.html#a09947eb19394302eeeed44d3e81dd74baa36f93f747596228dd6113d88769fe28',1,'QGis']]],
+  ['unknownunit',['UnknownUnit',['../classQGis.html#a47ff90a581c29ad1cee29c7d56cc379ca0790d6f2b2c0747502235775b6b556ee',1,'QGis']]],
+  ['uominus',['uoMinus',['../classQgsExpression.html#ac0c6e28972f9c80484a9e49e5bae7073a0589d5eaf58e42453925f65906e957fd',1,'QgsExpression']]],
+  ['uonot',['uoNot',['../classQgsExpression.html#ac0c6e28972f9c80484a9e49e5bae7073a2efee32e4a87e98bed7c3bba5b098e6c',1,'QgsExpression']]],
+  ['upperleft',['UpperLeft',['../classQgsComposerItem.html#af59c6221f8cbef9c78cb7a1b675c5dc8a7671cc2e29a7e28a5bcfb8dbc3725a4b',1,'QgsComposerItem']]],
+  ['uppermiddle',['UpperMiddle',['../classQgsComposerItem.html#af59c6221f8cbef9c78cb7a1b675c5dc8a7a134d65ec8655bf13cd963d579f677f',1,'QgsComposerItem']]],
+  ['upperright',['UpperRight',['../classQgsComposerItem.html#af59c6221f8cbef9c78cb7a1b675c5dc8a6fff238542311655e7a7d84c9056e12e',1,'QgsComposerItem']]],
+  ['userdefinedenhancement',['UserDefinedEnhancement',['../classQgsContrastEnhancement.html#a04aef4f4a482dcf42b69940e958219f6a68ac2ffe7cc3b3bd4166b5453cdbea21',1,'QgsContrastEnhancement']]],
+  ['userdefinedshader',['UserDefinedShader',['../classQgsRasterLayer.html#a47b4332f6756a3f688ffb8bf74924700a21cbdfd79d2f2621a672dfdcd634ca19',1,'QgsRasterLayer']]],
+  ['uuidgenerator',['UuidGenerator',['../classQgsVectorLayer.html#a441a8cbb0170c48da6aa7b02dad4b5a3ae42902c2e35f1f5cd2da5782dbb6db24',1,'QgsVectorLayer']]]
+];

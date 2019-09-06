@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsMapCanvasMap.html" title="A rectangular graphics item representing the map on the canvas." alt="" coords="1709,193,1856,220"/>
+<area shape="rect" href="$classQgsMapOverviewCanvas.html" title="A widget that displays an overview map." alt="" coords="1695,280,1871,307"/>
+<area shape="rect" href="$classQgsMapTool.html" title="Abstract base class for all map tools." alt="" coords="1735,436,1831,463"/>
+<area shape="rect" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter." alt="" coords="1064,261,1195,288"/>
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="381,80,560,107"/>
+<area shape="rect" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="743,261,881,288"/>
+<area shape="rect" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="747,85,877,112"/>
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="7,153,233,180"/>
+<area shape="rect" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="759,473,865,500"/>
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="417,401,524,428"/>
+<area shape="rect" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor dpi." alt="" coords="740,312,884,339"/>
+<area shape="rect" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="372,219,569,245"/>
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="413,285,528,312"/>
+<area shape="rect" href="$classQgsPanningWidget.html" title="widget that serves as rectangle showing current extent in overview" alt="" coords="1345,121,1484,148"/>
+</map>

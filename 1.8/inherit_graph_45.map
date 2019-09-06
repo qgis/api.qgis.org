@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsDiagram.html" title="Base class for all diagram types." alt="" coords="5,31,107,57"/>
+<area shape="rect" href="$classQgsPieDiagram.html" title="QgsPieDiagram" alt="" coords="159,5,279,32"/>
+<area shape="rect" href="$classQgsTextDiagram.html" title="QgsTextDiagram" alt="" coords="156,56,281,83"/>
+</map>

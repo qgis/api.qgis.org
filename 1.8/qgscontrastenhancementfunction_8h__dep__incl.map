@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgscliptominmaxenhancement_8h.html" title="src/core/raster/qgscliptominmaxenhancement.h" alt="" coords="163,84,491,111"/>
+<area shape="rect" href="$qgscontrastenhancement_8cpp.html" title="src/core/raster/qgscontrastenhancement.cpp" alt="" coords="373,161,683,188"/>
+<area shape="rect" href="$qgslinearminmaxenhancement_8h.html" title="src/core/raster/qgslinearminmaxenhancement.h" alt="" coords="565,84,893,111"/>
+<area shape="rect" href="$qgslinearminmaxenhancementwithclip_8h.html" title="src/core/raster/qgslinearminmaxenhancementwithclip.h" alt="" coords="917,84,1293,111"/>
+<area shape="rect" href="$qgscontrastenhancementfunction_8cpp.html" title="src/core/raster/qgscontrastenhancementfunction.cpp" alt="" coords="1317,84,1677,111"/>
+<area shape="rect" href="$qgscliptominmaxenhancement_8cpp.html" title="src/core/raster/qgscliptominmaxenhancement.cpp" alt="" coords="5,161,349,188"/>
+<area shape="rect" href="$qgslinearminmaxenhancement_8cpp.html" title="src/core/raster/qgslinearminmaxenhancement.cpp" alt="" coords="707,161,1051,188"/>
+<area shape="rect" href="$qgslinearminmaxenhancementwithclip_8cpp.html" title="src/core/raster/qgslinearminmaxenhancementwithclip.cpp" alt="" coords="1075,161,1464,188"/>
+</map>

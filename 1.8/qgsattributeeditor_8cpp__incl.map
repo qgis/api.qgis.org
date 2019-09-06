@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsattributeeditor_8h.html" title="qgsattributeeditor.h" alt="" coords="5,161,152,188"/>
+<area shape="rect" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1155,84,1280,111"/>
+<area shape="rect" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="1280,161,1456,188"/>
+<area shape="rect" href="$qgsuniquevaluerenderer_8h.html" title="qgsuniquevaluerenderer.h" alt="" coords="1581,161,1768,188"/>
+<area shape="rect" href="$qgscategorizedsymbolrendererv2_8h.html" title="qgscategorizedsymbolrendererv2.h" alt="" coords="547,161,795,188"/>
+<area shape="rect" href="$qgssymbol_8h.html" title="qgssymbol.h" alt="" coords="2109,239,2211,265"/>
+<area shape="rect" href="$qgslonglongvalidator_8h.html" title="qgslonglongvalidator.h" alt="" coords="1841,84,2004,111"/>
+<area shape="rect" href="$qgsfieldvalidator_8h.html" title="qgsfieldvalidator.h" alt="" coords="279,84,415,111"/>
+<area shape="rect" href="$qgsmaplayerregistry_8h.html" title="qgsmaplayerregistry.h" alt="" coords="1712,239,1875,265"/>
+<area shape="rect" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="2079,84,2175,111"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="1176,316,1235,343"/>
+<area shape="rect" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1421,239,1536,265"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="640,239,741,265"/>
+<area shape="rect" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="869,161,976,188"/>
+<area shape="rect" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="333,239,416,265"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1373,316,1488,343"/>
+<area shape="rect" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="1899,239,2035,265"/>
+<area shape="rect" href="$qgsrenderer_8h.html" title="qgsrenderer.h" alt="" coords="917,239,1027,265"/>
+<area shape="rect" href="$qgssymbolv2_8h.html" title="qgssymbolv2.h" alt="" coords="1051,239,1168,265"/>
+<area shape="rect" href="$qgsrendererv2_8h.html" title="qgsrendererv2.h" alt="" coords="491,239,616,265"/>
+</map>

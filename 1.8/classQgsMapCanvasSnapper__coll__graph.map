@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsMapCanvas.html" title="Map canvas is a class for displaying all GIS data types on a canvas." alt="" coords="1355,389,1475,416"/>
+<area shape="rect" href="$classQgsMapCanvasMap.html" title="A rectangular graphics item representing the map on the canvas." alt="" coords="1709,365,1856,392"/>
+<area shape="rect" href="$classQgsMapOverviewCanvas.html" title="A widget that displays an overview map." alt="" coords="1695,227,1871,253"/>
+<area shape="rect" href="$classQgsMapTool.html" title="Abstract base class for all map tools." alt="" coords="1735,479,1831,505"/>
+<area shape="rect" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter." alt="" coords="1064,263,1195,289"/>
+<area shape="rect" href="$classQgsSnapper.html" title="A class that allows advanced snapping operations on a set of vector layers." alt="" coords="1365,519,1464,545"/>
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="381,83,560,109"/>
+<area shape="rect" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="743,263,881,289"/>
+<area shape="rect" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="747,11,877,37"/>
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="7,151,233,177"/>
+<area shape="rect" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="759,464,865,491"/>
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="417,375,524,401"/>
+<area shape="rect" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor dpi." alt="" coords="740,413,884,440"/>
+<area shape="rect" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="372,216,569,243"/>
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="413,283,528,309"/>
+<area shape="rect" href="$classQgsPanningWidget.html" title="widget that serves as rectangle showing current extent in overview" alt="" coords="1345,153,1484,180"/>
+</map>

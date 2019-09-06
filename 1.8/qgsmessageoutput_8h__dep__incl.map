@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsmessageoutput_8cpp.html" title="src/core/qgsmessageoutput.cpp" alt="" coords="5,84,232,111"/>
+<area shape="rect" href="$qgsproviderregistry_8cpp.html" title="src/core/qgsproviderregistry.cpp" alt="" coords="256,84,480,111"/>
+<area shape="rect" href="$qgsrunprocess_8cpp.html" title="src/core/qgsrunprocess.cpp" alt="" coords="504,84,701,111"/>
+<area shape="rect" href="$qgsmessageviewer_8h.html" title="src/gui/qgsmessageviewer.h" alt="" coords="725,84,925,111"/>
+<area shape="rect" href="$qgsexpressionbuilderwidget_8cpp.html" title="src/gui/qgsexpressionbuilderwidget.cpp" alt="" coords="436,161,705,188"/>
+<area shape="rect" href="$qgsmapcanvas_8cpp.html" title="src/gui/qgsmapcanvas.cpp" alt="" coords="729,161,921,188"/>
+<area shape="rect" href="$qgsmessageviewer_8cpp.html" title="src/gui/qgsmessageviewer.cpp" alt="" coords="945,161,1161,188"/>
+</map>

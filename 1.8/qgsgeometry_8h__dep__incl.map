@@ -1,0 +1,38 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsapplication_8cpp.html" title="src/core/qgsapplication.cpp" alt="" coords="261,84,456,111"/>
+<area shape="rect" href="$qgscentralpointpositionmanager_8cpp.html" title="src/core/qgscentralpointpositionmanager.cpp" alt="" coords="5,161,315,188"/>
+<area shape="rect" href="$qgsoverlayobject_8h.html" title="src/core/qgsoverlayobject.h" alt="" coords="581,84,776,111"/>
+<area shape="rect" href="$qgsoverlayobject_8cpp.html" title="src/core/qgsoverlayobject.cpp" alt="" coords="339,161,549,188"/>
+<area shape="rect" href="$qgspalgeometry_8cpp.html" title="src/core/qgspalgeometry.cpp" alt="" coords="808,161,1013,188"/>
+<area shape="rect" href="$qgspalobjectpositionmanager_8cpp.html" title="src/core/qgspalobjectpositionmanager.cpp" alt="" coords="1037,161,1328,188"/>
+<area shape="rect" href="$qgsdistancearea_8cpp.html" title="src/core/qgsdistancearea.cpp" alt="" coords="901,84,1109,111"/>
+<area shape="rect" href="$qgsexpression_8cpp.html" title="src/core/qgsexpression.cpp" alt="" coords="1133,84,1328,111"/>
+<area shape="rect" href="$qgsfeature_8cpp.html" title="src/core/qgsfeature.cpp" alt="" coords="1352,84,1523,111"/>
+<area shape="rect" href="$qgsgeometry_8cpp.html" title="src/core/qgsgeometry.cpp" alt="" coords="1497,161,1684,188"/>
+<area shape="rect" href="$qgsgeometryvalidator_8h.html" title="src/core/qgsgeometryvalidator.h" alt="" coords="1597,84,1824,111"/>
+<area shape="rect" href="$qgsgeometryvalidator_8cpp.html" title="src/core/qgsgeometryvalidator.cpp" alt="" coords="1724,161,1967,188"/>
+<area shape="rect" href="$qgslabel_8cpp.html" title="src/core/qgslabel.cpp" alt="" coords="1899,84,2053,111"/>
+<area shape="rect" href="$qgspallabeling_8cpp.html" title="src/core/qgspallabeling.cpp" alt="" coords="2077,84,2272,111"/>
+<area shape="rect" href="$qgssearchtreenode_8cpp.html" title="src/core/qgssearchtreenode.cpp" alt="" coords="2296,84,2523,111"/>
+<area shape="rect" href="$qgsspatialindex_8cpp.html" title="src/core/qgsspatialindex.cpp" alt="" coords="2547,84,2749,111"/>
+<area shape="rect" href="$qgsvectorfilewriter_8cpp.html" title="src/core/qgsvectorfilewriter.cpp" alt="" coords="2773,84,2992,111"/>
+<area shape="rect" href="$qgsvectorlayer_8cpp.html" title="src/core/qgsvectorlayer.cpp" alt="" coords="3016,84,3211,111"/>
+<area shape="rect" href="$qgsvectorlayerimport_8cpp.html" title="src/core/qgsvectorlayerimport.cpp" alt="" coords="3235,84,3475,111"/>
+<area shape="rect" href="$qgsvectorlayerundocommand_8cpp.html" title="src/core/qgsvectorlayerundocommand.cpp" alt="" coords="3499,84,3792,111"/>
+<area shape="rect" href="$qgspointdisplacementrenderer_8cpp.html" title="src/core/symbology&#45;ng/qgspointdisplacementrenderer.cpp" alt="" coords="3816,84,4208,111"/>
+<area shape="rect" href="$qgsrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgsrendererv2.cpp" alt="" coords="4232,84,4523,111"/>
+<area shape="rect" href="$qgsrubberband_8h.html" title="src/gui/qgsrubberband.h" alt="" coords="4547,84,4723,111"/>
+<area shape="rect" href="$qgsrubberband_8cpp.html" title="src/gui/qgsrubberband.cpp" alt="" coords="4712,161,4904,188"/>
+<area shape="rect" href="$qgsinterpolator_8cpp.html" title="src/analysis/interpolation/qgsinterpolator.cpp" alt="" coords="4797,84,5104,111"/>
+<area shape="rect" href="$qgstininterpolator_8cpp.html" title="src/analysis/interpolation/qgstininterpolator.cpp" alt="" coords="5128,84,5451,111"/>
+<area shape="rect" href="$qgsgeometryanalyzer_8h.html" title="src/analysis/vector/qgsgeometryanalyzer.h" alt="" coords="5475,84,5768,111"/>
+<area shape="rect" href="$qgsoverlayanalyzer_8h.html" title="src/analysis/vector/qgsoverlayanalyzer.h" alt="" coords="5792,84,6069,111"/>
+<area shape="rect" href="$qgszonalstatistics_8cpp.html" title="src/analysis/vector/qgszonalstatistics.cpp" alt="" coords="6093,84,6376,111"/>
+<area shape="rect" href="$qgsgraphbuilder_8cpp.html" title="implementation of QgsGraphBuilder" alt="" coords="6400,84,6683,111"/>
+<area shape="rect" href="$qgslinevectorlayerdirector_8cpp.html" title="implementation of QgsLineVectorLayerDirector" alt="" coords="6707,84,7051,111"/>
+<area shape="rect" href="$qgsvectoroverlay_8cpp.html" title="src/core/qgsvectoroverlay.cpp" alt="" coords="573,161,784,188"/>
+<area shape="rect" href="$qgsmapcanvas_8cpp.html" title="src/gui/qgsmapcanvas.cpp" alt="" coords="4267,161,4459,188"/>
+<area shape="rect" href="$qgsmaptoolzoom_8cpp.html" title="src/gui/qgsmaptoolzoom.cpp" alt="" coords="4483,161,4688,188"/>
+<area shape="rect" href="$qgsgeometryanalyzer_8cpp.html" title="src/analysis/vector/qgsgeometryanalyzer.cpp" alt="" coords="5461,161,5768,188"/>
+<area shape="rect" href="$qgsoverlayanalyzer_8cpp.html" title="src/analysis/vector/qgsoverlayanalyzer.cpp" alt="" coords="5792,161,6083,188"/>
+</map>

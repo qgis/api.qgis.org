@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsprojectfiletransform_8h.html" title="qgsprojectfiletransform.h" alt="" coords="229,316,411,343"/>
+<area shape="rect" href="$qgsprojectversion_8h.html" title="qgsprojectversion.h" alt="" coords="357,393,504,420"/>
+<area shape="rect" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="27,625,123,652"/>
+<area shape="rect" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="2169,316,2345,343"/>
+<area shape="rect" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1584,84,1709,111"/>
+<area shape="rect" href="$qgsprojectproperty_8h.html" title="qgsprojectproperty.h" alt="" coords="1671,393,1823,420"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="2037,703,2096,729"/>
+<area shape="rect" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="1460,393,1596,420"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1953,393,2055,420"/>
+<area shape="rect" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1847,393,1929,420"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1169,548,1284,575"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="635,625,723,652"/>
+<area shape="rect" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="897,393,1012,420"/>
+<area shape="rect" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="1593,161,1700,188"/>
+<area shape="rect" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="897,239,1012,265"/>
+<area shape="rect" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="357,471,485,497"/>
+<area shape="rect" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="1067,316,1205,343"/>
+<area shape="rect" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="727,393,873,420"/>
+<area shape="rect" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="560,471,747,497"/>
+</map>

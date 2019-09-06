@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="372,97,569,124"/>
+<area shape="rect" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter." alt="" coords="1075,291,1205,317"/>
+<area shape="rect" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="748,265,887,292"/>
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="381,529,560,556"/>
+<area shape="rect" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="752,548,883,575"/>
+<area shape="rect" href="$classQgsPalLayerSettings.html" title="QgsPalLayerSettings" alt="" coords="1339,573,1491,600"/>
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="7,475,233,501"/>
+<area shape="rect" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="764,316,871,343"/>
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="417,216,524,243"/>
+<area shape="rect" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor dpi." alt="" coords="745,43,889,69"/>
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="413,301,528,328"/>
+<area shape="rect" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;)." alt="" coords="1083,599,1197,625"/>
+<area shape="rect" href="$classQgsLabelSearchTree.html" title="A class to query the labeling structure at a given point (small wraper around pal RTree class)..." alt="" coords="1339,352,1491,379"/>
+<area shape="rect" href="$classQgsPoint.html" title="A class to represent a point geometry." alt="" coords="1101,704,1179,731"/>
+<area shape="rect" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="739,599,896,625"/>
+<area shape="rect" href="$classQgsGeometry.html" title="A geometry is the spatial representation of a feature." alt="" coords="1085,548,1195,575"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsattributeaction_8cpp.html" title="src/core/qgsattributeaction.cpp" alt="" coords="5,84,224,111"/>
+<area shape="rect" href="$qgsgeometry_8cpp.html" title="src/core/qgsgeometry.cpp" alt="" coords="248,84,435,111"/>
+<area shape="rect" href="$qgsmaplayer_8cpp.html" title="src/core/qgsmaplayer.cpp" alt="" coords="459,84,643,111"/>
+<area shape="rect" href="$qgsproject_8cpp.html" title="src/core/qgsproject.cpp" alt="" coords="667,84,837,111"/>
+<area shape="rect" href="$qgsvectorlayer_8cpp.html" title="src/core/qgsvectorlayer.cpp" alt="" coords="861,84,1056,111"/>
+<area shape="rect" href="$qgscomposermap_8cpp.html" title="src/core/composer/qgscomposermap.cpp" alt="" coords="1080,84,1368,111"/>
+<area shape="rect" href="$qgscomposerpicture_8cpp.html" title="src/core/composer/qgscomposerpicture.cpp" alt="" coords="1392,84,1693,111"/>
+<area shape="rect" href="$qgssymbol_8cpp.html" title="src/core/symbology/qgssymbol.cpp" alt="" coords="1717,84,1963,111"/>
+<area shape="rect" href="$qgsfillsymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgsfillsymbollayerv2.cpp" alt="" coords="1987,84,2312,111"/>
+<area shape="rect" href="$qgsmarkersymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgsmarkersymbollayerv2.cpp" alt="" coords="2336,84,2693,111"/>
+<area shape="rect" href="$qgsencodingfiledialog_8cpp.html" title="src/gui/qgsencodingfiledialog.cpp" alt="" coords="2717,84,2949,111"/>
+<area shape="rect" href="$qgsmapcanvas_8cpp.html" title="src/gui/qgsmapcanvas.cpp" alt="" coords="2973,84,3165,111"/>
+<area shape="rect" href="$qgsmapcanvassnapper_8cpp.html" title="src/gui/qgsmapcanvassnapper.cpp" alt="" coords="3189,84,3432,111"/>
+<area shape="rect" href="$qgsprojectbadlayerguihandler_8h.html" title="src/gui/qgsprojectbadlayerguihandler.h" alt="" coords="3456,84,3723,111"/>
+<area shape="rect" href="$qgsprojectbadlayerguihandler_8cpp.html" title="src/gui/qgsprojectbadlayerguihandler.cpp" alt="" coords="3448,161,3731,188"/>
+</map>

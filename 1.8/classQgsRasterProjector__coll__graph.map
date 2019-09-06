@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="5,121,112,148"/>
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="256,121,435,148"/>
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="105,7,332,33"/>
+<area shape="rect" href="$classQgsPoint.html" title="A class to represent a point geometry." alt="" coords="459,121,536,148"/>
+</map>

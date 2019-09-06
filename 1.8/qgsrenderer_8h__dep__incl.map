@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsvectorlayer_8cpp.html" title="src/core/qgsvectorlayer.cpp" alt="" coords="744,161,939,188"/>
+<area shape="rect" href="$qgscomposerlegend_8cpp.html" title="src/core/composer/qgscomposerlegend.cpp" alt="" coords="1696,84,1997,111"/>
+<area shape="rect" href="$qgslegendmodel_8cpp.html" title="src/core/composer/qgslegendmodel.cpp" alt="" coords="2021,84,2299,111"/>
+<area shape="rect" href="$qgscontinuouscolorrenderer_8h.html" title="src/core/renderer/qgscontinuouscolorrenderer.h" alt="" coords="280,84,605,111"/>
+<area shape="rect" href="$qgsgraduatedsymbolrenderer_8h.html" title="src/core/renderer/qgsgraduatedsymbolrenderer.h" alt="" coords="629,84,965,111"/>
+<area shape="rect" href="$qgsrenderer_8cpp.html" title="src/core/renderer/qgsrenderer.cpp" alt="" coords="2323,84,2563,111"/>
+<area shape="rect" href="$qgssinglesymbolrenderer_8h.html" title="src/core/renderer/qgssinglesymbolrenderer.h" alt="" coords="1040,84,1347,111"/>
+<area shape="rect" href="$qgsuniquevaluerenderer_8h.html" title="src/core/renderer/qgsuniquevaluerenderer.h" alt="" coords="1371,84,1672,111"/>
+<area shape="rect" href="$qgssymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgssymbollayerv2.cpp" alt="" coords="2587,84,2899,111"/>
+<area shape="rect" href="$qgssymbolv2_8cpp.html" title="src/core/symbology&#45;ng/qgssymbolv2.cpp" alt="" coords="2923,84,3203,111"/>
+<area shape="rect" href="$qgsquickprint_8cpp.html" title="src/gui/qgsquickprint.cpp" alt="" coords="3227,84,3405,111"/>
+<area shape="rect" href="$qgscontinuouscolorrenderer_8cpp.html" title="src/core/renderer/qgscontinuouscolorrenderer.cpp" alt="" coords="5,161,344,188"/>
+<area shape="rect" href="$qgsgraduatedsymbolrenderer_8cpp.html" title="src/core/renderer/qgsgraduatedsymbolrenderer.cpp" alt="" coords="368,161,720,188"/>
+<area shape="rect" href="$qgssymbologyv2conversion_8cpp.html" title="src/core/symbology&#45;ng/qgssymbologyv2conversion.cpp" alt="" coords="963,161,1336,188"/>
+<area shape="rect" href="$qgssinglesymbolrenderer_8cpp.html" title="src/core/renderer/qgssinglesymbolrenderer.cpp" alt="" coords="1360,161,1683,188"/>
+<area shape="rect" href="$qgstininterpolator_8cpp.html" title="src/analysis/interpolation/qgstininterpolator.cpp" alt="" coords="1707,161,2029,188"/>
+<area shape="rect" href="$qgsuniquevaluerenderer_8cpp.html" title="src/core/renderer/qgsuniquevaluerenderer.cpp" alt="" coords="2053,161,2368,188"/>
+<area shape="rect" href="$qgsattributeeditor_8cpp.html" title="src/gui/qgsattributeeditor.cpp" alt="" coords="2392,161,2600,188"/>
+</map>

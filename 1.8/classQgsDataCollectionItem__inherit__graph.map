@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsDirectoryItem.html" title="A directory: contains subdirectories and layers." alt="" coords="5,161,139,188"/>
+<area shape="rect" href="$classQgsFavouritesItem.html" title="Contains various Favourites directories." alt="" coords="163,161,301,188"/>
+<area shape="rect" href="$classQgsZipItem.html" title="A zip file: contains layers, using GDAL/OGR VSIFILE mechanism." alt="" coords="325,161,421,188"/>
+<area shape="rect" href="$classQgsDataItem.html" title="base class for all items in the model" alt="" coords="179,7,285,33"/>
+</map>

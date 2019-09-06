@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="801,84,916,111"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="137,393,196,420"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="421,316,509,343"/>
+<area shape="rect" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="572,161,759,188"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="477,239,592,265"/>
+<area shape="rect" href="$qgscsexception_8h.html" title="qgscsexception.h" alt="" coords="848,239,979,265"/>
+<area shape="rect" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="165,316,397,343"/>
+<area shape="rect" href="$qgsexception_8h.html" title="qgsexception.h" alt="" coords="761,316,879,343"/>
+</map>

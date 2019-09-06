@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsProjectBadLayerHandler.html" title="Interface for classes that handle missing layer files when reading project file." alt="" coords="5,31,205,57"/>
+<area shape="rect" href="$classQgsProjectBadLayerDefaultHandler.html" title="Default bad layer handler which ignores any missing layers." alt="" coords="255,5,500,32"/>
+<area shape="rect" href="$classQgsProjectBadLayerGuiHandler.html" title="Handler for missing layers within project." alt="" coords="267,56,488,83"/>
+</map>

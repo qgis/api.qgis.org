@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgscomposerlegend_8h.html" title="src/core/composer/qgscomposerlegend.h" alt="" coords="324,84,609,111"/>
+<area shape="rect" href="$qgslegendmodel_8cpp.html" title="src/core/composer/qgslegendmodel.cpp" alt="" coords="633,84,911,111"/>
+<area shape="rect" href="$qgscomposerlegend_8cpp.html" title="src/core/composer/qgscomposerlegend.cpp" alt="" coords="5,161,307,188"/>
+<area shape="rect" href="$qgscomposition_8cpp.html" title="src/core/composer/qgscomposition.cpp" alt="" coords="331,161,603,188"/>
+<area shape="rect" href="$qgscomposerview_8cpp.html" title="src/gui/qgscomposerview.cpp" alt="" coords="627,161,835,188"/>
+</map>

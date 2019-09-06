@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsComposition.html" title="Graphics scene for map printing." alt="" coords="1345,231,1471,257"/>
+<area shape="rect" href="$classQgsComposerItem.html" title="A item that forms part of a map composition." alt="" coords="1619,191,1760,217"/>
+<area shape="rect" href="$classQgsComposerItemCommand.html" title="Undo command to undo/redo all composer item related changes." alt="" coords="1856,221,2064,248"/>
+<area shape="rect" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter." alt="" coords="1064,249,1195,276"/>
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="381,103,560,129"/>
+<area shape="rect" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="743,276,881,303"/>
+<area shape="rect" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="747,103,877,129"/>
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="7,153,233,180"/>
+<area shape="rect" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="759,451,865,477"/>
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="417,389,524,416"/>
+<area shape="rect" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor dpi." alt="" coords="740,225,884,252"/>
+<area shape="rect" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="372,532,569,559"/>
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="413,249,528,276"/>
+</map>

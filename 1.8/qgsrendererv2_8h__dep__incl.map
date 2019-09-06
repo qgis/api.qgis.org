@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsvectorlayer_8cpp.html" title="src/core/qgsvectorlayer.cpp" alt="" coords="3045,161,3240,188"/>
+<area shape="rect" href="$qgslegendmodel_8cpp.html" title="src/core/composer/qgslegendmodel.cpp" alt="" coords="3123,84,3400,111"/>
+<area shape="rect" href="$qgscategorizedsymbolrendererv2_8h.html" title="src/core/symbology&#45;ng/qgscategorizedsymbolrendererv2.h" alt="" coords="1048,84,1443,111"/>
+<area shape="rect" href="$qgsgraduatedsymbolrendererv2_8h.html" title="src/core/symbology&#45;ng/qgsgraduatedsymbolrendererv2.h" alt="" coords="1467,84,1853,111"/>
+<area shape="rect" href="$qgspointdisplacementrenderer_8h.html" title="src/core/symbology&#45;ng/qgspointdisplacementrenderer.h" alt="" coords="2240,84,2616,111"/>
+<area shape="rect" href="$qgsrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgsrendererv2.cpp" alt="" coords="3264,161,3555,188"/>
+<area shape="rect" href="$qgssinglesymbolrendererv2_8h.html" title="src/core/symbology&#45;ng/qgssinglesymbolrendererv2.h" alt="" coords="2640,84,2997,111"/>
+<area shape="rect" href="$qgsrulebasedrendererv2_8h.html" title="src/core/symbology&#45;ng/qgsrulebasedrendererv2.h" alt="" coords="1877,84,2216,111"/>
+<area shape="rect" href="$qgscategorizedsymbolrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgscategorizedsymbolrendererv2.cpp" alt="" coords="237,161,648,188"/>
+<area shape="rect" href="$qgsrendererv2registry_8cpp.html" title="src/core/symbology&#45;ng/qgsrendererv2registry.cpp" alt="" coords="1872,161,2208,188"/>
+<area shape="rect" href="$qgsrulebasedrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgsrulebasedrendererv2.cpp" alt="" coords="1099,161,1451,188"/>
+<area shape="rect" href="$qgssymbologyv2conversion_8cpp.html" title="src/core/symbology&#45;ng/qgssymbologyv2conversion.cpp" alt="" coords="1475,161,1848,188"/>
+<area shape="rect" href="$qgsattributeeditor_8cpp.html" title="src/gui/qgsattributeeditor.cpp" alt="" coords="5,161,213,188"/>
+<area shape="rect" href="$qgsgraduatedsymbolrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgsgraduatedsymbolrendererv2.cpp" alt="" coords="672,161,1075,188"/>
+<area shape="rect" href="$qgspointdisplacementrenderer_8cpp.html" title="src/core/symbology&#45;ng/qgspointdisplacementrenderer.cpp" alt="" coords="2232,161,2624,188"/>
+<area shape="rect" href="$qgssinglesymbolrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgssinglesymbolrendererv2.cpp" alt="" coords="2648,161,3021,188"/>
+</map>

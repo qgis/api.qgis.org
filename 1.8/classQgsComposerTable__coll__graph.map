@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsComposerItem.html" title="A item that forms part of a map composition." alt="" coords="741,83,883,109"/>
+<area shape="rect" href="$classQgsComposerItemCommand.html" title="Undo command to undo/redo all composer item related changes." alt="" coords="1064,56,1272,83"/>
+<area shape="rect" href="$classQgsPaperItem.html" title="Item representing the paper." alt="" coords="1112,107,1224,133"/>
+<area shape="rect" href="$classQgsComposition.html" title="Graphics scene for map printing." alt="" coords="1444,137,1569,164"/>
+<area shape="rect" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter." alt="" coords="1103,363,1233,389"/>
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="381,257,560,284"/>
+<area shape="rect" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="743,312,881,339"/>
+<area shape="rect" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="747,188,877,215"/>
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="7,599,233,625"/>
+<area shape="rect" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="759,579,865,605"/>
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="417,517,524,544"/>
+<area shape="rect" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor dpi." alt="" coords="740,363,884,389"/>
+<area shape="rect" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="372,397,569,424"/>
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="413,325,528,352"/>
+</map>

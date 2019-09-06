@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsmimedatautils_8h.html" title="qgsmimedatautils.h" alt="" coords="248,84,395,111"/>
+<area shape="rect" href="$qgsdataitem_8h.html" title="qgsdataitem.h" alt="" coords="683,84,797,111"/>
+<area shape="rect" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1089,316,1185,343"/>
+<area shape="rect" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="573,161,688,188"/>
+<area shape="rect" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="357,316,589,343"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="603,393,661,420"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="784,239,899,265"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="803,316,891,343"/>
+</map>

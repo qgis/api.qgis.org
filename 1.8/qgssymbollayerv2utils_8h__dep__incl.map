@@ -1,0 +1,35 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgscomposeritem_8cpp.html" title="src/core/composer/qgscomposeritem.cpp" alt="" coords="5,84,293,111"/>
+<area shape="rect" href="$qgscomposerlegenditem_8cpp.html" title="src/core/composer/qgscomposerlegenditem.cpp" alt="" coords="317,84,648,111"/>
+<area shape="rect" href="$qgscomposermap_8cpp.html" title="src/core/composer/qgscomposermap.cpp" alt="" coords="672,84,960,111"/>
+<area shape="rect" href="$qgslegendmodel_8cpp.html" title="src/core/composer/qgslegendmodel.cpp" alt="" coords="984,84,1261,111"/>
+<area shape="rect" href="$qgscategorizedsymbolrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgscategorizedsymbolrendererv2.cpp" alt="" coords="507,239,917,265"/>
+<area shape="rect" href="$qgssymbollayerv2_8h.html" title="src/core/symbology&#45;ng/qgssymbollayerv2.h" alt="" coords="3013,84,3309,111"/>
+<area shape="rect" href="$qgsgraduatedsymbolrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgsgraduatedsymbolrendererv2.cpp" alt="" coords="941,239,1344,265"/>
+<area shape="rect" href="$qgssymbollayerv2utils_8cpp.html" title="src/core/symbology&#45;ng/qgssymbollayerv2utils.cpp" alt="" coords="2019,239,2357,265"/>
+<area shape="rect" href="$qgsvectorcolorrampv2_8cpp.html" title="src/core/symbology&#45;ng/qgsvectorcolorrampv2.cpp" alt="" coords="1368,239,1707,265"/>
+<area shape="rect" href="$qgsfillsymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgsfillsymbollayerv2.cpp" alt="" coords="4533,239,4859,265"/>
+<area shape="rect" href="$qgsmarkersymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgsmarkersymbollayerv2.cpp" alt="" coords="4960,239,5317,265"/>
+<area shape="rect" href="$qgslinesymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgslinesymbollayerv2.cpp" alt="" coords="2949,239,3283,265"/>
+<area shape="rect" href="$qgsrulebasedrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgsrulebasedrendererv2.cpp" alt="" coords="4379,161,4731,188"/>
+<area shape="rect" href="$qgssinglesymbolrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgssinglesymbolrendererv2.cpp" alt="" coords="4755,161,5128,188"/>
+<area shape="rect" href="$qgspointdisplacementrenderer_8cpp.html" title="src/core/symbology&#45;ng/qgspointdisplacementrenderer.cpp" alt="" coords="5253,84,5645,111"/>
+<area shape="rect" href="$qgsrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgsrendererv2.cpp" alt="" coords="5669,84,5960,111"/>
+<area shape="rect" href="$qgsstylev2_8h.html" title="src/core/symbology&#45;ng/qgsstylev2.h" alt="" coords="1563,84,1813,111"/>
+<area shape="rect" href="$qgsannotationitem_8cpp.html" title="src/gui/qgsannotationitem.cpp" alt="" coords="5984,84,6200,111"/>
+<area shape="rect" href="$qgsvectorlayer_8cpp.html" title="src/core/qgsvectorlayer.cpp" alt="" coords="3064,161,3259,188"/>
+<area shape="rect" href="$qgsvectorcolorrampv2_8h.html" title="src/core/symbology&#45;ng/qgsvectorcolorrampv2.h" alt="" coords="1437,161,1763,188"/>
+<area shape="rect" href="$qgsmarkersymbollayerv2_8h.html" title="src/core/symbology&#45;ng/qgsmarkersymbollayerv2.h" alt="" coords="4011,161,4355,188"/>
+<area shape="rect" href="$qgssymbolv2_8cpp.html" title="src/core/symbology&#45;ng/qgssymbolv2.cpp" alt="" coords="3819,239,4099,265"/>
+<area shape="rect" href="$qgsfillsymbollayerv2_8h.html" title="src/core/symbology&#45;ng/qgsfillsymbollayerv2.h" alt="" coords="3627,161,3936,188"/>
+<area shape="rect" href="$qgslinesymbollayerv2_8h.html" title="src/core/symbology&#45;ng/qgslinesymbollayerv2.h" alt="" coords="3283,161,3603,188"/>
+<area shape="rect" href="$qgssymbollayerv2registry_8h.html" title="src/core/symbology&#45;ng/qgssymbollayerv2registry.h" alt="" coords="1888,161,2232,188"/>
+<area shape="rect" href="$qgssymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgssymbollayerv2.cpp" alt="" coords="2728,161,3040,188"/>
+<area shape="rect" href="$qgsvectorfieldsymbollayer_8h.html" title="src/core/symbology&#45;ng/qgsvectorfieldsymbollayer.h" alt="" coords="2307,161,2653,188"/>
+<area shape="rect" href="$qgsstylev2_8cpp.html" title="src/core/symbology&#45;ng/qgsstylev2.cpp" alt="" coords="1731,239,1995,265"/>
+<area shape="rect" href="$qgsellipsesymbollayerv2_8h.html" title="src/core/symbology&#45;ng/qgsellipsesymbollayerv2.h" alt="" coords="4173,239,4509,265"/>
+<area shape="rect" href="$qgssymbollayerv2registry_8cpp.html" title="src/core/symbology&#45;ng/qgssymbollayerv2registry.cpp" alt="" coords="3180,316,3537,343"/>
+<area shape="rect" href="$qgssymbologyv2conversion_8cpp.html" title="src/core/symbology&#45;ng/qgssymbologyv2conversion.cpp" alt="" coords="3421,239,3795,265"/>
+<area shape="rect" href="$qgsellipsesymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgsellipsesymbollayerv2.cpp" alt="" coords="4165,316,4517,343"/>
+<area shape="rect" href="$qgsvectorfieldsymbollayer_8cpp.html" title="src/core/symbology&#45;ng/qgsvectorfieldsymbollayer.cpp" alt="" coords="2432,239,2795,265"/>
+</map>

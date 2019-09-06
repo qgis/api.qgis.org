@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsComposerLegendItem.html" title="Abstract base class for the legend item types." alt="" coords="7,107,193,133"/>
+<area shape="rect" href="$classQgsComposerGroupItem.html" title="QgsComposerGroupItem" alt="" coords="269,5,448,32"/>
+<area shape="rect" href="$classQgsComposerLayerItem.html" title="QgsComposerLayerItem" alt="" coords="271,56,447,83"/>
+<area shape="rect" href="$classQgsComposerRasterSymbolItem.html" title="QgsComposerRasterSymbolItem" alt="" coords="244,107,473,133"/>
+<area shape="rect" href="$classQgsComposerSymbolItem.html" title="QgsComposerSymbolItem" alt="" coords="264,157,453,184"/>
+<area shape="rect" href="$classQgsComposerSymbolV2Item.html" title="QgsComposerSymbolV2Item" alt="" coords="256,208,461,235"/>
+</map>

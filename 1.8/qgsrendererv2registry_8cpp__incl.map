@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsrendererv2registry_8h.html" title="qgsrendererv2registry.h" alt="" coords="151,161,321,188"/>
+<area shape="rect" href="$qgssinglesymbolrendererv2_8h.html" title="qgssinglesymbolrendererv2.h" alt="" coords="267,84,475,111"/>
+<area shape="rect" href="$qgscategorizedsymbolrendererv2_8h.html" title="qgscategorizedsymbolrendererv2.h" alt="" coords="973,84,1221,111"/>
+<area shape="rect" href="$qgsgraduatedsymbolrendererv2_8h.html" title="qgsgraduatedsymbolrendererv2.h" alt="" coords="499,84,736,111"/>
+<area shape="rect" href="$qgsrulebasedrendererv2_8h.html" title="qgsrulebasedrendererv2.h" alt="" coords="760,84,949,111"/>
+<area shape="rect" href="$qgspointdisplacementrenderer_8h.html" title="qgspointdisplacementrenderer.h" alt="" coords="1245,84,1472,111"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="339,239,397,265"/>
+<area shape="rect" href="$qgsrendererv2_8h.html" title="qgsrendererv2.h" alt="" coords="575,161,700,188"/>
+<area shape="rect" href="$qgssymbolv2_8h.html" title="qgssymbolv2.h" alt="" coords="765,161,883,188"/>
+<area shape="rect" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1032,161,1115,188"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="907,161,1008,188"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1220,161,1308,188"/>
+</map>

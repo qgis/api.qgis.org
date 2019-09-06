@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgscomposerattributetable_8h.html" title="qgscomposerattributetable.h" alt="" coords="925,84,1133,111"/>
+<area shape="rect" href="$qgscomposermap_8h.html" title="qgscomposermap.h" alt="" coords="701,161,851,188"/>
+<area shape="rect" href="$qgsmaplayerregistry_8h.html" title="qgsmaplayerregistry.h" alt="" coords="1016,316,1179,343"/>
+<area shape="rect" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1229,84,1355,111"/>
+<area shape="rect" href="$qgscomposertable_8h.html" title="qgscomposertable.h" alt="" coords="925,161,1077,188"/>
+<area shape="rect" href="$qgscomposeritem_8h.html" title="qgscomposeritem.h" alt="" coords="701,239,851,265"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="2501,393,2603,420"/>
+<area shape="rect" href="$qgscomposition_8h.html" title="qgscomposition.h" alt="" coords="587,316,720,343"/>
+<area shape="rect" href="$qgscomposeritemcommand_8h.html" title="qgscomposeritemcommand.h" alt="" coords="35,393,248,420"/>
+<area shape="rect" href="$qgsaddremoveitemcommand_8h.html" title="qgsaddremoveitemcommand.h" alt="" coords="541,393,765,420"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1661,393,1776,420"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1896,471,1984,497"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="1784,548,1843,575"/>
+<area shape="rect" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1304,316,1419,343"/>
+<area shape="rect" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="2185,161,2292,188"/>
+<area shape="rect" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="2677,393,2760,420"/>
+<area shape="rect" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="2015,239,2129,265"/>
+<area shape="rect" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="2165,316,2293,343"/>
+<area shape="rect" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="2003,316,2141,343"/>
+</map>

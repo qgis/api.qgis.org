@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsapplication_8cpp.html" title="src/core/qgsapplication.cpp" alt="" coords="5,84,200,111"/>
+<area shape="rect" href="$qgsbrowsermodel_8cpp.html" title="src/core/qgsbrowsermodel.cpp" alt="" coords="224,84,440,111"/>
+<area shape="rect" href="$qgsdataitem_8cpp.html" title="src/core/qgsdataitem.cpp" alt="" coords="464,84,648,111"/>
+<area shape="rect" href="$qgsproviderregistry_8cpp.html" title="src/core/qgsproviderregistry.cpp" alt="" coords="672,84,896,111"/>
+<area shape="rect" href="$qgsvectorlayer_8cpp.html" title="src/core/qgsvectorlayer.cpp" alt="" coords="920,84,1115,111"/>
+<area shape="rect" href="$qgsvectorlayerimport_8cpp.html" title="src/core/qgsvectorlayerimport.cpp" alt="" coords="1139,84,1379,111"/>
+<area shape="rect" href="$qgsrasterlayer_8cpp.html" title="src/core/raster/qgsrasterlayer.cpp" alt="" coords="1403,84,1637,111"/>
+<area shape="rect" href="$qgsnewvectorlayerdialog_8cpp.html" title="src/gui/qgsnewvectorlayerdialog.cpp" alt="" coords="1661,84,1912,111"/>
+<area shape="rect" href="$qgsprojectbadlayerguihandler_8cpp.html" title="src/gui/qgsprojectbadlayerguihandler.cpp" alt="" coords="1936,84,2219,111"/>
+</map>

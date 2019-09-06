@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgscomposerlegend_8h.html" title="qgscomposerlegend.h" alt="" coords="475,84,637,111"/>
+<area shape="rect" href="$qgscomposerlegenditem_8h.html" title="qgscomposerlegenditem.h" alt="" coords="199,84,391,111"/>
+<area shape="rect" href="$qgscomposermap_8h.html" title="qgscomposermap.h" alt="" coords="712,84,861,111"/>
+<area shape="rect" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1300,239,1415,265"/>
+<area shape="rect" href="$qgsmaplayerregistry_8h.html" title="qgsmaplayerregistry.h" alt="" coords="769,161,932,188"/>
+<area shape="rect" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="1239,84,1377,111"/>
+<area shape="rect" href="$qgsrenderer_8h.html" title="qgsrenderer.h" alt="" coords="1637,84,1747,111"/>
+<area shape="rect" href="$qgssymbol_8h.html" title="qgssymbol.h" alt="" coords="2023,239,2124,265"/>
+<area shape="rect" href="$qgssymbolv2_8h.html" title="qgssymbolv2.h" alt="" coords="1831,161,1948,188"/>
+<area shape="rect" href="$qgscomposeritem_8h.html" title="qgscomposeritem.h" alt="" coords="481,161,631,188"/>
+<area shape="rect" href="$qgslegendmodel_8h.html" title="qgslegendmodel.h" alt="" coords="319,161,457,188"/>
+<area shape="rect" href="$qgscomposition_8h.html" title="qgscomposition.h" alt="" coords="276,239,409,265"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1417,316,1532,343"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1531,393,1619,420"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="1759,471,1817,497"/>
+<area shape="rect" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="1508,161,1655,188"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="957,161,1059,188"/>
+<area shape="rect" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="1089,239,1276,265"/>
+<area shape="rect" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="1641,239,1769,265"/>
+</map>

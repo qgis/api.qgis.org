@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsFillSymbolV2.html" title="QgsFillSymbolV2" alt="" coords="5,84,131,111"/>
+<area shape="rect" href="$classQgsLineSymbolV2.html" title="QgsLineSymbolV2" alt="" coords="155,84,291,111"/>
+<area shape="rect" href="$classQgsMarkerSymbolV2.html" title="QgsMarkerSymbolV2" alt="" coords="315,84,469,111"/>
+</map>

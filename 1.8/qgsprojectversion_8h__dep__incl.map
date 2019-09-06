@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsproject_8h.html" title="src/core/qgsproject.h" alt="" coords="1869,84,2024,111"/>
+<area shape="rect" href="$qgsproject_8cpp.html" title="src/core/qgsproject.cpp" alt="" coords="5,161,176,188"/>
+<area shape="rect" href="$qgsprojectfiletransform_8h.html" title="src/core/qgsprojectfiletransform.h" alt="" coords="168,84,403,111"/>
+<area shape="rect" href="$qgsprojectfiletransform_8cpp.html" title="src/core/qgsprojectfiletransform.cpp" alt="" coords="200,161,451,188"/>
+<area shape="rect" href="$qgsprojectversion_8cpp.html" title="src/core/qgsprojectversion.cpp" alt="" coords="2048,84,2264,111"/>
+<area shape="rect" href="$qgsattributeaction_8cpp.html" title="src/core/qgsattributeaction.cpp" alt="" coords="2504,161,2723,188"/>
+<area shape="rect" href="$qgsgeometry_8cpp.html" title="src/core/qgsgeometry.cpp" alt="" coords="2747,161,2933,188"/>
+<area shape="rect" href="$qgsmaplayer_8cpp.html" title="src/core/qgsmaplayer.cpp" alt="" coords="2957,161,3141,188"/>
+<area shape="rect" href="$qgsvectorlayer_8cpp.html" title="src/core/qgsvectorlayer.cpp" alt="" coords="3165,161,3360,188"/>
+<area shape="rect" href="$qgscomposermap_8cpp.html" title="src/core/composer/qgscomposermap.cpp" alt="" coords="3384,161,3672,188"/>
+<area shape="rect" href="$qgscomposerpicture_8cpp.html" title="src/core/composer/qgscomposerpicture.cpp" alt="" coords="3696,161,3997,188"/>
+<area shape="rect" href="$qgssymbol_8cpp.html" title="src/core/symbology/qgssymbol.cpp" alt="" coords="475,161,720,188"/>
+<area shape="rect" href="$qgsfillsymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgsfillsymbollayerv2.cpp" alt="" coords="744,161,1069,188"/>
+<area shape="rect" href="$qgsmarkersymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgsmarkersymbollayerv2.cpp" alt="" coords="1093,161,1451,188"/>
+<area shape="rect" href="$qgsencodingfiledialog_8cpp.html" title="src/gui/qgsencodingfiledialog.cpp" alt="" coords="1475,161,1707,188"/>
+<area shape="rect" href="$qgsmapcanvas_8cpp.html" title="src/gui/qgsmapcanvas.cpp" alt="" coords="1731,161,1923,188"/>
+<area shape="rect" href="$qgsmapcanvassnapper_8cpp.html" title="src/gui/qgsmapcanvassnapper.cpp" alt="" coords="1947,161,2189,188"/>
+<area shape="rect" href="$qgsprojectbadlayerguihandler_8h.html" title="src/gui/qgsprojectbadlayerguihandler.h" alt="" coords="2213,161,2480,188"/>
+<area shape="rect" href="$qgsprojectbadlayerguihandler_8cpp.html" title="src/gui/qgsprojectbadlayerguihandler.cpp" alt="" coords="2205,239,2488,265"/>
+</map>

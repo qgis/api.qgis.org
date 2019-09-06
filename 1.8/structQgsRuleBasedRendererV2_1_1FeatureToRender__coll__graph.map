@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="108,103,201,129"/>
+<area shape="rect" href="$classQgsGeometry.html" title="A geometry is the spatial representation of a feature." alt="" coords="100,7,209,33"/>
+</map>

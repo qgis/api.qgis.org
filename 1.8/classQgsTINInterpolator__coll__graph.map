@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsInterpolator.html" title="Interface class for interpolations." alt="" coords="5,7,125,33"/>
+<area shape="rect" href="$classTriangleInterpolator.html" title="This is an interface for interpolator classes for triangulations." alt="" coords="149,7,293,33"/>
+<area shape="rect" href="$classTriangulation.html" title="Interface for Triangulation classes." alt="" coords="340,7,441,33"/>
+</map>

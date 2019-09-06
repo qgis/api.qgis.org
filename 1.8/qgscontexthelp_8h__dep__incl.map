@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgscontexthelp_8cpp.html" title="src/core/qgscontexthelp.cpp" alt="" coords="5,84,205,111"/>
+<area shape="rect" href="$qgsnewhttpconnection_8h.html" title="src/gui/qgsnewhttpconnection.h" alt="" coords="229,84,453,111"/>
+<area shape="rect" href="$qgsnewhttpconnection_8cpp.html" title="src/gui/qgsnewhttpconnection.cpp" alt="" coords="232,161,469,188"/>
+<area shape="rect" href="$qgsnewvectorlayerdialog_8h.html" title="src/gui/qgsnewvectorlayerdialog.h" alt="" coords="528,84,763,111"/>
+<area shape="rect" href="$qgsquerybuilder_8h.html" title="src/gui/qgsquerybuilder.h" alt="" coords="787,84,965,111"/>
+<area shape="rect" href="$qgssearchquerybuilder_8h.html" title="src/gui/qgssearchquerybuilder.h" alt="" coords="996,84,1220,111"/>
+<area shape="rect" href="$qgsnewvectorlayerdialog_8cpp.html" title="src/gui/qgsnewvectorlayerdialog.cpp" alt="" coords="504,161,755,188"/>
+<area shape="rect" href="$qgsquerybuilder_8cpp.html" title="src/gui/qgsquerybuilder.cpp" alt="" coords="779,161,973,188"/>
+<area shape="rect" href="$qgssearchquerybuilder_8cpp.html" title="src/gui/qgssearchquerybuilder.cpp" alt="" coords="997,161,1235,188"/>
+</map>

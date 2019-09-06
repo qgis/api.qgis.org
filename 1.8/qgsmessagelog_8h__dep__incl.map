@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgscoordinatereferencesystem_8cpp.html" title="src/core/qgscoordinatereferencesystem.cpp" alt="" coords="5,84,307,111"/>
+<area shape="rect" href="$qgscoordinatetransform_8cpp.html" title="src/core/qgscoordinatetransform.cpp" alt="" coords="331,84,587,111"/>
+<area shape="rect" href="$qgsdistancearea_8cpp.html" title="src/core/qgsdistancearea.cpp" alt="" coords="611,84,819,111"/>
+<area shape="rect" href="$qgsgeometry_8cpp.html" title="src/core/qgsgeometry.cpp" alt="" coords="843,84,1029,111"/>
+<area shape="rect" href="$qgsmaprenderer_8cpp.html" title="src/core/qgsmaprenderer.cpp" alt="" coords="1053,84,1261,111"/>
+<area shape="rect" href="$qgsmessagelog_8cpp.html" title="src/core/qgsmessagelog.cpp" alt="" coords="1285,84,1488,111"/>
+<area shape="rect" href="$qgsmessageoutput_8cpp.html" title="src/core/qgsmessageoutput.cpp" alt="" coords="1512,84,1739,111"/>
+<area shape="rect" href="$qgsproviderregistry_8cpp.html" title="src/core/qgsproviderregistry.cpp" alt="" coords="1763,84,1987,111"/>
+<area shape="rect" href="$qgsvectordataprovider_8cpp.html" title="src/core/qgsvectordataprovider.cpp" alt="" coords="2011,84,2256,111"/>
+<area shape="rect" href="$qgsvectorfilewriter_8cpp.html" title="src/core/qgsvectorfilewriter.cpp" alt="" coords="2280,84,2499,111"/>
+<area shape="rect" href="$qgsvectorlayer_8cpp.html" title="src/core/qgsvectorlayer.cpp" alt="" coords="2523,84,2717,111"/>
+<area shape="rect" href="$qgsvectorlayerimport_8cpp.html" title="src/core/qgsvectorlayerimport.cpp" alt="" coords="2741,84,2981,111"/>
+<area shape="rect" href="$qgsrasterlayer_8cpp.html" title="src/core/raster/qgsrasterlayer.cpp" alt="" coords="3005,84,3240,111"/>
+<area shape="rect" href="$qgsmessagelogviewer_8h.html" title="src/gui/qgsmessagelogviewer.h" alt="" coords="3264,84,3483,111"/>
+<area shape="rect" href="$qgsmessagelogviewer_8cpp.html" title="src/gui/qgsmessagelogviewer.cpp" alt="" coords="3329,161,3564,188"/>
+</map>

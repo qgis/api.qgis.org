@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsImageFillSymbolLayer.html" title="Base class for polygon renderers generating texture images." alt="" coords="21,161,205,188"/>
+<area shape="rect" href="$classQgsFillSymbolLayerV2.html" title="QgsFillSymbolLayerV2" alt="" coords="33,84,193,111"/>
+<area shape="rect" href="$classQgsSymbolLayerV2.html" title="QgsSymbolLayerV2" alt="" coords="40,7,187,33"/>
+</map>

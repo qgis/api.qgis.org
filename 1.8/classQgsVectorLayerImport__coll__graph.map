@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers." alt="" coords="5,87,176,113"/>
+<area shape="rect" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations." alt="" coords="27,7,155,33"/>
+</map>

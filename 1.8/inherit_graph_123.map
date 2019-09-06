@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsNineCellFilter.html" title="Base class for raster analysis methods that work with a 3x3 cell filter and calculate the value of ea..." alt="" coords="5,107,133,133"/>
+<area shape="rect" href="$classQgsDerivativeFilter.html" title="Adds the ability to calculate derivatives in x&#45; and y&#45;directions." alt="" coords="196,56,335,83"/>
+<area shape="rect" href="$classQgsRuggednessFilter.html" title="Calculates the ruggedness index based on a 3x3 moving window." alt="" coords="189,107,341,133"/>
+<area shape="rect" href="$classQgsTotalCurvatureFilter.html" title="Calculates total curvature as described by Wilson, Gallant (2000): terrain analysis." alt="" coords="181,157,349,184"/>
+<area shape="rect" href="$classQgsAspectFilter.html" title="Calculates aspect values in a window of 3x3 cells based on first order derivatives in x&#45; and y&#45; direc..." alt="" coords="405,5,525,32"/>
+<area shape="rect" href="$classQgsHillshadeFilter.html" title="QgsHillshadeFilter" alt="" coords="399,56,532,83"/>
+<area shape="rect" href="$classQgsSlopeFilter.html" title="Calculates slope values in a window of 3x3 cells based on first order derivatives in x&#45; and y&#45; direct..." alt="" coords="409,107,521,133"/>
+</map>

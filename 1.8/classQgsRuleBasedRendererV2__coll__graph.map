@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsFeatureRendererV2.html" title="QgsFeatureRendererV2" alt="" coords="5,407,173,433"/>
+<area shape="rect" href="$classQgsRuleBasedRendererV2_1_1Rule.html" title="This class keeps data about a rules for rule&#45;based renderer." alt="" coords="197,407,416,433"/>
+<area shape="rect" href="$classQgsSymbolV2.html" title="QgsSymbolV2" alt="" coords="192,311,304,337"/>
+<area shape="rect" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;)." alt="" coords="328,311,443,337"/>
+<area shape="rect" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="212,215,343,241"/>
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="188,119,367,145"/>
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="164,7,391,33"/>
+<area shape="rect" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="367,215,524,241"/>
+</map>

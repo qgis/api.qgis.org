@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgspalobjectpositionmanager_8h.html" title="qgspalobjectpositionmanager.h" alt="" coords="539,84,760,111"/>
+<area shape="rect" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1833,316,1948,343"/>
+<area shape="rect" href="$qgspalgeometry_8h.html" title="qgspalgeometry.h" alt="" coords="1511,84,1647,111"/>
+<area shape="rect" href="$qgsoverlayobject_8h.html" title="qgsoverlayobject.h" alt="" coords="568,239,709,265"/>
+<area shape="rect" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="449,316,596,343"/>
+<area shape="rect" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1721,161,1847,188"/>
+<area shape="rect" href="$qgsvectoroverlay_8h.html" title="qgsvectoroverlay.h" alt="" coords="1792,84,1931,111"/>
+<area shape="rect" href="$qgsoverlayobjectpositionmanager_8h.html" title="qgsoverlayobjectpositionmanager.h" alt="" coords="5,316,253,343"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="933,625,992,652"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="876,548,964,575"/>
+<area shape="rect" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="696,393,883,420"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="563,471,677,497"/>
+<area shape="rect" href="$qgscsexception_8h.html" title="qgscsexception.h" alt="" coords="701,471,832,497"/>
+<area shape="rect" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1059,471,1291,497"/>
+<area shape="rect" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="416,393,544,420"/>
+<area shape="rect" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1495,393,1609,420"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1708,316,1809,343"/>
+<area shape="rect" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="933,239,1040,265"/>
+<area shape="rect" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="2323,393,2405,420"/>
+<area shape="rect" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="835,316,949,343"/>
+</map>

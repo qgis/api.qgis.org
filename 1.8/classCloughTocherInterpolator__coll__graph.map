@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classTriangleInterpolator.html" title="This is an interface for interpolator classes for triangulations." alt="" coords="5,103,149,129"/>
+<area shape="rect" href="$classNormVecDecorator.html" title="Decorator class which adds the functionality of estimating normals at the data points." alt="" coords="109,199,253,225"/>
+<area shape="rect" href="$classTriDecorator.html" title="Decorator class for Triangulations (s." alt="" coords="177,103,276,129"/>
+<area shape="rect" href="$classTriangulation.html" title="Interface for Triangulation classes." alt="" coords="175,7,276,33"/>
+<area shape="rect" href="$classPoint3D.html" title="Point3D is a class to represent a three dimensional point." alt="" coords="277,199,349,225"/>
+</map>

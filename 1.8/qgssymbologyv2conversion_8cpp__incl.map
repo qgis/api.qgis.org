@@ -1,0 +1,28 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgssymbologyv2conversion_8h.html" title="qgssymbologyv2conversion.h" alt="" coords="523,84,731,111"/>
+<area shape="rect" href="$qgssinglesymbolrenderer_8h.html" title="qgssinglesymbolrenderer.h" alt="" coords="1000,84,1192,111"/>
+<area shape="rect" href="$qgsgraduatedsymbolrenderer_8h.html" title="qgsgraduatedsymbolrenderer.h" alt="" coords="755,84,976,111"/>
+<area shape="rect" href="$qgsuniquevaluerenderer_8h.html" title="qgsuniquevaluerenderer.h" alt="" coords="1267,84,1453,111"/>
+<area shape="rect" href="$qgssymbol_8h.html" title="qgssymbol.h" alt="" coords="1728,84,1829,111"/>
+<area shape="rect" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1579,84,1704,111"/>
+<area shape="rect" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1956,316,2052,343"/>
+<area shape="rect" href="$qgsmarkersymbollayerv2_8h.html" title="qgsmarkersymbollayerv2.h" alt="" coords="2319,84,2513,111"/>
+<area shape="rect" href="$qgslinesymbollayerv2_8h.html" title="qgslinesymbollayerv2.h" alt="" coords="2124,84,2295,111"/>
+<area shape="rect" href="$qgsfillsymbollayerv2_8h.html" title="qgsfillsymbollayerv2.h" alt="" coords="1940,84,2100,111"/>
+<area shape="rect" href="$qgssinglesymbolrendererv2_8h.html" title="qgssinglesymbolrendererv2.h" alt="" coords="587,161,795,188"/>
+<area shape="rect" href="$qgsgraduatedsymbolrendererv2_8h.html" title="qgsgraduatedsymbolrendererv2.h" alt="" coords="869,161,1107,188"/>
+<area shape="rect" href="$qgscategorizedsymbolrendererv2_8h.html" title="qgscategorizedsymbolrendererv2.h" alt="" coords="1131,161,1379,188"/>
+<area shape="rect" href="$qgsrenderer_8h.html" title="qgsrenderer.h" alt="" coords="213,161,323,188"/>
+<area shape="rect" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="5,239,152,265"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="948,316,1007,343"/>
+<area shape="rect" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="304,316,491,343"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="209,393,324,420"/>
+<area shape="rect" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="101,316,229,343"/>
+<area shape="rect" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="397,161,512,188"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1720,239,1821,265"/>
+<area shape="rect" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="1720,161,1827,188"/>
+<area shape="rect" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1849,316,1932,343"/>
+<area shape="rect" href="$qgssymbollayerv2_8h.html" title="qgssymbollayerv2.h" alt="" coords="2269,161,2416,188"/>
+<area shape="rect" href="$qgssymbolv2_8h.html" title="qgssymbolv2.h" alt="" coords="1244,239,1361,265"/>
+<area shape="rect" href="$qgsrendererv2_8h.html" title="qgsrendererv2.h" alt="" coords="1059,239,1184,265"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsMapToolEmitPoint.html" title="A map tool that simply emits a point when clicking on the map." alt="" coords="5,84,163,111"/>
+<area shape="rect" href="$classQgsMapToolPan.html" title="A map tool for panning the map." alt="" coords="187,84,307,111"/>
+<area shape="rect" href="$classQgsMapToolTouch.html" title="A map tool for panning the map." alt="" coords="331,84,464,111"/>
+<area shape="rect" href="$classQgsMapToolZoom.html" title="A map tool for zooming into the map." alt="" coords="488,84,624,111"/>
+</map>

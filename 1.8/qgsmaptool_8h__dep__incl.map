@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsmaptoolpan_8h.html" title="src/gui/qgsmaptoolpan.h" alt="" coords="151,84,329,111"/>
+<area shape="rect" href="$qgsmaptoolzoom_8h.html" title="src/gui/qgsmaptoolzoom.h" alt="" coords="353,84,545,111"/>
+<area shape="rect" href="$qgsmaptool_8cpp.html" title="src/gui/qgsmaptool.cpp" alt="" coords="569,84,740,111"/>
+<area shape="rect" href="$qgsmaptoolemitpoint_8h.html" title="src/gui/qgsmaptoolemitpoint.h" alt="" coords="764,84,980,111"/>
+<area shape="rect" href="$qgsmaptooltouch_8h.html" title="src/gui/qgsmaptooltouch.h" alt="" coords="1011,84,1203,111"/>
+<area shape="rect" href="$qgsmapcanvas_8cpp.html" title="src/gui/qgsmapcanvas.cpp" alt="" coords="224,161,416,188"/>
+<area shape="rect" href="$qgsmaptoolpan_8cpp.html" title="src/gui/qgsmaptoolpan.cpp" alt="" coords="5,161,200,188"/>
+<area shape="rect" href="$qgsmaptoolzoom_8cpp.html" title="src/gui/qgsmaptoolzoom.cpp" alt="" coords="440,161,645,188"/>
+<area shape="rect" href="$qgsmaptoolemitpoint_8cpp.html" title="src/gui/qgsmaptoolemitpoint.cpp" alt="" coords="752,161,984,188"/>
+<area shape="rect" href="$qgsmaptooltouch_8cpp.html" title="src/gui/qgsmaptooltouch.cpp" alt="" coords="1008,161,1213,188"/>
+</map>

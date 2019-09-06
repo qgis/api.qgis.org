@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsDiagramRendererV2.html" title="Returns diagram settings for a feature." alt="" coords="5,103,181,129"/>
+<area shape="rect" href="$classQgsDiagram.html" title="Base class for all diagram types." alt="" coords="43,7,144,33"/>
+<area shape="rect" href="$structQgsDiagramSettings.html" title="QgsDiagramSettings" alt="" coords="205,103,360,129"/>
+</map>

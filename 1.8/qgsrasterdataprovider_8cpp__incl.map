@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="821,161,995,188"/>
+<area shape="rect" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1077,239,1173,265"/>
+<area shape="rect" href="$qgsrasterprojector_8h.html" title="qgsrasterprojector.h" alt="" coords="1237,84,1387,111"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1605,239,1720,265"/>
+<area shape="rect" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="533,239,669,265"/>
+<area shape="rect" href="$qgscolorrampshader_8h.html" title="qgscolorrampshader.h" alt="" coords="181,316,344,343"/>
+<area shape="rect" href="$qgsrasterpyramid_8h.html" title="qgsrasterpyramid.h" alt="" coords="693,239,840,265"/>
+<area shape="rect" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1247,316,1479,343"/>
+<area shape="rect" href="$qgsrasterbandstats_8h.html" title="qgsrasterbandstats.h" alt="" coords="301,239,459,265"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1553,316,1641,343"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="1492,393,1551,420"/>
+<area shape="rect" href="$qgsrastershaderfunction_8h.html" title="qgsrastershaderfunction.h" alt="" coords="176,393,365,420"/>
+<area shape="rect" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="1388,161,1575,188"/>
+<area shape="rect" href="$qgscsexception_8h.html" title="qgscsexception.h" alt="" coords="1400,239,1531,265"/>
+<area shape="rect" href="$qgsexception_8h.html" title="qgsexception.h" alt="" coords="1300,393,1417,420"/>
+</map>

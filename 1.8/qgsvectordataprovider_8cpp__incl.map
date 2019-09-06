@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="599,84,775,111"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="527,161,628,188"/>
+<area shape="rect" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="400,161,483,188"/>
+<area shape="rect" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1259,239,1355,265"/>
+<area shape="rect" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="1348,161,1481,188"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="283,316,341,343"/>
+<area shape="rect" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="1020,161,1156,188"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="753,161,868,188"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="864,239,952,265"/>
+</map>

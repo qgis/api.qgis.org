@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsgraphbuilderintr_8h.html" title="qgsgraphbuilderintr.h" alt="" coords="600,84,755,111"/>
+<area shape="rect" href="$qgsspatialindex_8h.html" title="qgsspatialindex.h" alt="" coords="781,84,912,111"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="425,393,513,420"/>
+<area shape="rect" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="740,316,972,343"/>
+<area shape="rect" href="$qgsdistancearea_8h.html" title="qgsdistancearea.h" alt="" coords="607,161,745,188"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="548,471,607,497"/>
+<area shape="rect" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="420,239,607,265"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="311,316,425,343"/>
+<area shape="rect" href="$qgscsexception_8h.html" title="qgscsexception.h" alt="" coords="585,316,716,343"/>
+<area shape="rect" href="$qgsexception_8h.html" title="qgsexception.h" alt="" coords="699,471,816,497"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="952,161,1053,188"/>
+</map>
