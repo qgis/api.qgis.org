@@ -1,0 +1,5 @@
+<map id="QgsMessageViewer" name="QgsMessageViewer">
+<area shape="rect" id="node2" href="/usr/share/qt4/doc/html/qt.tags$qdialog.html" title="QDialog" alt="" coords="7,80,79,107"/>
+<area shape="rect" id="node3" href="/usr/share/qt4/doc/html/qt.tags$qwidget.html" title="QWidget" alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node4" href="$classQgsMessageOutput.html" title="Interface for showing messages from QGIS in GUI independent way. " alt="" coords="103,80,251,107"/>
+</map>

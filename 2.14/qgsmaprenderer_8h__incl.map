@@ -1,0 +1,17 @@
+<map id="/tmp/buildd/qgis&#45;2.14.0+99unstable/src/core/qgsmaprenderer.h" name="/tmp/buildd/qgis&#45;2.14.0+99unstable/src/core/qgsmaprenderer.h">
+<area shape="rect" id="node7" href="$qgis_8h.html" title="qgis.h" alt="" coords="575,393,635,420"/>
+<area shape="rect" id="node19" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="237,244,354,271"/>
+<area shape="rect" id="node23" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="417,95,563,121"/>
+<area shape="rect" id="node32" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1424,319,1527,345"/>
+<area shape="rect" id="node35" href="$qgsmapsettings_8h.html" title="qgsmapsettings.h" alt="" coords="888,169,1025,196"/>
+<area shape="rect" id="node17" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="965,468,1081,495"/>
+<area shape="rect" id="node22" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="480,319,569,345"/>
+<area shape="rect" id="node25" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="624,169,812,196"/>
+<area shape="rect" id="node28" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="461,244,589,271"/>
+<area shape="rect" id="node29" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="405,169,599,196"/>
+<area shape="rect" id="node30" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="1083,319,1257,345"/>
+<area shape="rect" id="node26" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="811,319,1044,345"/>
+<area shape="rect" id="node34" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1505,393,1587,420"/>
+<area shape="rect" id="node37" href="$qgsdatumtransformstore_8h.html" title="qgsdatumtransformstore.h" alt="" coords="1053,244,1247,271"/>
+<area shape="rect" id="node38" href="$qgsscalecalculator_8h.html" title="qgsscalecalculator.h" alt="" coords="615,319,765,345"/>
+</map>

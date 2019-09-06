@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsPointLocator__VisitorArea.html" title="Helper class used when traversing the index with areas &#45; builds a list of matches. " alt="" coords="145,5,349,32"/>
+<area shape="rect" id="node3" href="$classQgsPointLocator__VisitorNearestEdge.html" title="Helper class used when traversing the index looking for edges &#45; builds a list of matches. " alt="" coords="119,56,376,83"/>
+<area shape="rect" id="node4" href="$classQgsPointLocator__VisitorNearestVertex.html" title="Helper class used when traversing the index looking for vertices &#45; builds a list of matches..." alt="" coords="135,107,360,149"/>
+</map>

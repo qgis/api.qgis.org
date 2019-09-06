@@ -1,0 +1,4 @@
+<map id="QgsExpression::Function" name="QgsExpression::Function">
+<area shape="rect" id="node2" href="$classQgsExpression_1_1StaticFunction.html" title="c++ helper class for defining QgsExpression functions. " alt="" coords="5,80,220,107"/>
+<area shape="rect" id="node3" href="$classQgsScopedExpressionFunction.html" title="Expression function for use within a QgsExpressionContextScope. " alt="" coords="244,80,461,107"/>
+</map>

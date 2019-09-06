@@ -1,0 +1,6 @@
+<map id="QgsAttributeEditorElement" name="QgsAttributeEditorElement">
+<area shape="rect" id="node3" href="$classQgsAttributeEditorContainer.html" title="This is a container for attribute editors, used to group them visually in the attribute form if it is..." alt="" coords="5,155,208,181"/>
+<area shape="rect" id="node4" href="$classQgsAttributeEditorField.html" title="This element will load a field&#39;s widget onto the form. " alt="" coords="232,155,400,181"/>
+<area shape="rect" id="node5" href="$classQgsAttributeEditorRelation.html" title="This element will load a relation editor onto the form. " alt="" coords="425,155,615,181"/>
+<area shape="rect" id="node2" href="/usr/share/qt4/doc/html/qt.tags$qobject.html" title="QObject" alt="" coords="279,5,353,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="QgsRendererV2Widget" name="QgsRendererV2Widget">
+<area shape="rect" id="node5" href="$classQgs25DRendererWidget.html" title="Qgs25DRendererWidget" alt="" coords="523,5,697,32"/>
+<area shape="rect" id="node6" href="$classQgsCategorizedSymbolRendererV2Widget.html" title="QgsCategorizedSymbolRenderer\lV2Widget" alt="" coords="495,57,725,98"/>
+<area shape="rect" id="node7" href="$classQgsGraduatedSymbolRendererV2Widget.html" title="QgsGraduatedSymbolRenderer\lV2Widget" alt="" coords="500,122,720,163"/>
+<area shape="rect" id="node8" href="$classQgsHeatmapRendererWidget.html" title="QgsHeatmapRendererWidget" alt="" coords="507,188,713,215"/>
+<area shape="rect" id="node9" href="$classQgsInvertedPolygonRendererWidget.html" title="A widget used represent options of a QgsInvertedPolygonRenderer. " alt="" coords="507,239,713,281"/>
+<area shape="rect" id="node10" href="$classQgsPointDisplacementRendererWidget.html" title="QgsPointDisplacementRenderer\lWidget" alt="" coords="498,305,722,346"/>
+<area shape="rect" id="node11" href="$classQgsRuleBasedRendererV2Widget.html" title="QgsRuleBasedRendererV2Widget" alt="" coords="495,371,725,397"/>
+<area shape="rect" id="node12" href="$classQgsSingleSymbolRendererV2Widget.html" title="QgsSingleSymbolRendererV2\lWidget" alt="" coords="506,422,714,463"/>
+<area shape="rect" id="node2" href="/usr/share/qt4/doc/html/qt.tags$qwidget.html" title="QWidget" alt="" coords="160,217,235,244"/>
+<area shape="rect" id="node3" href="/usr/share/qt4/doc/html/qt.tags$qobject.html" title="QObject" alt="" coords="22,192,95,219"/>
+<area shape="rect" id="node4" href="/usr/share/qt4/doc/html/qt.tags$qpaintdevice.html" title="QPaintDevice" alt="" coords="5,243,112,269"/>
+</map>

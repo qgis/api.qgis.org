@@ -1,0 +1,8 @@
+<map id="QgsComposerMultiFrame" name="QgsComposerMultiFrame">
+<area shape="rect" id="node4" href="$classQgsComposerHtml.html" title="QgsComposerHtml" alt="" coords="5,229,149,256"/>
+<area shape="rect" id="node5" href="$classQgsComposerTableV2.html" title="A class to display a table in the print composer, and allow the table to span over multiple frames..." alt="" coords="173,229,336,256"/>
+<area shape="rect" id="node2" href="$classQgsComposerObject.html" title="A base class for objects which belong to a map composition. " alt="" coords="88,80,243,107"/>
+<area shape="rect" id="node3" href="/usr/share/qt4/doc/html/qt.tags$qobject.html" title="QObject" alt="" coords="129,5,202,32"/>
+<area shape="rect" id="node6" href="$classQgsComposerAttributeTableV2.html" title="A table that displays attributes from a vector layer. " alt="" coords="32,304,251,331"/>
+<area shape="rect" id="node7" href="$classQgsComposerTextTableV2.html" title="A text table item that reads text from string lists. " alt="" coords="275,304,461,331"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="QgsSearchWidgetWrapper" name="QgsSearchWidgetWrapper">
+<area shape="rect" id="node4" href="$classQgsDefaultSearchWidgetWrapper.html" title="Wraps a search widget. " alt="" coords="560,5,793,32"/>
+<area shape="rect" id="node5" href="$classQgsValueMapSearchWidgetWrapper.html" title="Wraps a value map search widget. " alt="" coords="552,56,801,83"/>
+<area shape="rect" id="node6" href="$classQgsValueRelationSearchWidgetWrapper.html" title="Wraps a value relation search widget. " alt="" coords="567,107,787,149"/>
+<area shape="rect" id="node2" href="$classQgsWidgetWrapper.html" title="Manages an editor widget Widget and wrapper share the same parent. " alt="" coords="127,56,269,83"/>
+<area shape="rect" id="node3" href="/usr/share/qt4/doc/html/qt.tags$qobject.html" title="QObject" alt="" coords="5,56,79,83"/>
+</map>

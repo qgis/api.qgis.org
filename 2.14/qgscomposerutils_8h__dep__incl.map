@@ -1,0 +1,24 @@
+<map id="/tmp/buildd/qgis&#45;2.14.0+99unstable/src/core/composer/qgscomposerutils.h" name="/tmp/buildd/qgis&#45;2.14.0+99unstable/src/core/composer/qgscomposerutils.h">
+<area shape="rect" id="node2" href="$qgscomposerarrow_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposerarrow.cpp" alt="" coords="5,109,232,165"/>
+<area shape="rect" id="node3" href="$qgscomposerattributetable_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposerattributetable.cpp" alt="" coords="256,109,483,165"/>
+<area shape="rect" id="node4" href="$qgscomposerattributetablev2_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposerattributetablev2.cpp" alt="" coords="507,109,749,165"/>
+<area shape="rect" id="node5" href="$qgscomposeritem_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposeritem.cpp" alt="" coords="773,109,1000,165"/>
+<area shape="rect" id="node6" href="$qgscomposeritemgroup_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposeritemgroup.cpp" alt="" coords="1024,109,1251,165"/>
+<area shape="rect" id="node7" href="$qgscomposerlabel_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposerlabel.cpp" alt="" coords="1275,109,1501,165"/>
+<area shape="rect" id="node8" href="$qgscomposermap_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposermap.cpp" alt="" coords="1525,109,1752,165"/>
+<area shape="rect" id="node9" href="$qgscomposermapgrid_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposermapgrid.cpp" alt="" coords="1776,109,2003,165"/>
+<area shape="rect" id="node10" href="$qgscomposermousehandles_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposermousehandles.cpp" alt="" coords="2027,109,2261,165"/>
+<area shape="rect" id="node11" href="$qgscomposerobject_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposerobject.cpp" alt="" coords="2285,109,2512,165"/>
+<area shape="rect" id="node12" href="$qgscomposerpicture_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposerpicture.cpp" alt="" coords="2536,109,2763,165"/>
+<area shape="rect" id="node13" href="$qgscomposerscalebar_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposerscalebar.cpp" alt="" coords="2787,109,3013,165"/>
+<area shape="rect" id="node14" href="$qgscomposertable_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposertable.cpp" alt="" coords="3037,109,3264,165"/>
+<area shape="rect" id="node15" href="$qgscomposertablev2_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposertablev2.cpp" alt="" coords="3288,109,3515,165"/>
+<area shape="rect" id="node16" href="$qgscomposerutils_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposerutils.cpp" alt="" coords="3539,109,3765,165"/>
+<area shape="rect" id="node17" href="$qgscomposition_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposition.cpp" alt="" coords="3789,109,4016,165"/>
+<area shape="rect" id="node18" href="$qgsdoubleboxscalebarstyle_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgsdoubleboxscalebarstyle.cpp" alt="" coords="4040,109,4267,165"/>
+<area shape="rect" id="node19" href="$qgsnumericscalebarstyle_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgsnumericscalebarstyle.cpp" alt="" coords="4291,109,4517,165"/>
+<area shape="rect" id="node20" href="$qgsscalebarstyle_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgsscalebarstyle.cpp" alt="" coords="4541,109,4768,165"/>
+<area shape="rect" id="node21" href="$qgssingleboxscalebarstyle_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgssingleboxscalebarstyle.cpp" alt="" coords="4792,109,5019,165"/>
+<area shape="rect" id="node22" href="$qgsticksscalebarstyle_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgsticksscalebarstyle.cpp" alt="" coords="5043,109,5269,165"/>
+<area shape="rect" id="node23" href="$qgscomposerview_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/gui/qgscomposerview.cpp" alt="" coords="5294,117,5589,158"/>
+</map>

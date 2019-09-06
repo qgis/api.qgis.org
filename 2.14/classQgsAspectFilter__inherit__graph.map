@@ -1,0 +1,4 @@
+<map id="QgsAspectFilter" name="QgsAspectFilter">
+<area shape="rect" id="node2" href="$classQgsDerivativeFilter.html" title="Adds the ability to calculate derivatives in x&#45; and y&#45;directions. " alt="" coords="5,80,147,107"/>
+<area shape="rect" id="node3" href="$classQgsNineCellFilter.html" title="Base class for raster analysis methods that work with a 3x3 cell filter and calculate the value of ea..." alt="" coords="11,5,141,32"/>
+</map>

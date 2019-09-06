@@ -1,0 +1,8 @@
+<map id="QgsMarkerSymbolLayerV2" name="QgsMarkerSymbolLayerV2">
+<area shape="rect" id="node3" href="$classQgsEllipseSymbolLayerV2.html" title="A symbol layer for rendering objects with major and minor axis (e.g. " alt="" coords="463,5,649,32"/>
+<area shape="rect" id="node4" href="$classQgsFontMarkerSymbolLayerV2.html" title="QgsFontMarkerSymbolLayerV2" alt="" coords="447,56,665,83"/>
+<area shape="rect" id="node5" href="$classQgsSimpleMarkerSymbolLayerV2.html" title="QgsSimpleMarkerSymbolLayerV2" alt="" coords="439,107,673,133"/>
+<area shape="rect" id="node6" href="$classQgsSvgMarkerSymbolLayerV2.html" title="QgsSvgMarkerSymbolLayerV2" alt="" coords="449,157,663,184"/>
+<area shape="rect" id="node7" href="$classQgsVectorFieldSymbolLayer.html" title="A symbol layer class for displaying displacement arrows based on point layer attributes. " alt="" coords="457,208,655,235"/>
+<area shape="rect" id="node2" href="$classQgsSymbolLayerV2.html" title="QgsSymbolLayerV2" alt="" coords="5,107,152,133"/>
+</map>

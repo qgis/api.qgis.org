@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;). " alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node2" href="$classQgsScaleExpression.html" title="Class storing parameters of a scale expression, which is a subclass of QgsExpression for expressions ..." alt="" coords="169,5,320,32"/>
+</map>

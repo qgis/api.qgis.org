@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['background',['background',['/usr/share/qt4/doc/html/qworkspace.html#background-prop',1,'QWorkspace::background()'],['/usr/share/qt4/doc/html/qmdiarea.html#background-prop',1,'QMdiArea::background()']]],
+  ['backgroundbrush',['backgroundBrush',['/usr/share/qt4/doc/html/qgraphicsscene.html#backgroundBrush-prop',1,'QGraphicsScene::backgroundBrush()'],['/usr/share/qt4/doc/html/qgraphicsview.html#backgroundBrush-prop',1,'QGraphicsView::backgroundBrush()']]],
+  ['backgroundvisible',['backgroundVisible',['/usr/share/qt4/doc/html/qplaintextedit.html#backgroundVisible-prop',1,'QPlainTextEdit']]],
+  ['baselineoffset',['baselineOffset',['/usr/share/qt4/doc/html/qdeclarativeitem.html#baselineOffset-prop',1,'QDeclarativeItem']]],
+  ['basesize',['baseSize',['/usr/share/qt4/doc/html/qwidget.html#baseSize-prop',1,'QWidget']]],
+  ['baseurl',['baseUrl',['/usr/share/qt4/doc/html/qwebframe.html#baseUrl-prop',1,'QWebFrame']]],
+  ['batchsize',['batchSize',['/usr/share/qt4/doc/html/qlistview.html#batchSize-prop',1,'QListView']]],
+  ['behaviour',['behaviour',['../classQgsColorButtonV2.html#a567c8c183eeb2bfec5908ac267c28b47',1,'QgsColorButtonV2']]],
+  ['blockcount',['blockCount',['/usr/share/qt4/doc/html/qtextdocument.html#blockCount-prop',1,'QTextDocument::blockCount()'],['/usr/share/qt4/doc/html/qplaintextedit.html#blockCount-prop',1,'QPlainTextEdit::blockCount()']]],
+  ['blurhints',['blurHints',['/usr/share/qt4/doc/html/qgraphicsblureffect.html#blurHints-prop',1,'QGraphicsBlurEffect']]],
+  ['blurradius',['blurRadius',['/usr/share/qt4/doc/html/qgraphicsblureffect.html#blurRadius-prop',1,'QGraphicsBlurEffect::blurRadius()'],['/usr/share/qt4/doc/html/qgraphicsdropshadoweffect.html#blurRadius-prop',1,'QGraphicsDropShadowEffect::blurRadius()']]],
+  ['bottom',['bottom',['/usr/share/qt4/doc/html/qintvalidator.html#bottom-prop',1,'QIntValidator::bottom()'],['/usr/share/qt4/doc/html/qdoublevalidator.html#bottom-prop',1,'QDoubleValidator::bottom()']]],
+  ['boundarychecking',['boundaryChecking',['/usr/share/qt4/doc/html/q3databrowser.html#boundaryChecking-prop',1,'Q3DataBrowser']]],
+  ['brightness',['brightness',['/usr/share/qt4/doc/html/phonon-videowidget.html#brightness-prop',1,'Phonon::VideoWidget']]],
+  ['bsptreedepth',['bspTreeDepth',['/usr/share/qt4/doc/html/qgraphicsscene.html#bspTreeDepth-prop',1,'QGraphicsScene']]],
+  ['button',['button',['/usr/share/qt4/doc/html/qmouseeventtransition.html#button-prop',1,'QMouseEventTransition']]],
+  ['buttonsymbols',['buttonSymbols',['/usr/share/qt4/doc/html/qabstractspinbox.html#buttonSymbols-prop',1,'QAbstractSpinBox']]]
+];

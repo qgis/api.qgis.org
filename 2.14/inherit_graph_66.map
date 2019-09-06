@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsAbstractFeatureIterator.html" title="Internal feature iterator to be implemented within data providers. " alt="" coords="5,118,201,145"/>
+<area shape="rect" id="node2" href="$classQgsAbstractFeatureIteratorFromSource.html" title="Helper template that cares of two things: 1. " alt="" coords="283,5,479,47"/>
+<area shape="rect" id="node3" href="$classQgsAbstractFeatureIteratorFromSource.html" title="QgsAbstractFeatureIterator\lFromSource\&lt; QgsVectorLayerFeature\lSource \&gt;" alt="" coords="249,70,512,126"/>
+<area shape="rect" id="node5" href="$classQgsCachedFeatureIterator.html" title="Delivers features from the cache. " alt="" coords="285,150,476,177"/>
+<area shape="rect" id="node6" href="$classQgsCachedFeatureWriterIterator.html" title="Uses another iterator as backend and writes features to the cache. " alt="" coords="267,201,494,227"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayerFeatureIterator.html" title="QgsVectorLayerFeatureIterator" alt="" coords="560,85,779,111"/>
+</map>

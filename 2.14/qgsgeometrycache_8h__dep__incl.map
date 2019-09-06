@@ -1,0 +1,13 @@
+<map id="/tmp/buildd/qgis&#45;2.14.0+99unstable/src/core/qgsgeometrycache.h" name="/tmp/buildd/qgis&#45;2.14.0+99unstable/src/core/qgsgeometrycache.h">
+<area shape="rect" id="node2" href="$qgsgeometrycache_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsgeometrycache.cpp" alt="" coords="450,95,763,136"/>
+<area shape="rect" id="node3" href="$qgsmaprendererjob_8h.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsmaprendererjob.h" alt="" coords="788,95,1089,136"/>
+<area shape="rect" id="node9" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsvectorlayer.cpp" alt="" coords="1113,95,1396,136"/>
+<area shape="rect" id="node10" href="$qgsvectorlayereditutils_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsvectorlayereditutils.cpp" alt="" coords="1419,95,1754,136"/>
+<area shape="rect" id="node11" href="$qgsvectorlayerrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsvectorlayerrenderer.cpp" alt="" coords="1779,95,2117,136"/>
+<area shape="rect" id="node12" href="$qgsvectorlayerundocommand_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsvectorlayerundocommand.cpp" alt="" coords="2141,95,2523,136"/>
+<area shape="rect" id="node4" href="$qgsmaprenderercustompainterjob_8h.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsmaprenderercustompainterjob.h" alt="" coords="5,184,400,225"/>
+<area shape="rect" id="node5" href="$qgsmaprendererjob_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsmaprendererjob.cpp" alt="" coords="425,184,741,225"/>
+<area shape="rect" id="node6" href="$qgsmaprendererparalleljob_8h.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsmaprendererparalleljob.h" alt="" coords="765,184,1112,225"/>
+<area shape="rect" id="node7" href="$qgsmaprenderersequentialjob_8h.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsmaprenderersequentialjob.h" alt="" coords="1137,184,1503,225"/>
+<area shape="rect" id="node8" href="$qgsmapsettings_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsmapsettings.cpp" alt="" coords="1528,184,1821,225"/>
+</map>

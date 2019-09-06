@@ -1,0 +1,14 @@
+<map id="/tmp/buildd/qgis&#45;2.14.0+99unstable/src/core/qgsnetworkaccessmanager.h" name="/tmp/buildd/qgis&#45;2.14.0+99unstable/src/core/qgsnetworkaccessmanager.h">
+<area shape="rect" id="node2" href="$qgsapplication_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsapplication.cpp" alt="" coords="5,102,288,143"/>
+<area shape="rect" id="node3" href="$qgsgml_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsgml.cpp" alt="" coords="312,102,549,143"/>
+<area shape="rect" id="node4" href="$qgsgmlschema_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsgmlschema.cpp" alt="" coords="573,102,861,143"/>
+<area shape="rect" id="node5" href="$qgsnetworkaccessmanager_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsnetworkaccessmanager.cpp" alt="" coords="886,102,1250,143"/>
+<area shape="rect" id="node6" href="$qgsnetworkcontentfetcher_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/qgsnetworkcontentfetcher.cpp" alt="" coords="1274,102,1630,143"/>
+<area shape="rect" id="node7" href="$qgscomposerhtml_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposerhtml.cpp" alt="" coords="1655,95,1881,151"/>
+<area shape="rect" id="node8" href="$qgscomposerlabel_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/composer\l/qgscomposerlabel.cpp" alt="" coords="1905,95,2132,151"/>
+<area shape="rect" id="node9" href="$qgssvgcache_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/core/symbology\l&#45;ng/qgssvgcache.cpp" alt="" coords="2156,95,2388,151"/>
+<area shape="rect" id="node10" href="$qgshtmlannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/gui/qgshtmlannotationitem.cpp" alt="" coords="2412,102,2743,143"/>
+<area shape="rect" id="node11" href="$qgsowssourceselect_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/gui/qgsowssourceselect.cpp" alt="" coords="2767,102,3076,143"/>
+<area shape="rect" id="node12" href="$qgswebviewwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/gui/editorwidgets\l/qgswebviewwidgetwrapper.cpp" alt="" coords="3101,95,3339,151"/>
+<area shape="rect" id="node13" href="$qgsosmdownload_8cpp.html" title="/tmp/buildd/qgis&#45;2.14.0\l+99unstable/src/analysis\l/openstreetmap/qgsosmdownload.cpp" alt="" coords="3364,95,3631,151"/>
+</map>

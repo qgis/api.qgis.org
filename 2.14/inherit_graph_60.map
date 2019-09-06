@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="/usr/share/qt4/doc/html/qt.tags$qevent.html" title="QEvent" alt="" coords="5,56,73,83"/>
+<area shape="rect" id="node2" href="$classQgsProviderCountCalcEvent.html" title="A custom event that is designed to be fired when a layer count has been fully calculated. " alt="" coords="123,5,323,32"/>
+<area shape="rect" id="node3" href="$classQgsProviderExtentCalcEvent.html" title="A custom event that is designed to be fired when a layer extent has been fully calculated. " alt="" coords="121,56,324,83"/>
+<area shape="rect" id="node4" href="/usr/share/qt4/doc/html/qt.tags$qinputevent.html" title="QInputEvent" alt="" coords="173,107,273,133"/>
+<area shape="rect" id="node5" href="/usr/share/qt4/doc/html/qt.tags$qmouseevent.html" title="QMouseEvent" alt="" coords="372,107,483,133"/>
+<area shape="rect" id="node6" href="$classQgsMapMouseEvent.html" title="A QgsMapMouseEvent is the result of a user interaction with the mouse on a QgsMapCanvas. " alt="" coords="531,107,683,133"/>
+</map>

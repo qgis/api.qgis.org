@@ -1,0 +1,5 @@
+<map id="QgsMapToolAdvancedDigitizing" name="QgsMapToolAdvancedDigitizing">
+<area shape="rect" id="node4" href="$classQgsMapToolCapture.html" title="QgsMapToolCapture" alt="" coords="40,229,189,256"/>
+<area shape="rect" id="node2" href="$classQgsMapToolEdit.html" title="Base class for map tools that edit vector geometry. " alt="" coords="53,80,176,107"/>
+<area shape="rect" id="node3" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="65,5,164,32"/>
+</map>
