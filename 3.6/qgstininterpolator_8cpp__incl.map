@@ -1,0 +1,33 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/analysis/interpolation/qgstininterpolator.cpp" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/analysis/interpolation/qgstininterpolator.cpp">
+<area shape="rect" id="node2" href="$qgstininterpolator_8h.html" title="qgstininterpolator.h" alt="" coords="969,333,1118,360"/>
+<area shape="rect" id="node8" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="2920,184,3071,211"/>
+<area shape="rect" id="node13" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="2534,333,2638,360"/>
+<area shape="rect" id="node17" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="2631,408,2750,435"/>
+<area shape="rect" id="node19" href="$qgswkbptr_8h.html" title="qgswkbptr.h" alt="" coords="2769,632,2870,659"/>
+<area shape="rect" id="node20" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="2844,483,2934,509"/>
+<area shape="rect" id="node23" href="$CloughTocherInterpolator_8h.html" title="CloughTocherInterpolator.h" alt="" coords="647,333,843,360"/>
+<area shape="rect" id="node25" href="$DualEdgeTriangulation_8h.html" title="DualEdgeTriangulation.h" alt="" coords="1456,259,1636,285"/>
+<area shape="rect" id="node36" href="$NormVecDecorator_8h.html" title="NormVecDecorator.h" alt="" coords="235,184,391,211"/>
+<area shape="rect" id="node40" href="$LinTriangleInterpolator_8h.html" title="LinTriangleInterpolator.h" alt="" coords="616,184,794,211"/>
+<area shape="rect" id="node41" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="2578,109,2709,136"/>
+<area shape="rect" id="node46" href="$qgsfeedback_8h.html" title="qgsfeedback.h" alt="" coords="3148,632,3265,659"/>
+<area shape="rect" id="node47" href="$qgscurve_8h.html" title="qgscurve.h" alt="" coords="3490,483,3584,509"/>
+<area shape="rect" id="node48" href="$qgsmulticurve_8h.html" title="qgsmulticurve.h" alt="" coords="2895,632,3022,659"/>
+<area shape="rect" id="node49" href="$qgscurvepolygon_8h.html" title="qgscurvepolygon.h" alt="" coords="3231,408,3376,435"/>
+<area shape="rect" id="node50" href="$qgsmultisurface_8h.html" title="qgsmultisurface.h" alt="" coords="3289,632,3428,659"/>
+<area shape="rect" id="node3" href="$qgsinterpolator_8h.html" title="qgsinterpolator.h" alt="" coords="1020,408,1152,435"/>
+<area shape="rect" id="node5" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="2146,707,2232,733"/>
+<area shape="rect" id="node10" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="2764,259,2918,285"/>
+<area shape="rect" id="node22" href="$qgsindexedfeature_8h.html" title="qgsindexedfeature.h" alt="" coords="2532,259,2688,285"/>
+<area shape="rect" id="node21" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="3460,557,3579,584"/>
+<area shape="rect" id="node16" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="2502,557,2594,584"/>
+<area shape="rect" id="node18" href="$qgsabstractgeometry_8h.html" title="qgsabstractgeometry.h" alt="" coords="2770,557,2941,584"/>
+<area shape="rect" id="node24" href="$TriangleInterpolator_8h.html" title="TriangleInterpolator.h" alt="" coords="416,408,576,435"/>
+<area shape="rect" id="node34" href="$Triangulation_8h.html" title="Triangulation.h" alt="" coords="452,333,571,360"/>
+<area shape="rect" id="node35" href="$HalfEdge_8h.html" title="HalfEdge.h" alt="" coords="792,408,885,435"/>
+<area shape="rect" id="node37" href="$TriDecorator_8h.html" title="TriDecorator.h" alt="" coords="44,259,156,285"/>
+<area shape="rect" id="node38" href="$MathUtils_8h.html" title="MathUtils.h" alt="" coords="180,259,276,285"/>
+<area shape="rect" id="node39" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="2278,557,2375,584"/>
+<area shape="rect" id="node44" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="3608,483,3727,509"/>
+<area shape="rect" id="node45" href="$qgsfeaturesource_8h.html" title="qgsfeaturesource.h" alt="" coords="2749,184,2896,211"/>
+</map>

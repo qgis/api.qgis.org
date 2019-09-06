@@ -1,0 +1,4 @@
+<map id="QgsInterpolator" name="QgsInterpolator">
+<area shape="rect" id="node2" href="$classQgsIDWInterpolator.html" title="Inverse distance weight interpolator. " alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node3" href="$classQgsTinInterpolator.html" title="Interpolation in a triangular irregular network. " alt="" coords="180,80,323,107"/>
+</map>

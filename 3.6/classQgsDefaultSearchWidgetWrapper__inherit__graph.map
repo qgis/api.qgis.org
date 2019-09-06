@@ -1,0 +1,5 @@
+<map id="QgsDefaultSearchWidgetWrapper" name="QgsDefaultSearchWidgetWrapper">
+<area shape="rect" id="node4" href="$classQgsTextEditSearchWidgetWrapper.html" title="Wraps a text edit widget for searching. " alt="" coords="5,229,248,256"/>
+<area shape="rect" id="node2" href="$classQgsSearchWidgetWrapper.html" title="Shows a search widget on a filter form. " alt="" coords="31,80,222,107"/>
+<area shape="rect" id="node3" href="$classQgsWidgetWrapper.html" title="Manages an editor widget Widget and wrapper share the same parent. " alt="" coords="53,5,200,32"/>
+</map>

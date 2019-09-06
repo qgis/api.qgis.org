@@ -1,0 +1,23 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/server/qgsserverparameters.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/server/qgsserverparameters.h">
+<area shape="rect" id="node2" href="$qgsserverrequest_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsserverrequest.h" alt="" coords="712,109,885,165"/>
+<area shape="rect" id="node6" href="$qgsserver_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsserver.cpp" alt="" coords="849,317,1023,373"/>
+<area shape="rect" id="node13" href="$qgsserverparameters_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsserverparameters.cpp" alt="" coords="1775,109,1967,165"/>
+<area shape="rect" id="node14" href="$qgswmsparameters_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsparameters.h" alt="" coords="1997,109,2257,165"/>
+<area shape="rect" id="node18" href="$qgswfsparameters_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsparameters.h" alt="" coords="2850,109,3094,165"/>
+<area shape="rect" id="node3" href="$qgsservercachefilter_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsservercachefilter.h" alt="" coords="5,213,179,269"/>
+<area shape="rect" id="node4" href="$qgsservercachemanager_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsservercachemanager.h" alt="" coords="56,317,253,373"/>
+<area shape="rect" id="node5" href="$qgsserver_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsserver.h" alt="" coords="253,213,427,269"/>
+<area shape="rect" id="node7" href="$qgsfcgiserverresponse_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsfcgiserverresponse.h" alt="" coords="502,213,687,269"/>
+<area shape="rect" id="node8" href="$qgsfcgiserverrequest_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsfcgiserverrequest.h" alt="" coords="711,213,886,269"/>
+<area shape="rect" id="node9" href="$qgsbufferserverrequest_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsbufferserverrequest.h" alt="" coords="911,213,1100,269"/>
+<area shape="rect" id="node10" href="$qgsrequesthandler_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsrequesthandler.cpp" alt="" coords="1124,213,1297,269"/>
+<area shape="rect" id="node11" href="$qgsservice_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsservice.h" alt="" coords="1321,213,1495,269"/>
+<area shape="rect" id="node12" href="$qgsserverrequest_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsserverrequest.cpp" alt="" coords="1519,213,1692,269"/>
+<area shape="rect" id="node15" href="$qgswmsrenderer_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsrenderer.h" alt="" coords="1767,213,2006,269"/>
+<area shape="rect" id="node16" href="$qgswms_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswms.cpp" alt="" coords="2031,213,2231,269"/>
+<area shape="rect" id="node17" href="$qgswmsparameters_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsparameters.cpp" alt="" coords="2255,213,2529,269"/>
+<area shape="rect" id="node19" href="$qgswfsgetfeature_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsgetfeature.h" alt="" coords="2553,213,2791,269"/>
+<area shape="rect" id="node20" href="$qgswfsdescribefeaturetype_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsdescribefeaturetype.cpp" alt="" coords="2815,213,3129,269"/>
+<area shape="rect" id="node21" href="$qgswfsparameters_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsparameters.cpp" alt="" coords="3153,213,3412,269"/>
+<area shape="rect" id="node22" href="$qgswfsutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsutils.cpp" alt="" coords="3435,213,3647,269"/>
+</map>

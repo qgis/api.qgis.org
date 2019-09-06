@@ -1,0 +1,36 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/qgsfieldformatter.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/qgsfieldformatter.h">
+<area shape="rect" id="node2" href="$qgsfieldformatter_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsfieldformatter.cpp" alt="" coords="825,102,1128,143"/>
+<area shape="rect" id="node3" href="$qgsfieldformatterregistry_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsfieldformatterregistry.cpp" alt="" coords="2574,206,2926,247"/>
+<area shape="rect" id="node4" href="$qgsjsonutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsjsonutils.cpp" alt="" coords="4077,102,4346,143"/>
+<area shape="rect" id="node5" href="$qgsexpressionfunction_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/expression\l/qgsexpressionfunction.cpp" alt="" coords="4370,95,4605,151"/>
+<area shape="rect" id="node6" href="$qgsdatetimefieldformatter_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgsdatetimefieldformatter.h" alt="" coords="1152,95,1407,151"/>
+<area shape="rect" id="node13" href="$qgsfallbackfieldformatter_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgsfallbackfieldformatter.h" alt="" coords="2065,95,2320,151"/>
+<area shape="rect" id="node15" href="$qgskeyvaluefieldformatter_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgskeyvaluefieldformatter.h" alt="" coords="2344,95,2599,151"/>
+<area shape="rect" id="node17" href="$qgslistfieldformatter_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgslistfieldformatter.h" alt="" coords="2623,95,2877,151"/>
+<area shape="rect" id="node19" href="$qgsrangefieldformatter_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgsrangefieldformatter.h" alt="" coords="2953,95,3208,151"/>
+<area shape="rect" id="node21" href="$qgsrelationreferencefieldformatter_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgsrelationreferencefieldformatter.h" alt="" coords="3232,95,3495,151"/>
+<area shape="rect" id="node23" href="$qgsvaluemapfieldformatter_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgsvaluemapfieldformatter.h" alt="" coords="3519,95,3773,151"/>
+<area shape="rect" id="node28" href="$qgsvaluerelationfieldformatter_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgsvaluerelationfieldformatter.h" alt="" coords="3797,95,4052,151"/>
+<area shape="rect" id="node33" href="$qgscategorizedsymbolrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgscategorizedsymbolrenderer.cpp" alt="" coords="4629,95,4884,151"/>
+<area shape="rect" id="node34" href="$qgsattributetablemodel_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/attributetable\l/qgsattributetablemodel.cpp" alt="" coords="4909,95,5154,151"/>
+<area shape="rect" id="node35" href="$qgswmsrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsrenderer.cpp" alt="" coords="5179,95,5433,151"/>
+<area shape="rect" id="node7" href="$qgsdatetimefieldformatter_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgsdatetimefieldformatter.cpp" alt="" coords="5,199,260,255"/>
+<area shape="rect" id="node8" href="$qgsdatetimeeditconfig_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/qgsdatetimeeditconfig.cpp" alt="" coords="285,199,530,255"/>
+<area shape="rect" id="node9" href="$qgsdatetimeeditwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/qgsdatetimeeditwrapper.cpp" alt="" coords="554,199,799,255"/>
+<area shape="rect" id="node10" href="$qgsdatetimesearchwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/qgsdatetimesearchwidgetwrapper.cpp" alt="" coords="823,199,1098,255"/>
+<area shape="rect" id="node11" href="$qgswfsdescribefeaturetype_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsdescribefeaturetype.cpp" alt="" coords="1122,199,1437,255"/>
+<area shape="rect" id="node12" href="$qgswfsgetfeature_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsgetfeature.cpp" alt="" coords="1461,199,1713,255"/>
+<area shape="rect" id="node14" href="$qgsfallbackfieldformatter_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgsfallbackfieldformatter.cpp" alt="" coords="1737,199,1992,255"/>
+<area shape="rect" id="node16" href="$qgskeyvaluefieldformatter_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgskeyvaluefieldformatter.cpp" alt="" coords="2016,199,2271,255"/>
+<area shape="rect" id="node18" href="$qgslistfieldformatter_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgslistfieldformatter.cpp" alt="" coords="2295,199,2549,255"/>
+<area shape="rect" id="node20" href="$qgsrangefieldformatter_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgsrangefieldformatter.cpp" alt="" coords="2951,199,3205,255"/>
+<area shape="rect" id="node22" href="$qgsrelationreferencefieldformatter_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgsrelationreferencefieldformatter.cpp" alt="" coords="3230,199,3507,255"/>
+<area shape="rect" id="node24" href="$qgsvaluemapfieldformatter_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgsvaluemapfieldformatter.cpp" alt="" coords="3532,199,3787,255"/>
+<area shape="rect" id="node25" href="$qgsvaluemapconfigdlg_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/qgsvaluemapconfigdlg.cpp" alt="" coords="3811,199,4057,255"/>
+<area shape="rect" id="node26" href="$qgsvaluemapsearchwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/qgsvaluemapsearchwidgetwrapper.cpp" alt="" coords="4081,199,4361,255"/>
+<area shape="rect" id="node27" href="$qgsvaluemapwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/qgsvaluemapwidgetwrapper.cpp" alt="" coords="4385,199,4630,255"/>
+<area shape="rect" id="node29" href="$qgsvaluerelationfieldformatter_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/fieldformatter\l/qgsvaluerelationfieldformatter.cpp" alt="" coords="4655,199,4909,255"/>
+<area shape="rect" id="node30" href="$qgsvaluerelationsearchwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/qgsvaluerelationsearchwidgetwrapper.h" alt="" coords="4933,199,5220,255"/>
+<area shape="rect" id="node31" href="$qgsvaluerelationwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/qgsvaluerelationwidgetwrapper.h" alt="" coords="5295,199,5541,255"/>
+<area shape="rect" id="node32" href="$qgsvaluerelationwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/qgsvaluerelationwidgetwrapper.cpp" alt="" coords="5209,303,5467,359"/>
+</map>

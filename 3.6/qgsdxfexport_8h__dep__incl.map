@@ -1,0 +1,12 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/dxf/qgsdxfexport.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/dxf/qgsdxfexport.h">
+<area shape="rect" id="node2" href="$qgsdxfexport_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/dxf\l/qgsdxfexport.cpp" alt="" coords="5,109,191,165"/>
+<area shape="rect" id="node3" href="$qgsdxfpaintengine_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/dxf\l/qgsdxfpaintengine.cpp" alt="" coords="215,109,400,165"/>
+<area shape="rect" id="node4" href="$qgsdxfpallabeling_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/dxf\l/qgsdxfpallabeling.cpp" alt="" coords="424,109,609,165"/>
+<area shape="rect" id="node5" href="$qgsellipsesymbollayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgsellipsesymbollayer.cpp" alt="" coords="633,109,869,165"/>
+<area shape="rect" id="node6" href="$qgsfillsymbollayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgsfillsymbollayer.cpp" alt="" coords="893,109,1129,165"/>
+<area shape="rect" id="node7" href="$qgslinesymbollayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgslinesymbollayer.cpp" alt="" coords="1153,109,1389,165"/>
+<area shape="rect" id="node8" href="$qgsmarkersymbollayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgsmarkersymbollayer.cpp" alt="" coords="1413,109,1649,165"/>
+<area shape="rect" id="node9" href="$qgssymbollayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgssymbollayer.cpp" alt="" coords="1673,109,1909,165"/>
+<area shape="rect" id="node10" href="$qgsdxfwriter_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgsdxfwriter.cpp" alt="" coords="1934,109,2161,165"/>
+<area shape="rect" id="node11" href="$qgswmsrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsrenderer.cpp" alt="" coords="2185,109,2440,165"/>
+</map>

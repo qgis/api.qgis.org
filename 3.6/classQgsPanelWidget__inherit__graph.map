@@ -1,0 +1,35 @@
+<map id="QgsPanelWidget" name="QgsPanelWidget">
+<area shape="rect" id="node3" href="$classQgsColorBrewerColorRampWidget.html" title="A widget which allows users to modify the properties of a QgsColorBrewerColorRamp. " alt="" coords="308,5,553,32"/>
+<area shape="rect" id="node4" href="$classQgsCompoundColorWidget.html" title="A custom QGIS widget for selecting a color, including options for selecting colors via hue wheel..." alt="" coords="332,56,529,83"/>
+<area shape="rect" id="node5" href="$classQgsDataDefinedSizeLegendWidget.html" title="Widget for configuration of appearance of legend for marker symbols with data&#45;defined size..." alt="" coords="329,107,532,149"/>
+<area shape="rect" id="node6" href="$classQgsEffectStackCompactWidget.html" title="A small widget consisting of a checkbox for enabling/disabling an effect stack and a button for openi..." alt="" coords="319,173,543,200"/>
+<area shape="rect" id="node7" href="$classQgsEffectStackPropertiesWidget.html" title="A widget for modifying the properties of a QgsEffectStack, including adding and reordering effects wi..." alt="" coords="337,225,524,266"/>
+<area shape="rect" id="node8" href="$classQgsLayerPropertiesWidget.html" title="QgsLayerPropertiesWidget" alt="" coords="333,291,528,317"/>
+<area shape="rect" id="node9" href="$classQgsLayoutItemBaseWidget.html" title="A base class for property widgets for layout items. " alt="" coords="331,341,530,368"/>
+<area shape="rect" id="node10" href="$classQgsLimitedRandomColorRampWidget.html" title="A widget which allows users to modify the properties of a QgsLimitedRandomColorRamp. " alt="" coords="319,393,542,434"/>
+<area shape="rect" id="node11" href="$classQgsMapLayerConfigWidget.html" title="A panel widget that can be shown in the map style dock. " alt="" coords="332,459,529,485"/>
+<area shape="rect" id="node16" href="$classQgsMapUnitScaleWidget.html" title="A widget which allows the user to choose the minimum and maximum scale of an object in map units and ..." alt="" coords="339,509,522,536"/>
+<area shape="rect" id="node17" href="$classQgsPanelWidgetWrapper.html" title="Wrapper widget for existing widgets which can&#39;t have the inheritance tree changed, e.g dialogs. " alt="" coords="339,560,522,587"/>
+<area shape="rect" id="node19" href="$classQgsPresetColorRampWidget.html" title="A widget which allows users to modify the properties of a QgsPresetSchemeColorRamp. " alt="" coords="327,611,534,637"/>
+<area shape="rect" id="node20" href="$classQgsPropertyAssistantWidget.html" title="Shows a user&#45;friendly assistant guiding users through the creation of QgsProperty overrides..." alt="" coords="327,661,535,688"/>
+<area shape="rect" id="node21" href="$classQgsRendererRulePropsWidget.html" title="QgsRendererRulePropsWidget" alt="" coords="323,712,538,739"/>
+<area shape="rect" id="node22" href="$classQgsRendererWidget.html" title="Base class for renderer settings widgets. " alt="" coords="355,763,506,789"/>
+<area shape="rect" id="node33" href="$classQgsSubstitutionListWidget.html" title="A widget which allows users to specify a list of substitutions to apply to a string, with options for exporting and importing substitution lists. " alt="" coords="333,813,528,840"/>
+<area shape="rect" id="node34" href="$classQgsSymbolLevelsWidget.html" title="A widget which allows the user to modify the rendering order of symbol layers. " alt="" coords="339,864,523,891"/>
+<area shape="rect" id="node35" href="$classQgsSymbolSelectorWidget.html" title="Symbol selector widget that can be used to select and build a symbol. " alt="" coords="333,915,528,941"/>
+<area shape="rect" id="node12" href="$classQgsMapLayerStyleManagerWidget.html" title="The QgsMapLayerStyleManagerWidget class which is used to visually manage the layer styles..." alt="" coords="601,311,847,337"/>
+<area shape="rect" id="node13" href="$classQgsRasterHistogramWidget.html" title="Histogram widget. " alt="" coords="623,361,825,388"/>
+<area shape="rect" id="node14" href="$classQgsRasterTransparencyWidget.html" title="Widget to control a layers transparency and related options. " alt="" coords="613,412,835,439"/>
+<area shape="rect" id="node15" href="$classQgsRendererRasterPropertiesWidget.html" title="QgsRendererRasterProperties\lWidget" alt="" coords="617,463,831,505"/>
+<area shape="rect" id="node18" href="$classQgsTextFormatPanelWidget.html" title="A panel widget for customizing text formatting settings. " alt="" coords="623,529,825,556"/>
+<area shape="rect" id="node23" href="$classQgs25DRendererWidget.html" title="Qgs25DRendererWidget" alt="" coords="635,580,813,607"/>
+<area shape="rect" id="node24" href="$classQgsCategorizedSymbolRendererWidget.html" title="QgsCategorizedSymbolRenderer\lWidget" alt="" coords="608,631,840,673"/>
+<area shape="rect" id="node25" href="$classQgsGraduatedSymbolRendererWidget.html" title="QgsGraduatedSymbolRenderer\lWidget" alt="" coords="613,697,835,738"/>
+<area shape="rect" id="node26" href="$classQgsHeatmapRendererWidget.html" title="QgsHeatmapRendererWidget" alt="" coords="619,763,829,789"/>
+<area shape="rect" id="node27" href="$classQgsInvertedPolygonRendererWidget.html" title="A widget used represent options of a QgsInvertedPolygonRenderer. " alt="" coords="619,814,829,855"/>
+<area shape="rect" id="node28" href="$classQgsNullSymbolRendererWidget.html" title="Blank widget for customizing QgsNullSymbolRenderer. " alt="" coords="611,880,837,907"/>
+<area shape="rect" id="node29" href="$classQgsPointClusterRendererWidget.html" title="A widget which allows configuration of the properties for a QgsPointClusterRenderer. " alt="" coords="609,931,839,957"/>
+<area shape="rect" id="node30" href="$classQgsPointDisplacementRendererWidget.html" title="QgsPointDisplacementRenderer\lWidget" alt="" coords="610,982,838,1023"/>
+<area shape="rect" id="node31" href="$classQgsRuleBasedRendererWidget.html" title="QgsRuleBasedRendererWidget" alt="" coords="615,1048,833,1075"/>
+<area shape="rect" id="node32" href="$classQgsSingleSymbolRendererWidget.html" title="QgsSingleSymbolRendererWidget" alt="" coords="604,1099,844,1125"/>
+</map>

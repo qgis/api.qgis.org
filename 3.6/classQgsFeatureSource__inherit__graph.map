@@ -1,0 +1,7 @@
+<map id="QgsFeatureSource" name="QgsFeatureSource">
+<area shape="rect" id="node2" href="$classQgsProcessingFeatureSource.html" title="QgsFeatureSource subclass which proxies methods to an underlying QgsFeatureSource, modifying results according to the settings in a QgsProcessingContext. " alt="" coords="201,5,411,32"/>
+<area shape="rect" id="node3" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers. " alt="" coords="219,56,393,83"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="244,107,368,133"/>
+<area shape="rect" id="node6" href="$classQgsVectorLayerSelectedFeatureSource.html" title="QgsFeatureSource subclass for the selected features from a QgsVectorLayer. " alt="" coords="192,158,420,199"/>
+<area shape="rect" id="node5" href="$classQgsAuxiliaryLayer.html" title="Class allowing to manage the auxiliary storage for a vector layer. " alt="" coords="468,107,609,133"/>
+</map>

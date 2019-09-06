@@ -1,0 +1,5 @@
+<map id="QgsLayout" name="QgsLayout">
+<area shape="rect" id="node5" href="$classQgsPrintLayout.html" title="Print layout, a QgsLayout subclass for static or atlas&#45;based layouts. " alt="" coords="214,155,335,181"/>
+<area shape="rect" id="node3" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="157,5,392,32"/>
+<area shape="rect" id="node4" href="$classQgsLayoutUndoObjectInterface.html" title="Interface for layout objects which support undo/redo commands. " alt="" coords="415,5,641,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsAbstract3DRenderer.html" title="Base class for all renderers that may to participate in 3D view. " alt="" coords="5,56,183,83"/>
+<area shape="rect" id="node2" href="$classQgsMeshLayer3DRenderer.html" title="3D renderer that renders all mesh triangles of a mesh layer. " alt="" coords="234,5,427,32"/>
+<area shape="rect" id="node3" href="$classQgsRuleBased3DRenderer.html" title="3 Rule&#45;based 3D renderer. " alt="" coords="235,56,426,83"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayer3DRenderer.html" title="3D renderer that renders all features of a vector layer with the same 3D symbol. " alt="" coords="231,107,431,133"/>
+</map>

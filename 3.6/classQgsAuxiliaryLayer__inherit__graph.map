@@ -1,0 +1,8 @@
+<map id="QgsAuxiliaryLayer" name="QgsAuxiliaryLayer">
+<area shape="rect" id="node2" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="288,115,412,141"/>
+<area shape="rect" id="node3" href="$classQgsMapLayer.html" title="Base class for all map layer types. " alt="" coords="67,5,178,32"/>
+<area shape="rect" id="node4" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="5,56,240,83"/>
+<area shape="rect" id="node5" href="$classQgsExpressionContextScopeGenerator.html" title="Abstract interface for generating an expression context scope. " alt="" coords="19,107,227,149"/>
+<area shape="rect" id="node6" href="$classQgsFeatureSink.html" title="An interface for objects which accept features via addFeature(s) methods. " alt="" coords="61,173,184,200"/>
+<area shape="rect" id="node7" href="$classQgsFeatureSource.html" title="An interface for objects which provide features via a getFeatures method. " alt="" coords="53,224,192,251"/>
+</map>

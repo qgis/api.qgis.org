@@ -1,0 +1,5 @@
+<map id="QgsGlowEffect" name="QgsGlowEffect">
+<area shape="rect" id="node3" href="$classQgsInnerGlowEffect.html" title="A paint effect which draws a glow within a picture. " alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node4" href="$classQgsOuterGlowEffect.html" title="A paint effect which draws a glow outside of a picture. " alt="" coords="180,155,333,181"/>
+<area shape="rect" id="node2" href="$classQgsPaintEffect.html" title="Base class for visual effects which can be applied to QPicture drawings. " alt="" coords="111,5,227,32"/>
+</map>

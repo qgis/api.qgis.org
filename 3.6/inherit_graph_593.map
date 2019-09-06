@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsSymbol.html" title="Abstract base class for all rendered symbols. " alt="" coords="5,56,101,83"/>
+<area shape="rect" id="node2" href="$classQgsFillSymbol.html" title="A fill symbol type, for rendering Polygon and MultiPolygon geometries. " alt="" coords="163,5,277,32"/>
+<area shape="rect" id="node3" href="$classQgsLineSymbol.html" title="A line symbol type, for rendering LineString and MultiLineString geometries. " alt="" coords="159,56,281,83"/>
+<area shape="rect" id="node4" href="$classQgsMarkerSymbol.html" title="A marker symbol type, for rendering Point and MultiPoint geometries. " alt="" coords="149,107,291,133"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/qgsdatumtransform.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/qgsdatumtransform.h">
+<area shape="rect" id="node2" href="$qgscoordinatetransformcontext_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgscoordinatetransformcontext.h" alt="" coords="845,95,1227,136"/>
+<area shape="rect" id="node13" href="$qgsdatumtransform_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsdatumtransform.cpp" alt="" coords="1251,95,1571,136"/>
+<area shape="rect" id="node3" href="$qgscoordinatetransform_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgscoordinatetransform.h" alt="" coords="327,199,659,240"/>
+<area shape="rect" id="node4" href="$qgsrendercontext_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsrendercontext.h" alt="" coords="5,310,296,351"/>
+<area shape="rect" id="node5" href="$qgsbearingutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsbearingutils.cpp" alt="" coords="320,310,611,351"/>
+<area shape="rect" id="node6" href="$qgscoordinatetransformcontext_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgscoordinatetransformcontext.cpp" alt="" coords="635,310,1031,351"/>
+<area shape="rect" id="node7" href="$qgsproject_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsproject.h" alt="" coords="994,199,1238,240"/>
+<area shape="rect" id="node8" href="$qgsmapcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/qgsmapcanvas.cpp" alt="" coords="1055,310,1337,351"/>
+<area shape="rect" id="node9" href="$qgsquickplugin_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/quickgui\l/plugin/qgsquickplugin.cpp" alt="" coords="1361,303,1556,359"/>
+<area shape="rect" id="node10" href="$qgsgeometrycheckcontext_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometrycheckcontext.h" alt="" coords="1791,184,2001,255"/>
+<area shape="rect" id="node11" href="$qgsquickcoordinatetransformer_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/quickgui\l/qgsquickcoordinatetransformer.h" alt="" coords="1314,191,1555,247"/>
+<area shape="rect" id="node12" href="$qgsquickmapsettings_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/quickgui\l/qgsquickmapsettings.h" alt="" coords="1580,191,1767,247"/>
+</map>

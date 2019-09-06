@@ -1,0 +1,8 @@
+<map id="QgsSingleGeometryCheck" name="QgsSingleGeometryCheck">
+<area shape="rect" id="node3" href="$classQgsGeometryIsValidCheck.html" title="Checks if geometries are valid using the backend configured in the QGIS settings. ..." alt="" coords="461,5,656,32"/>
+<area shape="rect" id="node4" href="$classQgsGeometryMultipartCheck.html" title="QgsGeometryMultipartCheck" alt="" coords="453,56,664,83"/>
+<area shape="rect" id="node5" href="$classQgsGeometrySelfContactCheck.html" title="QgsGeometrySelfContactCheck" alt="" coords="445,107,672,133"/>
+<area shape="rect" id="node6" href="$classQgsGeometrySelfIntersectionCheck.html" title="QgsGeometrySelfIntersection\lCheck" alt="" coords="451,158,666,199"/>
+<area shape="rect" id="node7" href="$classQgsGeometryTypeCheck.html" title="QgsGeometryTypeCheck" alt="" coords="467,224,650,251"/>
+<area shape="rect" id="node2" href="$classQgsGeometryCheck.html" title="This class implements a geometry check. " alt="" coords="5,107,157,133"/>
+</map>

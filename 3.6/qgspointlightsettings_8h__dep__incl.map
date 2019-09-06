@@ -1,0 +1,19 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/3d/qgspointlightsettings.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/3d/qgspointlightsettings.h">
+<area shape="rect" id="node2" href="$qgs3dmapsettings_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/qgs3dmapsettings.h" alt="" coords="1421,95,1705,136"/>
+<area shape="rect" id="node18" href="$qgspointlightsettings_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/qgspointlightsettings.cpp" alt="" coords="1729,95,2045,136"/>
+<area shape="rect" id="node3" href="$qgs3dmapscene_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/qgs3dmapscene.cpp" alt="" coords="5,295,291,337"/>
+<area shape="rect" id="node4" href="$qgs3dutils_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/qgs3dutils.h" alt="" coords="1193,191,1423,233"/>
+<area shape="rect" id="node5" href="$qgs3dmapsettings_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/qgs3dmapsettings.cpp" alt="" coords="315,295,613,337"/>
+<area shape="rect" id="node6" href="$qgsfeature3dhandler__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/qgsfeature3dhandler_p.cpp" alt="" coords="638,295,967,337"/>
+<area shape="rect" id="node7" href="$qgsrulebased3drenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/qgsrulebased3drenderer.cpp" alt="" coords="992,295,1328,337"/>
+<area shape="rect" id="node8" href="$qgsline3dsymbol__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/symbols\l/qgsline3dsymbol_p.cpp" alt="" coords="1353,288,1559,344"/>
+<area shape="rect" id="node9" href="$qgsmesh3dsymbol__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/symbols\l/qgsmesh3dsymbol_p.cpp" alt="" coords="1583,288,1790,344"/>
+<area shape="rect" id="node10" href="$qgspoint3dsymbol__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/symbols\l/qgspoint3dsymbol_p.cpp" alt="" coords="1814,288,2021,344"/>
+<area shape="rect" id="node11" href="$qgspolygon3dsymbol__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/symbols\l/qgspolygon3dsymbol_p.cpp" alt="" coords="2045,288,2251,344"/>
+<area shape="rect" id="node12" href="$qgsdemterraintileloader__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/terrain\l/qgsdemterraintileloader_p.cpp" alt="" coords="1650,184,1875,240"/>
+<area shape="rect" id="node13" href="$qgsflatterraingenerator_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/terrain\l/qgsflatterraingenerator.cpp" alt="" coords="1900,184,2103,240"/>
+<area shape="rect" id="node14" href="$qgsterrainentity__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/terrain\l/qgsterrainentity_p.cpp" alt="" coords="2127,184,2321,240"/>
+<area shape="rect" id="node15" href="$qgsterraingenerator_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/terrain\l/qgsterraingenerator.cpp" alt="" coords="2345,184,2540,240"/>
+<area shape="rect" id="node16" href="$qgsterraintexturegenerator__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/terrain\l/qgsterraintexturegenerator_p.cpp" alt="" coords="2565,184,2809,240"/>
+<area shape="rect" id="node17" href="$qgsterraintileloader__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/terrain\l/qgsterraintileloader_p.cpp" alt="" coords="2833,184,3029,240"/>
+</map>

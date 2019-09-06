@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classTriangleInterpolator.html" title="This is an interface for interpolator classes for triangulations. " alt="" coords="5,31,155,57"/>
+<area shape="rect" id="node2" href="$classCloughTocherInterpolator.html" title="This is an implementation of a Clough&#45;Tocher interpolator based on a triangular tessellation. " alt="" coords="203,5,388,32"/>
+<area shape="rect" id="node3" href="$classLinTriangleInterpolator.html" title="LinTriangleInterpolator is a class which interpolates linearly on a triangulation. " alt="" coords="211,56,379,83"/>
+</map>

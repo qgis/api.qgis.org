@@ -1,0 +1,29 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsProcessingParameterType.html" title="Makes metadata of processing parameters available. " alt="" coords="5,777,220,803"/>
+<area shape="rect" id="node2" href="$classQgsProcessingParameterTypeAuthConfig.html" title="A authentication configuration parameter for processing algorithms. " alt="" coords="286,5,501,47"/>
+<area shape="rect" id="node3" href="$classQgsProcessingParameterTypeBand.html" title="A raster band parameter for Processing algorithms. " alt="" coords="270,71,517,98"/>
+<area shape="rect" id="node4" href="$classQgsProcessingParameterTypeBoolean.html" title="A boolean parameter for processing algorithms. " alt="" coords="286,123,501,164"/>
+<area shape="rect" id="node5" href="$classQgsProcessingParameterTypeCrs.html" title="A crs parameter for processing algorithms. " alt="" coords="276,189,511,215"/>
+<area shape="rect" id="node6" href="$classQgsProcessingParameterTypeDistance.html" title="A distance parameter for processing algorithms. " alt="" coords="286,240,501,281"/>
+<area shape="rect" id="node7" href="$classQgsProcessingParameterTypeEnum.html" title="An enum based parameter for processing algorithms, allowing for selection from predefined values..." alt="" coords="268,306,519,333"/>
+<area shape="rect" id="node8" href="$classQgsProcessingParameterTypeExpression.html" title="An expression parameter for processing algorithms. " alt="" coords="286,357,501,399"/>
+<area shape="rect" id="node9" href="$classQgsProcessingParameterTypeExtent.html" title="A rectangular map extent parameter for processing algorithms. " alt="" coords="286,423,501,464"/>
+<area shape="rect" id="node10" href="$classQgsProcessingParameterTypeFeatureSink.html" title="A feature sink parameter for Processing algorithms. " alt="" coords="286,488,501,529"/>
+<area shape="rect" id="node11" href="$classQgsProcessingParameterTypeFeatureSource.html" title="An input feature source (such as vector layers) parameter for processing algorithms. " alt="" coords="286,553,501,595"/>
+<area shape="rect" id="node12" href="$classQgsProcessingParameterTypeField.html" title="A vector layer or feature source field parameter for processing algorithms. " alt="" coords="286,619,501,660"/>
+<area shape="rect" id="node13" href="$classQgsProcessingParameterTypeFile.html" title="An input file or folder parameter for processing algorithms. " alt="" coords="275,685,511,711"/>
+<area shape="rect" id="node14" href="$classQgsProcessingParameterTypeFileDestination.html" title="A generic file based destination parameter, for specifying the destination path for a file (non&#45;map l..." alt="" coords="286,736,501,777"/>
+<area shape="rect" id="node15" href="$classQgsProcessingParameterTypeFolderDestination.html" title="A folder destination parameter, for specifying the destination path for a folder created by the algor..." alt="" coords="286,801,501,843"/>
+<area shape="rect" id="node16" href="$classQgsProcessingParameterTypeMapLayer.html" title="A generic map layer parameter for processing algorithms. " alt="" coords="286,867,501,908"/>
+<area shape="rect" id="node17" href="$classQgsProcessingParameterTypeMatrix.html" title="A table (matrix) parameter for processing algorithms. " alt="" coords="286,932,501,973"/>
+<area shape="rect" id="node18" href="$classQgsProcessingParameterTypeMeshLayer.html" title="A mesh layer parameter for processing algorithms. " alt="" coords="286,997,501,1039"/>
+<area shape="rect" id="node19" href="$classQgsProcessingParameterTypeMultipleLayers.html" title="A parameter for processing algorithms which accepts multiple map layers. " alt="" coords="286,1063,501,1104"/>
+<area shape="rect" id="node20" href="$classQgsProcessingParameterTypeNumber.html" title="A numeric parameter for processing algorithms. " alt="" coords="286,1128,501,1169"/>
+<area shape="rect" id="node21" href="$classQgsProcessingParameterTypePoint.html" title="A point parameter for processing algorithms. " alt="" coords="286,1193,501,1235"/>
+<area shape="rect" id="node22" href="$classQgsProcessingParameterTypeRange.html" title="A numeric range parameter for processing algorithms. " alt="" coords="286,1259,501,1300"/>
+<area shape="rect" id="node23" href="$classQgsProcessingParameterTypeRasterDestination.html" title="A raster layer destination parameter, for specifying the destination path for a raster layer created ..." alt="" coords="286,1324,501,1365"/>
+<area shape="rect" id="node24" href="$classQgsProcessingParameterTypeRasterLayer.html" title="A raster layer parameter for processing algorithms. " alt="" coords="286,1389,501,1431"/>
+<area shape="rect" id="node25" href="$classQgsProcessingParameterTypeString.html" title="A string parameter for processing algorithms. " alt="" coords="286,1455,501,1496"/>
+<area shape="rect" id="node26" href="$classQgsProcessingParameterTypeVectorDestination.html" title="A vector layer destination parameter, for specifying the destination path for a vector layer created ..." alt="" coords="286,1520,501,1561"/>
+<area shape="rect" id="node27" href="$classQgsProcessingParameterTypeVectorLayer.html" title="A vector layer parameter for processing algorithms. " alt="" coords="286,1585,501,1627"/>
+</map>

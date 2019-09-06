@@ -1,0 +1,31 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/server/services/qgsmodule.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/server/services/qgsmodule.h">
+<area shape="rect" id="node2" href="$qgsdxfwriter_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgsdxfwriter.cpp" alt="" coords="1571,109,1798,165"/>
+<area shape="rect" id="node3" href="$qgswms_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswms.cpp" alt="" coords="1822,109,2022,165"/>
+<area shape="rect" id="node4" href="$qgswmsutils_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsutils.h" alt="" coords="2046,109,2259,165"/>
+<area shape="rect" id="node15" href="$qgswmsutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsutils.cpp" alt="" coords="3067,221,3295,277"/>
+<area shape="rect" id="node16" href="$qgswfs_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfs.cpp" alt="" coords="3319,221,3503,277"/>
+<area shape="rect" id="node17" href="$qgswfsutils_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsutils.h" alt="" coords="4198,109,4395,165"/>
+<area shape="rect" id="node25" href="$qgswcs_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wcs/qgswcs.cpp" alt="" coords="5496,221,5684,277"/>
+<area shape="rect" id="node26" href="$qgswcsutils_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wcs/qgswcsutils.h" alt="" coords="5917,109,6119,165"/>
+<area shape="rect" id="node5" href="$qgswmsdescribelayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsdescribelayer.cpp" alt="" coords="5,221,292,277"/>
+<area shape="rect" id="node6" href="$qgswmsgetcapabilities_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsgetcapabilities.cpp" alt="" coords="317,221,613,277"/>
+<area shape="rect" id="node7" href="$qgswmsgetcontext_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsgetcontext.cpp" alt="" coords="637,221,908,277"/>
+<area shape="rect" id="node8" href="$qgswmsgetfeatureinfo_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsgetfeatureinfo.cpp" alt="" coords="933,221,1226,277"/>
+<area shape="rect" id="node9" href="$qgswmsgetlegendgraphics_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsgetlegendgraphics.cpp" alt="" coords="1250,221,1570,277"/>
+<area shape="rect" id="node10" href="$qgswmsgetmap_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsgetmap.cpp" alt="" coords="1594,221,1845,277"/>
+<area shape="rect" id="node11" href="$qgswmsgetprint_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsgetprint.cpp" alt="" coords="1869,221,2119,277"/>
+<area shape="rect" id="node12" href="$qgswmsgetschemaextension_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsgetschemaextension.cpp" alt="" coords="2143,221,2479,277"/>
+<area shape="rect" id="node13" href="$qgswmsgetstyles_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsgetstyles.cpp" alt="" coords="2504,221,2764,277"/>
+<area shape="rect" id="node14" href="$qgswmsrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsrenderer.cpp" alt="" coords="2788,221,3043,277"/>
+<area shape="rect" id="node18" href="$qgswfsdescribefeaturetype_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsdescribefeaturetype.cpp" alt="" coords="3527,221,3842,277"/>
+<area shape="rect" id="node19" href="$qgswfsgetcapabilities_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsgetcapabilities.cpp" alt="" coords="3866,221,4146,277"/>
+<area shape="rect" id="node20" href="$qgswfsgetcapabilities__1__0__0_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsgetcapabilities\l_1_0_0.cpp" alt="" coords="4170,213,4423,284"/>
+<area shape="rect" id="node21" href="$qgswfsgetfeature_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsgetfeature.cpp" alt="" coords="4448,221,4700,277"/>
+<area shape="rect" id="node22" href="$qgswfstransaction_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfstransaction.cpp" alt="" coords="4724,221,4981,277"/>
+<area shape="rect" id="node23" href="$qgswfstransaction__1__0__0_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfstransaction\l_1_0_0.cpp" alt="" coords="5005,213,5236,284"/>
+<area shape="rect" id="node24" href="$qgswfsutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wfs/qgswfsutils.cpp" alt="" coords="5260,221,5472,277"/>
+<area shape="rect" id="node27" href="$qgswcsdescribecoverage_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wcs/qgswcsdescribecoverage.cpp" alt="" coords="5708,221,6011,277"/>
+<area shape="rect" id="node28" href="$qgswcsgetcapabilities_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wcs/qgswcsgetcapabilities.cpp" alt="" coords="6035,221,6319,277"/>
+<area shape="rect" id="node29" href="$qgswcsgetcoverage_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wcs/qgswcsgetcoverage.cpp" alt="" coords="6343,221,6613,277"/>
+<area shape="rect" id="node30" href="$qgswcsutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wcs/qgswcsutils.cpp" alt="" coords="6637,221,6853,277"/>
+</map>

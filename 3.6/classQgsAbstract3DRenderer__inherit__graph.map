@@ -1,0 +1,5 @@
+<map id="QgsAbstract3DRenderer" name="QgsAbstract3DRenderer">
+<area shape="rect" id="node2" href="$classQgsMeshLayer3DRenderer.html" title="3D renderer that renders all mesh triangles of a mesh layer. " alt="" coords="5,80,199,107"/>
+<area shape="rect" id="node3" href="$classQgsRuleBased3DRenderer.html" title="3 Rule&#45;based 3D renderer. " alt="" coords="223,80,413,107"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayer3DRenderer.html" title="3D renderer that renders all features of a vector layer with the same 3D symbol. " alt="" coords="438,80,638,107"/>
+</map>

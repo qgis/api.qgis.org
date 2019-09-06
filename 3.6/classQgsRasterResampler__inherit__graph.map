@@ -1,0 +1,4 @@
+<map id="QgsRasterResampler" name="QgsRasterResampler">
+<area shape="rect" id="node2" href="$classQgsBilinearRasterResampler.html" title="Bilinear Raster Resampler. " alt="" coords="5,80,213,107"/>
+<area shape="rect" id="node3" href="$classQgsCubicRasterResampler.html" title="Cubic Raster Resampler. " alt="" coords="237,80,432,107"/>
+</map>

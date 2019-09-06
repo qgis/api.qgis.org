@@ -1,0 +1,9 @@
+<map id="QgsMapCanvasItem" name="QgsMapCanvasItem">
+<area shape="rect" id="node3" href="$classQgsAdvancedDigitizingCanvasItem.html" title="The QgsAdvancedDigitizingCanvasItem class draws the graphical elements of the CAD tools (..." alt="" coords="372,5,623,32"/>
+<area shape="rect" id="node4" href="$classQgsGeometryRubberBand.html" title="A rubberband class for QgsAbstractGeometry (considering curved geometries) " alt="" coords="402,56,593,83"/>
+<area shape="rect" id="node5" href="$classQgsHighlight.html" title="A class for highlight features on the map. " alt="" coords="444,107,551,133"/>
+<area shape="rect" id="node6" href="$classQgsMapCanvasAnnotationItem.html" title="An interactive map canvas item which displays a QgsAnnotation. " alt="" coords="386,157,609,184"/>
+<area shape="rect" id="node7" href="$classQgsRubberBand.html" title="A class for drawing transient features (e.g. " alt="" coords="435,208,560,235"/>
+<area shape="rect" id="node8" href="$classQgsSnapToGridCanvasItem.html" title="Shows a grid on the map canvas given a spatial resolution. " alt="" coords="398,259,597,285"/>
+<area shape="rect" id="node9" href="$classQgsVertexMarker.html" title="A class for marking vertices of features using e.g. " alt="" coords="430,309,565,336"/>
+</map>

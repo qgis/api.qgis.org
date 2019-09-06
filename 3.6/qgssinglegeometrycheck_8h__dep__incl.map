@@ -1,0 +1,15 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/analysis/vector/geometry_checker/qgssinglegeometrycheck.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/analysis/vector/geometry_checker/qgssinglegeometrycheck.h">
+<area shape="rect" id="node2" href="$qgsgeometryselfintersectioncheck_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometryselfintersectioncheck.h" alt="" coords="163,124,426,195"/>
+<area shape="rect" id="node4" href="$qgsgeometrycheckfactory_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometrycheckfactory.h" alt="" coords="334,243,541,313"/>
+<area shape="rect" id="node6" href="$qgsgeometryisvalidcheck_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometryisvalidcheck.h" alt="" coords="624,124,829,195"/>
+<area shape="rect" id="node8" href="$qgsgeometrymultipartcheck_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometrymultipartcheck.h" alt="" coords="861,124,1083,195"/>
+<area shape="rect" id="node10" href="$qgsgeometryselfcontactcheck_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometryselfcontactcheck.h" alt="" coords="1107,124,1341,195"/>
+<area shape="rect" id="node12" href="$qgsgeometrytypecheck_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometrytypecheck.h" alt="" coords="1365,124,1557,195"/>
+<area shape="rect" id="node14" href="$qgssinglegeometrycheck_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgssinglegeometrycheck.cpp" alt="" coords="1581,124,1797,195"/>
+<area shape="rect" id="node3" href="$qgsanalysis_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/qgsanalysis.cpp" alt="" coords="344,361,531,417"/>
+<area shape="rect" id="node5" href="$qgsgeometryselfintersectioncheck_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometryselfintersectioncheck.cpp" alt="" coords="32,243,309,313"/>
+<area shape="rect" id="node7" href="$qgsgeometryisvalidcheck_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometryisvalidcheck.cpp" alt="" coords="617,243,837,313"/>
+<area shape="rect" id="node9" href="$qgsgeometrymultipartcheck_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometrymultipartcheck.cpp" alt="" coords="861,243,1099,313"/>
+<area shape="rect" id="node11" href="$qgsgeometryselfcontactcheck_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometryselfcontactcheck.cpp" alt="" coords="1122,243,1371,313"/>
+<area shape="rect" id="node13" href="$qgsgeometrytypecheck_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometrytypecheck.cpp" alt="" coords="1395,243,1602,313"/>
+</map>

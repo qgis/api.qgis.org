@@ -1,0 +1,4 @@
+<map id="QgsTextFormatPanelWidget" name="QgsTextFormatPanelWidget">
+<area shape="rect" id="node2" href="$classQgsPanelWidgetWrapper.html" title="Wrapper widget for existing widgets which can&#39;t have the inheritance tree changed, e.g dialogs. " alt="" coords="15,80,197,107"/>
+<area shape="rect" id="node3" href="$classQgsPanelWidget.html" title="Base class for any widget that can be shown as a inline panel. " alt="" coords="42,5,170,32"/>
+</map>

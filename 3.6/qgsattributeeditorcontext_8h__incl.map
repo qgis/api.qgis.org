@@ -1,0 +1,33 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/gui/qgsattributeeditorcontext.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/gui/qgsattributeeditorcontext.h">
+<area shape="rect" id="node5" href="$qgsdistancearea_8h.html" title="qgsdistancearea.h" alt="" coords="2644,244,2785,271"/>
+<area shape="rect" id="node18" href="$qgsvectorlayertools_8h.html" title="qgsvectorlayertools.h" alt="" coords="573,319,736,345"/>
+<area shape="rect" id="node25" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1153,95,1284,121"/>
+<area shape="rect" id="node41" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="3217,169,3319,196"/>
+<area shape="rect" id="node9" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="2486,319,2677,345"/>
+<area shape="rect" id="node14" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="2990,468,3109,495"/>
+<area shape="rect" id="node16" href="$qgsellipsoidutils_8h.html" title="qgsellipsoidutils.h" alt="" coords="2783,319,2923,345"/>
+<area shape="rect" id="node10" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1197,543,1283,569"/>
+<area shape="rect" id="node11" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="2735,393,2971,420"/>
+<area shape="rect" id="node15" href="$qgscoordinatetransformcontext_8h.html" title="qgscoordinatetransformcontext.h" alt="" coords="2321,393,2559,420"/>
+<area shape="rect" id="node19" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="733,393,837,420"/>
+<area shape="rect" id="node24" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="603,468,722,495"/>
+<area shape="rect" id="node22" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="1113,468,1205,495"/>
+<area shape="rect" id="node28" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="2090,319,2209,345"/>
+<area shape="rect" id="node30" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="1061,319,1214,345"/>
+<area shape="rect" id="node31" href="$qgsfeaturesource_8h.html" title="qgsfeaturesource.h" alt="" coords="1064,244,1211,271"/>
+<area shape="rect" id="node32" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="967,169,1147,196"/>
+<area shape="rect" id="node33" href="$qgsaggregatecalculator_8h.html" title="qgsaggregatecalculator.h" alt="" coords="1437,244,1624,271"/>
+<area shape="rect" id="node34" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="3861,468,4062,495"/>
+<area shape="rect" id="node35" href="$qgseditformconfig_8h.html" title="qgseditformconfig.h" alt="" coords="1559,319,1711,345"/>
+<area shape="rect" id="node36" href="$qgsattributetableconfig_8h.html" title="qgsattributetableconfig.h" alt="" coords="190,468,375,495"/>
+<area shape="rect" id="node37" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="1649,244,1799,271"/>
+<area shape="rect" id="node38" href="$qgsexpressioncontextgenerator_8h.html" title="qgsexpressioncontextgenerator.h" alt="" coords="1823,244,2062,271"/>
+<area shape="rect" id="node39" href="$qgsexpressioncontextscopegenerator_8h.html" title="qgsexpressioncontextscopegenerator.h" alt="" coords="1589,169,1867,196"/>
+<area shape="rect" id="node29" href="$qgsreadwritecontext_8h.html" title="qgsreadwritecontext.h" alt="" coords="1925,393,2093,420"/>
+<area shape="rect" id="node45" href="$qgssnappingconfig_8h.html" title="qgssnappingconfig.h" alt="" coords="3501,393,3656,420"/>
+<area shape="rect" id="node46" href="$qgsprojectversion_8h.html" title="qgsprojectversion.h" alt="" coords="3530,319,3681,345"/>
+<area shape="rect" id="node47" href="$qgsprojectproperty_8h.html" title="qgsprojectproperty.h" alt="" coords="3807,319,3961,345"/>
+<area shape="rect" id="node48" href="$qgsmaplayerstore_8h.html" title="qgsmaplayerstore.h" alt="" coords="2819,244,2971,271"/>
+<area shape="rect" id="node49" href="$qgsarchive_8h.html" title="qgsarchive.h" alt="" coords="3401,319,3506,345"/>
+<area shape="rect" id="node50" href="$qgsprojectmetadata_8h.html" title="qgsprojectmetadata.h" alt="" coords="1533,468,1699,495"/>
+</map>

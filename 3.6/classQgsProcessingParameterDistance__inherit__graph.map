@@ -1,0 +1,4 @@
+<map id="QgsProcessingParameterDistance" name="QgsProcessingParameterDistance">
+<area shape="rect" id="node2" href="$classQgsProcessingParameterNumber.html" title="A numeric parameter for processing algorithms. " alt="" coords="11,80,247,107"/>
+<area shape="rect" id="node3" href="$classQgsProcessingParameterDefinition.html" title="Base class for the definition of processing parameters. " alt="" coords="5,5,252,32"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/analysis/vector/geometry_checker/qgsgeometrytypecheck.cpp" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/analysis/vector/geometry_checker/qgsgeometrytypecheck.cpp">
+<area shape="rect" id="node2" href="$qgsgeometrycheckcontext_8h.html" title="qgsgeometrycheckcontext.h" alt="" coords="391,124,597,151"/>
+<area shape="rect" id="node8" href="$qgsfeaturepool_8h.html" title="qgsfeaturepool.h" alt="" coords="520,199,652,225"/>
+<area shape="rect" id="node9" href="$qgsgeometrytypecheck_8h.html" title="qgsgeometrytypecheck.h" alt="" coords="179,124,366,151"/>
+<area shape="rect" id="node11" href="$qgsgeometrycollection_8h.html" title="qgsgeometrycollection.h" alt="" coords="1032,273,1215,300"/>
+<area shape="rect" id="node14" href="$qgsmulticurve_8h.html" title="qgsmulticurve.h" alt="" coords="779,199,905,225"/>
+<area shape="rect" id="node15" href="$qgsmultilinestring_8h.html" title="qgsmultilinestring.h" alt="" coords="673,124,825,151"/>
+<area shape="rect" id="node16" href="$qgsmultipoint_8h.html" title="qgsmultipoint.h" alt="" coords="1032,199,1156,225"/>
+<area shape="rect" id="node17" href="$qgsmultipolygon_8h.html" title="qgsmultipolygon.h" alt="" coords="1143,124,1285,151"/>
+<area shape="rect" id="node19" href="$qgsmultirenderchecker_8h.html" title="qgsmultirenderchecker.h" alt="" coords="1395,199,1577,225"/>
+<area shape="rect" id="node4" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="5,273,241,300"/>
+<area shape="rect" id="node7" href="$qgscoordinatetransformcontext_8h.html" title="qgscoordinatetransformcontext.h" alt="" coords="413,273,652,300"/>
+<area shape="rect" id="node6" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="787,348,873,375"/>
+<area shape="rect" id="node10" href="$qgssinglegeometrycheck_8h.html" title="qgssinglegeometrycheck.h" alt="" coords="183,199,381,225"/>
+<area shape="rect" id="node13" href="$qgsabstractgeometry_8h.html" title="qgsabstractgeometry.h" alt="" coords="949,348,1119,375"/>
+<area shape="rect" id="node18" href="$qgsmultisurface_8h.html" title="qgsmultisurface.h" alt="" coords="1181,199,1319,225"/>
+<area shape="rect" id="node20" href="$qgsrenderchecker_8h.html" title="qgsrenderchecker.h" alt="" coords="1394,273,1543,300"/>
+</map>

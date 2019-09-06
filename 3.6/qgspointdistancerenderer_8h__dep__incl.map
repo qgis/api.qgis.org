@@ -1,0 +1,15 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/symbology/qgspointdistancerenderer.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/symbology/qgspointdistancerenderer.h">
+<area shape="rect" id="node2" href="$qgspointdisplacementrenderer_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgspointdisplacementrenderer.h" alt="" coords="1267,109,1503,165"/>
+<area shape="rect" id="node12" href="$qgspointclusterrenderer_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgspointclusterrenderer.h" alt="" coords="1970,109,2206,165"/>
+<area shape="rect" id="node14" href="$qgspointdistancerenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgspointdistancerenderer.cpp" alt="" coords="2230,109,2466,165"/>
+<area shape="rect" id="node3" href="$qgsmaphittest_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsmaphittest.cpp" alt="" coords="5,221,291,262"/>
+<area shape="rect" id="node4" href="$qgscategorizedsymbolrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgscategorizedsymbolrenderer.cpp" alt="" coords="315,213,570,269"/>
+<area shape="rect" id="node5" href="$qgsgraduatedsymbolrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgsgraduatedsymbolrenderer.cpp" alt="" coords="594,213,838,269"/>
+<area shape="rect" id="node6" href="$qgspointclusterrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgspointclusterrenderer.cpp" alt="" coords="1702,213,1938,269"/>
+<area shape="rect" id="node7" href="$qgspointdisplacementrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgspointdisplacementrenderer.cpp" alt="" coords="1963,213,2213,269"/>
+<area shape="rect" id="node8" href="$qgsrendererregistry_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgsrendererregistry.cpp" alt="" coords="2238,213,2474,269"/>
+<area shape="rect" id="node9" href="$qgsrulebasedrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgsrulebasedrenderer.cpp" alt="" coords="862,213,1098,269"/>
+<area shape="rect" id="node10" href="$qgssinglesymbolrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgssinglesymbolrenderer.cpp" alt="" coords="1122,213,1358,269"/>
+<area shape="rect" id="node11" href="$qgspointdisplacementrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/symbology\l/qgspointdisplacementrendererwidget.cpp" alt="" coords="1381,213,1677,269"/>
+<area shape="rect" id="node13" href="$qgspointclusterrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/symbology\l/qgspointclusterrendererwidget.cpp" alt="" coords="2498,213,2750,269"/>
+</map>

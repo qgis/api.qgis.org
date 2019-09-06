@@ -1,0 +1,4 @@
+<map id="QgsProjectProperty" name="QgsProjectProperty">
+<area shape="rect" id="node2" href="$classQgsProjectPropertyKey.html" title="Project property key node. " alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$classQgsProjectPropertyValue.html" title="Project property value node, contains a QgsProjectPropertyKey&#39;s value. " alt="" coords="201,80,383,107"/>
+</map>

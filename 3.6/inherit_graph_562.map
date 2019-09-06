@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsSingleGeometryCheckError.html" title="An error from a QgsSingleGeometryCheck. " alt="" coords="5,64,228,91"/>
+<area shape="rect" id="node2" href="$classQgsGeometryIsValidCheckError.html" title="An error for a QgsGeometryIsValid check. " alt="" coords="276,5,503,32"/>
+<area shape="rect" id="node3" href="$classQgsGeometrySelfIntersectionCheckError.html" title="QgsGeometrySelfIntersection\lCheckError" alt="" coords="282,57,497,98"/>
+<area shape="rect" id="node4" href="$classQgsGeometryTypeCheckError.html" title="QgsGeometryTypeCheckError" alt="" coords="283,123,496,149"/>
+</map>

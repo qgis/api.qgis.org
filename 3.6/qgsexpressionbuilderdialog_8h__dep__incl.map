@@ -1,0 +1,18 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/gui/qgsexpressionbuilderdialog.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/gui/qgsexpressionbuilderdialog.h">
+<area shape="rect" id="node2" href="$qgsexpressionbuilderdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/qgsexpressionbuilderdialog.cpp" alt="" coords="5,102,368,143"/>
+<area shape="rect" id="node3" href="$qgsexpressionlineedit_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/qgsexpressionlineedit.cpp" alt="" coords="393,102,719,143"/>
+<area shape="rect" id="node4" href="$qgsfieldexpressionwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/qgsfieldexpressionwidget.cpp" alt="" coords="744,102,1093,143"/>
+<area shape="rect" id="node5" href="$qgslegendfilterbutton_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/qgslegendfilterbutton.cpp" alt="" coords="1117,102,1440,143"/>
+<area shape="rect" id="node6" href="$qgsorderbydialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/qgsorderbydialog.cpp" alt="" coords="1464,102,1760,143"/>
+<area shape="rect" id="node7" href="$qgspropertyoverridebutton_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/qgspropertyoverridebutton.cpp" alt="" coords="1784,102,2141,143"/>
+<area shape="rect" id="node8" href="$qgsdualview_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/attributetable\l/qgsdualview.cpp" alt="" coords="2165,95,2411,151"/>
+<area shape="rect" id="node9" href="$qgsfieldconditionalformatwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/attributetable\l/qgsfieldconditionalformatwidget.cpp" alt="" coords="2435,95,2699,151"/>
+<area shape="rect" id="node10" href="$qgsorganizetablecolumnsdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/attributetable\l/qgsorganizetablecolumnsdialog.cpp" alt="" coords="2723,95,2983,151"/>
+<area shape="rect" id="node11" href="$qgsexternalresourceconfigdlg_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/qgsexternalresourceconfigdlg.cpp" alt="" coords="3008,95,3253,151"/>
+<area shape="rect" id="node12" href="$qgsrelationreferenceconfigdlg_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/qgsrelationreferenceconfigdlg.cpp" alt="" coords="3278,95,3525,151"/>
+<area shape="rect" id="node13" href="$qgsvaluerelationconfigdlg_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/qgsvaluerelationconfigdlg.cpp" alt="" coords="3549,95,3795,151"/>
+<area shape="rect" id="node14" href="$qgscategorizedsymbolrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/symbology\l/qgscategorizedsymbolrendererwidget.cpp" alt="" coords="3819,95,4117,151"/>
+<area shape="rect" id="node15" href="$qgsgraduatedsymbolrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/symbology\l/qgsgraduatedsymbolrendererwidget.cpp" alt="" coords="4142,95,4431,151"/>
+<area shape="rect" id="node16" href="$qgsrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/symbology\l/qgsrendererwidget.cpp" alt="" coords="4455,95,4683,151"/>
+<area shape="rect" id="node17" href="$qgsrulebasedrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/symbology\l/qgsrulebasedrendererwidget.cpp" alt="" coords="4707,95,4946,151"/>
+</map>

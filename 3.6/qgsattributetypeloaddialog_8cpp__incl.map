@@ -1,0 +1,25 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/gui/qgsattributetypeloaddialog.cpp" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/gui/qgsattributetypeloaddialog.cpp">
+<area shape="rect" id="node2" href="$qgsattributetypeloaddialog_8h.html" title="qgsattributetypeloaddialog.h" alt="" coords="121,95,331,121"/>
+<area shape="rect" id="node6" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1100,169,1219,196"/>
+<area shape="rect" id="node30" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="2643,169,2793,196"/>
+<area shape="rect" id="node35" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="2053,169,2233,196"/>
+<area shape="rect" id="node38" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="3124,393,3221,420"/>
+<area shape="rect" id="node39" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="373,319,476,345"/>
+<area shape="rect" id="node40" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="2449,95,2579,121"/>
+<area shape="rect" id="node16" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1875,468,1961,495"/>
+<area shape="rect" id="node17" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="1320,319,1407,345"/>
+<area shape="rect" id="node19" href="$qgsobjectcustomproperties_8h.html" title="qgsobjectcustomproperties.h" alt="" coords="1431,319,1642,345"/>
+<area shape="rect" id="node21" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="741,468,860,495"/>
+<area shape="rect" id="node22" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="357,393,593,420"/>
+<area shape="rect" id="node24" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="963,393,1111,420"/>
+<area shape="rect" id="node25" href="$qgsmaplayerdependency_8h.html" title="qgsmaplayerdependency.h" alt="" coords="1683,244,1879,271"/>
+<area shape="rect" id="node26" href="$qgslayermetadata_8h.html" title="qgslayermetadata.h" alt="" coords="653,319,807,345"/>
+<area shape="rect" id="node27" href="$qgsmaplayerstyle_8h.html" title="qgsmaplayerstyle.h" alt="" coords="1237,393,1388,420"/>
+<area shape="rect" id="node28" href="$qgsreadwritecontext_8h.html" title="qgsreadwritecontext.h" alt="" coords="618,393,786,420"/>
+<area shape="rect" id="node29" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="1266,244,1405,271"/>
+<area shape="rect" id="node31" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="2360,244,2513,271"/>
+<area shape="rect" id="node34" href="$qgsindexedfeature_8h.html" title="qgsindexedfeature.h" alt="" coords="2537,244,2693,271"/>
+<area shape="rect" id="node32" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="2331,319,2435,345"/>
+<area shape="rect" id="node36" href="$qgsaggregatecalculator_8h.html" title="qgsaggregatecalculator.h" alt="" coords="2581,319,2767,345"/>
+<area shape="rect" id="node37" href="$qgsrelation_8h.html" title="qgsrelation.h" alt="" coords="1925,319,2031,345"/>
+</map>

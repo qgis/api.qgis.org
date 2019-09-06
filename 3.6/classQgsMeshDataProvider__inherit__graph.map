@@ -1,0 +1,5 @@
+<map id="QgsMeshDataProvider" name="QgsMeshDataProvider">
+<area shape="rect" id="node2" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations. " alt="" coords="5,80,137,107"/>
+<area shape="rect" id="node4" href="$classQgsMeshDataSourceInterface.html" title="Interface for mesh data sources. " alt="" coords="161,80,376,107"/>
+<area shape="rect" id="node5" href="$classQgsMeshDatasetSourceInterface.html" title="Interface for mesh datasets and dataset groups. " alt="" coords="401,80,635,107"/>
+</map>

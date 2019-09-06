@@ -1,0 +1,15 @@
+<map id="QgsRasterInterface" name="QgsRasterInterface">
+<area shape="rect" id="node2" href="$classQgsBrightnessContrastFilter.html" title="Brightness/contrast filter pipe for rasters. " alt="" coords="200,5,403,32"/>
+<area shape="rect" id="node3" href="$classQgsHueSaturationFilter.html" title="Color and saturation filter pipe for rasters. " alt="" coords="215,56,387,83"/>
+<area shape="rect" id="node4" href="$classQgsRasterDataProvider.html" title="Base class for raster data providers. " alt="" coords="214,107,389,133"/>
+<area shape="rect" id="node5" href="$classQgsRasterNuller.html" title="Raster pipe that deals with null values. " alt="" coords="237,157,365,184"/>
+<area shape="rect" id="node6" href="$classQgsRasterProjector.html" title="QgsRasterProjector implements approximate projection support for it calculates grid of points in sour..." alt="" coords="228,208,375,235"/>
+<area shape="rect" id="node7" href="$classQgsRasterRenderer.html" title="Raster renderer pipe that applies colors to a raster. " alt="" coords="228,259,375,285"/>
+<area shape="rect" id="node14" href="$classQgsRasterResampleFilter.html" title="Resample filter pipe for rasters. " alt="" coords="209,309,394,336"/>
+<area shape="rect" id="node8" href="$classQgsHillshadeRenderer.html" title="A renderer for generating live hillshade models. " alt="" coords="489,132,655,159"/>
+<area shape="rect" id="node9" href="$classQgsMultiBandColorRenderer.html" title="Renderer for multiband images with the color components. " alt="" coords="470,183,674,209"/>
+<area shape="rect" id="node10" href="$classQgsPalettedRasterRenderer.html" title="Renderer for paletted raster images. " alt="" coords="472,233,672,260"/>
+<area shape="rect" id="node11" href="$classQgsSingleBandColorDataRenderer.html" title="Raster renderer pipe for single band color. " alt="" coords="451,284,693,311"/>
+<area shape="rect" id="node12" href="$classQgsSingleBandGrayRenderer.html" title="Raster renderer pipe for single band gray. " alt="" coords="467,335,677,361"/>
+<area shape="rect" id="node13" href="$classQgsSingleBandPseudoColorRenderer.html" title="Raster renderer pipe for single band pseudocolor. " alt="" coords="471,386,673,427"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QgsGeometryCollection" name="QgsGeometryCollection">
+<area shape="rect" id="node3" href="$classQgsMultiCurve.html" title="Multi curve geometry collection. " alt="" coords="19,155,136,181"/>
+<area shape="rect" id="node5" href="$classQgsMultiPoint.html" title="Multi point geometry collection. " alt="" coords="160,155,272,181"/>
+<area shape="rect" id="node6" href="$classQgsMultiSurface.html" title="Multi surface geometry collection. " alt="" coords="296,155,424,181"/>
+<area shape="rect" id="node2" href="$classQgsAbstractGeometry.html" title="Abstract base class for all geometries. " alt="" coords="133,5,299,32"/>
+<area shape="rect" id="node4" href="$classQgsMultiLineString.html" title="Multi line string geometry collection. " alt="" coords="5,229,149,256"/>
+<area shape="rect" id="node7" href="$classQgsMultiPolygon.html" title="Multi polygon geometry collection. " alt="" coords="295,229,425,256"/>
+</map>

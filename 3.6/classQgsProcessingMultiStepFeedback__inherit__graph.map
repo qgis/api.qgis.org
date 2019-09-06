@@ -1,0 +1,4 @@
+<map id="QgsProcessingMultiStepFeedback" name="QgsProcessingMultiStepFeedback">
+<area shape="rect" id="node2" href="$classQgsProcessingFeedback.html" title="Base class for providing feedback from a processing algorithm. " alt="" coords="35,80,214,107"/>
+<area shape="rect" id="node3" href="$classQgsFeedback.html" title="Base class for feedback objects to be used for cancelation of something running in a worker thread..." alt="" coords="71,5,179,32"/>
+</map>

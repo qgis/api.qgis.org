@@ -1,0 +1,24 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/geometry/qgsmulticurve.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/geometry/qgsmulticurve.h">
+<area shape="rect" id="node2" href="$qgscurvepolygon_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgscurvepolygon.cpp" alt="" coords="1091,109,1317,165"/>
+<area shape="rect" id="node3" href="$qgsgeometry_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgsgeometry.cpp" alt="" coords="5,221,232,277"/>
+<area shape="rect" id="node4" href="$qgsmultilinestring_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgsmultilinestring.h" alt="" coords="1544,109,1771,165"/>
+<area shape="rect" id="node8" href="$qgsgeometryfactory_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgsgeometryfactory.cpp" alt="" coords="256,221,483,277"/>
+<area shape="rect" id="node10" href="$qgsgeos_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgsgeos.cpp" alt="" coords="507,221,733,277"/>
+<area shape="rect" id="node11" href="$qgsmultilinestring_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgsmultilinestring.cpp" alt="" coords="757,221,984,277"/>
+<area shape="rect" id="node18" href="$qgsgeometrytypecheck_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometrytypecheck.cpp" alt="" coords="4078,213,4285,284"/>
+<area shape="rect" id="node20" href="$qgsinternalgeometryengine_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgsinternalgeometryengine.cpp" alt="" coords="1846,109,2079,165"/>
+<area shape="rect" id="node21" href="$qgsmulticurve_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgsmulticurve.cpp" alt="" coords="2104,109,2331,165"/>
+<area shape="rect" id="node22" href="$qgsmultisurface_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgsmultisurface.cpp" alt="" coords="2355,109,2581,165"/>
+<area shape="rect" id="node23" href="$qgstininterpolator_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/interpolation/qgstininterpolator.cpp" alt="" coords="2606,109,2861,165"/>
+<area shape="rect" id="node5" href="$qgsdistancearea_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsdistancearea.cpp" alt="" coords="2995,228,3293,269"/>
+<area shape="rect" id="node6" href="$qgsexpressionfunction_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/expression\l/qgsexpressionfunction.cpp" alt="" coords="3317,221,3552,277"/>
+<area shape="rect" id="node7" href="$qgsgeometrycollection_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgsgeometrycollection.cpp" alt="" coords="3576,221,3803,277"/>
+<area shape="rect" id="node9" href="$qgsgeometrymakevalid_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgsgeometrymakevalid.cpp" alt="" coords="3827,221,4053,277"/>
+<area shape="rect" id="node12" href="$qgsmultipolygon_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgsmultipolygon.cpp" alt="" coords="1008,221,1235,277"/>
+<area shape="rect" id="node13" href="$qgspolygon_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geometry\l/qgspolygon.cpp" alt="" coords="1259,221,1485,277"/>
+<area shape="rect" id="node14" href="$qgsalgorithmjoinwithlines_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/processing/qgsalgorithmjoinwithlines.cpp" alt="" coords="1509,221,1805,277"/>
+<area shape="rect" id="node15" href="$qgsalgorithmpolygonstolines_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/processing/qgsalgorithmpolygonstolines.cpp" alt="" coords="1830,221,2146,277"/>
+<area shape="rect" id="node16" href="$qgsalgorithmtransect_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/processing/qgsalgorithmtransect.cpp" alt="" coords="2171,221,2437,277"/>
+<area shape="rect" id="node17" href="$qgsgeometryselfintersectioncheck_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsgeometryselfintersectioncheck.cpp" alt="" coords="2461,213,2739,284"/>
+<area shape="rect" id="node19" href="$qgsline3dsymbol__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/symbols\l/qgsline3dsymbol_p.cpp" alt="" coords="2763,221,2970,277"/>
+</map>

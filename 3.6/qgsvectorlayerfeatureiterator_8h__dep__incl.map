@@ -1,0 +1,32 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/qgsvectorlayerfeatureiterator.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/qgsvectorlayerfeatureiterator.h">
+<area shape="rect" id="node2" href="$qgsfeaturefiltermodel__p_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsfeaturefiltermodel_p.h" alt="" coords="1019,102,1351,143"/>
+<area shape="rect" id="node4" href="$qgsvectorlayerutils_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsvectorlayerutils.h" alt="" coords="2387,102,2689,143"/>
+<area shape="rect" id="node17" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsvectorlayer.cpp" alt="" coords="4192,213,4479,255"/>
+<area shape="rect" id="node18" href="$qgsvectorlayerfeaturecounter_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsvectorlayerfeaturecounter.h" alt="" coords="4262,102,4630,143"/>
+<area shape="rect" id="node21" href="$qgsvectorlayerdiagramprovider_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsvectorlayerdiagramprovider.cpp" alt="" coords="4654,102,5049,143"/>
+<area shape="rect" id="node22" href="$qgsvectorlayerfeatureiterator_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsvectorlayerfeatureiterator.cpp" alt="" coords="5073,102,5456,143"/>
+<area shape="rect" id="node23" href="$qgsvectorlayerlabelprovider_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsvectorlayerlabelprovider.cpp" alt="" coords="5481,102,5854,143"/>
+<area shape="rect" id="node24" href="$qgsvectorlayerrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsvectorlayerrenderer.cpp" alt="" coords="5879,102,6221,143"/>
+<area shape="rect" id="node25" href="$qgsexpressionutils_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/expression\l/qgsexpressionutils.h" alt="" coords="6297,95,6531,151"/>
+<area shape="rect" id="node27" href="$qgsexpressionfunction_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/expression\l/qgsexpressionfunction.cpp" alt="" coords="6038,206,6273,262"/>
+<area shape="rect" id="node30" href="$qgsprocessingparameters_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/processing\l/qgsprocessingparameters.cpp" alt="" coords="6555,95,6790,151"/>
+<area shape="rect" id="node31" href="$qgsprocessingutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/processing\l/qgsprocessingutils.cpp" alt="" coords="6814,95,7049,151"/>
+<area shape="rect" id="node3" href="$qgsfeaturefiltermodel_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsfeaturefiltermodel.cpp" alt="" coords="5,213,337,255"/>
+<area shape="rect" id="node5" href="$qgshistogram_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgshistogram.cpp" alt="" coords="362,213,642,255"/>
+<area shape="rect" id="node6" href="$qgsofflineediting_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsofflineediting.cpp" alt="" coords="667,213,967,255"/>
+<area shape="rect" id="node7" href="$qgsvectorlayereditbuffer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsvectorlayereditbuffer.cpp" alt="" coords="991,213,1341,255"/>
+<area shape="rect" id="node8" href="$qgsvectorlayereditutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsvectorlayereditutils.cpp" alt="" coords="1366,213,1707,255"/>
+<area shape="rect" id="node9" href="$qgsvectorlayertools_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsvectorlayertools.cpp" alt="" coords="1731,213,2051,255"/>
+<area shape="rect" id="node10" href="$qgsvectorlayerutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsvectorlayerutils.cpp" alt="" coords="2076,213,2392,255"/>
+<area shape="rect" id="node11" href="$qgsgraduatedsymbolrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgsgraduatedsymbolrenderer.cpp" alt="" coords="2416,206,2660,262"/>
+<area shape="rect" id="node12" href="$qgsattributeform_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/qgsattributeform.cpp" alt="" coords="2685,213,2978,255"/>
+<area shape="rect" id="node13" href="$qgshistogramwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/qgshistogramwidget.cpp" alt="" coords="3003,213,3319,255"/>
+<area shape="rect" id="node14" href="$qgsrelationeditorwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/qgsrelationeditorwidget.cpp" alt="" coords="3343,213,3682,255"/>
+<area shape="rect" id="node15" href="$qgseditorwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/editorwidgets\l/core/qgseditorwidgetwrapper.cpp" alt="" coords="3706,206,3951,262"/>
+<area shape="rect" id="node16" href="$qgsfeaturepool_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/analysis\l/vector/geometry_checker\l/qgsfeaturepool.cpp" alt="" coords="3975,199,4167,269"/>
+<area shape="rect" id="node19" href="$qgsvectorlayerfeaturecounter_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsvectorlayerfeaturecounter.cpp" alt="" coords="4503,213,4885,255"/>
+<area shape="rect" id="node20" href="$qgswmsrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/services/wms/qgswmsrenderer.cpp" alt="" coords="4909,206,5164,262"/>
+<area shape="rect" id="node26" href="$qgsexpressioncontextutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/expression\l/qgsexpressioncontextutils.cpp" alt="" coords="6297,206,6531,262"/>
+<area shape="rect" id="node28" href="$qgsexpressionnodeimpl_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/expression\l/qgsexpressionnodeimpl.cpp" alt="" coords="6555,206,6790,262"/>
+<area shape="rect" id="node29" href="$qgsexpressionutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/expression\l/qgsexpressionutils.cpp" alt="" coords="6814,206,7049,262"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/qgsnetworkaccessmanager.h" name="/tmp/buildd/qgis&#45;3.6.0+99unstable/src/core/qgsnetworkaccessmanager.h">
+<area shape="rect" id="node2" href="$qgsabstractcontentcache_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsabstractcontentcache.h" alt="" coords="483,102,821,143"/>
+<area shape="rect" id="node5" href="$qgsapplication_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsapplication.cpp" alt="" coords="318,310,605,351"/>
+<area shape="rect" id="node6" href="$qgsimagecache_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsimagecache.cpp" alt="" coords="889,310,1183,351"/>
+<area shape="rect" id="node8" href="$qgssvgcache_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgssvgcache.cpp" alt="" coords="629,303,865,359"/>
+<area shape="rect" id="node9" href="$qgsblockingnetworkrequest_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsblockingnetworkrequest.cpp" alt="" coords="1073,102,1444,143"/>
+<area shape="rect" id="node10" href="$qgsfiledownloader_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsfiledownloader.cpp" alt="" coords="1468,102,1777,143"/>
+<area shape="rect" id="node11" href="$qgsgml_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsgml.cpp" alt="" coords="1802,102,2041,143"/>
+<area shape="rect" id="node12" href="$qgsgmlschema_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsgmlschema.cpp" alt="" coords="2065,102,2356,143"/>
+<area shape="rect" id="node13" href="$qgsnetworkaccessmanager_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsnetworkaccessmanager.cpp" alt="" coords="2380,102,2748,143"/>
+<area shape="rect" id="node14" href="$qgsnetworkcontentfetcher_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsnetworkcontentfetcher.cpp" alt="" coords="2773,102,3134,143"/>
+<area shape="rect" id="node15" href="$qgshtmlannotation_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/annotations\l/qgshtmlannotation.cpp" alt="" coords="3158,95,3399,151"/>
+<area shape="rect" id="node16" href="$qgsgeonoderequest_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/geocms\l/geonode/qgsgeonoderequest.cpp" alt="" coords="3423,95,3665,151"/>
+<area shape="rect" id="node17" href="$qgslayoutitemhtml_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/layout\l/qgslayoutitemhtml.cpp" alt="" coords="3689,95,3895,151"/>
+<area shape="rect" id="node18" href="$qgslayoutitemlabel_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/layout\l/qgslayoutitemlabel.cpp" alt="" coords="3919,95,4124,151"/>
+<area shape="rect" id="node19" href="$qgsowssourceselect_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/qgsowssourceselect.cpp" alt="" coords="4148,102,4463,143"/>
+<area shape="rect" id="node20" href="$qgsautheditorwidgets_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/auth\l/qgsautheditorwidgets.cpp" alt="" coords="4487,95,4681,151"/>
+<area shape="rect" id="node21" href="$qgsauthsslerrorsdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/gui/auth\l/qgsauthsslerrorsdialog.cpp" alt="" coords="4706,95,4907,151"/>
+<area shape="rect" id="node22" href="$quantizedmeshgeometry_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/3d/terrain\l/quantizedmeshgeometry.cpp" alt="" coords="4931,95,5146,151"/>
+<area shape="rect" id="node23" href="$qgsserver_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/server\l/qgsserver.cpp" alt="" coords="5171,95,5344,151"/>
+<area shape="rect" id="node3" href="$qgsabstractcontentcache_8cpp.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsabstractcontentcache.cpp" alt="" coords="29,206,384,247"/>
+<area shape="rect" id="node4" href="$qgsimagecache_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/qgsimagecache.h" alt="" coords="669,206,947,247"/>
+<area shape="rect" id="node7" href="$qgssvgcache_8h.html" title="/tmp/buildd/qgis&#45;3.6.0\l+99unstable/src/core/symbology\l/qgssvgcache.h" alt="" coords="409,199,645,255"/>
+</map>

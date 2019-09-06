@@ -1,0 +1,4 @@
+<map id="QgsProject" name="QgsProject">
+<area shape="rect" id="node3" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="104,5,339,32"/>
+<area shape="rect" id="node4" href="$classQgsProjectTranslator.html" title="Wherever an object of this class is available, the derived translate function can be called from..." alt="" coords="363,5,519,32"/>
+</map>

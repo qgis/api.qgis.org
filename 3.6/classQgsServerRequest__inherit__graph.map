@@ -1,0 +1,4 @@
+<map id="QgsServerRequest" name="QgsServerRequest">
+<area shape="rect" id="node2" href="$classQgsBufferServerRequest.html" title="Class defining request with data. " alt="" coords="5,80,185,107"/>
+<area shape="rect" id="node3" href="$classQgsFcgiServerRequest.html" title="Class defining fcgi request. " alt="" coords="209,80,376,107"/>
+</map>

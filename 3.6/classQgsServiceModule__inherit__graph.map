@@ -1,0 +1,5 @@
+<map id="QgsServiceModule" name="QgsServiceModule">
+<area shape="rect" id="node2" href="$classQgsWcsModule.html" title="Service module specialized for WCS. " alt="" coords="5,80,127,107"/>
+<area shape="rect" id="node3" href="$classQgsWfsModule.html" title="Module specialized for WFS service. " alt="" coords="151,80,269,107"/>
+<area shape="rect" id="node4" href="$classQgsWmsModule.html" title="Module specialized for WMS service. " alt="" coords="293,80,420,107"/>
+</map>
