@@ -1,0 +1,4 @@
+<map id="QgsComposerItemCommand" name="QgsComposerItemCommand">
+<area shape="rect" id="node3" href="$classQgsComposerMergeCommand.html" title="A composer command that merges together with other commands having the same context (=id)..." alt="" coords="5,155,225,181"/>
+<area shape="rect" id="node2" href="http://doc.qt.io/qt-4.8/qt.tags$qundocommand.html" title="QUndoCommand" alt="" coords="49,5,182,32"/>
+</map>

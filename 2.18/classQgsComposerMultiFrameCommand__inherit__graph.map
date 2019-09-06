@@ -1,0 +1,4 @@
+<map id="QgsComposerMultiFrameCommand" name="QgsComposerMultiFrameCommand">
+<area shape="rect" id="node3" href="$classQgsComposerMultiFrameMergeCommand.html" title="A composer command that merges together with other commands having the same context (=id) for multi f..." alt="" coords="19,155,244,196"/>
+<area shape="rect" id="node2" href="http://doc.qt.io/qt-4.8/qt.tags$qundocommand.html" title="QUndoCommand" alt="" coords="65,5,198,32"/>
+</map>

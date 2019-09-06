@@ -1,0 +1,29 @@
+<map id="QgsWidgetWrapper" name="QgsWidgetWrapper">
+<area shape="rect" id="node3" href="$classQgsEditorWidgetWrapper.html" title="Manages an editor widget Widget and wrapper share the same parent. " alt="" coords="330,452,515,479"/>
+<area shape="rect" id="node21" href="$classQgsRelationWidgetWrapper.html" title="QgsRelationWidgetWrapper" alt="" coords="323,739,523,765"/>
+<area shape="rect" id="node22" href="$classQgsSearchWidgetWrapper.html" title="Manages an editor widget Widget and wrapper share the same parent. " alt="" coords="327,1000,518,1027"/>
+<area shape="rect" id="node2" href="http://doc.qt.io/qt-4.8/qt.tags$qobject.html" title="QObject" alt="" coords="5,739,80,765"/>
+<area shape="rect" id="node4" href="$classQgsCheckboxWidgetWrapper.html" title="Wraps a checkbox widget. " alt="" coords="593,5,803,32"/>
+<area shape="rect" id="node5" href="$classQgsClassificationWidgetWrapper.html" title="QgsClassificationWidgetWrapper" alt="" coords="581,56,815,83"/>
+<area shape="rect" id="node6" href="$classQgsColorWidgetWrapper.html" title="Wraps a color widget. " alt="" coords="607,107,789,133"/>
+<area shape="rect" id="node7" href="$classQgsDateTimeEditWrapper.html" title="Wraps a date time widget. " alt="" coords="603,157,793,184"/>
+<area shape="rect" id="node8" href="$classQgsEnumerationWidgetWrapper.html" title="QgsEnumerationWidgetWrapper" alt="" coords="583,208,813,235"/>
+<area shape="rect" id="node9" href="$classQgsExternalResourceWidgetWrapper.html" title="Wraps a file name widget. " alt="" coords="595,259,801,301"/>
+<area shape="rect" id="node10" href="$classQgsFileNameWidgetWrapper.html" title="Wraps a file name widget. " alt="" coords="594,325,802,352"/>
+<area shape="rect" id="node11" href="$classQgsHiddenWidgetWrapper.html" title="Wraps a hidden widget. " alt="" coords="601,376,795,403"/>
+<area shape="rect" id="node12" href="$classQgsPhotoWidgetWrapper.html" title="Wraps a photo widget. " alt="" coords="606,427,790,453"/>
+<area shape="rect" id="node13" href="$classQgsRangeWidgetWrapper.html" title="Wraps a range widget. " alt="" coords="604,477,792,504"/>
+<area shape="rect" id="node14" href="$classQgsRelationReferenceWidgetWrapper.html" title="Wraps a relation reference widget. " alt="" coords="593,529,803,570"/>
+<area shape="rect" id="node15" href="$classQgsTextEditWrapper.html" title="Wraps a text widget. " alt="" coords="621,595,775,621"/>
+<area shape="rect" id="node16" href="$classQgsUniqueValuesWidgetWrapper.html" title="Wraps a unique value widget. " alt="" coords="580,645,816,672"/>
+<area shape="rect" id="node17" href="$classQgsUuidWidgetWrapper.html" title="Wraps a uuid widget. " alt="" coords="609,696,787,723"/>
+<area shape="rect" id="node18" href="$classQgsValueMapWidgetWrapper.html" title="Wraps a value map widget. " alt="" coords="593,747,803,773"/>
+<area shape="rect" id="node19" href="$classQgsValueRelationWidgetWrapper.html" title="Wraps a value relation widget. " alt="" coords="580,797,816,824"/>
+<area shape="rect" id="node20" href="$classQgsWebViewWidgetWrapper.html" title="Wraps a web view widget. " alt="" coords="595,848,801,875"/>
+<area shape="rect" id="node23" href="$classQgsCheckboxSearchWidgetWrapper.html" title="Wraps a checkbox edit widget for searching. " alt="" coords="571,899,825,925"/>
+<area shape="rect" id="node24" href="$classQgsDateTimeSearchWidgetWrapper.html" title="Wraps a date/time edit widget for searching. " alt="" coords="571,949,825,976"/>
+<area shape="rect" id="node25" href="$classQgsDefaultSearchWidgetWrapper.html" title="Wraps a search widget. " alt="" coords="579,1000,817,1027"/>
+<area shape="rect" id="node26" href="$classQgsRelationReferenceSearchWidgetWrapper.html" title="Wraps a relation reference search widget. " alt="" coords="593,1051,803,1093"/>
+<area shape="rect" id="node27" href="$classQgsValueMapSearchWidgetWrapper.html" title="Wraps a value map search widget. " alt="" coords="571,1117,825,1144"/>
+<area shape="rect" id="node28" href="$classQgsValueRelationSearchWidgetWrapper.html" title="Wraps a value relation search widget. " alt="" coords="585,1169,811,1210"/>
+</map>

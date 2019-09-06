@@ -1,0 +1,4 @@
+<map id="QgsComposerHtml" name="QgsComposerHtml">
+<area shape="rect" id="node2" href="$classQgsComposerMultiFrame.html" title="Abstract base class for composer items with the ability to distribute the content to several frames (..." alt="" coords="5,80,191,107"/>
+<area shape="rect" id="node3" href="$classQgsComposerObject.html" title="A base class for objects which belong to a map composition. " alt="" coords="21,5,175,32"/>
+</map>

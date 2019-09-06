@@ -1,0 +1,5 @@
+<map id="QgsMapToolIdentify" name="QgsMapToolIdentify">
+<area shape="rect" id="node4" href="$classQgsMapToolIdentifyFeature.html" title="The QgsMapToolIdentifyFeature class is a map tool to identify a feature on a chosen layer..." alt="" coords="5,229,204,256"/>
+<area shape="rect" id="node2" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="55,80,155,107"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qobject.html" title="QObject" alt="" coords="67,5,142,32"/>
+</map>

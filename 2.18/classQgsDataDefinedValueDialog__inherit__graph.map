@@ -1,0 +1,7 @@
+<map id="QgsDataDefinedValueDialog" name="QgsDataDefinedValueDialog">
+<area shape="rect" id="node5" href="$classQgsDataDefinedRotationDialog.html" title="QgsDataDefinedRotationDialog" alt="" coords="5,229,229,256"/>
+<area shape="rect" id="node6" href="$classQgsDataDefinedSizeDialog.html" title="QgsDataDefinedSizeDialog" alt="" coords="253,229,451,256"/>
+<area shape="rect" id="node7" href="$classQgsDataDefinedWidthDialog.html" title="QgsDataDefinedWidthDialog" alt="" coords="475,229,683,256"/>
+<area shape="rect" id="node2" href="http://doc.qt.io/qt-4.8/qt.tags$qdialog.html" title="QDialog" alt="" coords="227,80,301,107"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qwidget.html" title="QWidget" alt="" coords="225,5,303,32"/>
+</map>

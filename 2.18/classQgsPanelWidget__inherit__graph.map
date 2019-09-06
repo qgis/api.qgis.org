@@ -1,0 +1,27 @@
+<map id="QgsPanelWidget" name="QgsPanelWidget">
+<area shape="rect" id="node5" href="$classQgsCompoundColorWidget.html" title="A custom QGIS widget for selecting a color, including options for selecting colors via hue wheel..." alt="" coords="479,5,676,32"/>
+<area shape="rect" id="node6" href="$classQgsEffectStackCompactWidget.html" title="A small widget consisting of a check box for enabling/disabling an effect stack and a button for open..." alt="" coords="465,56,689,83"/>
+<area shape="rect" id="node7" href="$classQgsEffectStackPropertiesWidget.html" title="A widget for modifying the properties of a QgsEffectStack, including adding and reordering effects wi..." alt="" coords="484,107,671,149"/>
+<area shape="rect" id="node8" href="$classQgsLayerPropertiesWidget.html" title="QgsLayerPropertiesWidget" alt="" coords="480,173,675,200"/>
+<area shape="rect" id="node9" href="$classQgsMapLayerConfigWidget.html" title="A panel widget that can be shown in the map style dock. " alt="" coords="479,224,676,251"/>
+<area shape="rect" id="node14" href="$classQgsPanelWidgetWrapper.html" title="Wrapper widget for existing widgets which can&#39;t have the inheritance tree changed, e.g dialogs. " alt="" coords="486,275,669,301"/>
+<area shape="rect" id="node15" href="$classQgsRendererRulePropsWidget.html" title="QgsRendererRulePropsWidget" alt="" coords="470,325,685,352"/>
+<area shape="rect" id="node16" href="$classQgsRendererV2Widget.html" title="Base class for renderer settings widgets. " alt="" coords="493,495,661,521"/>
+<area shape="rect" id="node26" href="$classQgsSymbolV2SelectorWidget.html" title="Symbol selector widget that cna be used to select and build a symbol. " alt="" coords="471,545,683,572"/>
+<area shape="rect" id="node2" href="http://doc.qt.io/qt-4.8/qt.tags$qwidget.html" title="QWidget" alt="" coords="163,224,241,251"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qobject.html" title="QObject" alt="" coords="23,199,97,225"/>
+<area shape="rect" id="node4" href="http://doc.qt.io/qt-4.8/qt.tags$qpaintdevice.html" title="QPaintDevice" alt="" coords="5,249,115,276"/>
+<area shape="rect" id="node10" href="$classQgsMapLayerStyleManagerWidget.html" title="The QgsMapLayerStyleManagerWidget class which is used to visually manage the layer styles..." alt="" coords="737,93,983,120"/>
+<area shape="rect" id="node11" href="$classQgsRasterHistogramWidget.html" title="Histogram widget. " alt="" coords="759,144,961,171"/>
+<area shape="rect" id="node12" href="$classQgsRasterTransparencyWidget.html" title="Widget to control a layers transparency and related options. " alt="" coords="749,195,971,221"/>
+<area shape="rect" id="node13" href="$classQgsRendererRasterPropertiesWidget.html" title="QgsRendererRasterProperties\lWidget" alt="" coords="753,246,967,287"/>
+<area shape="rect" id="node17" href="$classQgs25DRendererWidget.html" title="Qgs25DRendererWidget" alt="" coords="771,312,949,339"/>
+<area shape="rect" id="node18" href="$classQgsCategorizedSymbolRendererV2Widget.html" title="QgsCategorizedSymbolRenderer\lV2Widget" alt="" coords="744,363,976,405"/>
+<area shape="rect" id="node19" href="$classQgsGraduatedSymbolRendererV2Widget.html" title="QgsGraduatedSymbolRenderer\lV2Widget" alt="" coords="749,429,971,470"/>
+<area shape="rect" id="node20" href="$classQgsHeatmapRendererWidget.html" title="QgsHeatmapRendererWidget" alt="" coords="755,495,965,521"/>
+<area shape="rect" id="node21" href="$classQgsInvertedPolygonRendererWidget.html" title="A widget used represent options of a QgsInvertedPolygonRenderer. " alt="" coords="755,546,965,587"/>
+<area shape="rect" id="node22" href="$classQgsNullSymbolRendererWidget.html" title="Blank widget for customising QgsNullSymbolRenderer. " alt="" coords="747,612,973,639"/>
+<area shape="rect" id="node23" href="$classQgsPointDisplacementRendererWidget.html" title="QgsPointDisplacementRenderer\lWidget" alt="" coords="746,663,974,705"/>
+<area shape="rect" id="node24" href="$classQgsRuleBasedRendererV2Widget.html" title="QgsRuleBasedRendererV2Widget" alt="" coords="742,729,978,756"/>
+<area shape="rect" id="node25" href="$classQgsSingleSymbolRendererV2Widget.html" title="QgsSingleSymbolRendererV2\lWidget" alt="" coords="755,781,965,822"/>
+</map>

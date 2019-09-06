@@ -1,0 +1,33 @@
+<map id="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/gui/symbology&#45;ng/qgssizescalewidget.cpp" name="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/gui/symbology&#45;ng/qgssizescalewidget.cpp">
+<area shape="rect" id="node2" href="$qgssizescalewidget_8h.html" title="qgssizescalewidget.h" alt="" coords="820,109,982,136"/>
+<area shape="rect" id="node21" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1690,184,1821,211"/>
+<area shape="rect" id="node32" href="$qgsmaplayerregistry_8h.html" title="qgsmaplayerregistry.h" alt="" coords="2307,259,2474,285"/>
+<area shape="rect" id="node33" href="$qgssymbolv2_8h.html" title="qgssymbolv2.h" alt="" coords="3071,184,3192,211"/>
+<area shape="rect" id="node37" href="$qgslayertreelayer_8h.html" title="qgslayertreelayer.h" alt="" coords="167,109,315,136"/>
+<area shape="rect" id="node38" href="$qgslayertreemodellegendnode_8h.html" title="qgslayertreemodellegendnode.h" alt="" coords="251,184,484,211"/>
+<area shape="rect" id="node41" href="$qgssymbollayerv2utils_8h.html" title="qgssymbollayerv2utils.h" alt="" coords="3331,109,3514,136"/>
+<area shape="rect" id="node44" href="$qgsscaleexpression_8h.html" title="qgsscaleexpression.h" alt="" coords="2476,109,2638,136"/>
+<area shape="rect" id="node46" href="$qgsdatadefined_8h.html" title="qgsdatadefined.h" alt="" coords="3436,259,3571,285"/>
+<area shape="rect" id="node48" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="2895,259,3027,285"/>
+<area shape="rect" id="node3" href="$qgslayertreegroup_8h.html" title="qgslayertreegroup.h" alt="" coords="74,184,227,211"/>
+<area shape="rect" id="node6" href="$qgslayertreemodel_8h.html" title="qgslayertreemodel.h" alt="" coords="938,184,1096,211"/>
+<area shape="rect" id="node17" href="$qgsdatadefinedbutton_8h.html" title="qgsdatadefinedbutton.h" alt="" coords="937,333,1113,360"/>
+<area shape="rect" id="node4" href="$qgslayertreenode_8h.html" title="qgslayertreenode.h" alt="" coords="23,259,171,285"/>
+<area shape="rect" id="node9" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1886,259,2004,285"/>
+<area shape="rect" id="node10" href="$qgis_8h.html" title="qgis.h" alt="" coords="2802,333,2864,360"/>
+<area shape="rect" id="node11" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1893,333,1997,360"/>
+<area shape="rect" id="node15" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1188,408,1273,435"/>
+<area shape="rect" id="node23" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="2752,259,2871,285"/>
+<area shape="rect" id="node25" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="1039,259,1190,285"/>
+<area shape="rect" id="node26" href="$qgseditorwidgetconfig_8h.html" title="qgseditorwidgetconfig.h" alt="" coords="2122,333,2301,360"/>
+<area shape="rect" id="node27" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="1702,259,1810,285"/>
+<area shape="rect" id="node28" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="1214,259,1415,285"/>
+<area shape="rect" id="node29" href="$qgseditformconfig_8h.html" title="qgseditformconfig.h" alt="" coords="2029,259,2181,285"/>
+<area shape="rect" id="node30" href="$qgsattributetableconfig_8h.html" title="qgsattributetableconfig.h" alt="" coords="1138,333,1323,360"/>
+<area shape="rect" id="node31" href="$qgsaggregatecalculator_8h.html" title="qgsaggregatecalculator.h" alt="" coords="1440,259,1626,285"/>
+<area shape="rect" id="node34" href="$qgsmapunitscale_8h.html" title="qgsmapunitscale.h" alt="" coords="3595,259,3740,285"/>
+<area shape="rect" id="node36" href="$qgspointv2_8h.html" title="qgspointv2.h" alt="" coords="3204,259,3310,285"/>
+<area shape="rect" id="node39" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="466,259,643,285"/>
+<area shape="rect" id="node40" href="$qgslegendsymbolitemv2_8h.html" title="qgslegendsymbolitemv2.h" alt="" coords="246,259,441,285"/>
+<area shape="rect" id="node45" href="$qgsexpression_8h.html" title="qgsexpression.h" alt="" coords="2549,259,2677,285"/>
+</map>

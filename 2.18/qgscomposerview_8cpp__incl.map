@@ -1,0 +1,33 @@
+<map id="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/gui/qgscomposerview.cpp" name="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/gui/qgscomposerview.cpp">
+<area shape="rect" id="node11" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="227,95,356,121"/>
+<area shape="rect" id="node16" href="$qgscomposerview_8h.html" title="qgscomposerview.h" alt="" coords="992,95,1143,121"/>
+<area shape="rect" id="node21" href="$qgscomposerarrow_8h.html" title="qgscomposerarrow.h" alt="" coords="3093,169,3250,196"/>
+<area shape="rect" id="node25" href="$qgscomposerframe_8h.html" title="qgscomposerframe.h" alt="" coords="2674,169,2834,196"/>
+<area shape="rect" id="node26" href="$qgscomposerpolygon_8h.html" title="qgscomposerpolygon.h" alt="" coords="3003,95,3177,121"/>
+<area shape="rect" id="node28" href="$qgscomposerpolyline_8h.html" title="qgscomposerpolyline.h" alt="" coords="3201,95,3374,121"/>
+<area shape="rect" id="node29" href="$qgscomposerhtml_8h.html" title="qgscomposerhtml.h" alt="" coords="1239,95,1389,121"/>
+<area shape="rect" id="node33" href="$qgscomposerlabel_8h.html" title="qgscomposerlabel.h" alt="" coords="1693,169,1847,196"/>
+<area shape="rect" id="node35" href="$qgscomposerlegend_8h.html" title="qgscomposerlegend.h" alt="" coords="3449,95,3614,121"/>
+<area shape="rect" id="node38" href="$qgscomposermap_8h.html" title="qgscomposermap.h" alt="" coords="1871,169,2021,196"/>
+<area shape="rect" id="node39" href="$qgscomposermousehandles_8h.html" title="qgscomposermousehandles.h" alt="" coords="3638,95,3854,121"/>
+<area shape="rect" id="node40" href="$qgscomposeritemgroup_8h.html" title="qgscomposeritemgroup.h" alt="" coords="2045,169,2233,196"/>
+<area shape="rect" id="node41" href="$qgscomposerpicture_8h.html" title="qgscomposerpicture.h" alt="" coords="2257,169,2424,196"/>
+<area shape="rect" id="node42" href="$qgscomposerruler_8h.html" title="qgscomposerruler.h" alt="" coords="2448,169,2599,196"/>
+<area shape="rect" id="node43" href="$qgscomposerscalebar_8h.html" title="qgscomposerscalebar.h" alt="" coords="3693,169,3868,196"/>
+<area shape="rect" id="node44" href="$qgscomposershape_8h.html" title="qgscomposershape.h" alt="" coords="2909,169,3069,196"/>
+<area shape="rect" id="node45" href="$qgscomposerattributetablev2_8h.html" title="qgscomposerattributetablev2.h" alt="" coords="3878,95,4105,121"/>
+<area shape="rect" id="node46" href="$qgsaddremovemultiframecommand_8h.html" title="qgsaddremovemultiframecommand.h" alt="" coords="4129,95,4398,121"/>
+<area shape="rect" id="node47" href="$qgspaperitem_8h.html" title="qgspaperitem.h" alt="" coords="2703,95,2827,121"/>
+<area shape="rect" id="node48" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="595,95,727,121"/>
+<area shape="rect" id="node49" href="$qgscursors_8h.html" title="qgscursors.h" alt="" coords="4422,95,4526,121"/>
+<area shape="rect" id="node50" href="$qgscomposerutils_8h.html" title="qgscomposerutils.h" alt="" coords="4550,95,4699,121"/>
+<area shape="rect" id="node14" href="$qgis_8h.html" title="qgis.h" alt="" coords="423,169,485,196"/>
+<area shape="rect" id="node18" href="$qgsaddremoveitemcommand_8h.html" title="qgsaddremoveitemcommand.h" alt="" coords="954,169,1181,196"/>
+<area shape="rect" id="node19" href="$qgsprevieweffect_8h.html" title="qgsprevieweffect.h" alt="" coords="509,169,655,196"/>
+<area shape="rect" id="node22" href="$qgscomposeritem_8h.html" title="qgscomposeritem.h" alt="" coords="2620,244,2771,271"/>
+<area shape="rect" id="node27" href="$qgscomposernodesitem_8h.html" title="qgscomposernodesitem.h" alt="" coords="3325,169,3516,196"/>
+<area shape="rect" id="node30" href="$qgscomposermultiframe_8h.html" title="qgscomposermultiframe.h" alt="" coords="1399,169,1594,196"/>
+<area shape="rect" id="node31" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="826,169,930,196"/>
+<area shape="rect" id="node36" href="$qgscomposerlegendstyle_8h.html" title="qgscomposerlegendstyle.h" alt="" coords="3807,244,4005,271"/>
+<area shape="rect" id="node37" href="$qgscomposerlegenditem_8h.html" title="qgscomposerlegenditem.h" alt="" coords="3943,169,4138,196"/>
+</map>

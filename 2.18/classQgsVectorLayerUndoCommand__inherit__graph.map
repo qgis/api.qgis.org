@@ -1,0 +1,10 @@
+<map id="QgsVectorLayerUndoCommand" name="QgsVectorLayerUndoCommand">
+<area shape="rect" id="node3" href="$classQgsVectorLayerUndoCommandAddAttribute.html" title="Undo command for adding a new attribute to a vector layer. " alt="" coords="460,5,685,47"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayerUndoCommandAddFeature.html" title="Undo command for adding a feature to a vector layer. " alt="" coords="460,71,685,112"/>
+<area shape="rect" id="node5" href="$classQgsVectorLayerUndoCommandChangeAttribute.html" title="Undo command for modifying an attribute of a feature from a vector layer. " alt="" coords="460,136,685,177"/>
+<area shape="rect" id="node6" href="$classQgsVectorLayerUndoCommandChangeGeometry.html" title="Undo command for modifying the geometry of a feature from a vector layer. " alt="" coords="460,201,685,243"/>
+<area shape="rect" id="node7" href="$classQgsVectorLayerUndoCommandDeleteAttribute.html" title="Undo command for removing an existing attribute from a vector layer. " alt="" coords="460,267,685,308"/>
+<area shape="rect" id="node8" href="$classQgsVectorLayerUndoCommandDeleteFeature.html" title="Undo command for deleting a feature from a vector layer. " alt="" coords="460,332,685,373"/>
+<area shape="rect" id="node9" href="$classQgsVectorLayerUndoCommandRenameAttribute.html" title="Undo command for renaming an existing attribute of a vector layer. " alt="" coords="460,397,685,439"/>
+<area shape="rect" id="node2" href="http://doc.qt.io/qt-4.8/qt.tags$qundocommand.html" title="QUndoCommand" alt="" coords="5,209,139,235"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsRasterLayerRenderer::Feedback" name="QgsRasterLayerRenderer::Feedback">
+<area shape="rect" id="node2" href="$classQgsRasterBlockFeedback.html" title="Feedback object tailored for raster block reading. " alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node3" href="$classQgsFeedback.html" title="Base class for feedback objects to be used for cancellation of something running in a worker thread..." alt="" coords="45,5,153,32"/>
+</map>

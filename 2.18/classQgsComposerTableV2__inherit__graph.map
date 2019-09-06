@@ -1,0 +1,6 @@
+<map id="QgsComposerTableV2" name="QgsComposerTableV2">
+<area shape="rect" id="node4" href="$classQgsComposerAttributeTableV2.html" title="A table that displays attributes from a vector layer. " alt="" coords="5,229,227,256"/>
+<area shape="rect" id="node5" href="$classQgsComposerTextTableV2.html" title="A text table item that reads text from string lists. " alt="" coords="251,229,442,256"/>
+<area shape="rect" id="node2" href="$classQgsComposerMultiFrame.html" title="Abstract base class for composer items with the ability to distribute the content to several frames (..." alt="" coords="138,80,323,107"/>
+<area shape="rect" id="node3" href="$classQgsComposerObject.html" title="A base class for objects which belong to a map composition. " alt="" coords="153,5,308,32"/>
+</map>

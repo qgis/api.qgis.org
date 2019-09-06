@@ -1,0 +1,6 @@
+<map id="QgsDockWidget" name="QgsDockWidget">
+<area shape="rect" id="node4" href="$classQgsAdvancedDigitizingDockWidget.html" title="The QgsAdvancedDigitizingDockWidget class is a dockable widget used to handle the CAD tools on top of..." alt="" coords="5,229,212,271"/>
+<area shape="rect" id="node5" href="$classQgsUserInputDockWidget.html" title="The QgsUserInputDockWidget class is a dock widget that shall be used to display widgets for user inpu..." alt="" coords="237,237,426,263"/>
+<area shape="rect" id="node2" href="http://doc.qt.io/qt-4.8/qt.tags$qdockwidget.html" title="QDockWidget" alt="" coords="164,80,275,107"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qwidget.html" title="QWidget" alt="" coords="180,5,259,32"/>
+</map>

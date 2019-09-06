@@ -1,0 +1,18 @@
+<map id="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/core/qgsmaprenderer.h" name="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/core/qgsmaprenderer.h">
+<area shape="rect" id="node7" href="$qgis_8h.html" title="qgis.h" alt="" coords="725,468,786,495"/>
+<area shape="rect" id="node23" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="405,319,524,345"/>
+<area shape="rect" id="node27" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="688,95,836,121"/>
+<area shape="rect" id="node36" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1841,393,1945,420"/>
+<area shape="rect" id="node39" href="$qgsmapsettings_8h.html" title="qgsmapsettings.h" alt="" coords="1146,95,1285,121"/>
+<area shape="rect" id="node21" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="1117,543,1237,569"/>
+<area shape="rect" id="node26" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="590,393,681,420"/>
+<area shape="rect" id="node29" href="$qgsabstractgeometryv2_8h.html" title="qgsabstractgeometryv2.h" alt="" coords="667,169,857,196"/>
+<area shape="rect" id="node30" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="540,244,731,271"/>
+<area shape="rect" id="node32" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="931,169,1062,196"/>
+<area shape="rect" id="node33" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="391,169,592,196"/>
+<area shape="rect" id="node34" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="1396,393,1573,420"/>
+<area shape="rect" id="node31" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1136,393,1372,420"/>
+<area shape="rect" id="node38" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1850,468,1935,495"/>
+<area shape="rect" id="node41" href="$qgsdatumtransformstore_8h.html" title="qgsdatumtransformstore.h" alt="" coords="1193,244,1389,271"/>
+<area shape="rect" id="node42" href="$qgsscalecalculator_8h.html" title="qgsscalecalculator.h" alt="" coords="881,319,1035,345"/>
+</map>

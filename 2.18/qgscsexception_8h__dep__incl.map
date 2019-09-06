@@ -1,0 +1,31 @@
+<map id="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/core/qgscsexception.h" name="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/core/qgscsexception.h">
+<area shape="rect" id="node2" href="$qgscoordinatetransform_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgscoordinatetransform.h" alt="" coords="2819,95,3151,136"/>
+<area shape="rect" id="node13" href="$qgsexpression_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgsexpression.cpp" alt="" coords="341,399,627,441"/>
+<area shape="rect" id="node20" href="$qgsvectorfilewriter_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgsvectorfilewriter.cpp" alt="" coords="5,399,317,441"/>
+<area shape="rect" id="node3" href="$qgsrendercontext_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgsrendercontext.h" alt="" coords="5085,295,5376,337"/>
+<area shape="rect" id="node4" href="$qgslabel_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgslabel.cpp" alt="" coords="1647,399,1894,441"/>
+<area shape="rect" id="node5" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgsvectorlayer.cpp" alt="" coords="4847,399,5134,441"/>
+<area shape="rect" id="node6" href="$qgsrasterlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/raster\l/qgsrasterlayer.cpp" alt="" coords="5589,392,5792,448"/>
+<area shape="rect" id="node7" href="$qgshighlight_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/gui/qgshighlight.cpp" alt="" coords="5158,399,5421,441"/>
+<area shape="rect" id="node8" href="$qgsbearingutils_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgsbearingutils.cpp" alt="" coords="1612,191,1903,233"/>
+<area shape="rect" id="node9" href="$qgscoordinatetransform_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgscoordinatetransform.cpp" alt="" coords="1927,191,2273,233"/>
+<area shape="rect" id="node10" href="$qgscrscache_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgscrscache.cpp" alt="" coords="2298,191,2569,233"/>
+<area shape="rect" id="node11" href="$qgsdistancearea_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgsdistancearea.cpp" alt="" coords="1324,399,1623,441"/>
+<area shape="rect" id="node12" href="$qgsdistancearea_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgsdistancearea.h" alt="" coords="903,191,1185,233"/>
+<area shape="rect" id="node14" href="$qgsmaprenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgsmaprenderer.cpp" alt="" coords="717,295,1014,337"/>
+<area shape="rect" id="node15" href="$qgsjsonutils_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgsjsonutils.h" alt="" coords="2593,191,2847,233"/>
+<area shape="rect" id="node16" href="$qgsmaptopixelgeometrysimplifier_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgsmaptopixelgeometrysimplifier.h" alt="" coords="651,399,1047,441"/>
+<area shape="rect" id="node17" href="$qgsatlascomposition_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgsatlascomposition.h" alt="" coords="1071,392,1299,448"/>
+<area shape="rect" id="node18" href="$qgsabstractgeometryv2_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/geometry\l/qgsabstractgeometryv2.h" alt="" coords="1311,184,1537,240"/>
+<area shape="rect" id="node19" href="$qgsgeometry_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/geometry\l/qgsgeometry.h" alt="" coords="1140,288,1367,344"/>
+<area shape="rect" id="node21" href="$qgscircularstringv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/geometry\l/qgscircularstringv2.cpp" alt="" coords="2872,184,3099,240"/>
+<area shape="rect" id="node22" href="$qgslinestringv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/geometry\l/qgslinestringv2.cpp" alt="" coords="3123,184,3349,240"/>
+<area shape="rect" id="node23" href="$qgspointv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/geometry\l/qgspointv2.cpp" alt="" coords="3373,184,3600,240"/>
+<area shape="rect" id="node24" href="$qgsrasterviewport_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/raster\l/qgsrasterviewport.h" alt="" coords="3624,184,3827,240"/>
+<area shape="rect" id="node25" href="$qgsrasterprojector_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/raster\l/qgsrasterprojector.h" alt="" coords="5501,184,5704,240"/>
+<area shape="rect" id="node26" href="$qgsrasterprojector_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/raster\l/qgsrasterprojector.cpp" alt="" coords="5451,288,5653,344"/>
+<area shape="rect" id="node27" href="$qgsdatumtransformdialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/gui/qgsdatumtransformdialog.cpp" alt="" coords="3851,191,4203,233"/>
+<area shape="rect" id="node28" href="$qgsextentgroupbox_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/gui/qgsextentgroupbox.cpp" alt="" coords="4227,191,4536,233"/>
+<area shape="rect" id="node29" href="$qgsrasterlayersaveasdialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/gui/qgsrasterlayersaveasdialog.cpp" alt="" coords="4560,191,4923,233"/>
+<area shape="rect" id="node30" href="$qgssourceselectdialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/gui/qgssourceselectdialog.cpp" alt="" coords="4947,191,5275,233"/>
+</map>

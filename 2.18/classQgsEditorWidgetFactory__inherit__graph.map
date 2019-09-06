@@ -1,0 +1,19 @@
+<map id="QgsEditorWidgetFactory" name="QgsEditorWidgetFactory">
+<area shape="rect" id="node2" href="$classQgsCheckboxWidgetFactory.html" title="QgsCheckboxWidgetFactory" alt="" coords="247,5,451,32"/>
+<area shape="rect" id="node3" href="$classQgsClassificationWidgetWrapperFactory.html" title="QgsClassificationWidgetWrapper\lFactory" alt="" coords="232,57,467,98"/>
+<area shape="rect" id="node4" href="$classQgsColorWidgetFactory.html" title="QgsColorWidgetFactory" alt="" coords="262,123,437,149"/>
+<area shape="rect" id="node5" href="$classQgsDateTimeEditFactory.html" title="QgsDateTimeEditFactory" alt="" coords="258,173,441,200"/>
+<area shape="rect" id="node6" href="$classQgsEnumerationWidgetFactory.html" title="QgsEnumerationWidgetFactory" alt="" coords="238,224,461,251"/>
+<area shape="rect" id="node7" href="$classQgsExternalResourceWidgetFactory.html" title="QgsExternalResourceWidget\lFactory" alt="" coords="246,275,453,317"/>
+<area shape="rect" id="node8" href="$classQgsFileNameWidgetFactory.html" title="QgsFileNameWidgetFactory" alt="" coords="249,341,450,368"/>
+<area shape="rect" id="node9" href="$classQgsHiddenWidgetFactory.html" title="QgsHiddenWidgetFactory" alt="" coords="256,392,443,419"/>
+<area shape="rect" id="node10" href="$classQgsPhotoWidgetFactory.html" title="QgsPhotoWidgetFactory" alt="" coords="261,443,438,469"/>
+<area shape="rect" id="node11" href="$classQgsRangeWidgetFactory.html" title="QgsRangeWidgetFactory" alt="" coords="259,493,440,520"/>
+<area shape="rect" id="node12" href="$classQgsRelationReferenceFactory.html" title="QgsRelationReferenceFactory" alt="" coords="243,544,455,571"/>
+<area shape="rect" id="node13" href="$classQgsTextEditWidgetFactory.html" title="QgsTextEditWidgetFactory" alt="" coords="253,595,445,621"/>
+<area shape="rect" id="node14" href="$classQgsUniqueValueWidgetFactory.html" title="QgsUniqueValueWidgetFactory" alt="" coords="238,645,461,672"/>
+<area shape="rect" id="node15" href="$classQgsUuidWidgetFactory.html" title="QgsUuidWidgetFactory" alt="" coords="264,696,435,723"/>
+<area shape="rect" id="node16" href="$classQgsValueMapWidgetFactory.html" title="QgsValueMapWidgetFactory" alt="" coords="248,747,451,773"/>
+<area shape="rect" id="node17" href="$classQgsValueRelationWidgetFactory.html" title="QgsValueRelationWidgetFactory" alt="" coords="235,797,464,824"/>
+<area shape="rect" id="node18" href="$classQgsWebViewWidgetFactory.html" title="QgsWebViewWidgetFactory" alt="" coords="249,848,449,875"/>
+</map>

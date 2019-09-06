@@ -1,0 +1,9 @@
+<map id="QgsRasterRenderer" name="QgsRasterRenderer">
+<area shape="rect" id="node3" href="$classQgsHillshadeRenderer.html" title="A renderer for generating live hillshade models. " alt="" coords="433,5,599,32"/>
+<area shape="rect" id="node4" href="$classQgsMultiBandColorRenderer.html" title="Renderer for multiband images with the color components. " alt="" coords="414,56,618,83"/>
+<area shape="rect" id="node5" href="$classQgsPalettedRasterRenderer.html" title="Renderer for paletted raster images. " alt="" coords="416,107,616,133"/>
+<area shape="rect" id="node6" href="$classQgsSingleBandColorDataRenderer.html" title="Raster renderer pipe for single band color. " alt="" coords="395,157,637,184"/>
+<area shape="rect" id="node7" href="$classQgsSingleBandGrayRenderer.html" title="Raster renderer pipe for single band gray. " alt="" coords="411,208,621,235"/>
+<area shape="rect" id="node8" href="$classQgsSingleBandPseudoColorRenderer.html" title="Raster renderer pipe for single band pseudocolor. " alt="" coords="415,259,617,301"/>
+<area shape="rect" id="node2" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc. " alt="" coords="5,132,152,159"/>
+</map>

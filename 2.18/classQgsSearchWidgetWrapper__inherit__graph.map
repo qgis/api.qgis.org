@@ -1,0 +1,11 @@
+<map id="QgsSearchWidgetWrapper" name="QgsSearchWidgetWrapper">
+<area shape="rect" id="node4" href="$classQgsCheckboxSearchWidgetWrapper.html" title="Wraps a checkbox edit widget for searching. " alt="" coords="561,5,816,32"/>
+<area shape="rect" id="node5" href="$classQgsDateTimeSearchWidgetWrapper.html" title="Wraps a date/time edit widget for searching. " alt="" coords="561,56,816,83"/>
+<area shape="rect" id="node6" href="$classQgsDefaultSearchWidgetWrapper.html" title="Wraps a search widget. " alt="" coords="569,107,808,133"/>
+<area shape="rect" id="node8" href="$classQgsRelationReferenceSearchWidgetWrapper.html" title="Wraps a relation reference search widget. " alt="" coords="584,158,793,199"/>
+<area shape="rect" id="node9" href="$classQgsValueMapSearchWidgetWrapper.html" title="Wraps a value map search widget. " alt="" coords="561,224,816,251"/>
+<area shape="rect" id="node10" href="$classQgsValueRelationSearchWidgetWrapper.html" title="Wraps a value relation search widget. " alt="" coords="575,275,802,317"/>
+<area shape="rect" id="node2" href="$classQgsWidgetWrapper.html" title="Manages an editor widget Widget and wrapper share the same parent. " alt="" coords="128,136,275,163"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qobject.html" title="QObject" alt="" coords="5,136,80,163"/>
+<area shape="rect" id="node7" href="$classQgsTextEditSearchWidgetWrapper.html" title="Wraps a text edit widget for searching. " alt="" coords="864,107,1107,133"/>
+</map>

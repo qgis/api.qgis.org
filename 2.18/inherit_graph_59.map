@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgisVisitor.html" title="Custom visitor that adds found features to list. " alt="" coords="183,5,276,32"/>
+<area shape="rect" id="node3" href="$classQgsPointLocator__VisitorEdgesInRect.html" title="Helper class used when traversing the index looking for edges &#45; builds a list of matches. " alt="" coords="121,57,337,98"/>
+<area shape="rect" id="node4" href="$classQgsSpatialIndexCopyVisitor.html" title="QgsSpatialIndexCopyVisitor" alt="" coords="128,123,331,149"/>
+</map>

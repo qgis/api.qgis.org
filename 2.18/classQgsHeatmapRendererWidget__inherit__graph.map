@@ -1,0 +1,4 @@
+<map id="QgsHeatmapRendererWidget" name="QgsHeatmapRendererWidget">
+<area shape="rect" id="node2" href="$classQgsRendererV2Widget.html" title="Base class for renderer settings widgets. " alt="" coords="5,80,173,107"/>
+<area shape="rect" id="node3" href="$classQgsPanelWidget.html" title="Base class for any widget that can be shown as a inline panel. " alt="" coords="25,5,153,32"/>
+</map>

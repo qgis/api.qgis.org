@@ -1,0 +1,23 @@
+<map id="QgsSymbolLayerV2Widget" name="QgsSymbolLayerV2Widget">
+<area shape="rect" id="node5" href="$classQgsArrowSymbolLayerWidget.html" title="QgsArrowSymbolLayerWidget" alt="" coords="543,5,759,32"/>
+<area shape="rect" id="node6" href="$classQgsCentroidFillSymbolLayerV2Widget.html" title="QgsCentroidFillSymbolLayer\lV2Widget" alt="" coords="549,57,754,98"/>
+<area shape="rect" id="node7" href="$classQgsEllipseSymbolLayerV2Widget.html" title="QgsEllipseSymbolLayerV2Widget" alt="" coords="532,123,771,149"/>
+<area shape="rect" id="node8" href="$classQgsFilledMarkerSymbolLayerWidget.html" title="Widget for configuring QgsFilledMarkerSymbolLayer symbol layers. " alt="" coords="546,174,757,215"/>
+<area shape="rect" id="node9" href="$classQgsFontMarkerSymbolLayerV2Widget.html" title="QgsFontMarkerSymbolLayer\lV2Widget" alt="" coords="549,239,754,281"/>
+<area shape="rect" id="node10" href="$classQgsGeometryGeneratorSymbolLayerWidget.html" title="QgsGeometryGeneratorSymbol\lLayerWidget" alt="" coords="538,305,765,346"/>
+<area shape="rect" id="node11" href="$classQgsGradientFillSymbolLayerV2Widget.html" title="QgsGradientFillSymbolLayer\lV2Widget" alt="" coords="548,370,755,411"/>
+<area shape="rect" id="node12" href="$classQgsLinePatternFillSymbolLayerWidget.html" title="QgsLinePatternFillSymbol\lLayerWidget" alt="" coords="558,435,745,477"/>
+<area shape="rect" id="node13" href="$classQgsMarkerLineSymbolLayerV2Widget.html" title="QgsMarkerLineSymbolLayer\lV2Widget" alt="" coords="549,501,753,542"/>
+<area shape="rect" id="node14" href="$classQgsPointPatternFillSymbolLayerWidget.html" title="QgsPointPatternFillSymbol\lLayerWidget" alt="" coords="555,566,748,607"/>
+<area shape="rect" id="node15" href="$classQgsRasterFillSymbolLayerWidget.html" title="QgsRasterFillSymbolLayer\lWidget" alt="" coords="555,631,747,673"/>
+<area shape="rect" id="node16" href="$classQgsShapeburstFillSymbolLayerV2Widget.html" title="QgsShapeburstFillSymbolLayer\lV2Widget" alt="" coords="540,697,763,738"/>
+<area shape="rect" id="node17" href="$classQgsSimpleFillSymbolLayerV2Widget.html" title="QgsSimpleFillSymbolLayer\lV2Widget" alt="" coords="554,762,749,803"/>
+<area shape="rect" id="node18" href="$classQgsSimpleLineSymbolLayerV2Widget.html" title="QgsSimpleLineSymbolLayer\lV2Widget" alt="" coords="549,827,753,869"/>
+<area shape="rect" id="node19" href="$classQgsSimpleMarkerSymbolLayerV2Widget.html" title="QgsSimpleMarkerSymbolLayer\lV2Widget" alt="" coords="540,893,763,934"/>
+<area shape="rect" id="node20" href="$classQgsSVGFillSymbolLayerWidget.html" title="QgsSVGFillSymbolLayerWidget" alt="" coords="540,959,763,985"/>
+<area shape="rect" id="node21" href="$classQgsSvgMarkerSymbolLayerV2Widget.html" title="QgsSvgMarkerSymbolLayerV2\lWidget" alt="" coords="542,1010,761,1051"/>
+<area shape="rect" id="node22" href="$classQgsVectorFieldSymbolLayerWidget.html" title="QgsVectorFieldSymbolLayer\lWidget" alt="" coords="550,1075,753,1117"/>
+<area shape="rect" id="node2" href="http://doc.qt.io/qt-4.8/qt.tags$qwidget.html" title="QWidget" alt="" coords="163,541,241,568"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qobject.html" title="QObject" alt="" coords="23,516,97,543"/>
+<area shape="rect" id="node4" href="http://doc.qt.io/qt-4.8/qt.tags$qpaintdevice.html" title="QPaintDevice" alt="" coords="5,567,115,593"/>
+</map>

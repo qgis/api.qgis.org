@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['undoavailable',['undoAvailable',['http://doc.qt.io/qt-4.8/qlineedit.html#undoAvailable-prop',1,'QLineEdit']]],
+  ['undodepth',['undoDepth',['http://doc.qt.io/qt-4.8/q3textedit.html#undoDepth-prop',1,'Q3TextEdit']]],
+  ['undolimit',['undoLimit',['http://doc.qt.io/qt-4.8/qundostack.html#undoLimit-prop',1,'QUndoStack']]],
+  ['undoredoenabled',['undoRedoEnabled',['http://doc.qt.io/qt-4.8/qtextbrowser.html#undoRedoEnabled-prop',1,'QTextBrowser::undoRedoEnabled()'],['http://doc.qt.io/qt-4.8/qplaintextedit.html#undoRedoEnabled-prop',1,'QPlainTextEdit::undoRedoEnabled()'],['http://doc.qt.io/qt-4.8/qtextedit.html#undoRedoEnabled-prop',1,'QTextEdit::undoRedoEnabled()'],['http://doc.qt.io/qt-4.8/q3textedit.html#undoRedoEnabled-prop',1,'Q3TextEdit::undoRedoEnabled()'],['http://doc.qt.io/qt-4.8/qtextdocument.html#undoRedoEnabled-prop',1,'QTextDocument::undoRedoEnabled()']]],
+  ['unifiedtitleandtoolbaronmac',['unifiedTitleAndToolBarOnMac',['http://doc.qt.io/qt-4.8/qmainwindow.html#unifiedTitleAndToolBarOnMac-prop',1,'QMainWindow']]],
+  ['uniformitemsizes',['uniformItemSizes',['http://doc.qt.io/qt-4.8/qlistview.html#uniformItemSizes-prop',1,'QListView']]],
+  ['uniformrowheights',['uniformRowHeights',['http://doc.qt.io/qt-4.8/qtreeview.html#uniformRowHeights-prop',1,'QTreeView']]],
+  ['updateinterval',['updateInterval',['http://doc.qt.io/qt-4.8/qtimeline.html#updateInterval-prop',1,'QTimeLine']]],
+  ['updatesenabled',['updatesEnabled',['http://doc.qt.io/qt-4.8/qwidget.html#updatesEnabled-prop',1,'QWidget']]],
+  ['url',['url',['http://doc.qt.io/qt-4.8/qgraphicswebview.html#url-prop',1,'QGraphicsWebView::url()'],['http://doc.qt.io/qt-4.8/qwebview.html#url-prop',1,'QWebView::url()'],['http://doc.qt.io/qt-4.8/qwebframe.html#url-prop',1,'QWebFrame::url()'],['http://doc.qt.io/qt-4.8/qdeclarativecomponent.html#url-prop',1,'QDeclarativeComponent::url()']]],
+  ['usageinfo',['usageInfo',['../classQgsDataDefinedButton.html#a12b2e2c6717b128d4ed2196cfcc87b25',1,'QgsDataDefinedButton']]],
+  ['usedesignmetrics',['useDesignMetrics',['http://doc.qt.io/qt-4.8/qtextdocument.html#useDesignMetrics-prop',1,'QTextDocument']]],
+  ['uselink',['useLink',['../classQgsFileWidget.html#a57c95e3a0b87abbc678333a56af488b4',1,'QgsFileWidget']]],
+  ['usesbigpixmaps',['usesBigPixmaps',['http://doc.qt.io/qt-4.8/q3mainwindow.html#usesBigPixmaps-prop',1,'Q3MainWindow']]],
+  ['usesdropdown',['usesDropDown',['http://doc.qt.io/qt-4.8/q3actiongroup.html#usesDropDown-prop',1,'Q3ActionGroup']]],
+  ['usesscrollbuttons',['usesScrollButtons',['http://doc.qt.io/qt-4.8/qtabbar.html#usesScrollButtons-prop',1,'QTabBar::usesScrollButtons()'],['http://doc.qt.io/qt-4.8/qtabwidget.html#usesScrollButtons-prop',1,'QTabWidget::usesScrollButtons()']]],
+  ['usestextlabel',['usesTextLabel',['http://doc.qt.io/qt-4.8/q3mainwindow.html#usesTextLabel-prop',1,'Q3MainWindow']]]
+];

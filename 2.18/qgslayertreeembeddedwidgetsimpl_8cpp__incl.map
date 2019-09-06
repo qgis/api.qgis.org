@@ -1,0 +1,32 @@
+<map id="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/gui/layertree/qgslayertreeembeddedwidgetsimpl.cpp" name="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/gui/layertree/qgslayertreeembeddedwidgetsimpl.cpp">
+<area shape="rect" id="node2" href="$qgslayertreeembeddedwidgetsimpl_8h.html" title="qgslayertreeembeddedwidgetsimpl.h" alt="" coords="5,109,271,136"/>
+<area shape="rect" id="node10" href="$qgsrasterlayer_8h.html" title="qgsrasterlayer.h" alt="" coords="1777,109,1904,136"/>
+<area shape="rect" id="node31" href="$qgsrasterrenderer_8h.html" title="qgsrasterrenderer.h" alt="" coords="958,259,1107,285"/>
+<area shape="rect" id="node36" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="3182,259,3313,285"/>
+<area shape="rect" id="node4" href="$qgslayertreeembeddedwidgetregistry_8h.html" title="qgslayertreeembeddedwidgetregistry.h" alt="" coords="241,184,518,211"/>
+<area shape="rect" id="node16" href="$qgis_8h.html" title="qgis.h" alt="" coords="2213,483,2274,509"/>
+<area shape="rect" id="node17" href="$qgsbrightnesscontrastfilter_8h.html" title="qgsbrightnesscontrastfilter.h" alt="" coords="1444,259,1651,285"/>
+<area shape="rect" id="node18" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="1631,333,1808,360"/>
+<area shape="rect" id="node19" href="$qgscolorrampshader_8h.html" title="qgscolorrampshader.h" alt="" coords="700,408,867,435"/>
+<area shape="rect" id="node20" href="$qgsrastershaderfunction_8h.html" title="qgsrastershaderfunction.h" alt="" coords="561,483,753,509"/>
+<area shape="rect" id="node24" href="$qgsraster_8h.html" title="qgsraster.h" alt="" coords="1895,408,1989,435"/>
+<area shape="rect" id="node25" href="$qgsrasterinterface_8h.html" title="qgsrasterinterface.h" alt="" coords="1199,408,1352,435"/>
+<area shape="rect" id="node26" href="$qgscontrastenhancement_8h.html" title="qgscontrastenhancement.h" alt="" coords="2205,184,2404,211"/>
+<area shape="rect" id="node27" href="$qgshuesaturationfilter_8h.html" title="qgshuesaturationfilter.h" alt="" coords="1726,259,1902,285"/>
+<area shape="rect" id="node28" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="2383,408,2501,435"/>
+<area shape="rect" id="node29" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="2065,408,2155,435"/>
+<area shape="rect" id="node30" href="$qgsrasterpipe_8h.html" title="qgsrasterpipe.h" alt="" coords="1509,184,1631,211"/>
+<area shape="rect" id="node32" href="$qgsrasterresamplefilter_8h.html" title="qgsrasterresamplefilter.h" alt="" coords="1183,259,1368,285"/>
+<area shape="rect" id="node33" href="$qgsrastershader_8h.html" title="qgsrastershader.h" alt="" coords="542,184,681,211"/>
+<area shape="rect" id="node34" href="$qgsrastertransparency_8h.html" title="qgsrastertransparency.h" alt="" coords="3626,184,3805,211"/>
+<area shape="rect" id="node35" href="$qgsrasterviewport_8h.html" title="qgsrasterviewport.h" alt="" coords="1979,184,2131,211"/>
+<area shape="rect" id="node21" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="3366,408,3470,435"/>
+<area shape="rect" id="node23" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="2667,483,2753,509"/>
+<area shape="rect" id="node39" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="3301,333,3452,360"/>
+<area shape="rect" id="node40" href="$qgseditorwidgetconfig_8h.html" title="qgseditorwidgetconfig.h" alt="" coords="3091,408,3270,435"/>
+<area shape="rect" id="node41" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="3965,333,4073,360"/>
+<area shape="rect" id="node42" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="3528,333,3729,360"/>
+<area shape="rect" id="node43" href="$qgseditformconfig_8h.html" title="qgseditformconfig.h" alt="" coords="2990,333,3142,360"/>
+<area shape="rect" id="node44" href="$qgsattributetableconfig_8h.html" title="qgsattributetableconfig.h" alt="" coords="2577,408,2763,435"/>
+<area shape="rect" id="node45" href="$qgsaggregatecalculator_8h.html" title="qgsaggregatecalculator.h" alt="" coords="3754,333,3941,360"/>
+</map>

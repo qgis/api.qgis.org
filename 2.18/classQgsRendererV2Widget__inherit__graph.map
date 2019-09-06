@@ -1,0 +1,13 @@
+<map id="QgsRendererV2Widget" name="QgsRendererV2Widget">
+<area shape="rect" id="node4" href="$classQgs25DRendererWidget.html" title="Qgs25DRendererWidget" alt="" coords="553,5,731,32"/>
+<area shape="rect" id="node5" href="$classQgsCategorizedSymbolRendererV2Widget.html" title="QgsCategorizedSymbolRenderer\lV2Widget" alt="" coords="526,57,758,98"/>
+<area shape="rect" id="node6" href="$classQgsGraduatedSymbolRendererV2Widget.html" title="QgsGraduatedSymbolRenderer\lV2Widget" alt="" coords="531,122,753,163"/>
+<area shape="rect" id="node7" href="$classQgsHeatmapRendererWidget.html" title="QgsHeatmapRendererWidget" alt="" coords="537,188,747,215"/>
+<area shape="rect" id="node8" href="$classQgsInvertedPolygonRendererWidget.html" title="A widget used represent options of a QgsInvertedPolygonRenderer. " alt="" coords="537,239,747,281"/>
+<area shape="rect" id="node9" href="$classQgsNullSymbolRendererWidget.html" title="Blank widget for customising QgsNullSymbolRenderer. " alt="" coords="529,305,755,332"/>
+<area shape="rect" id="node10" href="$classQgsPointDisplacementRendererWidget.html" title="QgsPointDisplacementRenderer\lWidget" alt="" coords="528,357,756,398"/>
+<area shape="rect" id="node11" href="$classQgsRuleBasedRendererV2Widget.html" title="QgsRuleBasedRendererV2Widget" alt="" coords="524,423,760,449"/>
+<area shape="rect" id="node12" href="$classQgsSingleSymbolRendererV2Widget.html" title="QgsSingleSymbolRendererV2\lWidget" alt="" coords="537,474,747,515"/>
+<area shape="rect" id="node2" href="$classQgsPanelWidget.html" title="Base class for any widget that can be shown as a inline panel. " alt="" coords="132,247,260,273"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qwidget.html" title="QWidget" alt="" coords="5,247,84,273"/>
+</map>

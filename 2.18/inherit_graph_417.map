@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="http://doc.qt.io/qt-4.8/qt.tags$qstandarditem.html" title="QStandardItem" alt="" coords="5,132,125,159"/>
+<area shape="rect" id="node2" href="$classQgsComposerLegendItem.html" title="Abstract base class for the legend item types. " alt="" coords="173,81,364,108"/>
+<area shape="rect" id="node7" href="$classQgsComposerStyleItem.html" title="QgsComposerStyleItem" alt="" coords="181,132,357,159"/>
+<area shape="rect" id="node8" href="$classQgsExpressionItem.html" title="An expression item that can be used in the QgsExpressionBuilderWidget tree. " alt="" coords="195,183,343,209"/>
+<area shape="rect" id="node3" href="$classQgsComposerGroupItem.html" title="QgsComposerGroupItem" alt="" coords="438,5,621,32"/>
+<area shape="rect" id="node4" href="$classQgsComposerLayerItem.html" title="QgsComposerLayerItem" alt="" coords="440,56,619,83"/>
+<area shape="rect" id="node5" href="$classQgsComposerRasterSymbolItem.html" title="QgsComposerRasterSymbolItem" alt="" coords="412,107,647,133"/>
+<area shape="rect" id="node6" href="$classQgsComposerSymbolV2Item.html" title="QgsComposerSymbolV2Item" alt="" coords="425,157,634,184"/>
+</map>

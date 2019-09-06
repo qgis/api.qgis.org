@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsComposerMapItemStack.html" title="A collection of map items which are drawn above the map content in a QgsComposerMap. " alt="" coords="5,31,212,57"/>
+<area shape="rect" id="node2" href="$classQgsComposerMapGridStack.html" title="A collection of grids which is drawn above the map content in a QgsComposerMap. " alt="" coords="278,5,481,32"/>
+<area shape="rect" id="node3" href="$classQgsComposerMapOverviewStack.html" title="A collection of overviews which are drawn above the map content in a QgsComposerMap. " alt="" coords="260,56,499,83"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/core/composer/qgscomposermultiframecommand.h" name="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/core/composer/qgscomposermultiframecommand.h">
+<area shape="rect" id="node2" href="$qgscomposition_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposition.h" alt="" coords="2155,109,2383,165"/>
+<area shape="rect" id="node23" href="$qgscomposition_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposition.cpp" alt="" coords="3541,317,3769,373"/>
+<area shape="rect" id="node36" href="$qgscomposermultiframecommand_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposermultiframecommand.cpp" alt="" coords="6512,109,6791,165"/>
+<area shape="rect" id="node3" href="$qgsexpressioncontext_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgsexpressioncontext.cpp" alt="" coords="5468,221,5803,262"/>
+<area shape="rect" id="node4" href="$qgsmultirenderchecker_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/qgsmultirenderchecker.cpp" alt="" coords="5827,221,6167,262"/>
+<area shape="rect" id="node5" href="$qgsaddremoveitemcommand_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgsaddremoveitemcommand.cpp" alt="" coords="6191,213,6437,269"/>
+<area shape="rect" id="node6" href="$qgsaddremovemultiframecommand_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgsaddremovemultiframecommand.cpp" alt="" coords="753,213,1041,269"/>
+<area shape="rect" id="node7" href="$qgsatlascomposition_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgsatlascomposition.cpp" alt="" coords="1065,213,1293,269"/>
+<area shape="rect" id="node8" href="$qgscomposerarrow_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerarrow.cpp" alt="" coords="5,317,233,373"/>
+<area shape="rect" id="node9" href="$qgscomposerutils_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerutils.h" alt="" coords="1673,213,1901,269"/>
+<area shape="rect" id="node10" href="$qgscomposeritem_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposeritem.cpp" alt="" coords="257,317,485,373"/>
+<area shape="rect" id="node11" href="$qgscomposeritemgroup_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposeritemgroup.cpp" alt="" coords="509,317,737,373"/>
+<area shape="rect" id="node12" href="$qgscomposerlabel_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerlabel.cpp" alt="" coords="761,317,989,373"/>
+<area shape="rect" id="node13" href="$qgscomposermap_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposermap.cpp" alt="" coords="1013,317,1241,373"/>
+<area shape="rect" id="node14" href="$qgscomposermapgrid_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposermapgrid.cpp" alt="" coords="1265,317,1493,373"/>
+<area shape="rect" id="node15" href="$qgscomposermousehandles_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposermousehandles.cpp" alt="" coords="1518,317,1753,373"/>
+<area shape="rect" id="node16" href="$qgscomposernodesitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposernodesitem.cpp" alt="" coords="1777,317,2005,373"/>
+<area shape="rect" id="node17" href="$qgscomposerobject_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerobject.cpp" alt="" coords="2029,317,2257,373"/>
+<area shape="rect" id="node18" href="$qgscomposerpicture_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerpicture.cpp" alt="" coords="2281,317,2509,373"/>
+<area shape="rect" id="node19" href="$qgscomposerpolygon_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerpolygon.cpp" alt="" coords="2533,317,2761,373"/>
+<area shape="rect" id="node20" href="$qgscomposerpolyline_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerpolyline.cpp" alt="" coords="2785,317,3013,373"/>
+<area shape="rect" id="node21" href="$qgscomposerscalebar_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerscalebar.cpp" alt="" coords="3037,317,3265,373"/>
+<area shape="rect" id="node22" href="$qgscomposerutils_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerutils.cpp" alt="" coords="3289,317,3517,373"/>
+<area shape="rect" id="node24" href="$qgscomposertable_8h.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposertable.h" alt="" coords="2332,213,2560,269"/>
+<area shape="rect" id="node25" href="$qgscomposerframe_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerframe.cpp" alt="" coords="2584,213,2812,269"/>
+<area shape="rect" id="node26" href="$qgscomposerhtml_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerhtml.cpp" alt="" coords="2836,213,3064,269"/>
+<area shape="rect" id="node27" href="$qgscomposerlegend_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerlegend.cpp" alt="" coords="3088,213,3316,269"/>
+<area shape="rect" id="node28" href="$qgscomposerlegendstyle_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposerlegendstyle.cpp" alt="" coords="3340,213,3568,269"/>
+<area shape="rect" id="node29" href="$qgscomposermapoverview_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposermapoverview.cpp" alt="" coords="3592,213,3820,269"/>
+<area shape="rect" id="node30" href="$qgscomposermodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposermodel.cpp" alt="" coords="3844,213,4072,269"/>
+<area shape="rect" id="node31" href="$qgscomposermultiframe_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposermultiframe.cpp" alt="" coords="4096,213,4324,269"/>
+<area shape="rect" id="node32" href="$qgscomposershape_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgscomposershape.cpp" alt="" coords="4348,213,4576,269"/>
+<area shape="rect" id="node33" href="$qgsgroupungroupitemscommand_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgsgroupungroupitemscommand.cpp" alt="" coords="4600,213,4868,269"/>
+<area shape="rect" id="node34" href="$qgspaperitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/core/composer\l/qgspaperitem.cpp" alt="" coords="4892,213,5120,269"/>
+<area shape="rect" id="node35" href="$qgscomposerruler_8cpp.html" title="/tmp/buildd/qgis&#45;2.18.21\l+99unstable/src/gui/qgscomposerruler.cpp" alt="" coords="5145,221,5443,262"/>
+</map>

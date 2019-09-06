@@ -1,0 +1,4 @@
+<map id="QgsLabelFeature" name="QgsLabelFeature">
+<area shape="rect" id="node2" href="$classQgsDiagramLabelFeature.html" title="Class that adds extra information to QgsLabelFeature for labeling of diagrams. " alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node3" href="$classQgsTextLabelFeature.html" title="Class that adds extra information to QgsLabelFeature for text labels. " alt="" coords="216,80,373,107"/>
+</map>

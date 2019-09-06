@@ -1,0 +1,3 @@
+<map id="QgsVectorLayerRendererInterruptionChecker" name="QgsVectorLayerRendererInterruptionChecker">
+<area shape="rect" id="node2" href="$classQgsInterruptionChecker.html" title="Interface that can be optionaly attached to an iterator so its nextFeature() implementaton can check ..." alt="" coords="47,5,223,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="QgsRasterRendererWidget" name="QgsRasterRendererWidget">
+<area shape="rect" id="node5" href="$classQgsHillshadeRendererWidget.html" title="Renderer widget for the hill shade renderer. " alt="" coords="531,5,743,32"/>
+<area shape="rect" id="node6" href="$classQgsMultiBandColorRendererWidget.html" title="QgsMultiBandColorRenderer\lWidget" alt="" coords="535,57,739,98"/>
+<area shape="rect" id="node7" href="$classQgsPalettedRendererWidget.html" title="QgsPalettedRendererWidget" alt="" coords="535,123,739,149"/>
+<area shape="rect" id="node8" href="$classQgsSingleBandGrayRendererWidget.html" title="QgsSingleBandGrayRenderer\lWidget" alt="" coords="532,174,741,215"/>
+<area shape="rect" id="node9" href="$classQgsSingleBandPseudoColorRendererWidget.html" title="QgsSingleBandPseudoColor\lRendererWidget" alt="" coords="536,239,737,281"/>
+<area shape="rect" id="node2" href="http://doc.qt.io/qt-4.8/qt.tags$qwidget.html" title="QWidget" alt="" coords="163,123,241,149"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qobject.html" title="QObject" alt="" coords="23,97,97,124"/>
+<area shape="rect" id="node4" href="http://doc.qt.io/qt-4.8/qt.tags$qpaintdevice.html" title="QPaintDevice" alt="" coords="5,148,115,175"/>
+</map>

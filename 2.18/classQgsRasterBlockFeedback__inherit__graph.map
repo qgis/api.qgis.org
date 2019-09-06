@@ -1,0 +1,5 @@
+<map id="QgsRasterBlockFeedback" name="QgsRasterBlockFeedback">
+<area shape="rect" id="node4" href="$classQgsRasterLayerRenderer_1_1Feedback.html" title="Specific internal feedback class to provide preview of raster layer rendering. " alt="" coords="7,229,190,271"/>
+<area shape="rect" id="node2" href="$classQgsFeedback.html" title="Base class for feedback objects to be used for cancellation of something running in a worker thread..." alt="" coords="45,80,153,107"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qobject.html" title="QObject" alt="" coords="61,5,136,32"/>
+</map>

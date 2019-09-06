@@ -1,0 +1,7 @@
+<map id="QgsComposerNodesItem" name="QgsComposerNodesItem">
+<area shape="rect" id="node5" href="$classQgsComposerPolygon.html" title="Composer item for polygons. " alt="" coords="5,229,171,256"/>
+<area shape="rect" id="node6" href="$classQgsComposerPolyline.html" title="Composer item for polylines. " alt="" coords="195,229,360,256"/>
+<area shape="rect" id="node2" href="$classQgsComposerItem.html" title="A item that forms part of a map composition. " alt="" coords="111,80,254,107"/>
+<area shape="rect" id="node3" href="$classQgsComposerObject.html" title="A base class for objects which belong to a map composition. " alt="" coords="19,5,173,32"/>
+<area shape="rect" id="node4" href="http://doc.qt.io/qt-4.8/qt.tags$qgraphicsrectitem.html" title="QGraphicsRectItem" alt="" coords="197,5,344,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsComposerPolygon" name="QgsComposerPolygon">
+<area shape="rect" id="node2" href="$classQgsComposerNodesItem.html" title="An abstract composer item that provides generic methods for nodes based shapes such as polygon or pol..." alt="" coords="5,80,189,107"/>
+<area shape="rect" id="node3" href="$classQgsComposerItem.html" title="A item that forms part of a map composition. " alt="" coords="26,5,169,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsInterruptionChecker" name="QgsInterruptionChecker">
+<area shape="rect" id="node2" href="$classQgsVectorLayerInterruptionCheckerDuringCountSymbolFeatures.html" title="Used by QgsVectorLayer::countSymbolFeatures() to provide an interruption checker. ..." alt="" coords="229,5,489,47"/>
+<area shape="rect" id="node3" href="$classQgsVectorLayerRendererInterruptionChecker.html" title="Interruption checker used by QgsVectorLayerRenderer::render() " alt="" coords="230,71,489,112"/>
+</map>

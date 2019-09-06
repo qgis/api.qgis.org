@@ -1,0 +1,19 @@
+<map id="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/core/qgsvectordataprovider.h" name="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/core/qgsvectordataprovider.h">
+<area shape="rect" id="node6" href="$qgis_8h.html" title="qgis.h" alt="" coords="825,319,887,345"/>
+<area shape="rect" id="node20" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="121,169,260,196"/>
+<area shape="rect" id="node25" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="2028,244,2132,271"/>
+<area shape="rect" id="node27" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="2055,319,2140,345"/>
+<area shape="rect" id="node28" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="649,169,767,196"/>
+<area shape="rect" id="node32" href="$qgsaggregatecalculator_8h.html" title="qgsaggregatecalculator.h" alt="" coords="1649,169,1836,196"/>
+<area shape="rect" id="node36" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="947,95,1101,121"/>
+<area shape="rect" id="node19" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="1109,393,1229,420"/>
+<area shape="rect" id="node23" href="$qgsdatasourceuri_8h.html" title="qgsdatasourceuri.h" alt="" coords="905,244,1052,271"/>
+<area shape="rect" id="node24" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="173,244,259,271"/>
+<area shape="rect" id="node31" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="588,244,679,271"/>
+<area shape="rect" id="node33" href="$qgsstatisticalsummary_8h.html" title="qgsstatisticalsummary.h" alt="" coords="1697,319,1879,345"/>
+<area shape="rect" id="node34" href="$qgsdatetimestatisticalsummary_8h.html" title="qgsdatetimestatisticalsummary.h" alt="" coords="1217,244,1457,271"/>
+<area shape="rect" id="node35" href="$qgsstringstatisticalsummary_8h.html" title="qgsstringstatisticalsummary.h" alt="" coords="1633,244,1852,271"/>
+<area shape="rect" id="node38" href="$qgsexpression_8h.html" title="qgsexpression.h" alt="" coords="753,244,881,271"/>
+<area shape="rect" id="node39" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="1117,169,1294,196"/>
+<area shape="rect" id="node40" href="$qgssimplifymethod_8h.html" title="qgssimplifymethod.h" alt="" coords="791,169,951,196"/>
+</map>

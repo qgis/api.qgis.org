@@ -1,0 +1,16 @@
+<map id="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/core/qgsgml.h" name="/tmp/buildd/qgis&#45;2.18.21+99unstable/src/core/qgsgml.h">
+<area shape="rect" id="node3" href="$qgis_8h.html" title="qgis.h" alt="" coords="835,244,896,271"/>
+<area shape="rect" id="node19" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="259,169,389,196"/>
+<area shape="rect" id="node23" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1009,169,1245,196"/>
+<area shape="rect" id="node25" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="1311,95,1449,121"/>
+<area shape="rect" id="node30" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1739,169,1843,196"/>
+<area shape="rect" id="node33" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1879,244,1964,271"/>
+<area shape="rect" id="node34" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="2222,169,2319,196"/>
+<area shape="rect" id="node37" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="2096,169,2187,196"/>
+<area shape="rect" id="node39" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="2097,95,2215,121"/>
+<area shape="rect" id="node42" href="$qgswkbptr_8h.html" title="qgswkbptr.h" alt="" coords="580,95,681,121"/>
+<area shape="rect" id="node17" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="99,319,219,345"/>
+<area shape="rect" id="node27" href="$qgsdatasourceuri_8h.html" title="qgsdatasourceuri.h" alt="" coords="837,169,984,196"/>
+<area shape="rect" id="node28" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="1469,169,1555,196"/>
+<area shape="rect" id="node43" href="$qgsexception_8h.html" title="qgsexception.h" alt="" coords="689,244,810,271"/>
+</map>

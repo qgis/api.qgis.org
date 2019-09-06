@@ -1,0 +1,4 @@
+<map id="QgsComposerMergeCommand" name="QgsComposerMergeCommand">
+<area shape="rect" id="node2" href="$classQgsComposerItemCommand.html" title="Undo command to undo/redo all composer item related changes. " alt="" coords="10,80,221,107"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qundocommand.html" title="QUndoCommand" alt="" coords="49,5,182,32"/>
+</map>

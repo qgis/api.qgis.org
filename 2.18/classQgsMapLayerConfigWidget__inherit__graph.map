@@ -1,0 +1,8 @@
+<map id="QgsMapLayerConfigWidget" name="QgsMapLayerConfigWidget">
+<area shape="rect" id="node4" href="$classQgsMapLayerStyleManagerWidget.html" title="The QgsMapLayerStyleManagerWidget class which is used to visually manage the layer styles..." alt="" coords="553,5,799,32"/>
+<area shape="rect" id="node5" href="$classQgsRasterHistogramWidget.html" title="Histogram widget. " alt="" coords="575,56,777,83"/>
+<area shape="rect" id="node6" href="$classQgsRasterTransparencyWidget.html" title="Widget to control a layers transparency and related options. " alt="" coords="565,107,787,133"/>
+<area shape="rect" id="node7" href="$classQgsRendererRasterPropertiesWidget.html" title="QgsRendererRasterProperties\lWidget" alt="" coords="569,158,783,199"/>
+<area shape="rect" id="node2" href="$classQgsPanelWidget.html" title="Base class for any widget that can be shown as a inline panel. " alt="" coords="132,81,260,108"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qwidget.html" title="QWidget" alt="" coords="5,81,84,108"/>
+</map>

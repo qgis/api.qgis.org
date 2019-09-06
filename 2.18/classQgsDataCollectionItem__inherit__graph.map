@@ -1,0 +1,7 @@
+<map id="QgsDataCollectionItem" name="QgsDataCollectionItem">
+<area shape="rect" id="node4" href="$classQgsDirectoryItem.html" title="A directory: contains subdirectories and layers. " alt="" coords="5,229,143,256"/>
+<area shape="rect" id="node5" href="$classQgsFavouritesItem.html" title="Contains various Favourites directories. " alt="" coords="167,229,311,256"/>
+<area shape="rect" id="node6" href="$classQgsZipItem.html" title="A zip file: contains layers, using GDAL/OGR VSIFILE mechanism. " alt="" coords="335,229,434,256"/>
+<area shape="rect" id="node2" href="$classQgsDataItem.html" title="Base class for all items in the model. " alt="" coords="185,80,293,107"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qobject.html" title="QObject" alt="" coords="202,5,277,32"/>
+</map>

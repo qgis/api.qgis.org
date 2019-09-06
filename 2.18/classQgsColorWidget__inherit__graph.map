@@ -1,0 +1,11 @@
+<map id="QgsColorWidget" name="QgsColorWidget">
+<area shape="rect" id="node5" href="$classQgsColorBox.html" title="A color box widget. " alt="" coords="500,5,607,32"/>
+<area shape="rect" id="node6" href="$classQgsColorPreviewWidget.html" title="A preview box which displays one or two colors as swatches. " alt="" coords="464,56,643,83"/>
+<area shape="rect" id="node7" href="$classQgsColorRampWidget.html" title="A color ramp widget. " alt="" coords="471,107,636,133"/>
+<area shape="rect" id="node8" href="$classQgsColorSliderWidget.html" title="A composite horizontal color ramp widget and associated spinbox for manual value entry. " alt="" coords="471,157,635,184"/>
+<area shape="rect" id="node9" href="$classQgsColorTextWidget.html" title="A line edit widget which displays colors as text and accepts string representations of colors..." alt="" coords="476,208,631,235"/>
+<area shape="rect" id="node10" href="$classQgsColorWheel.html" title="A color wheel widget. " alt="" coords="492,259,615,285"/>
+<area shape="rect" id="node2" href="http://doc.qt.io/qt-4.8/qt.tags$qwidget.html" title="QWidget" alt="" coords="163,132,241,159"/>
+<area shape="rect" id="node3" href="http://doc.qt.io/qt-4.8/qt.tags$qobject.html" title="QObject" alt="" coords="23,107,97,133"/>
+<area shape="rect" id="node4" href="http://doc.qt.io/qt-4.8/qt.tags$qpaintdevice.html" title="QPaintDevice" alt="" coords="5,157,115,184"/>
+</map>

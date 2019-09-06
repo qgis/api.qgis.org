@@ -1,0 +1,6 @@
+<map id="QgsFormAnnotationItem" name="QgsFormAnnotationItem">
+<area shape="rect" id="node2" href="http://doc.qt.io/qt-4.8/qt.tags$qobject.html" title="QObject" alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node3" href="$classQgsAnnotationItem.html" title="An annotation item can be either placed either on screen corrdinates or on map coordinates. " alt="" coords="105,80,253,107"/>
+<area shape="rect" id="node4" href="$classQgsMapCanvasItem.html" title="An abstract class for items that can be placed on the map canvas. " alt="" coords="23,5,175,32"/>
+<area shape="rect" id="node5" href="$classQgsAnnotation.html" title="An interface for annotation items which are drawn over a map. " alt="" coords="199,5,318,32"/>
+</map>

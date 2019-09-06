@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsInterruptionChecker.html" title="Interface that can be optionaly attached to an iterator so its nextFeature() implementaton can check ..." alt="" coords="5,46,181,73"/>
+<area shape="rect" id="node2" href="$classQgsVectorLayerInterruptionCheckerDuringCountSymbolFeatures.html" title="Used by QgsVectorLayer::countSymbolFeatures() to provide an interruption checker. ..." alt="" coords="229,5,489,47"/>
+<area shape="rect" id="node3" href="$classQgsVectorLayerRendererInterruptionChecker.html" title="Interruption checker used by QgsVectorLayerRenderer::render() " alt="" coords="230,71,489,112"/>
+</map>
