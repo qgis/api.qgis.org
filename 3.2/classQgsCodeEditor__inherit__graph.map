@@ -1,0 +1,6 @@
+<map id="QgsCodeEditor" name="QgsCodeEditor">
+<area shape="rect" id="node3" href="$classQgsCodeEditorCSS.html" title="A CSS editor based on QScintilla2. " alt="" coords="5,155,148,181"/>
+<area shape="rect" id="node4" href="$classQgsCodeEditorHTML.html" title="A HTML editor based on QScintilla2. " alt="" coords="173,155,327,181"/>
+<area shape="rect" id="node5" href="$classQgsCodeEditorPython.html" title="A Python editor based on QScintilla2. " alt="" coords="351,155,514,181"/>
+<area shape="rect" id="node6" href="$classQgsCodeEditorSQL.html" title="A SQL editor based on QScintilla2. " alt="" coords="539,155,681,181"/>
+</map>

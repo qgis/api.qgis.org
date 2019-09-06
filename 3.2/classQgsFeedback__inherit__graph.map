@@ -1,0 +1,6 @@
+<map id="QgsFeedback" name="QgsFeedback">
+<area shape="rect" id="node3" href="$classQgsProcessingFeedback.html" title="Base class for providing feedback from a processing algorithm. " alt="" coords="324,5,503,32"/>
+<area shape="rect" id="node5" href="$classQgsRasterBlockFeedback.html" title="Feedback object tailored for raster block reading. " alt="" coords="320,56,507,83"/>
+<area shape="rect" id="node6" href="$classQgsVectorLayerRendererInterruptionChecker.html" title="Interruption checker used by QgsVectorLayerRenderer::render() " alt="" coords="284,107,543,149"/>
+<area shape="rect" id="node4" href="$classQgsProcessingMultiStepFeedback.html" title="Processing feedback object for multi&#45;step operations. " alt="" coords="591,5,829,32"/>
+</map>

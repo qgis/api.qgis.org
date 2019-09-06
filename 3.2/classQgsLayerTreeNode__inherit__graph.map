@@ -1,0 +1,5 @@
+<map id="QgsLayerTreeNode" name="QgsLayerTreeNode">
+<area shape="rect" id="node3" href="$classQgsLayerTreeGroup.html" title="Layer tree group node serves as a container for layers and further groups. " alt="" coords="5,155,155,181"/>
+<area shape="rect" id="node5" href="$classQgsLayerTreeLayer.html" title="Layer tree node points to a map layer. " alt="" coords="179,155,325,181"/>
+<area shape="rect" id="node4" href="$classQgsLayerTree.html" title="Namespace with helper functions for layer tree operations. " alt="" coords="25,229,135,256"/>
+</map>

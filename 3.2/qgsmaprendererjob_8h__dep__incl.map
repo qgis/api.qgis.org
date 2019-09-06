@@ -1,0 +1,18 @@
+<map id="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsmaprendererjob.h" name="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsmaprendererjob.h">
+<area shape="rect" id="node2" href="$qgsmaprenderercustompainterjob_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprenderercustompainterjob.h" alt="" coords="1571,95,1969,136"/>
+<area shape="rect" id="node9" href="$qgsmaprendererjob_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprendererjob.cpp" alt="" coords="2388,95,2707,136"/>
+<area shape="rect" id="node10" href="$qgsmaprendererparalleljob_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprendererparalleljob.h" alt="" coords="682,95,1034,136"/>
+<area shape="rect" id="node13" href="$qgsmaprenderersequentialjob_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprenderersequentialjob.h" alt="" coords="1993,95,2363,136"/>
+<area shape="rect" id="node16" href="$qgsmapsettings_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmapsettings.cpp" alt="" coords="2731,95,3025,136"/>
+<area shape="rect" id="node17" href="$qgsmapcanvasmap_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmapcanvasmap.cpp" alt="" coords="3049,95,3360,136"/>
+<area shape="rect" id="node3" href="$qgsmaprenderercustompainterjob_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprenderercustompainterjob.cpp" alt="" coords="635,191,1047,233"/>
+<area shape="rect" id="node4" href="$qgsmaprenderersequentialjob_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprenderersequentialjob.cpp" alt="" coords="1941,191,2327,233"/>
+<area shape="rect" id="node5" href="$qgsmaprenderertask_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprenderertask.h" alt="" coords="1376,191,1687,233"/>
+<area shape="rect" id="node6" href="$qgslayoutitemmap_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/layout\l/qgslayoutitemmap.h" alt="" coords="1711,184,1917,240"/>
+<area shape="rect" id="node7" href="$qgsmapcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmapcanvas.cpp" alt="" coords="1071,191,1352,233"/>
+<area shape="rect" id="node8" href="$qgsterraintexturegenerator__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/3d/terrain\l/qgsterraintexturegenerator_p.cpp" alt="" coords="2352,184,2596,240"/>
+<area shape="rect" id="node11" href="$qgsmaprendererparalleljob_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprendererparalleljob.cpp" alt="" coords="5,191,372,233"/>
+<area shape="rect" id="node12" href="$qgsquickmapcanvasmap_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/quickgui\l/qgsquickmapcanvasmap.cpp" alt="" coords="396,184,611,240"/>
+<area shape="rect" id="node14" href="$qgsrenderchecker_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsrenderchecker.cpp" alt="" coords="2621,191,2927,233"/>
+<area shape="rect" id="node15" href="$qgsmapoverviewcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmapoverviewcanvas.cpp" alt="" coords="2951,191,3293,233"/>
+</map>

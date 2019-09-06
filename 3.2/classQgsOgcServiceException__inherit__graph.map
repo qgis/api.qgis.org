@@ -1,0 +1,4 @@
+<map id="QgsOgcServiceException" name="QgsOgcServiceException">
+<area shape="rect" id="node2" href="$classQgsServerException.html" title="Exception base class for server exceptions. " alt="" coords="21,80,174,107"/>
+<area shape="rect" id="node3" href="$classQgsException.html" title="Defines a QGIS exception class. " alt="" coords="42,5,153,32"/>
+</map>

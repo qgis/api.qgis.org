@@ -1,0 +1,10 @@
+<map id="QgsMarkerSymbolLayer" name="QgsMarkerSymbolLayer">
+<area shape="rect" id="node3" href="$classQgsEllipseSymbolLayer.html" title="A symbol layer for rendering objects with major and minor axis (e.g. " alt="" coords="451,5,625,32"/>
+<area shape="rect" id="node4" href="$classQgsFontMarkerSymbolLayer.html" title="QgsFontMarkerSymbolLayer" alt="" coords="435,56,641,83"/>
+<area shape="rect" id="node5" href="$classQgsSimpleMarkerSymbolLayerBase.html" title="Abstract base class for simple marker symbol layers. " alt="" coords="411,107,665,133"/>
+<area shape="rect" id="node8" href="$classQgsSvgMarkerSymbolLayer.html" title="QgsSvgMarkerSymbolLayer" alt="" coords="437,157,639,184"/>
+<area shape="rect" id="node9" href="$classQgsVectorFieldSymbolLayer.html" title="A symbol layer class for displaying displacement arrows based on point layer attributes. " alt="" coords="437,208,639,235"/>
+<area shape="rect" id="node2" href="$classQgsSymbolLayer.html" title="QgsSymbolLayer" alt="" coords="5,107,137,133"/>
+<area shape="rect" id="node6" href="$classQgsFilledMarkerSymbolLayer.html" title="Filled marker symbol layer, consisting of a shape which is rendered using a QgsFillSymbol. " alt="" coords="719,81,930,108"/>
+<area shape="rect" id="node7" href="$classQgsSimpleMarkerSymbolLayer.html" title="Simple marker symbol layer, consisting of a rendered shape with solid fill color and an stroke..." alt="" coords="713,132,936,159"/>
+</map>

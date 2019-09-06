@@ -1,0 +1,21 @@
+<map id="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsmaplayerlistutils.h" name="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsmaplayerlistutils.h">
+<area shape="rect" id="node2" href="$qgsprocessingcontext_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/processing\l/qgsprocessingcontext.h" alt="" coords="333,95,567,151"/>
+<area shape="rect" id="node4" href="$qgsexpressioncontext_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsexpressioncontext.cpp" alt="" coords="5,310,340,351"/>
+<area shape="rect" id="node11" href="$qgsmaprenderercache_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprenderercache.cpp" alt="" coords="591,102,927,143"/>
+<area shape="rect" id="node12" href="$qgsmaprenderercustompainterjob_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprenderercustompainterjob.cpp" alt="" coords="952,102,1364,143"/>
+<area shape="rect" id="node13" href="$qgsmaprendererjob_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprendererjob.cpp" alt="" coords="1388,102,1707,143"/>
+<area shape="rect" id="node14" href="$qgsmaprendererparalleljob_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprendererparalleljob.cpp" alt="" coords="1731,102,2097,143"/>
+<area shape="rect" id="node15" href="$qgsmapsettings_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmapsettings.cpp" alt="" coords="2121,102,2416,143"/>
+<area shape="rect" id="node16" href="$qgsmapthemecollection_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmapthemecollection.cpp" alt="" coords="2440,102,2788,143"/>
+<area shape="rect" id="node17" href="$qgsproject_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsproject.cpp" alt="" coords="2813,102,3071,143"/>
+<area shape="rect" id="node18" href="$qgstaskmanager_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgstaskmanager.cpp" alt="" coords="3095,102,3394,143"/>
+<area shape="rect" id="node19" href="$qgslayertree_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/layertree\l/qgslayertree.cpp" alt="" coords="3419,95,3641,151"/>
+<area shape="rect" id="node20" href="$qgslayoutitemmap_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/layout\l/qgslayoutitemmap.cpp" alt="" coords="3666,95,3871,151"/>
+<area shape="rect" id="node3" href="$qgsprocessingalgorithm_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/processing\l/qgsprocessingalgorithm.h" alt="" coords="882,199,1117,255"/>
+<area shape="rect" id="node5" href="$qgsprocessingalgorithm_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/processing\l/qgsprocessingalgorithm.cpp" alt="" coords="365,303,599,359"/>
+<area shape="rect" id="node6" href="$qgsprocessingalgrunnertask_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/processing\l/qgsprocessingalgrunnertask.cpp" alt="" coords="623,303,859,359"/>
+<area shape="rect" id="node7" href="$qgsprocessingparameters_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/processing\l/qgsprocessingparameters.cpp" alt="" coords="882,303,1117,359"/>
+<area shape="rect" id="node8" href="$qgsprocessingutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/processing\l/qgsprocessingutils.cpp" alt="" coords="1141,303,1375,359"/>
+<area shape="rect" id="node9" href="$qgsprocessingcontext_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/processing\l/qgsprocessingcontext.cpp" alt="" coords="333,199,567,255"/>
+<area shape="rect" id="node10" href="$qgsprocessingalgorithmdialogbase_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/processing\l/qgsprocessingalgorithmdialogbase.h" alt="" coords="592,199,857,255"/>
+</map>

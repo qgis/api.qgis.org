@@ -1,0 +1,7 @@
+<map id="QgsLayoutTable" name="QgsLayoutTable">
+<area shape="rect" id="node5" href="$classQgsLayoutItemAttributeTable.html" title="A layout table subclass that displays attributes from a vector layer. " alt="" coords="5,229,217,256"/>
+<area shape="rect" id="node6" href="$classQgsLayoutItemTextTable.html" title="A text table item that reads text from string lists. " alt="" coords="241,229,424,256"/>
+<area shape="rect" id="node2" href="$classQgsLayoutMultiFrame.html" title="Abstract base class for layout items with the ability to distribute the content to several frames (Qg..." alt="" coords="141,80,303,107"/>
+<area shape="rect" id="node3" href="$classQgsLayoutObject.html" title="A base class for objects which belong to a layout. " alt="" coords="54,5,187,32"/>
+<area shape="rect" id="node4" href="$classQgsLayoutUndoObjectInterface.html" title="Interface for layout objects which support undo/redo commands. " alt="" coords="212,5,437,32"/>
+</map>

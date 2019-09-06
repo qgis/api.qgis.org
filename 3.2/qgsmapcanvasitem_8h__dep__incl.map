@@ -1,0 +1,29 @@
+<map id="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/gui/qgsmapcanvasitem.h" name="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/gui/qgsmapcanvasitem.h">
+<area shape="rect" id="node2" href="$qgsadvanceddigitizingcanvasitem_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsadvanceddigitizingcanvasitem.h" alt="" coords="441,95,832,136"/>
+<area shape="rect" id="node5" href="$qgshighlight_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgshighlight.h" alt="" coords="1467,95,1715,136"/>
+<area shape="rect" id="node10" href="$qgsrubberband_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsrubberband.h" alt="" coords="4521,95,4787,136"/>
+<area shape="rect" id="node19" href="$qgsgeometryrubberband_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsgeometryrubberband.h" alt="" coords="5258,95,5586,136"/>
+<area shape="rect" id="node21" href="$qgsmapcanvasannotationitem_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmapcanvasannotationitem.h" alt="" coords="2567,95,2933,136"/>
+<area shape="rect" id="node23" href="$qgsmapcanvasmap_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmapcanvasmap.h" alt="" coords="2957,95,3252,136"/>
+<area shape="rect" id="node25" href="$qgsmapcanvasitem_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmapcanvasitem.cpp" alt="" coords="5611,95,5921,136"/>
+<area shape="rect" id="node26" href="$qgsvertexmarker_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsvertexmarker.h" alt="" coords="3439,95,3717,136"/>
+<area shape="rect" id="node3" href="$qgsadvanceddigitizingcanvasitem_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsadvanceddigitizingcanvasitem.cpp" alt="" coords="434,191,839,233"/>
+<area shape="rect" id="node4" href="$qgsadvanceddigitizingdockwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsadvanceddigitizingdockwidget.cpp" alt="" coords="5,191,409,233"/>
+<area shape="rect" id="node6" href="$qgsattributedialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsattributedialog.cpp" alt="" coords="1739,191,2041,233"/>
+<area shape="rect" id="node7" href="$qgshighlight_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgshighlight.cpp" alt="" coords="864,191,1127,233"/>
+<area shape="rect" id="node8" href="$qgsidentifymenu_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsidentifymenu.cpp" alt="" coords="1151,191,1445,233"/>
+<area shape="rect" id="node9" href="$qgsrelationreferencewidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/editorwidgets\l/qgsrelationreferencewidget.cpp" alt="" coords="1469,184,1714,240"/>
+<area shape="rect" id="node11" href="$qgsmaptoolextent_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmaptoolextent.h" alt="" coords="5415,191,5701,233"/>
+<area shape="rect" id="node12" href="$qgsmapcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmapcanvas.cpp" alt="" coords="2807,191,3088,233"/>
+<area shape="rect" id="node13" href="$qgsmaptoolcapture_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmaptoolcapture.cpp" alt="" coords="4173,191,4482,233"/>
+<area shape="rect" id="node14" href="$qgsmaptooledit_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmaptooledit.cpp" alt="" coords="5726,191,6011,233"/>
+<area shape="rect" id="node15" href="$qgsmaptoolzoom_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmaptoolzoom.cpp" alt="" coords="4506,191,4802,233"/>
+<area shape="rect" id="node16" href="$qgsprojectionselectiontreewidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsprojectionselectiontreewidget.cpp" alt="" coords="3749,191,4149,233"/>
+<area shape="rect" id="node17" href="$qgsrubberband_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsrubberband.cpp" alt="" coords="4826,191,5106,233"/>
+<area shape="rect" id="node18" href="$qgsorganizetablecolumnsdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsorganizetablecolumnsdialog.cpp" alt="" coords="5131,184,5391,240"/>
+<area shape="rect" id="node20" href="$qgsgeometryrubberband_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsgeometryrubberband.cpp" alt="" coords="6036,191,6379,233"/>
+<area shape="rect" id="node22" href="$qgsmapcanvasannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmapcanvasannotationitem.cpp" alt="" coords="2066,191,2447,233"/>
+<area shape="rect" id="node24" href="$qgsmapcanvasmap_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmapcanvasmap.cpp" alt="" coords="2472,191,2783,233"/>
+<area shape="rect" id="node27" href="$qgssnapindicator_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgssnapindicator.cpp" alt="" coords="3431,191,3725,233"/>
+<area shape="rect" id="node28" href="$qgsvertexmarker_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsvertexmarker.cpp" alt="" coords="3112,191,3407,233"/>
+</map>

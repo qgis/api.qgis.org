@@ -1,0 +1,24 @@
+<map id="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/layout/qgslayoutitemmap.h" name="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/layout/qgslayoutitemmap.h">
+<area shape="rect" id="node3" href="$qgslayoutitem_8h.html" title="qgslayoutitem.h" alt="" coords="592,184,720,211"/>
+<area shape="rect" id="node19" href="$qgslayoutitemregistry_8h.html" title="qgslayoutitemregistry.h" alt="" coords="1888,109,2064,136"/>
+<area shape="rect" id="node23" href="$qgsmaplayerref_8h.html" title="qgsmaplayerref.h" alt="" coords="1093,109,1229,136"/>
+<area shape="rect" id="node27" href="$qgsmaprenderercustompainterjob_8h.html" title="qgsmaprenderercustompainterjob.h" alt="" coords="2677,184,2931,211"/>
+<area shape="rect" id="node30" href="$qgslayoutitemmapgrid_8h.html" title="qgslayoutitemmapgrid.h" alt="" coords="1599,184,1782,211"/>
+<area shape="rect" id="node33" href="$qgslayoutitemmapoverview_8h.html" title="qgslayoutitemmapoverview.h" alt="" coords="2141,184,2357,211"/>
+<area shape="rect" id="node4" href="$qgslayoutobject_8h.html" title="qgslayoutobject.h" alt="" coords="813,333,952,360"/>
+<area shape="rect" id="node8" href="$qgslayoutsize_8h.html" title="qgslayoutsize.h" alt="" coords="285,408,409,435"/>
+<area shape="rect" id="node9" href="$qgslayoutpoint_8h.html" title="qgslayoutpoint.h" alt="" coords="320,333,451,360"/>
+<area shape="rect" id="node10" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="1959,333,2107,360"/>
+<area shape="rect" id="node13" href="$qgslayoutundocommand_8h.html" title="qgslayoutundocommand.h" alt="" coords="625,259,820,285"/>
+<area shape="rect" id="node15" href="$qgslayoutmeasurement_8h.html" title="qgslayoutmeasurement.h" alt="" coords="5,408,195,435"/>
+<area shape="rect" id="node5" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1786,408,1873,435"/>
+<area shape="rect" id="node11" href="$qgspathresolver_8h.html" title="qgspathresolver.h" alt="" coords="2785,408,2924,435"/>
+<area shape="rect" id="node14" href="$qgis_8h.html" title="qgis.h" alt="" coords="2132,333,2193,360"/>
+<area shape="rect" id="node20" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="2429,259,2558,285"/>
+<area shape="rect" id="node24" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1199,259,1318,285"/>
+<area shape="rect" id="node25" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="976,333,1115,360"/>
+<area shape="rect" id="node26" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="1110,184,1213,211"/>
+<area shape="rect" id="node28" href="$qgsmaprendererjob_8h.html" title="qgsmaprendererjob.h" alt="" coords="1858,259,2019,285"/>
+<area shape="rect" id="node31" href="$qgslayoutitemmapitem_8h.html" title="qgslayoutitemmapitem.h" alt="" coords="1495,259,1681,285"/>
+<area shape="rect" id="node32" href="$qgssymbol_8h.html" title="qgssymbol.h" alt="" coords="2197,259,2302,285"/>
+</map>

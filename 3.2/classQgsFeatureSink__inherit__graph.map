@@ -1,0 +1,11 @@
+<map id="QgsFeatureSink" name="QgsFeatureSink">
+<area shape="rect" id="node2" href="$classQgsFeatureStore.html" title="A container for features with the same fields and crs. " alt="" coords="205,5,334,32"/>
+<area shape="rect" id="node3" href="$classQgsProxyFeatureSink.html" title="A simple feature sink which proxies feature addition on to another feature sink. " alt="" coords="189,56,349,83"/>
+<area shape="rect" id="node5" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers. " alt="" coords="183,107,356,133"/>
+<area shape="rect" id="node6" href="$classQgsVectorFileWriter.html" title="A convenience class for writing vector files to disk. " alt="" coords="195,157,344,184"/>
+<area shape="rect" id="node7" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="207,208,331,235"/>
+<area shape="rect" id="node9" href="$classQgsVectorLayerExporter.html" title="A convenience class for exporting vector layers to a destination data provider. " alt="" coords="180,259,359,285"/>
+<area shape="rect" id="node10" href="$classQgsVectorLayerJoinBuffer.html" title="Manages joined fields for a vector layer. " alt="" coords="176,309,363,336"/>
+<area shape="rect" id="node4" href="$classQgsProcessingFeatureSink.html" title="QgsProxyFeatureSink subclass which reports feature addition errors to a QgsProcessingContext. " alt="" coords="411,56,604,83"/>
+<area shape="rect" id="node8" href="$classQgsAuxiliaryLayer.html" title="Class allowing to manage the auxiliary storage for a vector layer. " alt="" coords="437,208,578,235"/>
+</map>

@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['vali',['Vali',['../classQgsPalLayerSettings.html#a7d8c0bc9cdbb0e4159a8071205790f9aafc00c9b621833b0c92ac3cd03611a842',1,'QgsPalLayerSettings']]],
+  ['valid',['Valid',['../classQgsAuthConfigEdit.html#ad0fbda9ffb0760b5d089fb55df97ac13aef866159636c2080e72e5dc74c78173a',1,'QgsAuthConfigEdit::Valid()'],['../classQgsAuthImportIdentityDialog.html#a544fb5f30c43b0b37904a022913699dfa8045cfaa29f460f1f22e82357b18292f',1,'QgsAuthImportIdentityDialog::Valid()']]],
+  ['validatorgeos',['ValidatorGeos',['../classQgsGeometry.html#aff2cde1dd216fd769479445672b8c734a955066d753ba96304dc468af84bbed4f',1,'QgsGeometry']]],
+  ['validatorqgisinternal',['ValidatorQgisInternal',['../classQgsGeometry.html#aff2cde1dd216fd769479445672b8c734a1736648ac1a03c6bbe04e0768fcde42f',1,'QgsGeometry']]],
+  ['value',['Value',['../classQgsColorWidget.html#ae5c3cc477cd1c27d19188a5e984a7627ab2a990f12a7b734ae7be8b7e37ed8ec1',1,'QgsColorWidget']]],
+  ['valueattribute',['ValueAttribute',['../classQgsInterpolator.html#a556ac915aa8abb0130d98e0aad598435a49f995262573144295a46328ef8157ce',1,'QgsInterpolator']]],
+  ['valuem',['ValueM',['../classQgsInterpolator.html#a556ac915aa8abb0130d98e0aad598435a03d7a5a246b14b6847699ca4bc428edc',1,'QgsInterpolator']]],
+  ['valuerole',['ValueRole',['../classQgsFeatureFilterModel.html#a3ab5e7356530d3625bcc1eace46361cda4e2c3f76c21758a6754fce4ba445395e',1,'QgsFeatureFilterModel']]],
+  ['valuez',['ValueZ',['../classQgsInterpolator.html#a556ac915aa8abb0130d98e0aad598435aafd5f05a706024c82dfc82782becc5bb',1,'QgsInterpolator']]],
+  ['variance',['Variance',['../classQgsZonalStatistics.html#a2197714be9eb23e1d1ddeaa358b19136a2460ae0d8d96f48b2e5d9dac85459207',1,'QgsZonalStatistics']]],
+  ['variety',['Variety',['../classQgsStatisticalSummary.html#a10da9c8134adc32b081937750a032418a2c2064a3f59c43251b6a2ac5dd334440',1,'QgsStatisticalSummary::Variety()'],['../classQgsZonalStatistics.html#a2197714be9eb23e1d1ddeaa358b19136a16817294ef7cdbe76b0250c127af1968',1,'QgsZonalStatistics::Variety()']]],
+  ['vcenter',['VCenter',['../classQgsMarkerSymbolLayer.html#ac1ad7431a4349702e2ef41a1811e9c7fa1e8d81177324660d20b9c9e9d4610323',1,'QgsMarkerSymbolLayer']]],
+  ['vector',['Vector',['../classQgsLayerItem.html#ada2329190b21426e151000df933909b5ad8a96b8963c0210d6d09f316430642eb',1,'QgsLayerItem']]],
+  ['vectorlayer',['VectorLayer',['../classQgsMapLayer.html#adf3b0b576d7812c4359ece2142170308a60eeaa55da9aa798362f588c95dfae75',1,'QgsMapLayer::VectorLayer()'],['../classQgsMapLayerProxyModel.html#ac24159f9c68518bd3d42a2d20c2c44ceafb9cb9fe7126c86113b49cb9df08f614',1,'QgsMapLayerProxyModel::VectorLayer()'],['../classQgsMapToolIdentify.html#a1ce6b949200a861337af78dbb9ba2125a914272b3a5357689bb632fb557500d1b',1,'QgsMapToolIdentify::VectorLayer()']]],
+  ['vertex',['Vertex',['../classQgsPointLocator.html#ade7062ac0e9e15e6843443a34554f96facd6984b672ae45294215154c1d472941',1,'QgsPointLocator::Vertex()'],['../classQgsSnappingConfig.html#ad622b16fea090c7743fba35d27c42a8ea828f9ae7192ce9cc296eb7e492181f5d',1,'QgsSnappingConfig::Vertex()'],['../classQgsGeometryUtils.html#ab826706f3bfbcecc52fcc496ae33980eaa31bc63aaccbc95b7d56ce8c62e62cce',1,'QgsGeometryUtils::Vertex()'],['../classQgsMarkerLineSymbolLayer.html#a8b4ff4778e2dc8036ed34ca2abd083d5a7c1a89cbad56507bc0bc1d15f135beca',1,'QgsMarkerLineSymbolLayer::Vertex()']]],
+  ['vertexandsegment',['VertexAndSegment',['../classQgsSnappingConfig.html#ad622b16fea090c7743fba35d27c42a8ea4628d8845b56d8e7854ddeb7dc082750',1,'QgsSnappingConfig']]],
+  ['vertical',['Vertical',['../classQgsTextDiagram.html#a34b562a22c6c34785e094d5f26587a63aa8aaf7bb040444000ed9efd6ec53f386',1,'QgsTextDiagram::Vertical()'],['../classQgsLayoutItemMapGrid.html#ac56233c8874f00cd383b283e70d8f693a8307d8eb8e06e14965b5118a0a841461',1,'QgsLayoutItemMapGrid::Vertical()'],['../classQgsColorRampWidget.html#aeed968b60059385e8fa4f51fab44cacfaf4fa6586e5b958fba5243253c63c8db5',1,'QgsColorRampWidget::Vertical()']]],
+  ['verticalanchor',['VerticalAnchor',['../classQgsPropertyDefinition.html#a780c10d9241052f1be74e9759436abfca1a1bf3d60d1663241a5071214a9bcac0',1,'QgsPropertyDefinition']]],
+  ['verticaldescending',['VerticalDescending',['../classQgsLayoutItemMapGrid.html#ac56233c8874f00cd383b283e70d8f693ac655697b958b0e81b45cbcc71e3ce6e5',1,'QgsLayoutItemMapGrid']]],
+  ['viewport',['Viewport',['../classQgsGradientFillSymbolLayer.html#ac7cc608106ac783180a389a43a1eda19a1bf8a98e5fa774e483dc51aaa2e2ce57',1,'QgsGradientFillSymbolLayer::Viewport()'],['../classQgsRasterFillSymbolLayer.html#a3f434dd2854a365ed33e51ec59b92628a8c29319ff7a1591888641e0e93889700',1,'QgsRasterFillSymbolLayer::Viewport()']]],
+  ['visibility',['Visibility',['../classQgsLayoutModel.html#a956a736e01ba62cef5589e3b2cf91baba868e24ef0b1a6bf8ae0b022a116cc7d1',1,'QgsLayoutModel']]],
+  ['visvalingam',['Visvalingam',['../classQgsMapToPixelSimplifier.html#a0b97d82a3abd0876ce529ba9d9cfd412a02d12a77beab10e4835332a5b14d2e20',1,'QgsMapToPixelSimplifier::Visvalingam()'],['../classQgsVectorSimplifyMethod.html#af965ee0eaef6d933f37cf38896380812aeec3a0b5194f2a544547ad46ecba7880',1,'QgsVectorSimplifyMethod::Visvalingam()']]],
+  ['vsifile',['Vsifile',['../classQgsSublayersDialog.html#aa3800a56360a3a2cd35ab65107b0248aaa344abedcf92976a6dadd015b10a3a18',1,'QgsSublayersDialog']]]
+];

@@ -1,0 +1,21 @@
+<map id="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/gui/qgsgui.cpp" name="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/gui/qgsgui.cpp">
+<area shape="rect" id="node2" href="$qgsgui_8h.html" title="qgsgui.h" alt="" coords="23,169,100,196"/>
+<area shape="rect" id="node6" href="$qgseditorwidgetregistry_8h.html" title="qgseditorwidgetregistry.h" alt="" coords="828,95,1015,121"/>
+<area shape="rect" id="node18" href="$qgslayertreeembeddedwidgetregistry_8h.html" title="qgslayertreeembeddedwidgetregistry.h" alt="" coords="399,169,676,196"/>
+<area shape="rect" id="node19" href="$qgsmaplayeractionregistry_8h.html" title="qgsmaplayeractionregistry.h" alt="" coords="2074,95,2281,121"/>
+<area shape="rect" id="node22" href="$qgssourceselectproviderregistry_8h.html" title="qgssourceselectproviderregistry.h" alt="" coords="1328,169,1569,196"/>
+<area shape="rect" id="node23" href="$qgslayoutitemregistry_8h.html" title="qgslayoutitemregistry.h" alt="" coords="2818,95,2994,121"/>
+<area shape="rect" id="node34" href="$qgsprocessingguiregistry_8h.html" title="qgsprocessingguiregistry.h" alt="" coords="1594,169,1788,196"/>
+<area shape="rect" id="node35" href="$qgsshortcutsmanager_8h.html" title="qgsshortcutsmanager.h" alt="" coords="2429,169,2604,196"/>
+<area shape="rect" id="node36" href="$qgswidgetstatehelper__p_8h.html" title="qgswidgetstatehelper_p.h" alt="" coords="1061,169,1252,196"/>
+<area shape="rect" id="node37" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="3146,244,3244,271"/>
+<area shape="rect" id="node4" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1829,319,1916,345"/>
+<area shape="rect" id="node8" href="$qgis_8h.html" title="qgis.h" alt="" coords="2023,244,2084,271"/>
+<area shape="rect" id="node14" href="$qgseditorwidgetfactory_8h.html" title="qgseditorwidgetfactory.h" alt="" coords="701,169,884,196"/>
+<area shape="rect" id="node15" href="$qgsattributeeditorcontext_8h.html" title="qgsattributeeditorcontext.h" alt="" coords="175,169,375,196"/>
+<area shape="rect" id="node16" href="$qgseditorwidgetautoconf_8h.html" title="qgseditorwidgetautoconf.h" alt="" coords="1812,169,2007,196"/>
+<area shape="rect" id="node21" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="2184,169,2302,196"/>
+<area shape="rect" id="node24" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="3240,169,3369,196"/>
+<area shape="rect" id="node26" href="$qgspathresolver_8h.html" title="qgspathresolver.h" alt="" coords="2732,244,2871,271"/>
+<area shape="rect" id="node30" href="$qgslayoutitem_8h.html" title="qgslayoutitem.h" alt="" coords="2842,169,2970,196"/>
+</map>

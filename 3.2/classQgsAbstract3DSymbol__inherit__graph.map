@@ -1,0 +1,5 @@
+<map id="QgsAbstract3DSymbol" name="QgsAbstract3DSymbol">
+<area shape="rect" id="node2" href="$classQgsLine3DSymbol.html" title="3 3D symbol that draws linestring geometries as planar polygons (created from lines using a buffer wi..." alt="" coords="5,80,147,107"/>
+<area shape="rect" id="node3" href="$classQgsPoint3DSymbol.html" title="3 3D symbol that draws point geometries as 3D objects using one of the predefined shapes..." alt="" coords="171,80,317,107"/>
+<area shape="rect" id="node4" href="$classQgsPolygon3DSymbol.html" title="3 3D symbol that draws polygon geometries as planar polygons, optionally extruded (with added walls)..." alt="" coords="342,80,509,107"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/gui/qgsfontbutton.cpp" name="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/gui/qgsfontbutton.cpp">
+<area shape="rect" id="node2" href="$qgsfontbutton_8h.html" title="qgsfontbutton.h" alt="" coords="2268,169,2393,196"/>
+<area shape="rect" id="node11" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="1719,319,1838,345"/>
+<area shape="rect" id="node14" href="$qgstextformatwidget_8h.html" title="qgstextformatwidget.h" alt="" coords="3089,169,3260,196"/>
+<area shape="rect" id="node22" href="$qgssymbollayerutils_8h.html" title="qgssymbollayerutils.h" alt="" coords="725,169,891,196"/>
+<area shape="rect" id="node28" href="$qgscolorscheme_8h.html" title="qgscolorscheme.h" alt="" coords="737,319,877,345"/>
+<area shape="rect" id="node30" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="2614,95,2746,121"/>
+<area shape="rect" id="node39" href="$qgscolorwidgets_8h.html" title="qgscolorwidgets.h" alt="" coords="3853,244,3993,271"/>
+<area shape="rect" id="node41" href="$qgscolorschemeregistry_8h.html" title="qgscolorschemeregistry.h" alt="" coords="361,244,549,271"/>
+<area shape="rect" id="node42" href="$qgscolorswatchgrid_8h.html" title="qgscolorswatchgrid.h" alt="" coords="3668,244,3828,271"/>
+<area shape="rect" id="node43" href="$qgsdoublespinbox_8h.html" title="qgsdoublespinbox.h" alt="" coords="3441,244,3593,271"/>
+<area shape="rect" id="node44" href="$qgsmenuheader_8h.html" title="qgsmenuheader.h" alt="" coords="4017,244,4156,271"/>
+<area shape="rect" id="node45" href="$qgsfontutils_8h.html" title="qgsfontutils.h" alt="" coords="1354,319,1465,345"/>
+<area shape="rect" id="node4" href="$qgis_8h.html" title="qgis.h" alt="" coords="2311,393,2372,420"/>
+<area shape="rect" id="node8" href="$qgstextrenderer_8h.html" title="qgstextrenderer.h" alt="" coords="1599,244,1737,271"/>
+<area shape="rect" id="node7" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="2154,468,2241,495"/>
+<area shape="rect" id="node9" href="$qgsmapunitscale_8h.html" title="qgsmapunitscale.h" alt="" coords="211,319,357,345"/>
+<area shape="rect" id="node16" href="$qgsstringutils_8h.html" title="qgsstringutils.h" alt="" coords="2900,319,3023,345"/>
+<area shape="rect" id="node19" href="$qgsguiutils_8h.html" title="qgsguiutils.h" alt="" coords="2546,244,2651,271"/>
+<area shape="rect" id="node25" href="$qgssymbol_8h.html" title="qgssymbol.h" alt="" coords="231,244,337,271"/>
+<area shape="rect" id="node27" href="$qgscolorramp_8h.html" title="qgscolorramp.h" alt="" coords="745,244,868,271"/>
+<area shape="rect" id="node29" href="$qgsarrowsymbollayer_8h.html" title="qgsarrowsymbollayer.h" alt="" coords="901,319,1075,345"/>
+<area shape="rect" id="node26" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1489,319,1593,345"/>
+<area shape="rect" id="node32" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="1914,244,2091,271"/>
+<area shape="rect" id="node33" href="$qgsmessagebar_8h.html" title="qgsmessagebar.h" alt="" coords="2612,169,2748,196"/>
+<area shape="rect" id="node34" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="2015,319,2134,345"/>
+<area shape="rect" id="node36" href="$qgsmapsettings_8h.html" title="qgsmapsettings.h" alt="" coords="1700,169,1839,196"/>
+<area shape="rect" id="node37" href="$qgsprevieweffect_8h.html" title="qgsprevieweffect.h" alt="" coords="2727,244,2873,271"/>
+</map>

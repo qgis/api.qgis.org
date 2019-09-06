@@ -1,0 +1,6 @@
+<map id="QgsLayoutItemMapItem" name="QgsLayoutItemMapItem">
+<area shape="rect" id="node5" href="$classQgsLayoutItemMapGrid.html" title="An individual grid which is drawn above the map content in a QgsLayoutItemMap. " alt="" coords="5,229,180,256"/>
+<area shape="rect" id="node6" href="$classQgsLayoutItemMapOverview.html" title="An individual overview which is drawn above the map content in a QgsLayoutItemMap, and shows the extent of another QgsLayoutItemMap. " alt="" coords="205,229,415,256"/>
+<area shape="rect" id="node2" href="$classQgsLayoutObject.html" title="A base class for objects which belong to a layout. " alt="" coords="134,80,267,107"/>
+<area shape="rect" id="node4" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="173,5,407,32"/>
+</map>

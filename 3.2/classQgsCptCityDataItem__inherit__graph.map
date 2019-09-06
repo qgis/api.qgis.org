@@ -1,0 +1,7 @@
+<map id="QgsCptCityDataItem" name="QgsCptCityDataItem">
+<area shape="rect" id="node3" href="$classQgsCptCityCollectionItem.html" title="A Collection: logical collection of subcollections and color ramps. " alt="" coords="214,155,405,181"/>
+<area shape="rect" id="node7" href="$classQgsCptCityColorRampItem.html" title="Item that represents a layer that can be opened with one of the providers. " alt="" coords="429,155,627,181"/>
+<area shape="rect" id="node4" href="$classQgsCptCityAllRampsItem.html" title="An &quot;All ramps item&quot;, which contains all items in a flat hierarchy. " alt="" coords="5,229,192,256"/>
+<area shape="rect" id="node5" href="$classQgsCptCityDirectoryItem.html" title="A directory: contains subdirectories and color ramps. " alt="" coords="217,229,402,256"/>
+<area shape="rect" id="node6" href="$classQgsCptCitySelectionItem.html" title="A selection: contains subdirectories and color ramps. " alt="" coords="426,229,611,256"/>
+</map>

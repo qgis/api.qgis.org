@@ -1,0 +1,22 @@
+<map id="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsdiagramrenderer.h" name="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsdiagramrenderer.h">
+<area shape="rect" id="node3" href="$qgis_8h.html" title="qgis.h" alt="" coords="1606,543,1667,569"/>
+<area shape="rect" id="node29" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="2181,244,2359,271"/>
+<area shape="rect" id="node33" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="720,468,812,495"/>
+<area shape="rect" id="node37" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="251,393,441,420"/>
+<area shape="rect" id="node38" href="$qgssymbol_8h.html" title="qgssymbol.h" alt="" coords="820,95,925,121"/>
+<area shape="rect" id="node42" href="$qgsproperty_8h.html" title="qgsproperty.h" alt="" coords="2608,169,2719,196"/>
+<area shape="rect" id="node43" href="$qgspropertycollection_8h.html" title="qgspropertycollection.h" alt="" coords="2487,95,2661,121"/>
+<area shape="rect" id="node44" href="$qgsdatadefinedsizelegend_8h.html" title="qgsdatadefinedsizelegend.h" alt="" coords="1324,169,1528,196"/>
+<area shape="rect" id="node46" href="$qgsdiagram_8h.html" title="diagram/qgsdiagram.h" alt="" coords="3480,319,3649,345"/>
+<area shape="rect" id="node19" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="808,617,927,644"/>
+<area shape="rect" id="node20" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="169,692,256,719"/>
+<area shape="rect" id="node21" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="1002,617,1122,644"/>
+<area shape="rect" id="node32" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1986,393,2090,420"/>
+<area shape="rect" id="node34" href="$qgsexpression_8h.html" title="qgsexpression.h" alt="" coords="2802,393,2930,420"/>
+<area shape="rect" id="node35" href="$qgsexpressionfunction_8h.html" title="qgsexpressionfunction.h" alt="" coords="2319,393,2501,420"/>
+<area shape="rect" id="node36" href="$qgspointlocator_8h.html" title="qgspointlocator.h" alt="" coords="1776,319,1911,345"/>
+<area shape="rect" id="node39" href="$qgsmapunitscale_8h.html" title="qgsmapunitscale.h" alt="" coords="568,319,713,345"/>
+<area shape="rect" id="node40" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="837,468,927,495"/>
+<area shape="rect" id="node41" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="464,169,612,196"/>
+<area shape="rect" id="node45" href="$qgslegendsymbolitem_8h.html" title="qgslegendsymbolitem.h" alt="" coords="1053,468,1231,495"/>
+</map>

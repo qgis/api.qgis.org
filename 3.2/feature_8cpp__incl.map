@@ -1,0 +1,23 @@
+<map id="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/pal/feature.cpp" name="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/pal/feature.cpp">
+<area shape="rect" id="node2" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1353,333,1471,360"/>
+<area shape="rect" id="node11" href="$qgis_8h.html" title="qgis.h" alt="" coords="704,557,765,584"/>
+<area shape="rect" id="node22" href="$pal_8h.html" title="pal.h" alt="" coords="1595,184,1650,211"/>
+<area shape="rect" id="node23" href="$qgsgeos_8h.html" title="qgsgeos.h" alt="" coords="1919,259,2007,285"/>
+<area shape="rect" id="node28" href="$layer_8h.html" title="layer.h" alt="" coords="1689,109,1756,136"/>
+<area shape="rect" id="node32" href="$feature_8h.html" title="feature.h" alt="" coords="2305,109,2386,136"/>
+<area shape="rect" id="node33" href="$pointset_8h.html" title="pointset.h" alt="" coords="2555,259,2642,285"/>
+<area shape="rect" id="node34" href="$labelposition_8h.html" title="labelposition.h" alt="" coords="2459,184,2578,211"/>
+<area shape="rect" id="node36" href="$geomfunction_8h.html" title="geomfunction.h" alt="" coords="2705,184,2829,211"/>
+<area shape="rect" id="node37" href="$util_8h.html" title="util.h" alt="" coords="94,109,149,136"/>
+<area shape="rect" id="node38" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="917,483,1053,509"/>
+<area shape="rect" id="node39" href="$costcalculator_8h.html" title="costcalculator.h" alt="" coords="1447,184,1571,211"/>
+<area shape="rect" id="node40" href="$qgsgeometryutils_8h.html" title="qgsgeometryutils.h" alt="" coords="641,333,789,360"/>
+<area shape="rect" id="node15" href="$qgsabstractgeometry_8h.html" title="qgsabstractgeometry.h" alt="" coords="1077,483,1248,509"/>
+<area shape="rect" id="node16" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1600,408,1704,435"/>
+<area shape="rect" id="node18" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="1323,483,1427,509"/>
+<area shape="rect" id="node21" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="936,408,1027,435"/>
+<area shape="rect" id="node24" href="$qgspallabeling_8h.html" title="qgspallabeling.h" alt="" coords="1557,259,1686,285"/>
+<area shape="rect" id="node29" href="$rtree_8hpp.html" title="rtree.hpp" alt="" coords="1813,259,1894,285"/>
+<area shape="rect" id="node35" href="$qgslabelfeature_8h.html" title="qgslabelfeature.h" alt="" coords="1893,184,2029,211"/>
+<area shape="rect" id="node41" href="$qgsvector3d_8h.html" title="qgsvector3d.h" alt="" coords="677,483,792,509"/>
+</map>

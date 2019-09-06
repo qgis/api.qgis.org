@@ -1,0 +1,8 @@
+<map id="QgsProcessingDestinationParameter" name="QgsProcessingDestinationParameter">
+<area shape="rect" id="node3" href="$classQgsProcessingParameterFeatureSink.html" title="A feature sink output for processing algorithms. " alt="" coords="540,5,800,32"/>
+<area shape="rect" id="node4" href="$classQgsProcessingParameterFileDestination.html" title="A generic file based destination parameter, for specifying the destination path for a file (non&#45;map l..." alt="" coords="567,57,773,98"/>
+<area shape="rect" id="node5" href="$classQgsProcessingParameterFolderDestination.html" title="A folder destination parameter, for specifying the destination path for a folder created by the algor..." alt="" coords="558,122,782,163"/>
+<area shape="rect" id="node6" href="$classQgsProcessingParameterRasterDestination.html" title="A raster layer destination parameter, for specifying the destination path for a raster layer created ..." alt="" coords="557,187,783,229"/>
+<area shape="rect" id="node7" href="$classQgsProcessingParameterVectorDestination.html" title="A vector layer destination parameter, for specifying the destination path for a vector layer created ..." alt="" coords="557,253,783,294"/>
+<area shape="rect" id="node2" href="$classQgsProcessingParameterDefinition.html" title="Base class for the definition of processing parameters. " alt="" coords="5,129,252,156"/>
+</map>

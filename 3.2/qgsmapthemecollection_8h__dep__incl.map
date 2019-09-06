@@ -1,0 +1,15 @@
+<map id="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsmapthemecollection.h" name="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsmapthemecollection.h">
+<area shape="rect" id="node2" href="$qgsmapthemecollection_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmapthemecollection.cpp" alt="" coords="5,102,353,143"/>
+<area shape="rect" id="node3" href="$qgsofflineediting_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsofflineediting.cpp" alt="" coords="377,102,677,143"/>
+<area shape="rect" id="node4" href="$qgsproject_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsproject.cpp" alt="" coords="702,102,961,143"/>
+<area shape="rect" id="node5" href="$qgslayoutitemmap_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/layout\l/qgslayoutitemmap.cpp" alt="" coords="985,95,1190,151"/>
+<area shape="rect" id="node6" href="$qgsmapcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmapcanvas.cpp" alt="" coords="1215,102,1496,143"/>
+<area shape="rect" id="node7" href="$qgsquickmapsettings_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/quickgui\l/qgsquickmapsettings.h" alt="" coords="1521,95,1707,151"/>
+<area shape="rect" id="node8" href="$qgsquickmapcanvasmap_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/quickgui\l/qgsquickmapcanvasmap.h" alt="" coords="1326,199,1526,255"/>
+<area shape="rect" id="node9" href="$qgsquickmapcanvasmap_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/quickgui\l/qgsquickmapcanvasmap.cpp" alt="" coords="1181,303,1396,359"/>
+<area shape="rect" id="node10" href="$qgsquickplugin_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/quickgui\l/plugin/qgsquickplugin.cpp" alt="" coords="1421,303,1615,359"/>
+<area shape="rect" id="node11" href="$qgsquickmapsettings_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/quickgui\l/qgsquickmapsettings.cpp" alt="" coords="1913,199,2105,255"/>
+<area shape="rect" id="node12" href="$qgsquickscalebarkit_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/quickgui\l/qgsquickscalebarkit.cpp" alt="" coords="1639,303,1826,359"/>
+<area shape="rect" id="node13" href="$qgsquickutils_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/quickgui\l/qgsquickutils.h" alt="" coords="1651,199,1838,255"/>
+<area shape="rect" id="node14" href="$qgsquickutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/quickgui\l/qgsquickutils.cpp" alt="" coords="1850,303,2037,359"/>
+</map>

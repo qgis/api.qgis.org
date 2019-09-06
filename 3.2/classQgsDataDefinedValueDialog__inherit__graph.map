@@ -1,0 +1,6 @@
+<map id="QgsDataDefinedValueDialog" name="QgsDataDefinedValueDialog">
+<area shape="rect" id="node5" href="$classQgsDataDefinedRotationDialog.html" title="QgsDataDefinedRotationDialog" alt="" coords="5,169,229,196"/>
+<area shape="rect" id="node6" href="$classQgsDataDefinedSizeDialog.html" title="QgsDataDefinedSizeDialog" alt="" coords="253,169,451,196"/>
+<area shape="rect" id="node7" href="$classQgsDataDefinedWidthDialog.html" title="QgsDataDefinedWidthDialog" alt="" coords="475,169,683,196"/>
+<area shape="rect" id="node4" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="485,13,720,39"/>
+</map>

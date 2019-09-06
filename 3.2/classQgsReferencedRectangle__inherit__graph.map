@@ -1,0 +1,4 @@
+<map id="QgsReferencedRectangle" name="QgsReferencedRectangle">
+<area shape="rect" id="node2" href="$classQgsRectangle.html" title="A rectangle specified with double values. " alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node3" href="$classQgsReferencedGeometryBase.html" title="A base class for geometry primitives which are stored with an associated reference system..." alt="" coords="140,5,357,32"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsvectorlayercache.h" name="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsvectorlayercache.h">
+<area shape="rect" id="node2" href="$qgscachedfeatureiterator_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgscachedfeatureiterator.cpp" alt="" coords="5,102,360,143"/>
+<area shape="rect" id="node3" href="$qgscacheindexfeatureid_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgscacheindexfeatureid.cpp" alt="" coords="384,102,731,143"/>
+<area shape="rect" id="node4" href="$qgsvectorlayercache_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsvectorlayercache.cpp" alt="" coords="755,102,1082,143"/>
+<area shape="rect" id="node5" href="$qgsattributetablemodel_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsattributetablemodel.h" alt="" coords="1739,95,1984,151"/>
+<area shape="rect" id="node10" href="$qgsattributetableview_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsattributetableview.cpp" alt="" coords="829,303,1075,359"/>
+<area shape="rect" id="node15" href="$qgsdualview_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsdualview.cpp" alt="" coords="2371,199,2616,255"/>
+<area shape="rect" id="node6" href="$qgsattributetablefiltermodel_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsattributetablefiltermodel.h" alt="" coords="1899,199,2144,255"/>
+<area shape="rect" id="node7" href="$qgsattributetabledelegate_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsattributetabledelegate.cpp" alt="" coords="1923,303,2168,359"/>
+<area shape="rect" id="node8" href="$qgsattributetablefiltermodel_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsattributetablefiltermodel.cpp" alt="" coords="2192,303,2437,359"/>
+<area shape="rect" id="node9" href="$qgsattributetablemodel_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsattributetablemodel.cpp" alt="" coords="2461,303,2707,359"/>
+<area shape="rect" id="node11" href="$qgsfeaturelistmodel_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsfeaturelistmodel.cpp" alt="" coords="2731,303,2976,359"/>
+<area shape="rect" id="node12" href="$qgsfeaturelistview_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsfeaturelistview.cpp" alt="" coords="1099,303,1344,359"/>
+<area shape="rect" id="node13" href="$qgsorganizetablecolumnsdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsorganizetablecolumnsdialog.cpp" alt="" coords="1369,303,1629,359"/>
+<area shape="rect" id="node14" href="$qgsrelationreferencewidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/editorwidgets\l/qgsrelationreferencewidget.cpp" alt="" coords="1653,303,1899,359"/>
+<area shape="rect" id="node16" href="$qgsfeaturelistviewdelegate_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsfeaturelistviewdelegate.cpp" alt="" coords="1309,199,1555,255"/>
+<area shape="rect" id="node17" href="$qgsfeatureselectionmodel_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsfeatureselectionmodel.cpp" alt="" coords="1579,199,1824,255"/>
+</map>

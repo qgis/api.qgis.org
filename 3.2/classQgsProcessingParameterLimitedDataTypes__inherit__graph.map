@@ -1,0 +1,4 @@
+<map id="QgsProcessingParameterLimitedDataTypes" name="QgsProcessingParameterLimitedDataTypes">
+<area shape="rect" id="node2" href="$classQgsProcessingParameterFeatureSource.html" title="An input feature source (such as vector layers) parameter for processing algorithms. " alt="" coords="5,95,237,136"/>
+<area shape="rect" id="node3" href="$classQgsProcessingParameterVectorLayer.html" title="A vector layer (with or without geometry) parameter for processing algorithms. " alt="" coords="262,95,487,136"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsMapToolIdentifyFeature" name="QgsMapToolIdentifyFeature">
+<area shape="rect" id="node2" href="$classQgsMapToolIdentify.html" title="Map tool for identifying features in layers. " alt="" coords="29,80,180,107"/>
+<area shape="rect" id="node3" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="55,5,155,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsLayoutItemMapOverview" name="QgsLayoutItemMapOverview">
+<area shape="rect" id="node2" href="$classQgsLayoutItemMapItem.html" title="An item which is drawn inside a QgsLayoutItemMap, e.g., a grid or map overview. " alt="" coords="21,80,200,107"/>
+<area shape="rect" id="node3" href="$classQgsLayoutObject.html" title="A base class for objects which belong to a layout. " alt="" coords="44,5,177,32"/>
+</map>

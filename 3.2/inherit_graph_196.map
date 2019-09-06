@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsExpressionFunction.html" title="A abstract base class for defining QgsExpression functions. " alt="" coords="5,56,177,83"/>
+<area shape="rect" id="node2" href="$classQgsScopedExpressionFunction.html" title="Expression function for use within a QgsExpressionContextScope. " alt="" coords="225,5,444,32"/>
+<area shape="rect" id="node3" href="$classQgsStaticExpressionFunction.html" title="c++ helper class for defining QgsExpression functions. " alt="" coords="230,56,439,83"/>
+<area shape="rect" id="node4" href="$classQgsWithVariableExpressionFunction.html" title="Handles the with_variable(name, value, node) expression function. " alt="" coords="234,107,435,149"/>
+</map>

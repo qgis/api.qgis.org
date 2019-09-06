@@ -1,0 +1,18 @@
+var searchData=
+[
+  ['generateworldfile',['generateWorldFile',['../structQgsLayoutExporter_1_1ImageExportSettings.html#a5372a7089158dfcc9718497955bf4af1',1,'QgsLayoutExporter::ImageExportSettings']]],
+  ['geo_5fepsg_5fcrs_5fauthid',['GEO_EPSG_CRS_AUTHID',['../qgis_8cpp.html#afe921ae99906e4b03ed85cb77eae47ae',1,'GEO_EPSG_CRS_AUTHID():&#160;qgis.cpp'],['../qgis_8h.html#a707f0f3bbce5e473b6c728082cb594e7',1,'GEO_EPSG_CRS_AUTHID():&#160;qgis.cpp']]],
+  ['geo_5fepsg_5fcrs_5fid',['GEO_EPSG_CRS_ID',['../qgis_8h.html#a4f3930408d4e169b0d66944827e3becd',1,'qgis.h']]],
+  ['geo_5fnone',['GEO_NONE',['../qgis_8cpp.html#a648b96bca87cd04878cba5b5cfb739b8',1,'GEO_NONE():&#160;qgis.cpp'],['../qgis_8h.html#a50a3ba3468166907716e061f9c5b997c',1,'GEO_NONE():&#160;qgis.cpp']]],
+  ['geocrs_5fid',['GEOCRS_ID',['../qgis_8h.html#af5cd54d47652544adf35af98511e41f4',1,'qgis.h']]],
+  ['geom',['geom',['../structFace__t.html#aa31bcfd2f62ef02ec3bf6c298c79ba3a',1,'Face_t']]],
+  ['geometry',['geometry',['../structQgsGeometryPrivate.html#a33506b7c75d98a550c53c560e002cca5',1,'QgsGeometryPrivate']]],
+  ['geoproj4',['GEOPROJ4',['../qgis_8cpp.html#acd75de979b5f4e9e5e8004566862b2ff',1,'GEOPROJ4():&#160;qgis.cpp'],['../qgis_8h.html#a710e2fb460753ca57f175fc0252847e8',1,'GEOPROJ4():&#160;qgis.cpp']]],
+  ['geosrid',['GEOSRID',['../qgis_8h.html#ae871d544e7c226a95116ce1682276836',1,'qgis.h']]],
+  ['geowkt',['GEOWKT',['../qgis_8cpp.html#a603df1cdf1e2e9ef9afc4e4e3a4c31fd',1,'GEOWKT():&#160;qgis.cpp'],['../qgis_8h.html#a8808eba3df7a19ea1c7d20257f6af86e',1,'GEOWKT():&#160;qgis.cpp']]],
+  ['glob',['glob',['../structQgsVectorFileWriter_1_1MetaData.html#a827192092e4d0ee8ea82453d4143a945',1,'QgsVectorFileWriter::MetaData']]],
+  ['globs',['globs',['../structQgsVectorFileWriter_1_1FilterFormatDetails.html#abc63a9c69abadddd2631bc402ae02a6b',1,'QgsVectorFileWriter::FilterFormatDetails']]],
+  ['gml_5fnamespace',['GML_NAMESPACE',['../qgsgmlschema_8cpp.html#a81f9ecaa6d5f0f81ce7825e8bb13ca12',1,'qgsgmlschema.cpp']]],
+  ['green',['green',['../structQgsRasterTransparency_1_1TransparentThreeValuePixel.html#abae3aa93dad5125e558e581879ecac3b',1,'QgsRasterTransparency::TransparentThreeValuePixel']]],
+  ['group',['group',['../classQgsLocatorResult.html#ad08b1fd1fcda583298937140bb8070c6',1,'QgsLocatorResult']]]
+];

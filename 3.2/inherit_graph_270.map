@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsLabelFeature.html" title="The QgsLabelFeature class describes a feature that should be used within the labeling engine..." alt="" coords="5,31,136,57"/>
+<area shape="rect" id="node2" href="$classQgsDiagramLabelFeature.html" title="Class that adds extra information to QgsLabelFeature for labeling of diagrams. " alt="" coords="184,5,371,32"/>
+<area shape="rect" id="node3" href="$classQgsTextLabelFeature.html" title="Class that adds extra information to QgsLabelFeature for text labels. " alt="" coords="199,56,356,83"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsstringutils.h" name="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsstringutils.h">
+<area shape="rect" id="node2" href="$qgspallabeling_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgspallabeling.h" alt="" coords="2268,102,2539,143"/>
+<area shape="rect" id="node22" href="$qgsmaplayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaplayer.cpp" alt="" coords="5249,102,5523,143"/>
+<area shape="rect" id="node23" href="$qgsstringutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsstringutils.cpp" alt="" coords="5548,102,5827,143"/>
+<area shape="rect" id="node24" href="$qgsexpressionfunction_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/expression\l/qgsexpressionfunction.cpp" alt="" coords="5851,95,6086,151"/>
+<area shape="rect" id="node25" href="$qgslocatorfilter_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/locator\l/qgslocatorfilter.cpp" alt="" coords="6111,95,6320,151"/>
+<area shape="rect" id="node26" href="$qgstextformatwidget_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgstextformatwidget.h" alt="" coords="4563,102,4868,143"/>
+<area shape="rect" id="node28" href="$qgssubstitutionlistwidget_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgssubstitutionlistwidget.h" alt="" coords="4892,102,5224,143"/>
+<area shape="rect" id="node30" href="$qgsprocessingalgorithmdialogbase_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/processing\l/qgsprocessingalgorithmdialogbase.cpp" alt="" coords="6345,95,6625,151"/>
+<area shape="rect" id="node31" href="$qgsalgorithmrasterlayeruniquevalues_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/analysis\l/processing/qgsalgorithmrasterlayeruniquevalues.cpp" alt="" coords="6649,95,7019,151"/>
+<area shape="rect" id="node3" href="$qgsauxiliarystorage_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsauxiliarystorage.h" alt="" coords="3893,206,4199,247"/>
+<area shape="rect" id="node4" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsvectorlayer.cpp" alt="" coords="3997,303,4284,344"/>
+<area shape="rect" id="node5" href="$qgslabelfeature_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgslabelfeature.h" alt="" coords="4275,206,4553,247"/>
+<area shape="rect" id="node6" href="$qgslabelingengine_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgslabelingengine.h" alt="" coords="319,206,613,247"/>
+<area shape="rect" id="node7" href="$qgsmaprendererjob_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprendererjob.cpp" alt="" coords="5,303,324,344"/>
+<area shape="rect" id="node8" href="$qgspalgeometry_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgspalgeometry.h" alt="" coords="349,303,629,344"/>
+<area shape="rect" id="node9" href="$qgspallabeling_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgspallabeling.cpp" alt="" coords="703,303,989,344"/>
+<area shape="rect" id="node10" href="$qgslabelsearchtree_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgslabelsearchtree.h" alt="" coords="933,206,1233,247"/>
+<area shape="rect" id="node11" href="$qgsvectorlayerlabelprovider_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsvectorlayerlabelprovider.cpp" alt="" coords="1050,303,1423,344"/>
+<area shape="rect" id="node12" href="$qgsmaprenderersequentialjob_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmaprenderersequentialjob.cpp" alt="" coords="1309,206,1695,247"/>
+<area shape="rect" id="node13" href="$qgsmapsettingsutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsmapsettingsutils.cpp" alt="" coords="1719,206,2042,247"/>
+<area shape="rect" id="node14" href="$pal_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/pal/pal.h" alt="" coords="637,206,857,247"/>
+<area shape="rect" id="node15" href="$qgstextlabelfeature_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgstextlabelfeature.cpp" alt="" coords="2067,206,2385,247"/>
+<area shape="rect" id="node16" href="$qgsvectorlayerlabeling_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsvectorlayerlabeling.cpp" alt="" coords="2409,206,2749,247"/>
+<area shape="rect" id="node17" href="$qgsvectorlayerrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsvectorlayerrenderer.cpp" alt="" coords="2773,206,3116,247"/>
+<area shape="rect" id="node18" href="$qgsdxfpallabeling_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/dxf\l/qgsdxfpallabeling.cpp" alt="" coords="3140,199,3325,255"/>
+<area shape="rect" id="node19" href="$qgsmapcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmapcanvas.cpp" alt="" coords="3349,206,3631,247"/>
+<area shape="rect" id="node20" href="$qgstextformatwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgstextformatwidget.cpp" alt="" coords="4877,206,5197,247"/>
+<area shape="rect" id="node21" href="$qgsquickmapcanvasmap_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/quickgui\l/qgsquickmapcanvasmap.cpp" alt="" coords="3655,199,3869,255"/>
+<area shape="rect" id="node27" href="$qgsfontbutton_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsfontbutton.cpp" alt="" coords="4578,206,4853,247"/>
+<area shape="rect" id="node29" href="$qgssubstitutionlistwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgssubstitutionlistwidget.cpp" alt="" coords="5221,206,5567,247"/>
+</map>

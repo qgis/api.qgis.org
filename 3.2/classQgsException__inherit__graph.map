@@ -1,0 +1,7 @@
+<map id="QgsException" name="QgsException">
+<area shape="rect" id="node2" href="$classQgsCsException.html" title="Custom exception class for Coordinate Reference System related exceptions. " alt="" coords="5,80,132,107"/>
+<area shape="rect" id="node3" href="$classQgsProcessingException.html" title="Custom exception class for processing related exceptions. " alt="" coords="157,80,338,107"/>
+<area shape="rect" id="node4" href="$classQgsServerException.html" title="Exception base class for server exceptions. " alt="" coords="363,80,516,107"/>
+<area shape="rect" id="node6" href="$classQgsWkbException.html" title="Custom exception class for Wkb related exceptions. " alt="" coords="540,80,680,107"/>
+<area shape="rect" id="node5" href="$classQgsOgcServiceException.html" title="Exception base class for service exceptions. " alt="" coords="347,155,531,181"/>
+</map>

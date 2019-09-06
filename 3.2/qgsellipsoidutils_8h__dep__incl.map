@@ -1,0 +1,26 @@
+<map id="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsellipsoidutils.h" name="/tmp/buildd/qgis&#45;3.2.0+99unstable/src/core/qgsellipsoidutils.h">
+<area shape="rect" id="node2" href="$qgsdistancearea_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsdistancearea.h" alt="" coords="2568,95,2851,136"/>
+<area shape="rect" id="node25" href="$qgsellipsoidutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsellipsoidutils.cpp" alt="" coords="2874,95,3171,136"/>
+<area shape="rect" id="node3" href="$qgsrendercontext_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsrendercontext.h" alt="" coords="5,191,296,233"/>
+<area shape="rect" id="node4" href="$qgsdistancearea_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsdistancearea.cpp" alt="" coords="320,191,619,233"/>
+<area shape="rect" id="node5" href="$qgsexpressionprivate_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsexpressionprivate.h" alt="" coords="643,191,959,233"/>
+<area shape="rect" id="node6" href="$qgsvectorlayerfeatureiterator_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/qgsvectorlayerfeatureiterator.cpp" alt="" coords="983,191,1366,233"/>
+<area shape="rect" id="node7" href="$qgsexpressionfunction_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/expression\l/qgsexpressionfunction.cpp" alt="" coords="1391,184,1625,240"/>
+<area shape="rect" id="node8" href="$qgslayoutitemhtml_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/layout\l/qgslayoutitemhtml.h" alt="" coords="1649,184,1855,240"/>
+<area shape="rect" id="node9" href="$qgslayoutitemhtml_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/layout\l/qgslayoutitemhtml.cpp" alt="" coords="1720,288,1925,344"/>
+<area shape="rect" id="node10" href="$qgslayoutitemlabel_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/layout\l/qgslayoutitemlabel.cpp" alt="" coords="1929,184,2135,240"/>
+<area shape="rect" id="node11" href="$qgslayoutitemscalebar_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/core/layout\l/qgslayoutitemscalebar.cpp" alt="" coords="2159,184,2364,240"/>
+<area shape="rect" id="node12" href="$qgsattributeeditorcontext_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsattributeeditorcontext.h" alt="" coords="2439,191,2774,233"/>
+<area shape="rect" id="node13" href="$qgsfeatureselectiondlg_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsfeatureselectiondlg.cpp" alt="" coords="2259,295,2591,337"/>
+<area shape="rect" id="node14" href="$qgsdualview_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/attributetable\l/qgsdualview.h" alt="" coords="2641,288,2887,344"/>
+<area shape="rect" id="node15" href="$qgsexpressionbuilderwidget_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsexpressionbuilderwidget.h" alt="" coords="2850,191,3201,233"/>
+<area shape="rect" id="node16" href="$qgsexpressionlineedit_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsexpressionlineedit.h" alt="" coords="3225,191,3535,233"/>
+<area shape="rect" id="node17" href="$qgsfieldexpressionwidget_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsfieldexpressionwidget.h" alt="" coords="3559,191,3894,233"/>
+<area shape="rect" id="node18" href="$qgsfieldexpressionwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsfieldexpressionwidget.cpp" alt="" coords="3655,295,4004,337"/>
+<area shape="rect" id="node19" href="$qgsmaptoolidentify_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsmaptoolidentify.cpp" alt="" coords="3970,191,4278,233"/>
+<area shape="rect" id="node20" href="$qgsrelationeditorwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/gui/qgsrelationeditorwidget.cpp" alt="" coords="4303,191,4641,233"/>
+<area shape="rect" id="node21" href="$qgsgraphbuilderinterface_8h.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/analysis\l/network/qgsgraphbuilderinterface.h" alt="" coords="4665,184,4924,240"/>
+<area shape="rect" id="node22" href="$qgsvectorlayerdirector_8cpp.html" title="implementation of QgsVectorLayerDirector " alt="" coords="4749,288,5005,344"/>
+<area shape="rect" id="node23" href="$qgsquickscalebarkit_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/quickgui\l/qgsquickscalebarkit.cpp" alt="" coords="4999,184,5185,240"/>
+<area shape="rect" id="node24" href="$qgsquickutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.2.0\l+99unstable/src/quickgui\l/qgsquickutils.cpp" alt="" coords="5209,184,5396,240"/>
+</map>
