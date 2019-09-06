@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsCentralPointPositionManager.html" title="A simple position manager implementation which positions the overlay objects on the center point of a..." alt="" coords="5,84,235,111"/>
+<area shape="rect" href="$classQgsPALObjectPositionManager.html" title="A class that uses the PAL library for overlay object placement." alt="" coords="259,84,475,111"/>
+</map>

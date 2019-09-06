@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsApplication.html" title="Extends QApplication to provide access to QGIS specific resources such as theme paths, database paths etc." alt="" coords="7,5,121,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="5,7,112,33"/>
+<area shape="rect" href="$classQgsInterpolator.html" title="Interface class for interpolations." alt="" coords="168,7,288,33"/>
+</map>

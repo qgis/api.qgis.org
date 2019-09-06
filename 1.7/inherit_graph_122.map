@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsRasterShaderFunction.html" title="The raster shade function applies a shader to a pixel at render time &#45; typically used to render grays..." alt="" coords="5,56,192,83"/>
+<area shape="rect" href="$classQgsColorRampShader.html" title="A ramp shader will color a raster pixel based on a list of values ranges in a ramp." alt="" coords="245,5,408,32"/>
+<area shape="rect" href="$classQgsFreakOutShader.html" title="A colorful false color shader that will frighten your granny and make your dogs howl." alt="" coords="252,56,401,83"/>
+<area shape="rect" href="$classQgsPseudoColorShader.html" title="A raster color shader that highlighs low values in blue and high values in red." alt="" coords="241,107,412,133"/>
+</map>

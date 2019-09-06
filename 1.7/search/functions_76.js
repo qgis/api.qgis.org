@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['validate',['validate',['../classQgsCoordinateReferenceSystem.html#a116bcaa537aea15ad7a137ec85d3e1fb',1,'QgsCoordinateReferenceSystem::validate()'],['../classQgsFieldValidator.html#a9e0dcb14eb80182f32bb502ba2ec3737',1,'QgsFieldValidator::validate()'],['../classQgsLongLongValidator.html#a79e81e8ca62be78a276ef106b97edc95',1,'QgsLongLongValidator::validate()']]],
+  ['validatebandname',['validateBandName',['../classQgsRasterLayer.html#a2ad9b2907cc1b859923f9da6d35f3770',1,'QgsRasterLayer']]],
+  ['validategeometry',['validateGeometry',['../classQgsGeometry.html#a85d5081650c004e259a6546ede067732',1,'QgsGeometry']]],
+  ['validatepolygon',['validatePolygon',['../classQgsGeometry.html#a48f1257225b63d31d699558bcae72aba',1,'QgsGeometry']]],
+  ['validatepolyline',['validatePolyline',['../classQgsGeometry.html#a4c562d2a7b19b047557d9616c1fdd8e7',1,'QgsGeometry']]],
+  ['validationhint',['validationHint',['../classQgsCoordinateReferenceSystem.html#a797b2bfe6a0f95ba0f75abacba5eca0c',1,'QgsCoordinateReferenceSystem']]],
+  ['valign',['vAlign',['../classQgsComposerLabel.html#a471c550915a69a9973449dc8782db97b',1,'QgsComposerLabel']]],
+  ['valmax',['valMax',['../classQgsVectorRandomColorRampV2.html#ad33d4a3a77f65c15e03c5d7797cbb564',1,'QgsVectorRandomColorRampV2']]],
+  ['valmin',['valMin',['../classQgsVectorRandomColorRampV2.html#a728c8508317a1e292f7fc746d7bb5862',1,'QgsVectorRandomColorRampV2']]],
+  ['value',['value',['../classQgsProperty.html#a042dc1600b039252a01d0356225fed26',1,'QgsProperty::value()'],['../classQgsPropertyValue.html#a576e6d1f3be11b7f091cb21a3aa729a4',1,'QgsPropertyValue::value()'],['../classQgsPropertyKey.html#a09b3cc6a17c474d435e48776643aec30',1,'QgsPropertyKey::value()'],['../classQgsRendererCategoryV2.html#a47a77918c1f42961f9960a0bb9ffcc2d',1,'QgsRendererCategoryV2::value()']]],
+  ['valueagainst',['valueAgainst',['../classQgsSearchTreeNode.html#a40d689cd1d76e3c04e962d9e9cbd4350',1,'QgsSearchTreeNode::valueAgainst(const QgsFieldMap &amp;fields, QgsFeature &amp;f)'],['../classQgsSearchTreeNode.html#a078cecb7a790422d41eede8262bad897',1,'QgsSearchTreeNode::valueAgainst(const QgsFieldMap &amp;fields, const QgsAttributeMap &amp;attributes, QgsGeometry *geom=0)']]],
+  ['valuemap',['valueMap',['../classQgsVectorLayer.html#a4cca7f89720f0a7fda2483c951adeccc',1,'QgsVectorLayer']]],
+  ['vector3d',['Vector3D',['../classVector3D.html#abd851542da40b1168edcad11fa83b7c2',1,'Vector3D::Vector3D(double x, double y, double z)'],['../classVector3D.html#a0b11a8d75da427b27443d8a94d0d296c',1,'Vector3D::Vector3D()'],['../classVector3D.html#a765ee7fc4bf9c338cb96fbd0499257a1',1,'Vector3D::Vector3D(const Vector3D &amp;v)']]],
+  ['vectorjoins',['vectorJoins',['../classQgsVectorLayer.html#a5dab068f504382e59f1329ef50b4b35c',1,'QgsVectorLayer::vectorJoins()'],['../classQgsVectorLayerJoinBuffer.html#a0a324ad2a1ae139adf983b5e88be85ef',1,'QgsVectorLayerJoinBuffer::vectorJoins()']]],
+  ['vectorlayer',['vectorLayer',['../classQgsComposerAttributeTable.html#a9fb9d72abb6aae6edb66a7d1d89c3486',1,'QgsComposerAttributeTable::vectorLayer()'],['../classQgsFormAnnotationItem.html#a261e7c1c648033f6291da678cb7857f4',1,'QgsFormAnnotationItem::vectorLayer()']]],
+  ['vectoroverlays',['vectorOverlays',['../classQgsVectorLayer.html#a992f418ff0ae495fb46234da5efcdd4c',1,'QgsVectorLayer']]],
+  ['version',['version',['../classQgisPlugin.html#a1abf5c647dbfee4fcc0f2644ef58cd72',1,'QgisPlugin::version() const '],['../classQgisPlugin.html#af0f289120b8e3e7ed4febb4663988ff5',1,'QgisPlugin::version()']]],
+  ['vertexat',['vertexAt',['../classQgsGeometry.html#aa092e53c340962cec3a0d2baaa2b2341',1,'QgsGeometry']]],
+  ['vertexsearchradius',['vertexSearchRadius',['../classQgsTolerance.html#a4a759da33c217f7b0483f85e79fff53b',1,'QgsTolerance']]],
+  ['verticalspacing',['verticalSpacing',['../classQgsDetailedItemDelegate.html#adeb2347320cb0a11ea8ad160234471c9',1,'QgsDetailedItemDelegate']]],
+  ['viewmenu',['viewMenu',['../classQgisInterface.html#a61d6d2a784f328d7ae8eab92bd7da77d',1,'QgisInterface']]],
+  ['visiblename',['visibleName',['../classQgsRendererV2AbstractMetadata.html#a357b5acb19e90e4fac2aae7be442eec9',1,'QgsRendererV2AbstractMetadata::visibleName()'],['../classQgsSymbolLayerV2AbstractMetadata.html#a2796e6e3fa96be332253b8a0bee1f7e8',1,'QgsSymbolLayerV2AbstractMetadata::visibleName()']]],
+  ['visitdata',['visitData',['../classQgisVisitor.html#a5c2f4e64ee10fe8f635dd231d3d7c158',1,'QgisVisitor::visitData(const IData &amp;d)'],['../classQgisVisitor.html#a5f61882e4a7bfce9dfaf7252914b9e7e',1,'QgisVisitor::visitData(std::vector&lt; const IData * &gt; &amp;v)']]],
+  ['visitnode',['visitNode',['../classQgisVisitor.html#aa7023dedc6f66334213e5d5f4aa21536',1,'QgisVisitor']]]
+];

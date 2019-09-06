@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsannotationitem_8cpp.html" title="src/gui/qgsannotationitem.cpp" alt="" coords="5,84,221,111"/>
+<area shape="rect" href="$qgsformannotationitem_8cpp.html" title="src/gui/qgsformannotationitem.cpp" alt="" coords="245,84,491,111"/>
+<area shape="rect" href="$qgsmapcanvas_8cpp.html" title="src/gui/qgsmapcanvas.cpp" alt="" coords="515,84,707,111"/>
+<area shape="rect" href="$qgsmapcanvasitem_8cpp.html" title="src/gui/qgsmapcanvasitem.cpp" alt="" coords="731,84,949,111"/>
+<area shape="rect" href="$qgsmapcanvasmap_8cpp.html" title="src/gui/qgsmapcanvasmap.cpp" alt="" coords="973,84,1192,111"/>
+<area shape="rect" href="$qgsmapcanvassnapper_8cpp.html" title="src/gui/qgsmapcanvassnapper.cpp" alt="" coords="1216,84,1459,111"/>
+<area shape="rect" href="$qgsmapoverviewcanvas_8cpp.html" title="src/gui/qgsmapoverviewcanvas.cpp" alt="" coords="1483,84,1728,111"/>
+<area shape="rect" href="$qgsmaptip_8cpp.html" title="src/gui/qgsmaptip.cpp" alt="" coords="1752,84,1915,111"/>
+<area shape="rect" href="$qgsmaptool_8cpp.html" title="src/gui/qgsmaptool.cpp" alt="" coords="1939,84,2109,111"/>
+<area shape="rect" href="$qgsmaptoolemitpoint_8cpp.html" title="src/gui/qgsmaptoolemitpoint.cpp" alt="" coords="2133,84,2365,111"/>
+<area shape="rect" href="$qgsmaptoolpan_8cpp.html" title="src/gui/qgsmaptoolpan.cpp" alt="" coords="2389,84,2584,111"/>
+<area shape="rect" href="$qgsmaptoolzoom_8cpp.html" title="src/gui/qgsmaptoolzoom.cpp" alt="" coords="2608,84,2813,111"/>
+<area shape="rect" href="$qgsquickprint_8h.html" title="src/gui/qgsquickprint.h" alt="" coords="2837,84,3000,111"/>
+<area shape="rect" href="$qgsquickprint_8cpp.html" title="src/gui/qgsquickprint.cpp" alt="" coords="2888,161,3067,188"/>
+<area shape="rect" href="$qgsrubberband_8cpp.html" title="src/gui/qgsrubberband.cpp" alt="" coords="3075,84,3267,111"/>
+</map>

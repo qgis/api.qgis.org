@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classTriDecorator.html" title="Decorator class for Triangulations (s." alt="" coords="7,103,105,129"/>
+<area shape="rect" href="$classTriangulation.html" title="Interface for Triangulation classes." alt="" coords="5,7,107,33"/>
+<area shape="rect" href="$classTriangleInterpolator.html" title="This is an interface for interpolator classes for triangulations." alt="" coords="129,103,273,129"/>
+</map>

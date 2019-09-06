@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgspallabeling_8cpp.html" title="src/core/qgspallabeling.cpp" alt="" coords="5,84,200,111"/>
+<area shape="rect" href="$qgsprojectfiletransform_8cpp.html" title="src/core/qgsprojectfiletransform.cpp" alt="" coords="224,84,475,111"/>
+<area shape="rect" href="$qgsvectordataprovider_8cpp.html" title="src/core/qgsvectordataprovider.cpp" alt="" coords="499,84,744,111"/>
+<area shape="rect" href="$qgsvectorlayer_8cpp.html" title="src/core/qgsvectorlayer.cpp" alt="" coords="768,84,963,111"/>
+<area shape="rect" href="$qgsvectorlayerjoinbuffer_8cpp.html" title="src/core/qgsvectorlayerjoinbuffer.cpp" alt="" coords="987,84,1243,111"/>
+<area shape="rect" href="$qgslegendmodel_8cpp.html" title="src/core/composer/qgslegendmodel.cpp" alt="" coords="1267,84,1544,111"/>
+<area shape="rect" href="$qgscontinuouscolorrenderer_8cpp.html" title="src/core/renderer/qgscontinuouscolorrenderer.cpp" alt="" coords="1568,84,1907,111"/>
+<area shape="rect" href="$qgsgraduatedsymbolrenderer_8cpp.html" title="src/core/renderer/qgsgraduatedsymbolrenderer.cpp" alt="" coords="1931,84,2283,111"/>
+<area shape="rect" href="$qgsuniquevaluerenderer_8cpp.html" title="src/core/renderer/qgsuniquevaluerenderer.cpp" alt="" coords="2307,84,2621,111"/>
+<area shape="rect" href="$qgsgraduatedsymbolrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgsgraduatedsymbolrendererv2.cpp" alt="" coords="2645,84,3048,111"/>
+<area shape="rect" href="$qgsattributeeditor_8cpp.html" title="src/gui/qgsattributeeditor.cpp" alt="" coords="3072,84,3280,111"/>
+<area shape="rect" href="$qgsencodingfiledialog_8cpp.html" title="src/gui/qgsencodingfiledialog.cpp" alt="" coords="3304,84,3536,111"/>
+<area shape="rect" href="$qgsmaptip_8cpp.html" title="src/gui/qgsmaptip.cpp" alt="" coords="3560,84,3723,111"/>
+<area shape="rect" href="$qgsinterpolator_8cpp.html" title="src/analysis/interpolation/qgsinterpolator.cpp" alt="" coords="3747,84,4053,111"/>
+<area shape="rect" href="$qgsgeometryanalyzer_8cpp.html" title="src/analysis/vector/qgsgeometryanalyzer.cpp" alt="" coords="4077,84,4384,111"/>
+<area shape="rect" href="$qgsoverlayanalyzer_8cpp.html" title="src/analysis/vector/qgsoverlayanalyzer.cpp" alt="" coords="4408,84,4699,111"/>
+<area shape="rect" href="$qgszonalstatistics_8cpp.html" title="src/analysis/vector/qgszonalstatistics.cpp" alt="" coords="4723,84,5005,111"/>
+</map>

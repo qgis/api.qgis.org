@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsannotationitem_8h.html" title="src/gui/qgsannotationitem.h" alt="" coords="385,84,585,111"/>
+<area shape="rect" href="$qgsrubberband_8h.html" title="src/gui/qgsrubberband.h" alt="" coords="975,84,1151,111"/>
+<area shape="rect" href="$qgsmapcanvasitem_8cpp.html" title="src/gui/qgsmapcanvasitem.cpp" alt="" coords="1175,84,1393,111"/>
+<area shape="rect" href="$qgsvertexmarker_8h.html" title="src/gui/qgsvertexmarker.h" alt="" coords="1417,84,1604,111"/>
+<area shape="rect" href="$qgsannotationitem_8cpp.html" title="src/gui/qgsannotationitem.cpp" alt="" coords="5,161,221,188"/>
+<area shape="rect" href="$qgsformannotationitem_8h.html" title="src/gui/qgsformannotationitem.h" alt="" coords="245,161,475,188"/>
+<area shape="rect" href="$qgstextannotationitem_8h.html" title="src/gui/qgstextannotationitem.h" alt="" coords="499,161,723,188"/>
+<area shape="rect" href="$qgsformannotationitem_8cpp.html" title="src/gui/qgsformannotationitem.cpp" alt="" coords="229,239,475,265"/>
+<area shape="rect" href="$qgstextannotationitem_8cpp.html" title="src/gui/qgstextannotationitem.cpp" alt="" coords="499,239,739,265"/>
+<area shape="rect" href="$qgsmapcanvas_8cpp.html" title="src/gui/qgsmapcanvas.cpp" alt="" coords="747,161,939,188"/>
+<area shape="rect" href="$qgsmaptoolzoom_8cpp.html" title="src/gui/qgsmaptoolzoom.cpp" alt="" coords="963,161,1168,188"/>
+<area shape="rect" href="$qgsrubberband_8cpp.html" title="src/gui/qgsrubberband.cpp" alt="" coords="1192,161,1384,188"/>
+<area shape="rect" href="$qgsvertexmarker_8cpp.html" title="src/gui/qgsvertexmarker.cpp" alt="" coords="1409,161,1612,188"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgscomposerview_8h.html" title="qgscomposerview.h" alt="" coords="381,84,528,111"/>
+<area shape="rect" href="$qgscomposerarrow_8h.html" title="qgscomposerarrow.h" alt="" coords="772,161,927,188"/>
+<area shape="rect" href="$qgscomposerlabel_8h.html" title="qgscomposerlabel.h" alt="" coords="1439,161,1588,188"/>
+<area shape="rect" href="$qgscomposerlegend_8h.html" title="qgscomposerlegend.h" alt="" coords="552,84,715,111"/>
+<area shape="rect" href="$qgscomposermap_8h.html" title="qgscomposermap.h" alt="" coords="1913,84,2063,111"/>
+<area shape="rect" href="$qgscomposeritemgroup_8h.html" title="qgscomposeritemgroup.h" alt="" coords="1612,161,1799,188"/>
+<area shape="rect" href="$qgscomposerpicture_8h.html" title="qgscomposerpicture.h" alt="" coords="1171,84,1333,111"/>
+<area shape="rect" href="$qgscomposerscalebar_8h.html" title="qgscomposerscalebar.h" alt="" coords="973,84,1147,111"/>
+<area shape="rect" href="$qgscomposershape_8h.html" title="qgscomposershape.h" alt="" coords="739,84,899,111"/>
+<area shape="rect" href="$qgscomposerattributetable_8h.html" title="qgscomposerattributetable.h" alt="" coords="1675,84,1883,111"/>
+<area shape="rect" href="$qgsaddremoveitemcommand_8h.html" title="qgsaddremoveitemcommand.h" alt="" coords="481,393,705,420"/>
+<area shape="rect" href="$qgscomposeritem_8h.html" title="qgscomposeritem.h" alt="" coords="1327,239,1476,265"/>
+<area shape="rect" href="$qgscomposition_8h.html" title="qgscomposition.h" alt="" coords="1145,316,1279,343"/>
+<area shape="rect" href="$qgscomposeritemcommand_8h.html" title="qgscomposeritemcommand.h" alt="" coords="1033,393,1247,420"/>
+<area shape="rect" href="$qgslegendmodel_8h.html" title="qgslegendmodel.h" alt="" coords="508,161,647,188"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="2244,161,2359,188"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="2257,239,2345,265"/>
+<area shape="rect" href="$qgscomposertable_8h.html" title="qgscomposertable.h" alt="" coords="1873,161,2025,188"/>
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="2100,239,2201,265"/>
+</map>

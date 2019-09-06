@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsapplication_8cpp.html" title="src/core/qgsapplication.cpp" alt="" coords="5,84,200,111"/>
+<area shape="rect" href="$qgsgeometry_8cpp.html" title="src/core/qgsgeometry.cpp" alt="" coords="224,84,411,111"/>
+<area shape="rect" href="$qgsmaplayerregistry_8cpp.html" title="src/core/qgsmaplayerregistry.cpp" alt="" coords="435,84,667,111"/>
+<area shape="rect" href="$qgsmaprenderer_8cpp.html" title="src/core/qgsmaprenderer.cpp" alt="" coords="691,84,899,111"/>
+<area shape="rect" href="$qgspallabeling_8cpp.html" title="src/core/qgspallabeling.cpp" alt="" coords="923,84,1117,111"/>
+<area shape="rect" href="$qgspluginlayerregistry_8cpp.html" title="src/core/qgspluginlayerregistry.cpp" alt="" coords="1141,84,1381,111"/>
+<area shape="rect" href="$qgsproject_8cpp.html" title="src/core/qgsproject.cpp" alt="" coords="1405,84,1576,111"/>
+<area shape="rect" href="$qgsvectorlayer_8cpp.html" title="src/core/qgsvectorlayer.cpp" alt="" coords="1600,84,1795,111"/>
+<area shape="rect" href="$qgsvectorlayerjoinbuffer_8cpp.html" title="src/core/qgsvectorlayerjoinbuffer.cpp" alt="" coords="1819,84,2075,111"/>
+<area shape="rect" href="$qgscomposerattributetable_8cpp.html" title="src/core/composer/qgscomposerattributetable.cpp" alt="" coords="2099,84,2443,111"/>
+<area shape="rect" href="$qgscomposerlegend_8cpp.html" title="src/core/composer/qgscomposerlegend.cpp" alt="" coords="2467,84,2768,111"/>
+<area shape="rect" href="$qgscomposerlegenditem_8cpp.html" title="src/core/composer/qgscomposerlegenditem.cpp" alt="" coords="2792,84,3123,111"/>
+<area shape="rect" href="$qgscomposermap_8cpp.html" title="src/core/composer/qgscomposermap.cpp" alt="" coords="3147,84,3435,111"/>
+<area shape="rect" href="$qgslegendmodel_8cpp.html" title="src/core/composer/qgslegendmodel.cpp" alt="" coords="3459,84,3736,111"/>
+<area shape="rect" href="$qgsrasterlayer_8cpp.html" title="src/core/raster/qgsrasterlayer.cpp" alt="" coords="3760,84,3995,111"/>
+<area shape="rect" href="$qgsformannotationitem_8cpp.html" title="src/gui/qgsformannotationitem.cpp" alt="" coords="4019,84,4264,111"/>
+<area shape="rect" href="$qgsmapcanvas_8cpp.html" title="src/gui/qgsmapcanvas.cpp" alt="" coords="4288,84,4480,111"/>
+<area shape="rect" href="$qgsmapcanvassnapper_8cpp.html" title="src/gui/qgsmapcanvassnapper.cpp" alt="" coords="4504,84,4747,111"/>
+<area shape="rect" href="$qgsquickprint_8cpp.html" title="src/gui/qgsquickprint.cpp" alt="" coords="4771,84,4949,111"/>
+</map>

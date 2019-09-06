@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsComposerTable.html" title="A class to display feature attributes in the print composer." alt="" coords="1083,5,1227,32"/>
+<area shape="rect" href="$classQgsComposerItem.html" title="A item that forms part of a map composition." alt="" coords="741,84,883,111"/>
+<area shape="rect" href="$classQgsComposerItemCommand.html" title="Undo command to undo/redo all composer item related changes." alt="" coords="1051,121,1259,148"/>
+<area shape="rect" href="$classQgsPaperItem.html" title="Item representing the paper." alt="" coords="1099,172,1211,199"/>
+<area shape="rect" href="$classQgsComposition.html" title="Graphics scene for map printing." alt="" coords="1452,147,1577,173"/>
+<area shape="rect" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter." alt="" coords="1089,276,1220,303"/>
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="417,405,524,432"/>
+<area shape="rect" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="743,276,881,303"/>
+<area shape="rect" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor dpi." alt="" coords="740,225,884,252"/>
+<area shape="rect" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="372,304,569,331"/>
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="381,177,560,204"/>
+<area shape="rect" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="747,145,877,172"/>
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="7,403,233,429"/>
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="413,228,528,255"/>
+</map>

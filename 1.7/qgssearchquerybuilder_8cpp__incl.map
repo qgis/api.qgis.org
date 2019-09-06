@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1472,161,1573,188"/>
+<area shape="rect" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1048,161,1131,188"/>
+<area shape="rect" href="$qgssearchquerybuilder_8h.html" title="qgssearchquerybuilder.h" alt="" coords="2277,84,2453,111"/>
+<area shape="rect" href="$qgssearchstring_8h.html" title="qgssearchstring.h" alt="" coords="2133,316,2269,343"/>
+<area shape="rect" href="$qgssearchtreenode_8h.html" title="qgssearchtreenode.h" alt="" coords="1309,84,1467,111"/>
+<area shape="rect" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1564,84,1689,111"/>
+<area shape="rect" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="2245,471,2341,497"/>
+<area shape="rect" href="$qgisgui_8h.html" title="qgisgui.h" alt="" coords="2167,161,2244,188"/>
+<area shape="rect" href="$qgscontexthelp_8h.html" title="qgscontexthelp.h" alt="" coords="2529,316,2660,343"/>
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="1437,393,1496,420"/>
+<area shape="rect" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1784,316,1899,343"/>
+<area shape="rect" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="1877,161,1984,188"/>
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1859,393,1973,420"/>
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1967,471,2055,497"/>
+<area shape="rect" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="1939,239,2053,265"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgscontrastenhancementfunction_8h.html" title="src/core/raster/qgscontrastenhancementfunction.h" alt="" coords="601,84,948,111"/>
+<area shape="rect" href="$qgscontrastenhancement_8cpp.html" title="src/core/raster/qgscontrastenhancement.cpp" alt="" coords="471,239,780,265"/>
+<area shape="rect" href="$qgsrasterlayer_8h.html" title="src/core/raster/qgsrasterlayer.h" alt="" coords="2147,84,2368,111"/>
+<area shape="rect" href="$qgscliptominmaxenhancement_8h.html" title="src/core/raster/qgscliptominmaxenhancement.h" alt="" coords="25,161,353,188"/>
+<area shape="rect" href="$qgslinearminmaxenhancement_8h.html" title="src/core/raster/qgslinearminmaxenhancement.h" alt="" coords="812,161,1140,188"/>
+<area shape="rect" href="$qgslinearminmaxenhancementwithclip_8h.html" title="src/core/raster/qgslinearminmaxenhancementwithclip.h" alt="" coords="1164,161,1540,188"/>
+<area shape="rect" href="$qgscontrastenhancementfunction_8cpp.html" title="src/core/raster/qgscontrastenhancementfunction.cpp" alt="" coords="377,161,737,188"/>
+<area shape="rect" href="$qgscliptominmaxenhancement_8cpp.html" title="src/core/raster/qgscliptominmaxenhancement.cpp" alt="" coords="17,239,361,265"/>
+<area shape="rect" href="$qgslinearminmaxenhancement_8cpp.html" title="src/core/raster/qgslinearminmaxenhancement.cpp" alt="" coords="804,239,1148,265"/>
+<area shape="rect" href="$qgslinearminmaxenhancementwithclip_8cpp.html" title="src/core/raster/qgslinearminmaxenhancementwithclip.cpp" alt="" coords="1172,239,1561,265"/>
+<area shape="rect" href="$qgsproject_8cpp.html" title="src/core/qgsproject.cpp" alt="" coords="1564,161,1735,188"/>
+<area shape="rect" href="$qgscomposerlegenditem_8cpp.html" title="src/core/composer/qgscomposerlegenditem.cpp" alt="" coords="1759,161,2089,188"/>
+<area shape="rect" href="$qgscomposermap_8cpp.html" title="src/core/composer/qgscomposermap.cpp" alt="" coords="2113,161,2401,188"/>
+<area shape="rect" href="$qgslegendmodel_8cpp.html" title="src/core/composer/qgslegendmodel.cpp" alt="" coords="2425,161,2703,188"/>
+<area shape="rect" href="$qgsrasterlayer_8cpp.html" title="src/core/raster/qgsrasterlayer.cpp" alt="" coords="2727,161,2961,188"/>
+<area shape="rect" href="$qgsrastercalculator_8cpp.html" title="src/analysis/raster/qgsrastercalculator.cpp" alt="" coords="2985,161,3276,188"/>
+</map>

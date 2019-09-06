@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsDetailedItemWidget.html" title="A widget renderer for detailed item views." alt="" coords="13,103,184,129"/>
+<area shape="rect" href="$classQgsDetailedItemData.html" title="This class is the data only representation of a QgsDetailedItemWidget, designed to be used in custom ..." alt="" coords="19,7,179,33"/>
+</map>

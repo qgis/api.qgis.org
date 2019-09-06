@@ -1,0 +1,3 @@
+<area shape="rect" href="$classQgsCredentials.html" title="Interface for requesting credentials in QGIS in GUI independent way." alt="" coords="7,31,124,57">
+<area shape="rect" href="$classQgsCredentialDialog.html" title="A generic dialog for requesting credentials." alt="" coords="183,5,335,32">
+<area shape="rect" href="$classQgsCredentialsConsole.html" title="Default implementation of credentials interface." alt="" coords="175,56,343,83">

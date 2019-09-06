@@ -1,0 +1,2 @@
+<area shape="rect" href="$classQgsComposerItemCommand.html" title="Undo command to undo/redo all composer item related changes." alt="" coords="5,5,213,32">
+<area shape="rect" href="$classQgsComposerMergeCommand.html" title="A composer command that merges together with other commands having the same context..." alt="" coords="263,5,481,32">

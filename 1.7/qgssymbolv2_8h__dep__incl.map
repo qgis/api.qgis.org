@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" href="$qgsvectorlayer_8cpp.html" title="src/core/qgsvectorlayer.cpp" alt="" coords="19,239,213,265"/>
+<area shape="rect" href="$qgscomposerlegend_8cpp.html" title="src/core/composer/qgscomposerlegend.cpp" alt="" coords="4499,84,4800,111"/>
+<area shape="rect" href="$qgscomposerlegenditem_8cpp.html" title="src/core/composer/qgscomposerlegenditem.cpp" alt="" coords="2109,161,2440,188"/>
+<area shape="rect" href="$qgscategorizedsymbolrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgscategorizedsymbolrendererv2.cpp" alt="" coords="3679,316,4089,343"/>
+<area shape="rect" href="$qgssymbollayerv2utils_8h.html" title="src/core/symbology&#45;ng/qgssymbollayerv2utils.h" alt="" coords="2544,84,2867,111"/>
+<area shape="rect" href="$qgssymbollayerv2_8h.html" title="src/core/symbology&#45;ng/qgssymbollayerv2.h" alt="" coords="1439,161,1735,188"/>
+<area shape="rect" href="$qgsgraduatedsymbolrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgsgraduatedsymbolrendererv2.cpp" alt="" coords="2601,316,3004,343"/>
+<area shape="rect" href="$qgsstylev2_8cpp.html" title="src/core/symbology&#45;ng/qgsstylev2.cpp" alt="" coords="3028,316,3292,343"/>
+<area shape="rect" href="$qgssymbollayerv2utils_8cpp.html" title="src/core/symbology&#45;ng/qgssymbollayerv2utils.cpp" alt="" coords="2239,316,2577,343"/>
+<area shape="rect" href="$qgssymbolv2_8cpp.html" title="src/core/symbology&#45;ng/qgssymbolv2.cpp" alt="" coords="68,316,348,343"/>
+<area shape="rect" href="$qgssymbollayerv2registry_8h.html" title="src/core/symbology&#45;ng/qgssymbollayerv2registry.h" alt="" coords="1720,239,2064,265"/>
+<area shape="rect" href="$qgsrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgsrendererv2.cpp" alt="" coords="3445,161,3736,188"/>
+<area shape="rect" href="$qgssinglesymbolrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgssinglesymbolrendererv2.cpp" alt="" coords="3760,161,4133,188"/>
+<area shape="rect" href="$qgsannotationitem_8cpp.html" title="src/gui/qgsannotationitem.cpp" alt="" coords="4157,161,4373,188"/>
+<area shape="rect" href="$qgslegendmodel_8cpp.html" title="src/core/composer/qgslegendmodel.cpp" alt="" coords="3093,161,3371,188"/>
+<area shape="rect" href="$qgsvectorcolorrampv2_8cpp.html" title="src/core/symbology&#45;ng/qgsvectorcolorrampv2.cpp" alt="" coords="3316,316,3655,343"/>
+<area shape="rect" href="$qgsfillsymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgsfillsymbollayerv2.cpp" alt="" coords="1151,316,1476,343"/>
+<area shape="rect" href="$qgsmarkersymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgsmarkersymbollayerv2.cpp" alt="" coords="1857,316,2215,343"/>
+<area shape="rect" href="$qgslinesymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgslinesymbollayerv2.cpp" alt="" coords="1500,316,1833,343"/>
+<area shape="rect" href="$qgsrulebasedrendererv2_8cpp.html" title="src/core/symbology&#45;ng/qgsrulebasedrendererv2.cpp" alt="" coords="2088,239,2440,265"/>
+<area shape="rect" href="$qgsstylev2_8h.html" title="src/core/symbology&#45;ng/qgsstylev2.h" alt="" coords="2768,161,3019,188"/>
+<area shape="rect" href="$qgsvectorcolorrampv2_8h.html" title="src/core/symbology&#45;ng/qgsvectorcolorrampv2.h" alt="" coords="2819,239,3144,265"/>
+<area shape="rect" href="$qgsfillsymbollayerv2_8h.html" title="src/core/symbology&#45;ng/qgsfillsymbollayerv2.h" alt="" coords="288,239,597,265"/>
+<area shape="rect" href="$qgsmarkersymbollayerv2_8h.html" title="src/core/symbology&#45;ng/qgsmarkersymbollayerv2.h" alt="" coords="965,239,1309,265"/>
+<area shape="rect" href="$qgslinesymbollayerv2_8h.html" title="src/core/symbology&#45;ng/qgslinesymbollayerv2.h" alt="" coords="621,239,941,265"/>
+<area shape="rect" href="$qgssymbollayerv2_8cpp.html" title="src/core/symbology&#45;ng/qgssymbollayerv2.cpp" alt="" coords="1333,239,1645,265"/>
+<area shape="rect" href="$qgssymbollayerv2registry_8cpp.html" title="src/core/symbology&#45;ng/qgssymbollayerv2registry.cpp" alt="" coords="769,316,1127,343"/>
+<area shape="rect" href="$qgssymbologyv2conversion_8cpp.html" title="src/core/symbology&#45;ng/qgssymbologyv2conversion.cpp" alt="" coords="372,316,745,343"/>
+</map>

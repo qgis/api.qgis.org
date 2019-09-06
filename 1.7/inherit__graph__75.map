@@ -1,0 +1,6 @@
+<area shape="rect" href="$classQgsMapCanvasItem.html" title="An abstract class for items that can be placed on the map canvas." alt="" coords="5,81,155,108">
+<area shape="rect" href="$classQgsAnnotationItem.html" title="An annotation item can be either placed either on screen corrdinates or on map coordinates..." alt="" coords="204,31,348,57">
+<area shape="rect" href="$classQgsRubberBand.html" title="A class for drawing transient features (e.g." alt="" coords="215,81,337,108">
+<area shape="rect" href="$classQgsVertexMarker.html" title="A class for marking vertices of features using e.g." alt="" coords="211,132,341,159">
+<area shape="rect" href="$classQgsFormAnnotationItem.html" title="An annotation item that embedds a designer form showing the feature attribute." alt="" coords="397,5,576,32">
+<area shape="rect" href="$classQgsTextAnnotationItem.html" title="An annotation item that displays formated text." alt="" coords="401,56,572,83">

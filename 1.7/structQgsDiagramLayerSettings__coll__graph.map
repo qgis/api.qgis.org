@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="29,119,208,145"/>
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="5,7,232,33"/>
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="232,119,347,145"/>
+<area shape="rect" href="$classQgsDiagramRendererV2.html" title="Returns diagram settings for a feature." alt="" coords="371,119,547,145"/>
+<area shape="rect" href="$classQgsDiagram.html" title="Base class for all diagram types." alt="" coords="408,7,509,33"/>
+</map>

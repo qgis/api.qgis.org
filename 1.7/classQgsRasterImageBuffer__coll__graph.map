@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" href="$structQgsRasterViewPort.html" title="This class provides details of the viewable area that a raster will be rendered into." alt="" coords="311,119,452,145"/>
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="157,7,264,33"/>
+<area shape="rect" href="$classQgsRasterDataProvider.html" title="Base class for raster data providers." alt="" coords="97,119,268,145"/>
+<area shape="rect" href="$classQgsPoint.html" title="A class to represent a point geometry." alt="" coords="539,7,616,33"/>
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="288,7,515,33"/>
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="476,119,591,145"/>
+<area shape="rect" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations." alt="" coords="5,7,133,33"/>
+</map>

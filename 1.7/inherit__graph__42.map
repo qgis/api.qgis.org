@@ -1,0 +1,3 @@
+<area shape="rect" href="$classQgsDiagramRendererV2.html" title="Returns diagram settings for a feature." alt="" coords="5,31,181,57">
+<area shape="rect" href="$classQgsLinearlyInterpolatedDiagramRenderer.html" title="QgsLinearlyInterpolatedDiagramRenderer" alt="" coords="231,5,513,32">
+<area shape="rect" href="$classQgsSingleCategoryDiagramRenderer.html" title="Renders the diagrams for all features with the same settings." alt="" coords="244,56,500,83">

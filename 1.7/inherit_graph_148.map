@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" href="$classQgsSymbolLayerV2.html" title="QgsSymbolLayerV2" alt="" coords="5,208,152,235"/>
+<area shape="rect" href="$classQgsFillSymbolLayerV2.html" title="QgsFillSymbolLayerV2" alt="" coords="216,81,376,108"/>
+<area shape="rect" href="$classQgsLineSymbolLayerV2.html" title="QgsLineSymbolLayerV2" alt="" coords="211,208,381,235"/>
+<area shape="rect" href="$classQgsMarkerSymbolLayerV2.html" title="QgsMarkerSymbolLayerV2" alt="" coords="201,335,391,361"/>
+<area shape="rect" href="$classQgsCentroidFillSymbolLayerV2.html" title="QgsCentroidFillSymbolLayerV2" alt="" coords="453,5,669,32"/>
+<area shape="rect" href="$classQgsSimpleFillSymbolLayerV2.html" title="QgsSimpleFillSymbolLayerV2" alt="" coords="459,56,664,83"/>
+<area shape="rect" href="$classQgsSVGFillSymbolLayer.html" title="A class for svg fill patterns." alt="" coords="476,107,647,133"/>
+<area shape="rect" href="$classQgsLineDecorationSymbolLayerV2.html" title="QgsLineDecorationSymbolLayerV2" alt="" coords="440,157,683,184"/>
+<area shape="rect" href="$classQgsMarkerLineSymbolLayerV2.html" title="QgsMarkerLineSymbolLayerV2" alt="" coords="453,208,669,235"/>
+<area shape="rect" href="$classQgsSimpleLineSymbolLayerV2.html" title="QgsSimpleLineSymbolLayerV2" alt="" coords="453,259,669,285"/>
+<area shape="rect" href="$classQgsFontMarkerSymbolLayerV2.html" title="QgsFontMarkerSymbolLayerV2" alt="" coords="452,309,671,336"/>
+<area shape="rect" href="$classQgsSimpleMarkerSymbolLayerV2.html" title="QgsSimpleMarkerSymbolLayerV2" alt="" coords="444,360,679,387"/>
+<area shape="rect" href="$classQgsSvgMarkerSymbolLayerV2.html" title="QgsSvgMarkerSymbolLayerV2" alt="" coords="455,411,668,437"/>
+</map>
