@@ -1,0 +1,4 @@
+<map id="QgsProjectBadLayerHandler" name="QgsProjectBadLayerHandler">
+<area shape="rect" id="node3" href="$classQgsProjectBadLayerDefaultHandler.html" title="Default bad layer handler which ignores any missing layers." alt="" coords="5,83,203,127"/>
+<area shape="rect" id="node5" href="$classQgsProjectBadLayerGuiHandler.html" title="Handler for missing layers within project." alt="" coords="227,91,448,119"/>
+</map>

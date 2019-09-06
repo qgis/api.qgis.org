@@ -1,0 +1,13 @@
+<map id="/tmp/buildd/qgis&#45;2.6.0+wheezy1/src/gui/qgsexpressionbuilderdialog.h" name="/tmp/buildd/qgis&#45;2.6.0+wheezy1/src/gui/qgsexpressionbuilderdialog.h">
+<area shape="rect" id="node3" href="$qgsdatadefinedbutton_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/qgsdatadefinedbutton.cpp" alt="" coords="5,107,312,151"/>
+<area shape="rect" id="node5" href="$qgsexpressionbuilderdialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/qgsexpressionbuilderdialog.cpp" alt="" coords="336,107,675,151"/>
+<area shape="rect" id="node7" href="$qgsfieldexpressionwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/qgsfieldexpressionwidget.cpp" alt="" coords="699,107,1021,151"/>
+<area shape="rect" id="node9" href="$qgsdualview_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/attributetable\l/qgsdualview.cpp" alt="" coords="1045,99,1269,159"/>
+<area shape="rect" id="node11" href="$qgsrelationreferenceconfigdlg_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/editorwidgets\l/qgsrelationreferenceconfigdlg.cpp" alt="" coords="1293,99,1536,159"/>
+<area shape="rect" id="node13" href="$qgsvaluerelationconfigdlg_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/editorwidgets\l/qgsvaluerelationconfigdlg.cpp" alt="" coords="1560,99,1781,159"/>
+<area shape="rect" id="node15" href="$qgscategorizedsymbolrendererv2widget_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/symbology\l&#45;ng/qgscategorizedsymbolrendererv2widget.cpp" alt="" coords="1805,99,2133,159"/>
+<area shape="rect" id="node17" href="$qgsdatadefinedsymboldialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/symbology\l&#45;ng/qgsdatadefinedsymboldialog.cpp" alt="" coords="2157,99,2413,159"/>
+<area shape="rect" id="node19" href="$qgsgraduatedsymbolrendererv2widget_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/symbology\l&#45;ng/qgsgraduatedsymbolrendererv2widget.cpp" alt="" coords="2437,99,2757,159"/>
+<area shape="rect" id="node21" href="$qgsrendererv2widget_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/symbology\l&#45;ng/qgsrendererv2widget.cpp" alt="" coords="2781,99,2989,159"/>
+<area shape="rect" id="node23" href="$qgsrulebasedrendererv2widget_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/symbology\l&#45;ng/qgsrulebasedrendererv2widget.cpp" alt="" coords="3013,99,3283,159"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="/tmp/buildd/qgis&#45;2.6.0+wheezy1/src/core/qgsrendercontext.h" name="/tmp/buildd/qgis&#45;2.6.0+wheezy1/src/core/qgsrendercontext.h">
+<area shape="rect" id="node3" href="$qgsmaprenderer_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsmaprenderer.h" alt="" coords="1025,107,1289,151"/>
+<area shape="rect" id="node5" href="$qgscomposermap_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposermap.cpp" alt="" coords="547,209,757,269"/>
+<area shape="rect" id="node7" href="$qgscomposermapgrid_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposermapgrid.cpp" alt="" coords="781,209,992,269"/>
+<area shape="rect" id="node9" href="$qgsdxfpallabeling_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/dxf\l/qgsdxfpallabeling.h" alt="" coords="1016,209,1181,269"/>
+<area shape="rect" id="node11" href="$qgshighlight_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/qgshighlight.cpp" alt="" coords="1205,217,1448,261"/>
+<area shape="rect" id="node13" href="$qgsmapcanvasitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/qgsmapcanvasitem.cpp" alt="" coords="1472,217,1763,261"/>
+<area shape="rect" id="node15" href="$qgsmaptool_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/qgsmaptool.cpp" alt="" coords="1787,217,2027,261"/>
+<area shape="rect" id="node17" href="$qgsdiagramrendererv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsdiagramrendererv2.cpp" alt="" coords="1465,107,1785,151"/>
+<area shape="rect" id="node19" href="$qgslabel_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgslabel.cpp" alt="" coords="5,217,232,261"/>
+<area shape="rect" id="node21" href="$qgslabel_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgslabel.h" alt="" coords="301,107,512,151"/>
+<area shape="rect" id="node24" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsvectorlayer.cpp" alt="" coords="256,217,523,261"/>
+<area shape="rect" id="node27" href="$qgsmaphittest_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsmaphittest.cpp" alt="" coords="1809,107,2076,151"/>
+<area shape="rect" id="node29" href="$qgsmaprendererjob_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsmaprendererjob.h" alt="" coords="2100,107,2385,151"/>
+<area shape="rect" id="node31" href="$qgsmaprendererjob_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsmaprendererjob.cpp" alt="" coords="2183,217,2481,261"/>
+<area shape="rect" id="node33" href="$qgsmapunitscale_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsmapunitscale.h" alt="" coords="2460,107,2727,151"/>
+<area shape="rect" id="node36" href="$qgsrendercontext_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsrendercontext.cpp" alt="" coords="2751,107,3036,151"/>
+<area shape="rect" id="node39" href="$qgsvectorlayerrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsvectorlayerrenderer.cpp" alt="" coords="3060,107,3383,151"/>
+<area shape="rect" id="node41" href="$qgscomposermapgrid_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposermapgrid.h" alt="" coords="689,99,900,159"/>
+<area shape="rect" id="node47" href="$qgsdiagram_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/diagram\l/qgsdiagram.cpp" alt="" coords="3407,99,3607,159"/>
+<area shape="rect" id="node49" href="$qgshistogramdiagram_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/diagram\l/qgshistogramdiagram.cpp" alt="" coords="3631,99,3831,159"/>
+<area shape="rect" id="node51" href="$qgspiediagram_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/diagram\l/qgspiediagram.cpp" alt="" coords="3855,99,4055,159"/>
+<area shape="rect" id="node53" href="$qgstextdiagram_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/diagram\l/qgstextdiagram.cpp" alt="" coords="4079,99,4279,159"/>
+<area shape="rect" id="node56" href="$qgsrasterlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/raster\l/qgsrasterlayer.cpp" alt="" coords="4303,99,4487,159"/>
+<area shape="rect" id="node58" href="$qgsellipsesymbollayerv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/symbology\l&#45;ng/qgsellipsesymbollayerv2.cpp" alt="" coords="4511,99,4740,159"/>
+<area shape="rect" id="node60" href="$qgsfillsymbollayerv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/symbology\l&#45;ng/qgsfillsymbollayerv2.cpp" alt="" coords="4764,99,4980,159"/>
+<area shape="rect" id="node62" href="$qgslinesymbollayerv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/symbology\l&#45;ng/qgslinesymbollayerv2.cpp" alt="" coords="5004,99,5220,159"/>
+<area shape="rect" id="node64" href="$qgsmarkersymbollayerv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/symbology\l&#45;ng/qgsmarkersymbollayerv2.cpp" alt="" coords="5244,99,5479,159"/>
+<area shape="rect" id="node66" href="$qgsrendererv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/symbology\l&#45;ng/qgsrendererv2.cpp" alt="" coords="5503,99,5719,159"/>
+<area shape="rect" id="node68" href="$qgsrulebasedrendererv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/symbology\l&#45;ng/qgsrulebasedrendererv2.cpp" alt="" coords="5743,99,5972,159"/>
+<area shape="rect" id="node70" href="$qgssymbollayerv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/symbology\l&#45;ng/qgssymbollayerv2.cpp" alt="" coords="5996,99,6212,159"/>
+<area shape="rect" id="node72" href="$qgssymbollayerv2utils_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/symbology\l&#45;ng/qgssymbollayerv2utils.cpp" alt="" coords="6236,99,6452,159"/>
+<area shape="rect" id="node74" href="$qgssymbolv2_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/symbology\l&#45;ng/qgssymbolv2.cpp" alt="" coords="6476,99,6692,159"/>
+<area shape="rect" id="node76" href="$qgsannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/qgsannotationitem.cpp" alt="" coords="6716,107,7001,151"/>
+</map>

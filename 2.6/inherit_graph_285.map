@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsLayerTreeModelLegendNode.html" title="The QgsLegendRendererItem class is abstract interface for legend items returned from QgsMapLayerLegen..." alt="" coords="5,81,232,109"/>
+<area shape="rect" id="node3" href="$classQgsImageLegendNode.html" title="Implementation of legend node interface for displaying arbitrary raster image." alt="" coords="305,5,473,33"/>
+<area shape="rect" id="node5" href="$classQgsRasterSymbolLegendNode.html" title="Implementation of legend node interface for displaying raster legend entries." alt="" coords="281,55,497,83"/>
+<area shape="rect" id="node7" href="$classQgsSimpleLegendNode.html" title="Implementation of legend node interface for displaying arbitrary label with icon." alt="" coords="304,106,475,134"/>
+<area shape="rect" id="node9" href="$classQgsSymbolV2LegendNode.html" title="Implementation of legend node interface for displaying preview of vector symbols and their labels and..." alt="" coords="293,157,485,185"/>
+</map>

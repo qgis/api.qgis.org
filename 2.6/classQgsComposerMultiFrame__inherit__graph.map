@@ -1,0 +1,5 @@
+<map id="QgsComposerMultiFrame" name="QgsComposerMultiFrame">
+<area shape="rect" id="node5" href="$classQgsComposerHtml.html" title="QgsComposerHtml" alt="" coords="5,161,149,189"/>
+<area shape="rect" id="node7" href="$classQgsComposerTableV2.html" title="A class to display a table in the print composer, and allow the table to span over multiple frames..." alt="" coords="173,161,336,189"/>
+<area shape="rect" id="node2" href="$classQgsComposerObject.html" title="A base class for objects which belong to a map composition." alt="" coords="88,6,243,34"/>
+</map>

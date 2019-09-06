@@ -1,0 +1,7 @@
+<map id="QgsMapCanvasItem" name="QgsMapCanvasItem">
+<area shape="rect" id="node3" href="$classQgsAnnotationItem.html" title="An annotation item can be either placed either on screen corrdinates or on map coordinates." alt="" coords="5,83,152,111"/>
+<area shape="rect" id="node5" href="$classQgsHighlight.html" title="A class for highlight features on the map." alt="" coords="176,83,277,111"/>
+<area shape="rect" id="node7" href="$classQgsMapCanvasMap.html" title="A rectangular graphics item representing the map on the canvas." alt="" coords="301,83,448,111"/>
+<area shape="rect" id="node9" href="$classQgsRubberBand.html" title="A class for drawing transient features (e.g." alt="" coords="472,83,595,111"/>
+<area shape="rect" id="node11" href="$classQgsVertexMarker.html" title="A class for marking vertices of features using e.g." alt="" coords="619,83,749,111"/>
+</map>

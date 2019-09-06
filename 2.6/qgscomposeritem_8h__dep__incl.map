@@ -1,0 +1,20 @@
+<map id="/tmp/buildd/qgis&#45;2.6.0+wheezy1/src/core/composer/qgscomposeritem.h" name="/tmp/buildd/qgis&#45;2.6.0+wheezy1/src/core/composer/qgscomposeritem.h">
+<area shape="rect" id="node3" href="$qgsaddremoveitemcommand_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgsaddremoveitemcommand.cpp" alt="" coords="5,334,248,394"/>
+<area shape="rect" id="node5" href="$qgspaperitem_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgspaperitem.h" alt="" coords="609,115,820,175"/>
+<area shape="rect" id="node7" href="$qgscomposition_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposition.h" alt="" coords="507,225,717,285"/>
+<area shape="rect" id="node10" href="$qgscomposertable_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposertable.h" alt="" coords="272,334,483,394"/>
+<area shape="rect" id="node12" href="$qgscomposeritem_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposeritem.cpp" alt="" coords="1000,334,1211,394"/>
+<area shape="rect" id="node14" href="$qgscomposermodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposermodel.cpp" alt="" coords="507,334,717,394"/>
+<area shape="rect" id="node16" href="$qgscomposermousehandles_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposermousehandles.cpp" alt="" coords="741,334,976,394"/>
+<area shape="rect" id="node21" href="$qgscomposermap_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposermap.h" alt="" coords="945,115,1156,175"/>
+<area shape="rect" id="node23" href="$qgscomposerarrow_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposerarrow.h" alt="" coords="1180,115,1391,175"/>
+<area shape="rect" id="node26" href="$qgscomposerframe_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposerframe.h" alt="" coords="1415,115,1625,175"/>
+<area shape="rect" id="node29" href="$qgscomposeritemcommand_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposeritemcommand.cpp" alt="" coords="1473,225,1708,285"/>
+<area shape="rect" id="node33" href="$qgscomposeritemgroup_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposeritemgroup.h" alt="" coords="1700,115,1911,175"/>
+<area shape="rect" id="node35" href="$qgscomposerlabel_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposerlabel.h" alt="" coords="1935,115,2145,175"/>
+<area shape="rect" id="node37" href="$qgscomposerlegend_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposerlegend.h" alt="" coords="2169,115,2380,175"/>
+<area shape="rect" id="node41" href="$qgscomposerpicture_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposerpicture.h" alt="" coords="2404,115,2615,175"/>
+<area shape="rect" id="node43" href="$qgscomposerscalebar_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposerscalebar.h" alt="" coords="2639,115,2849,175"/>
+<area shape="rect" id="node45" href="$qgscomposershape_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/composer\l/qgscomposershape.h" alt="" coords="2873,115,3084,175"/>
+<area shape="rect" id="node47" href="$qgscomposerruler_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/qgscomposerruler.h" alt="" coords="3108,123,3372,167"/>
+</map>

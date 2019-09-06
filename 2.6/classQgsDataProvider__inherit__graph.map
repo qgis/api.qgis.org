@@ -1,0 +1,4 @@
+<map id="QgsDataProvider" name="QgsDataProvider">
+<area shape="rect" id="node3" href="$classQgsRasterDataProvider.html" title="Base class for raster data providers." alt="" coords="5,83,176,111"/>
+<area shape="rect" id="node5" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers." alt="" coords="200,83,371,111"/>
+</map>

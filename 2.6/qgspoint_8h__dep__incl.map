@@ -1,0 +1,32 @@
+<map id="/tmp/buildd/qgis&#45;2.6.0+wheezy1/src/core/qgspoint.h" name="/tmp/buildd/qgis&#45;2.6.0+wheezy1/src/core/qgspoint.h">
+<area shape="rect" id="node3" href="$qgsgeometry_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsgeometry.h" alt="" coords="344,310,587,354"/>
+<area shape="rect" id="node5" href="$qgsdistancearea_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsdistancearea.cpp" alt="" coords="308,419,588,463"/>
+<area shape="rect" id="node7" href="$qgsgeometry_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsgeometry.cpp" alt="" coords="612,419,868,463"/>
+<area shape="rect" id="node9" href="$qgsvectorlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsvectorlayer.cpp" alt="" coords="1748,419,2015,463"/>
+<area shape="rect" id="node11" href="$qgslinevectorlayerdirector_8cpp.html" title="implementation of QgsLineVectorLayerDirector" alt="" coords="15,411,284,471"/>
+<area shape="rect" id="node13" href="$qgscoordinatetransform_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgscoordinatetransform.h" alt="" coords="635,209,947,253"/>
+<area shape="rect" id="node18" href="$qgsrasterviewport_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/raster\l/qgsrasterviewport.h" alt="" coords="661,302,845,362"/>
+<area shape="rect" id="node20" href="$qgsrasterlayer_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/raster\l/qgsrasterlayer.h" alt="" coords="892,411,1076,471"/>
+<area shape="rect" id="node22" href="$qgsrectangle_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsrectangle.h" alt="" coords="1697,107,1940,151"/>
+<area shape="rect" id="node25" href="$qgsclipper_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsclipper.h" alt="" coords="2715,209,2936,253"/>
+<area shape="rect" id="node29" href="$qgsgml_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsgml.h" alt="" coords="1021,209,1227,253"/>
+<area shape="rect" id="node31" href="$qgslabel_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgslabel.h" alt="" coords="1555,209,1765,253"/>
+<area shape="rect" id="node34" href="$qgslabelsearchtree_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgslabelsearchtree.h" alt="" coords="1251,209,1531,253"/>
+<area shape="rect" id="node36" href="$qgspallabeling_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgspallabeling.h" alt="" coords="1891,209,2141,253"/>
+<area shape="rect" id="node39" href="$qgsrectangle_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsrectangle.cpp" alt="" coords="2165,209,2421,253"/>
+<area shape="rect" id="node42" href="$qgsmapcanvas_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/qgsmapcanvas.h" alt="" coords="2445,209,2691,253"/>
+<area shape="rect" id="node44" href="$qgsmaptopixel_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsmaptopixel.h" alt="" coords="2217,107,2471,151"/>
+<area shape="rect" id="node46" href="$qgstolerance_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgstolerance.h" alt="" coords="3061,209,3304,253"/>
+<area shape="rect" id="node48" href="$qgssnapper_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgssnapper.h" alt="" coords="3792,310,4024,354"/>
+<area shape="rect" id="node57" href="$qgsgmlschema_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgsgmlschema.h" alt="" coords="2545,107,2801,151"/>
+<area shape="rect" id="node62" href="$qgspoint_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/qgspoint.cpp" alt="" coords="2825,107,3055,151"/>
+<area shape="rect" id="node66" href="$qgsdxfexport_8cpp.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/dxf\l/qgsdxfexport.cpp" alt="" coords="3079,99,3244,159"/>
+<area shape="rect" id="node70" href="$qgspointdisplacementrenderer_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/core/symbology\l&#45;ng/qgspointdisplacementrenderer.h" alt="" coords="3268,99,3521,159"/>
+<area shape="rect" id="node73" href="$qgsmaptoolidentify_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/qgsmaptoolidentify.h" alt="" coords="3545,107,3815,151"/>
+<area shape="rect" id="node75" href="$qgsmaptoolemitpoint_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/qgsmaptoolemitpoint.h" alt="" coords="3839,107,4124,151"/>
+<area shape="rect" id="node77" href="$qgsvertexmarker_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/gui/qgsvertexmarker.h" alt="" coords="4148,107,4407,151"/>
+<area shape="rect" id="node79" href="$qgsgraph_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/analysis\l/network/qgsgraph.h" alt="" coords="4431,99,4596,159"/>
+<area shape="rect" id="node81" href="$qgsgraphbuilderintr_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/analysis\l/network/qgsgraphbuilderintr.h" alt="" coords="5,302,219,362"/>
+<area shape="rect" id="node84" href="$qgsgraphdirector_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/analysis\l/network/qgsgraphdirector.h" alt="" coords="4671,99,4871,159"/>
+<area shape="rect" id="node87" href="$qgsosmbase_8h.html" title="/tmp/buildd/qgis&#45;2.6.0\l+wheezy1/src/analysis\l/openstreetmap/qgsosmbase.h" alt="" coords="4895,99,5116,159"/>
+</map>

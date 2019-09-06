@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsAbstractFeatureSource.html" title="base class that can be used for any class that is capable of returning features" alt="" coords="5,5,200,33"/>
+<area shape="rect" id="node3" href="$classQgsVectorLayerFeatureSource.html" title="Partial snapshot of vector layer&#39;s state (only the members necessary for access to features)..." alt="" coords="248,5,464,33"/>
+</map>

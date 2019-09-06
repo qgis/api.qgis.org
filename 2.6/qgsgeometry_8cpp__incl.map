@@ -1,0 +1,13 @@
+<map id="/tmp/buildd/qgis&#45;2.6.0+wheezy1/src/core/qgsgeometry.cpp" name="/tmp/buildd/qgis&#45;2.6.0+wheezy1/src/core/qgsgeometry.cpp">
+<area shape="rect" id="node11" href="$qgis_8h.html" title="qgis.h" alt="" coords="549,331,608,359"/>
+<area shape="rect" id="node14" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="469,177,587,205"/>
+<area shape="rect" id="node17" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="576,254,664,282"/>
+<area shape="rect" id="node20" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="345,254,471,282"/>
+<area shape="rect" id="node23" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="661,99,757,127"/>
+<area shape="rect" id="node25" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="781,99,915,127"/>
+<area shape="rect" id="node28" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="743,177,860,205"/>
+<area shape="rect" id="node31" href="$qgsmaplayerregistry_8h.html" title="qgsmaplayerregistry.h" alt="" coords="989,99,1152,127"/>
+<area shape="rect" id="node33" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="965,177,1091,205"/>
+<area shape="rect" id="node36" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="1227,99,1328,127"/>
+<area shape="rect" id="node38" href="$qgsgeometryvalidator_8h.html" title="qgsgeometryvalidator.h" alt="" coords="363,99,536,127"/>
+</map>

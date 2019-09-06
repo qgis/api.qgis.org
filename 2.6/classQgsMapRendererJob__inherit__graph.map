@@ -1,0 +1,4 @@
+<map id="QgsMapRendererJob" name="QgsMapRendererJob">
+<area shape="rect" id="node3" href="$classQgsMapRendererCustomPainterJob.html" title="Job implementation that renders everything sequentially using a custom painter." alt="" coords="5,83,248,111"/>
+<area shape="rect" id="node5" href="$classQgsMapRendererQImageJob.html" title="Intermediate base class adding functionality that allows client to query the rendered image..." alt="" coords="272,83,472,111"/>
+</map>

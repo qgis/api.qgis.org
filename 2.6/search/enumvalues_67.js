@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['gdal',['Gdal',['../classQgsSublayersDialog.html#aa3800a56360a3a2cd35ab65107b0248aa20dbee8e5600b21f8f250974af306ff9',1,'QgsSublayersDialog']]],
+  ['generatedlayout',['GeneratedLayout',['../classQgsVectorLayer.html#a603f1e528a976636e0acef14289df9f6a8bab11c96964f22ea5ac5d96e691befc',1,'QgsVectorLayer']]],
+  ['generic',['Generic',['../classQgsAction.html#afb360f2e24100c27aa1cb40512288f05a619caf704819df0076792a4b047149cb',1,'QgsAction']]],
+  ['genericpython',['GenericPython',['../classQgsAction.html#afb360f2e24100c27aa1cb40512288f05a429030eebf3e4dacd1d0abb949d72f2e',1,'QgsAction']]],
+  ['geometrysimplification',['GeometrySimplification',['../classQgsVectorSimplifyMethod.html#af725ed8fe81eb8f023c929af652a945ca31f3e104eed6ac62eb8f4a03d3e3638f',1,'QgsVectorSimplifyMethod']]],
+  ['gpgga',['GPGGA',['../sentence_8h.html#ac1e92675d5432f785d5302b3046c23daa7ce569034cd13427e4e6c3db6130017d',1,'sentence.h']]],
+  ['gpgsa',['GPGSA',['../sentence_8h.html#ac1e92675d5432f785d5302b3046c23daa13962a43e3a2639f1cdc34c69e49102a',1,'sentence.h']]],
+  ['gpgsv',['GPGSV',['../sentence_8h.html#ac1e92675d5432f785d5302b3046c23daa261c9fc87414b4426986d6a6e8d9bf24',1,'sentence.h']]],
+  ['gpnon',['GPNON',['../sentence_8h.html#ac1e92675d5432f785d5302b3046c23daa8bc672e0f07331fcae93d8ed68f50db7',1,'sentence.h']]],
+  ['gprmc',['GPRMC',['../sentence_8h.html#ac1e92675d5432f785d5302b3046c23daa4e46c2c907610e3cae94447c3d4c43f4',1,'sentence.h']]],
+  ['gpsdatareceived',['GPSDataReceived',['../classQgsGPSConnection.html#a63a09eb0d9700d2c3c07a995b4ea6e38afe11b9c22b9133c0490e7b8a22113c1c',1,'QgsGPSConnection']]],
+  ['gpvtg',['GPVTG',['../sentence_8h.html#ac1e92675d5432f785d5302b3046c23daabe049feacfc7943a654b4c35e2a08c18',1,'sentence.h']]],
+  ['grayindex',['GrayIndex',['../classQgsRaster.html#a94cc43355c657fab44bd147d82b2c2f1ab38e658eff4c6e3d23cf42bccfcc76c1',1,'QgsRaster']]],
+  ['grayorundefined',['GrayOrUndefined',['../classQgsRasterLayer.html#a37e287fd16e799bddcf0e5533de07c13acb32ec1b876322a005b8f8c476f23014',1,'QgsRasterLayer']]],
+  ['grayscaleaverage',['GrayscaleAverage',['../classQgsHueSaturationFilter.html#a45a747fe84825287e1f82172f71c8deca0587957b1de0633584630dcb6188a8f2',1,'QgsHueSaturationFilter']]],
+  ['grayscalelightness',['GrayscaleLightness',['../classQgsHueSaturationFilter.html#a45a747fe84825287e1f82172f71c8decafce6c73797294b4864fe769a448ec7ed',1,'QgsHueSaturationFilter']]],
+  ['grayscaleluminosity',['GrayscaleLuminosity',['../classQgsHueSaturationFilter.html#a45a747fe84825287e1f82172f71c8deca8efb2392daf2e19233c011aa6fd04f77',1,'QgsHueSaturationFilter']]],
+  ['grayscaleoff',['GrayscaleOff',['../classQgsHueSaturationFilter.html#a45a747fe84825287e1f82172f71c8deca6ff55a3c5960c097ba13908ec98e6bf1',1,'QgsHueSaturationFilter']]],
+  ['green',['Green',['../classQgsColorWidget.html#ae5c3cc477cd1c27d19188a5e984a7627a36fbe2c2b3fbbf4ad087fdf60ed80bae',1,'QgsColorWidget']]],
+  ['greenband',['GreenBand',['../classQgsRaster.html#a94cc43355c657fab44bd147d82b2c2f1a9034d54d09c4b99c5924e8efdd1ac505',1,'QgsRaster']]],
+  ['group',['Group',['../classQgsDirectoryItem.html#a2413567109318aef2a35e468193cfa14a7be8af778eacb35f7a2a7c566735cd26',1,'QgsDirectoryItem::Group()'],['../classQgsComposerLegendStyle.html#a88ba23963b9713490f08c56fc11e61bca05dbd7bbb4d02a979f3c1d8921ed4089',1,'QgsComposerLegendStyle::Group()']]],
+  ['groupentity',['GroupEntity',['../classQgsStyleV2.html#a64d551ea9c7f491441cebf77c872a514adead5353ad9a1c66c44ecce14ef0347d',1,'QgsStyleV2']]],
+  ['groupitem',['GroupItem',['../classQgsComposerLegendItem.html#a61d3ad5d564c1606f004159d60bbb469a90d65799dd393409fadb26a2dc02724c',1,'QgsComposerLegendItem::GroupItem()'],['../classQgsLegendModel.html#a7eba4cfe68d66991981617231613276ea08dc3f3ae6d98806e13bc845f0a5efac',1,'QgsLegendModel::GroupItem()']]]
+];

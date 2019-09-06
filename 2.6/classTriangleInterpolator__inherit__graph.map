@@ -1,0 +1,4 @@
+<map id="TriangleInterpolator" name="TriangleInterpolator">
+<area shape="rect" id="node3" href="$classCloughTocherInterpolator.html" title="This is an implementation of a Clough&#45;Tocher interpolator based on a triangular tessellation." alt="" coords="5,83,187,111"/>
+<area shape="rect" id="node5" href="$classLinTriangleInterpolator.html" title="LinTriangleInterpolator is a class which interpolates linearly on a triangulation." alt="" coords="211,83,373,111"/>
+</map>
