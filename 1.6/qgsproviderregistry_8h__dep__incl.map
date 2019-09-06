@@ -1,0 +1,5 @@
+<area shape="rect" href="$qgsapplication_8cpp.html" title="src/core/qgsapplication.cpp" alt="" coords="5,84,200,111">
+<area shape="rect" href="$qgsproviderregistry_8cpp.html" title="src/core/qgsproviderregistry.cpp" alt="" coords="224,84,448,111">
+<area shape="rect" href="$qgsvectorlayer_8cpp.html" title="src/core/qgsvectorlayer.cpp" alt="" coords="472,84,667,111">
+<area shape="rect" href="$qgsrasterlayer_8cpp.html" title="src/core/raster/qgsrasterlayer.cpp" alt="" coords="691,84,925,111">
+<area shape="rect" href="$qgsprojectbadlayerguihandler_8cpp.html" title="src/gui/qgsprojectbadlayerguihandler.cpp" alt="" coords="949,84,1232,111">

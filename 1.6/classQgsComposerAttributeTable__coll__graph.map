@@ -1,0 +1,24 @@
+<area shape="rect" href="$classQgsComposerTable.html" title="A class to display feature attributes in the print composer." alt="" coords="1373,229,1517,256">
+<area shape="rect" href="$classQgsComposerItem.html" title="A item that forms part of a map composition." alt="" coords="1061,189,1203,216">
+<area shape="rect" href="$classQgsPaperItem.html" title="Item representing the paper." alt="" coords="1389,113,1501,140">
+<area shape="rect" href="$classQgsComposerMap.html" title="Object representing map window." alt="" coords="1376,355,1515,381">
+<area shape="rect" href="$classQgsComposition.html" title="Graphics scene for map printing." alt="" coords="1712,168,1837,195">
+<area shape="rect" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter." alt="" coords="1067,256,1197,283">
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="415,429,521,456">
+<area shape="rect" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="747,127,885,153">
+<area shape="rect" href="$classQgsVectorLayer.html" title="Vector layer backed by a data source provider." alt="" coords="1071,603,1193,629">
+<area shape="rect" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="763,664,869,691">
+<area shape="rect" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor..." alt="" coords="744,177,888,204">
+<area shape="rect" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="369,39,567,65">
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="379,203,557,229">
+<area shape="rect" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="751,228,881,255">
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)." alt="" coords="7,299,233,325">
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="411,107,525,133">
+<area shape="rect" href="$classQgsAttributeAction.html" title="Storage and management of actions associated with Qgis layer attributes." alt="" coords="1375,640,1516,667">
+<area shape="rect" href="$classQgsUndoCommand.html" title="Class to support universal undo command sequence for application, basic for." alt="" coords="1372,567,1519,593">
+<area shape="rect" href="$classQgsRenderer.html" title="Abstract base class for renderers." alt="" coords="764,480,868,507">
+<area shape="rect" href="$classQgsFeatureRendererV2.html" title="QgsFeatureRendererV2" alt="" coords="732,531,900,557">
+<area shape="rect" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers." alt="" coords="731,720,901,747">
+<area shape="rect" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations." alt="" coords="404,725,532,752">
+<area shape="rect" href="$classQgsLabel.html" title="A class to render labels." alt="" coords="776,773,856,800">
+<area shape="rect" href="$classQgsLabelAttributes.html" title="A class to store attributes needed for label rendering." alt="" coords="396,776,540,803">

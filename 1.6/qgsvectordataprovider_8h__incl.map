@@ -1,0 +1,17 @@
+<area shape="rect" href="$qgis_8h.html" title="qgis.h" alt="" coords="52,625,111,652">
+<area shape="rect" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="123,316,259,343">
+<area shape="rect" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="941,84,1067,111">
+<area shape="rect" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1515,239,1597,265">
+<area shape="rect" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="947,316,1061,343">
+<area shape="rect" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1331,161,1432,188">
+<area shape="rect" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="856,161,963,188">
+<area shape="rect" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="536,548,651,575">
+<area shape="rect" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="613,625,701,652">
+<area shape="rect" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="852,239,967,265">
+<area shape="rect" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="1153,471,1281,497">
+<area shape="rect" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="471,316,609,343">
+<area shape="rect" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="725,393,872,420">
+<area shape="rect" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="776,471,963,497">
+<area shape="rect" href="$qgscsexception_8h.html" title="qgscsexception.h" alt="" coords="776,548,907,575">
+<area shape="rect" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="931,548,1163,575">
+<area shape="rect" href="$qgsexception_8h.html" title="qgsexception.h" alt="" coords="783,625,900,652">

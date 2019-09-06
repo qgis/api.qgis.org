@@ -1,0 +1,4 @@
+<area shape="rect" href="$classQgsDoubleBoxScaleBarStyle.html" title="Double box with alternating colors." alt="" coords="191,5,393,32">
+<area shape="rect" href="$classQgsNumericScaleBarStyle.html" title="A scale bar style that draws text in the form of &#39;1:XXXXX&#39;." alt="" coords="197,56,387,83">
+<area shape="rect" href="$classQgsSingleBoxScaleBarStyle.html" title="Scalebar style that draws a single box with alternating color for the segments." alt="" coords="193,107,391,133">
+<area shape="rect" href="$classQgsTicksScaleBarStyle.html" title="A scale bar that draws segments using short ticks." alt="" coords="209,157,375,184">

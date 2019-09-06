@@ -1,0 +1,3 @@
+<area shape="rect" href="$classQgsFormAnnotationItem.html" title="An annotation item that embedds a designer form showing the feature attribute." alt="" coords="5,161,184,188">
+<area shape="rect" href="$classQgsTextAnnotationItem.html" title="An annotation item that displays formated text." alt="" coords="208,161,379,188">
+<area shape="rect" href="$classQgsMapCanvasItem.html" title="An abstract class for items that can be placed on the map canvas." alt="" coords="119,7,268,33">

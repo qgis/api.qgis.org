@@ -1,0 +1,15 @@
+<area shape="rect" href="$classQgsScaleBarStyle.html" title="Abstraction of composer scale bar style." alt="" coords="1328,59,1464,85">
+<area shape="rect" href="$classQgsComposerScaleBar.html" title="A scale bar item that can be added to a map composition." alt="" coords="1637,153,1805,180">
+<area shape="rect" href="$classQgsComposerItem.html" title="A item that forms part of a map composition." alt="" coords="1037,292,1179,319">
+<area shape="rect" href="$classQgsPaperItem.html" title="Item representing the paper." alt="" coords="1340,380,1452,407">
+<area shape="rect" href="$classQgsComposerMap.html" title="Object representing map window." alt="" coords="1327,212,1465,239">
+<area shape="rect" href="$classQgsComposition.html" title="Graphics scene for map printing." alt="" coords="1659,319,1784,345">
+<area shape="rect" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter." alt="" coords="1043,188,1173,215">
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="415,52,521,79">
+<area shape="rect" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="735,289,873,316">
+<area shape="rect" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor..." alt="" coords="732,188,876,215">
+<area shape="rect" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="369,359,567,385">
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="379,192,557,219">
+<area shape="rect" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="739,239,869,265">
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)." alt="" coords="7,165,233,192">
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="411,288,525,315">

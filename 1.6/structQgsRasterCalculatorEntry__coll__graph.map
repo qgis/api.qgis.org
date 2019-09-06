@@ -1,0 +1,11 @@
+<area shape="rect" href="$classQgsRasterLayer.html" title="This class provides qgis with the ability to render raster datasets onto the mapcanvas..." alt="" coords="797,164,920,191">
+<area shape="rect" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="471,56,577,83">
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="67,5,173,32">
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)." alt="" coords="7,56,233,83">
+<area shape="rect" href="$structQgsRasterViewPort.html" title="This class provides details of the viewable area that a raster will be rendered into..." alt="" coords="453,113,595,140">
+<area shape="rect" href="$classQgsPoint.html" title="A class to represent a point geometry." alt="" coords="81,121,159,148">
+<area shape="rect" href="$classQgsRasterTransparency.html" title="Defines the list of pixel values to be considered as transparent or semi transparent..." alt="" coords="439,164,609,191">
+<area shape="rect" href="$classQgsRasterShader.html" title="Interface for all raster shaders." alt="" coords="457,215,591,241">
+<area shape="rect" href="$classQgsRasterShaderFunction.html" title="The raster shade function applies a shader to a pixel at render time &#45; typically..." alt="" coords="27,215,213,241">
+<area shape="rect" href="$classQgsRasterDataProvider.html" title="Base class for raster data providers." alt="" coords="439,265,609,292">
+<area shape="rect" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations." alt="" coords="56,265,184,292">

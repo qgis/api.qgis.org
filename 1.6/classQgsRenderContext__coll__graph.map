@@ -1,0 +1,5 @@
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="5,119,112,145">
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="136,119,315,145">
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)." alt="" coords="112,7,339,33">
+<area shape="rect" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="339,119,536,145">
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="560,119,675,145">

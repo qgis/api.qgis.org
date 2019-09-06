@@ -1,0 +1,17 @@
+<area shape="rect" href="$qgscolorrampshader_8h.html" title="src/core/raster/qgscolorrampshader.h" alt="" coords="656,84,917,111">
+<area shape="rect" href="$qgsrasterlayer_8h.html" title="src/core/raster/qgsrasterlayer.h" alt="" coords="1301,161,1523,188">
+<area shape="rect" href="$qgsfreakoutshader_8h.html" title="src/core/raster/qgsfreakoutshader.h" alt="" coords="29,84,277,111">
+<area shape="rect" href="$qgspseudocolorshader_8h.html" title="src/core/raster/qgspseudocolorshader.h" alt="" coords="945,84,1220,111">
+<area shape="rect" href="$qgsrastershader_8h.html" title="src/core/raster/qgsrastershader.h" alt="" coords="1295,84,1529,111">
+<area shape="rect" href="$qgsrastershaderfunction_8cpp.html" title="src/core/raster/qgsrastershaderfunction.cpp" alt="" coords="1553,84,1855,111">
+<area shape="rect" href="$qgscolorrampshader_8cpp.html" title="src/core/raster/qgscolorrampshader.cpp" alt="" coords="360,161,635,188">
+<area shape="rect" href="$qgsrasterbandstats_8h.html" title="src/core/raster/qgsrasterbandstats.h" alt="" coords="659,161,915,188">
+<area shape="rect" href="$qgsrasterlayer_8cpp.html" title="src/core/raster/qgsrasterlayer.cpp" alt="" coords="560,239,795,265">
+<area shape="rect" href="$qgsproject_8cpp.html" title="src/core/qgsproject.cpp" alt="" coords="1435,239,1605,265">
+<area shape="rect" href="$qgscomposerlegenditem_8cpp.html" title="src/core/composer/qgscomposerlegenditem.cpp" alt="" coords="1629,239,1960,265">
+<area shape="rect" href="$qgscomposermap_8cpp.html" title="src/core/composer/qgscomposermap.cpp" alt="" coords="1984,239,2272,265">
+<area shape="rect" href="$qgslegendmodel_8cpp.html" title="src/core/composer/qgslegendmodel.cpp" alt="" coords="819,239,1096,265">
+<area shape="rect" href="$qgsrastercalculator_8cpp.html" title="src/analysis/raster/qgsrastercalculator.cpp" alt="" coords="1120,239,1411,265">
+<area shape="rect" href="$qgsfreakoutshader_8cpp.html" title="src/core/raster/qgsfreakoutshader.cpp" alt="" coords="21,161,285,188">
+<area shape="rect" href="$qgspseudocolorshader_8cpp.html" title="src/core/raster/qgspseudocolorshader.cpp" alt="" coords="939,161,1227,188">
+<area shape="rect" href="$qgsrastershader_8cpp.html" title="src/core/raster/qgsrastershader.cpp" alt="" coords="1547,161,1795,188">

@@ -1,0 +1,4 @@
+<area shape="rect" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="7,56,113,83">
+<area shape="rect" href="$classQgsPluginLayer.html" title="Base class for plugin layers." alt="" coords="164,5,284,32">
+<area shape="rect" href="$classQgsRasterLayer.html" title="This class provides qgis with the ability to render raster datasets onto the mapcanvas..." alt="" coords="163,56,285,83">
+<area shape="rect" href="$classQgsVectorLayer.html" title="Vector layer backed by a data source provider." alt="" coords="163,107,285,133">

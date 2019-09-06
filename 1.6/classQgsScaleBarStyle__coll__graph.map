@@ -1,0 +1,14 @@
+<area shape="rect" href="$classQgsComposerScaleBar.html" title="A scale bar item that can be added to a map composition." alt="" coords="1623,35,1791,61">
+<area shape="rect" href="$classQgsComposerItem.html" title="A item that forms part of a map composition." alt="" coords="1037,133,1179,160">
+<area shape="rect" href="$classQgsPaperItem.html" title="Item representing the paper." alt="" coords="1340,96,1452,123">
+<area shape="rect" href="$classQgsComposerMap.html" title="Object representing map window." alt="" coords="1327,215,1465,241">
+<area shape="rect" href="$classQgsComposition.html" title="Graphics scene for map printing." alt="" coords="1644,151,1769,177">
+<area shape="rect" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter." alt="" coords="1043,392,1173,419">
+<area shape="rect" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="415,305,521,332">
+<area shape="rect" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="735,533,873,560">
+<area shape="rect" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor..." alt="" coords="732,367,876,393">
+<area shape="rect" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="369,489,567,516">
+<area shape="rect" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="379,608,557,635">
+<area shape="rect" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="739,632,869,659">
+<area shape="rect" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)." alt="" coords="7,479,233,505">
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="411,557,525,584">

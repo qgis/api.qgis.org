@@ -1,0 +1,3 @@
+<area shape="rect" href="$structQgsRasterViewPort.html" title="This class provides details of the viewable area that a raster will be rendered into..." alt="" coords="5,119,147,145">
+<area shape="rect" href="$classQgsPoint.html" title="A class to represent a point geometry." alt="" coords="37,7,115,33">
+<area shape="rect" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="171,119,285,145">

@@ -1,0 +1,4 @@
+<area shape="rect" href="$classQgsContinuousColorRenderer.html" title="Renderer class which interpolates rgb values linear between the minimum and maximum..." alt="" coords="164,5,372,32">
+<area shape="rect" href="$classQgsGraduatedSymbolRenderer.html" title="This class contains the information for graduate symbol rendering." alt="" coords="159,56,377,83">
+<area shape="rect" href="$classQgsSingleSymbolRenderer.html" title="Render class to display all the features with a single QgsSymbol." alt="" coords="173,107,363,133">
+<area shape="rect" href="$classQgsUniqueValueRenderer.html" title="QgsUniqueValueRenderer" alt="" coords="176,157,360,184">

@@ -1,0 +1,12 @@
+<area shape="rect" href="$classQgsComposerArrow.html" title="An item that draws an arrow between to points." alt="" coords="212,5,359,32">
+<area shape="rect" href="$classQgsComposerItemGroup.html" title="A container for grouping several QgsComposerItems." alt="" coords="196,56,375,83">
+<area shape="rect" href="$classQgsComposerLabel.html" title="A label that can be placed onto a map composition." alt="" coords="212,107,359,133">
+<area shape="rect" href="$classQgsComposerLegend.html" title="A legend that can be placed onto a map composition." alt="" coords="205,157,365,184">
+<area shape="rect" href="$classQgsComposerMap.html" title="Object representing map window." alt="" coords="216,208,355,235">
+<area shape="rect" href="$classQgsComposerPicture.html" title="A composer class that displays svg files or raster format (jpg, png, ." alt="" coords="208,259,363,285">
+<area shape="rect" href="$classQgsComposerScaleBar.html" title="A scale bar item that can be added to a map composition." alt="" coords="201,309,369,336">
+<area shape="rect" href="$classQgsComposerShape.html" title="A composer items that draws common shapes (ellipse, triangle, rectangle)." alt="" coords="209,360,361,387">
+<area shape="rect" href="$classQgsComposerTable.html" title="A class to display feature attributes in the print composer." alt="" coords="213,411,357,437">
+<area shape="rect" href="$classQgsPaperItem.html" title="Item representing the paper." alt="" coords="229,461,341,488">
+<area shape="rect" href="$classQgsComposerAttributeTable.html" title="A table class that displays a vector attribute table." alt="" coords="424,385,624,412">
+<area shape="rect" href="$classQgsComposerTextTable.html" title="A text table item that reads text from string lists." alt="" coords="440,436,608,463">
