@@ -1,0 +1,21 @@
+<map id="QgsLayoutObject" name="QgsLayoutObject">
+<area shape="rect" id="node4" href="$classQgsLayoutItem.html" title="Base class for graphical items within a QgsLayout. " alt="" coords="491,284,609,311"/>
+<area shape="rect" id="node16" href="$classQgsLayoutItemMapItem.html" title="An item which is drawn inside a QgsLayoutItemMap, e.g., a grid or map overview. " alt="" coords="463,588,637,615"/>
+<area shape="rect" id="node19" href="$classQgsLayoutMultiFrame.html" title="Abstract base class for layout items with the ability to distribute the content to several frames (Qg..." alt="" coords="470,664,630,691"/>
+<area shape="rect" id="node3" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="5,613,236,640"/>
+<area shape="rect" id="node5" href="$classQgsLayoutFrame.html" title="Base class for frame items, which form a layout multiframe item. " alt="" coords="721,5,852,32"/>
+<area shape="rect" id="node6" href="$classQgsLayoutItem3DMap.html" title="3Implements support of 3D map views in print layouts " alt="" coords="705,56,869,83"/>
+<area shape="rect" id="node7" href="$classQgsLayoutItemGroup.html" title="A container for grouping several QgsLayoutItems. " alt="" coords="707,107,866,133"/>
+<area shape="rect" id="node8" href="$classQgsLayoutItemLabel.html" title="A layout item subclass for text labels. " alt="" coords="710,157,863,184"/>
+<area shape="rect" id="node9" href="$classQgsLayoutItemLegend.html" title="A layout item subclass for map legends. " alt="" coords="703,208,870,235"/>
+<area shape="rect" id="node10" href="$classQgsLayoutItemMap.html" title="Layout graphical items for displaying a map. " alt="" coords="713,259,860,285"/>
+<area shape="rect" id="node11" href="$classQgsLayoutItemPage.html" title="Item representing the paper in a layout. " alt="" coords="711,309,862,336"/>
+<area shape="rect" id="node12" href="$classQgsLayoutItemPicture.html" title="A layout item subclass that displays SVG files or raster format images (jpg, png, ..." alt="" coords="705,360,868,387"/>
+<area shape="rect" id="node13" href="$classQgsLayoutItemScaleBar.html" title="A layout item subclass for scale bars. " alt="" coords="699,411,875,437"/>
+<area shape="rect" id="node14" href="$classQgsLayoutItemShape.html" title="Layout item for basic filled shapes (e.g. " alt="" coords="707,461,867,488"/>
+<area shape="rect" id="node15" href="$classQgsLayoutNodesItem.html" title="An abstract layout item that provides generic methods for node based shapes such as polygon or polyli..." alt="" coords="707,512,867,539"/>
+<area shape="rect" id="node17" href="$classQgsLayoutItemMapGrid.html" title="An individual grid which is drawn above the map content in a QgsLayoutItemMap. " alt="" coords="701,563,873,589"/>
+<area shape="rect" id="node18" href="$classQgsLayoutItemMapOverview.html" title="An individual overview which is drawn above the map content in a QgsLayoutItemMap, and shows the extent of another QgsLayoutItemMap. " alt="" coords="685,613,888,640"/>
+<area shape="rect" id="node20" href="$classQgsLayoutItemHtml.html" title="A layout multiframe subclass for HTML content. " alt="" coords="711,664,862,691"/>
+<area shape="rect" id="node21" href="$classQgsLayoutTable.html" title="A class to display a table in the print layout, and allow the table to span over multiple frames..." alt="" coords="725,715,848,741"/>
+</map>

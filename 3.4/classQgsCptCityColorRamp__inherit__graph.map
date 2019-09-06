@@ -1,0 +1,4 @@
+<map id="QgsCptCityColorRamp" name="QgsCptCityColorRamp">
+<area shape="rect" id="node2" href="$classQgsGradientColorRamp.html" title="Gradient color ramp, which smoothly interpolates between two colors and also supports optional extra ..." alt="" coords="5,80,177,107"/>
+<area shape="rect" id="node3" href="$classQgsColorRamp.html" title="Abstract base class for color ramps. " alt="" coords="33,5,150,32"/>
+</map>

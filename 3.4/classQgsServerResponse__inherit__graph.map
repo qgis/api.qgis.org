@@ -1,0 +1,5 @@
+<map id="QgsServerResponse" name="QgsServerResponse">
+<area shape="rect" id="node2" href="$classQgsBufferServerResponse.html" title="Class defining buffered response. " alt="" coords="5,80,193,107"/>
+<area shape="rect" id="node3" href="$classQgsFcgiServerResponse.html" title="Class defining fcgi response. " alt="" coords="217,80,392,107"/>
+<area shape="rect" id="node4" href="$classQgsFilterResponseDecorator.html" title="Class defining decorator for calling filter&#39;s hooks. " alt="" coords="417,80,619,107"/>
+</map>

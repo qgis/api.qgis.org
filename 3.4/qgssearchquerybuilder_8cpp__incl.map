@@ -1,0 +1,22 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/qgssearchquerybuilder.cpp" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/qgssearchquerybuilder.cpp">
+<area shape="rect" id="node11" href="$qgssettings_8h.html" title="qgssettings.h" alt="" coords="49,543,157,569"/>
+<area shape="rect" id="node20" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="335,617,431,644"/>
+<area shape="rect" id="node21" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="2049,393,2152,420"/>
+<area shape="rect" id="node27" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="850,543,941,569"/>
+<area shape="rect" id="node30" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="1074,244,1223,271"/>
+<area shape="rect" id="node32" href="$qgsexpression_8h.html" title="qgsexpression.h" alt="" coords="965,468,1092,495"/>
+<area shape="rect" id="node35" href="$qgssearchquerybuilder_8h.html" title="qgssearchquerybuilder.h" alt="" coords="2766,95,2945,121"/>
+<area shape="rect" id="node43" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1248,95,1375,121"/>
+<area shape="rect" id="node50" href="$qgshelp_8h.html" title="qgshelp.h" alt="" coords="3697,169,3781,196"/>
+<area shape="rect" id="node15" href="$qgis_8h.html" title="qgis.h" alt="" coords="1752,617,1812,644"/>
+<area shape="rect" id="node26" href="$qgsattributes_8h.html" title="qgsattributes.h" alt="" coords="1740,468,1859,495"/>
+<area shape="rect" id="node28" href="$qgsfeatureid_8h.html" title="qgsfeatureid.h" alt="" coords="2493,543,2607,569"/>
+<area shape="rect" id="node29" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="2194,468,2311,495"/>
+<area shape="rect" id="node31" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="1175,319,1327,345"/>
+<area shape="rect" id="node34" href="$qgsindexedfeature_8h.html" title="qgsindexedfeature.h" alt="" coords="1931,319,2084,345"/>
+<area shape="rect" id="node41" href="$qgsguiutils_8h.html" title="qgsguiutils.h" alt="" coords="2836,169,2939,196"/>
+<area shape="rect" id="node46" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="709,543,825,569"/>
+<area shape="rect" id="node47" href="$qgsfeaturesource_8h.html" title="qgsfeaturesource.h" alt="" coords="1349,244,1495,271"/>
+<area shape="rect" id="node48" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="1495,169,1672,196"/>
+<area shape="rect" id="node49" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="190,393,385,420"/>
+</map>

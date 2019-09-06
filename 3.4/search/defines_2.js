@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['cache_5fsize_5flimit',['CACHE_SIZE_LIMIT',['../qgslayoutitem_8cpp.html#a9400497537d40713ce2e278c1e373c89',1,'qgslayoutitem.cpp']]],
+  ['cast_5fto_5ffptr',['cast_to_fptr',['../qgis_8h.html#ad27cdbdce10104044399eb83c7654a3c',1,'qgis.h']]],
+  ['catch_5fgeos',['CATCH_GEOS',['../qgsgeos_8cpp.html#ab5ce44ecd705e6756508afe65a753cdd',1,'qgsgeos.cpp']]],
+  ['catch_5fgeos_5fwith_5ferrmsg',['CATCH_GEOS_WITH_ERRMSG',['../qgsgeos_8cpp.html#afb267c2e07ef13cbd3ed4e02e59918ed',1,'qgsgeos.cpp']]],
+  ['centimeters_5fto_5fmeter',['CENTIMETERS_TO_METER',['../qgsunittypes_8cpp.html#a430711db0c48d98b3669b7664d5e74da',1,'qgsunittypes.cpp']]],
+  ['cipher_5fiv_5flength',['CIPHER_IV_LENGTH',['../qgsauthcrypto_8cpp.html#a691da6ab542a442f99804a698261a10d',1,'qgsauthcrypto.cpp']]],
+  ['cipher_5fmode',['CIPHER_MODE',['../qgsauthcrypto_8cpp.html#ac21af6fd753f027307b553837e54f905',1,'qgsauthcrypto.cpp']]],
+  ['cipher_5fpadding',['CIPHER_PADDING',['../qgsauthcrypto_8cpp.html#a744293baafc30e5a6a51fe6a1d3d5b7c',1,'qgsauthcrypto.cpp']]],
+  ['cipher_5fprovider',['CIPHER_PROVIDER',['../qgsauthcrypto_8cpp.html#acf3a0ceb76ec91856ebdc48215912f77',1,'qgsauthcrypto.cpp']]],
+  ['cipher_5fsignature',['CIPHER_SIGNATURE',['../qgsauthcrypto_8cpp.html#aec791619e240d585dd36df1b65a51497',1,'qgsauthcrypto.cpp']]],
+  ['cipher_5ftype',['CIPHER_TYPE',['../qgsauthcrypto_8cpp.html#adb543d680d26b28a9bd4494f0cfaa3d2',1,'qgsauthcrypto.cpp']]],
+  ['cl_5fhpp_5fenable_5fexceptions',['CL_HPP_ENABLE_EXCEPTIONS',['../qgsopenclutils_8h.html#ae7c96c1469662004d842704e2ff076fb',1,'qgsopenclutils.h']]],
+  ['cl_5fhpp_5ftarget_5fopencl_5fversion',['CL_HPP_TARGET_OPENCL_VERSION',['../qgsopenclutils_8h.html#a37ea07405ca286c1570612b42d43b345',1,'qgsopenclutils.h']]],
+  ['cl_5ftarget_5fopencl_5fversion',['CL_TARGET_OPENCL_VERSION',['../qgsopenclutils_8h.html#a5990dea19d4ccb046a3d81b311457add',1,'qgsopenclutils.h']]],
+  ['cl_5fuse_5fdeprecated_5fopencl_5f1_5f1_5fapis',['CL_USE_DEPRECATED_OPENCL_1_1_APIS',['../qgsopenclutils_8h.html#ab72d934d8b9c589a6360b45c2972386f',1,'qgsopenclutils.h']]],
+  ['clear_5ficon_5fsize',['CLEAR_ICON_SIZE',['../qgsdoublespinbox_8cpp.html#a7c3b78d41512d1378a71253cdf10b911',1,'CLEAR_ICON_SIZE():&#160;qgsdoublespinbox.cpp'],['../qgsspinbox_8cpp.html#a7c3b78d41512d1378a71253cdf10b911',1,'CLEAR_ICON_SIZE():&#160;qgsspinbox.cpp']]],
+  ['click_5fthreshold',['CLICK_THRESHOLD',['../qgsgradientstopeditor_8cpp.html#a0e67a9d736bfe02f58872add97f72878',1,'qgsgradientstopeditor.cpp']]],
+  ['cm2_5fto_5fm2',['CM2_TO_M2',['../qgsunittypes_8cpp.html#ab84a0e77f393ddbcb12af020f4aa9081',1,'qgsunittypes.cpp']]],
+  ['conn_5fpool_5fexpiration_5ftime',['CONN_POOL_EXPIRATION_TIME',['../qgsconnectionpool_8h.html#adf8c7795e781a5e1af0bd9e47e8251a6',1,'qgsconnectionpool.h']]],
+  ['conn_5fpool_5fmax_5fconcurrent_5fconns',['CONN_POOL_MAX_CONCURRENT_CONNS',['../qgsapplication_8cpp.html#aafc8684be148cb87352d16b682b1ff73',1,'qgsapplication.cpp']]],
+  ['conn_5fpool_5fspare_5fconnections',['CONN_POOL_SPARE_CONNECTIONS',['../qgsconnectionpool_8h.html#abac4d09e4541d5b9f3a1fdaa72108158',1,'qgsconnectionpool.h']]],
+  ['cpl_5fsupress_5fcplusplus',['CPL_SUPRESS_CPLUSPLUS',['../qgsdataitem_8cpp.html#adf78247632bd79d1f6be609541b69052',1,'CPL_SUPRESS_CPLUSPLUS():&#160;qgsdataitem.cpp'],['../qgsgdalutils_8cpp.html#adf78247632bd79d1f6be609541b69052',1,'CPL_SUPRESS_CPLUSPLUS():&#160;qgsgdalutils.cpp']]],
+  ['custom_5fproperty_5fis_5foffline_5feditable',['CUSTOM_PROPERTY_IS_OFFLINE_EDITABLE',['../qgsofflineediting_8cpp.html#a6e058d92d59d9284735ec0503926897d',1,'qgsofflineediting.cpp']]],
+  ['custom_5fproperty_5fremote_5fprovider',['CUSTOM_PROPERTY_REMOTE_PROVIDER',['../qgsofflineediting_8cpp.html#a60e899c276e964d3358a9629a5491e55',1,'qgsofflineediting.cpp']]],
+  ['custom_5fproperty_5fremote_5fsource',['CUSTOM_PROPERTY_REMOTE_SOURCE',['../qgsofflineediting_8cpp.html#a8b7106b7dfd76ef48b38ec8e06f9d5c4',1,'qgsofflineediting.cpp']]]
+];

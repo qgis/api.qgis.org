@@ -1,0 +1,4 @@
+<map id="QgsAbstractPropertyCollection" name="QgsAbstractPropertyCollection">
+<area shape="rect" id="node2" href="$classQgsPropertyCollection.html" title="A grouped map of multiple QgsProperty objects, each referenced by a integer key value. " alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node3" href="$classQgsPropertyCollectionStack.html" title="An ordered stack of QgsPropertyCollection containers, where collections added later to the stack will..." alt="" coords="193,80,391,107"/>
+</map>

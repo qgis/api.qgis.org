@@ -1,0 +1,19 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/layout/qgslayoutaligner.cpp" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/layout/qgslayoutaligner.cpp">
+<area shape="rect" id="node2" href="$qgslayoutaligner_8h.html" title="qgslayoutaligner.h" alt="" coords="5,184,144,211"/>
+<area shape="rect" id="node6" href="$qgslayoutitem_8h.html" title="qgslayoutitem.h" alt="" coords="1352,184,1477,211"/>
+<area shape="rect" id="node19" href="$qgslayout_8h.html" title="qgslayout.h" alt="" coords="773,109,869,136"/>
+<area shape="rect" id="node26" href="$qgslayoutundostack_8h.html" title="qgslayoutundostack.h" alt="" coords="1820,109,1983,136"/>
+<area shape="rect" id="node7" href="$qgslayoutobject_8h.html" title="qgslayoutobject.h" alt="" coords="1217,259,1351,285"/>
+<area shape="rect" id="node9" href="$qgslayoutsize_8h.html" title="qgslayoutsize.h" alt="" coords="1342,333,1463,360"/>
+<area shape="rect" id="node10" href="$qgslayoutpoint_8h.html" title="qgslayoutpoint.h" alt="" coords="728,333,856,360"/>
+<area shape="rect" id="node11" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="1729,333,1876,360"/>
+<area shape="rect" id="node13" href="$qgslayoutundocommand_8h.html" title="qgslayoutundocommand.h" alt="" coords="1578,259,1771,285"/>
+<area shape="rect" id="node15" href="$qgslayoutmeasurement_8h.html" title="qgslayoutmeasurement.h" alt="" coords="517,333,704,360"/>
+<area shape="rect" id="node8" href="$qgsexpressioncontextgenerator_8h.html" title="qgsexpressioncontextgenerator.h" alt="" coords="1031,333,1267,360"/>
+<area shape="rect" id="node14" href="$qgis_8h.html" title="qgis.h" alt="" coords="1645,333,1705,360"/>
+<area shape="rect" id="node21" href="$qgslayoutsnapper_8h.html" title="qgslayoutsnapper.h" alt="" coords="587,184,733,211"/>
+<area shape="rect" id="node22" href="$qgslayoutguidecollection_8h.html" title="qgslayoutguidecollection.h" alt="" coords="715,259,906,285"/>
+<area shape="rect" id="node23" href="$qgslayoutgridsettings_8h.html" title="qgslayoutgridsettings.h" alt="" coords="392,184,563,211"/>
+<area shape="rect" id="node24" href="$qgslayoutexporter_8h.html" title="qgslayoutexporter.h" alt="" coords="168,184,317,211"/>
+<area shape="rect" id="node25" href="$qgsmasterlayoutinterface_8h.html" title="qgsmasterlayoutinterface.h" alt="" coords="959,184,1158,211"/>
+</map>

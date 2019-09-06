@@ -1,0 +1,6 @@
+<map id="QgsVectorLayerLabelProvider" name="QgsVectorLayerLabelProvider">
+<area shape="rect" id="node3" href="$classQgsDxfLabelProvider.html" title="Implements a derived label provider internally used for DXF export. " alt="" coords="5,155,160,181"/>
+<area shape="rect" id="node4" href="$classQgsRuleBasedLabelProvider.html" title="QgsRuleBasedLabelProvider" alt="" coords="185,155,383,181"/>
+<area shape="rect" id="node2" href="$classQgsAbstractLabelProvider.html" title="The QgsAbstractLabelProvider class is an interface class. " alt="" coords="89,5,276,32"/>
+<area shape="rect" id="node5" href="$classQgsDxfRuleBasedLabelProvider.html" title="Implements a derived label provider for rule based labels internally used for DXF export..." alt="" coords="174,229,394,256"/>
+</map>

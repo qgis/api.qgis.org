@@ -1,0 +1,14 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/qgspropertyoverridebutton.h" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/qgspropertyoverridebutton.h">
+<area shape="rect" id="node2" href="$qgspropertyoverridebutton_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgspropertyoverridebutton.cpp" alt="" coords="5,102,348,143"/>
+<area shape="rect" id="node3" href="$qgsexternalresourceconfigdlg_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/editorwidgets\l/qgsexternalresourceconfigdlg.cpp" alt="" coords="372,95,613,151"/>
+<area shape="rect" id="node4" href="$qgseditorconfigwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/editorwidgets\l/core/qgseditorconfigwidget.cpp" alt="" coords="638,95,867,151"/>
+<area shape="rect" id="node5" href="$qgslayoutitemwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutitemwidget.cpp" alt="" coords="892,95,1077,151"/>
+<area shape="rect" id="node6" href="$qgsprocessingwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/processing\l/qgsprocessingwidgetwrapper.cpp" alt="" coords="1101,95,1337,151"/>
+<area shape="rect" id="node7" href="$qgssymbollayerwidget_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/symbology\l/qgssymbollayerwidget.h" alt="" coords="1362,95,1575,151"/>
+<area shape="rect" id="node8" href="$qgsarrowsymbollayerwidget_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/symbology\l/qgsarrowsymbollayerwidget.h" alt="" coords="992,199,1207,255"/>
+<area shape="rect" id="node9" href="$qgslayerpropertieswidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/symbology\l/qgslayerpropertieswidget.cpp" alt="" coords="1113,303,1326,359"/>
+<area shape="rect" id="node10" href="$qgsellipsesymbollayerwidget_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/symbology\l/qgsellipsesymbollayerwidget.h" alt="" coords="1231,199,1450,255"/>
+<area shape="rect" id="node11" href="$qgssymbolselectordialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/symbology\l/qgssymbolselectordialog.cpp" alt="" coords="1490,303,1703,359"/>
+<area shape="rect" id="node12" href="$qgsvectorfieldsymbollayerwidget_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/symbology\l/qgsvectorfieldsymbollayerwidget.h" alt="" coords="1474,199,1719,255"/>
+<area shape="rect" id="node13" href="$qgssymbollayerwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/symbology\l/qgssymbollayerwidget.cpp" alt="" coords="1794,199,2007,255"/>
+</map>

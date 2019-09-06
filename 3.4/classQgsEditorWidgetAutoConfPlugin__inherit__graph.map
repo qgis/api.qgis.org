@@ -1,0 +1,4 @@
+<map id="QgsEditorWidgetAutoConfPlugin" name="QgsEditorWidgetAutoConfPlugin">
+<area shape="rect" id="node2" href="$classFromDbTablePlugin.html" title="Widget auto conf plugin that reads the widget setup to use from what the data provider says..." alt="" coords="5,80,148,107"/>
+<area shape="rect" id="node3" href="$classFromFactoriesPlugin.html" title="Widget auto conf plugin that guesses what widget type to use in function of what the widgets support..." alt="" coords="173,80,322,107"/>
+</map>

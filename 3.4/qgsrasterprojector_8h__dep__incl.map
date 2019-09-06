@@ -1,0 +1,12 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/raster/qgsrasterprojector.h" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/raster/qgsrasterprojector.h">
+<area shape="rect" id="node2" href="$qgsrasterdataprovider_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/raster\l/qgsrasterdataprovider.cpp" alt="" coords="5,109,200,165"/>
+<area shape="rect" id="node3" href="$qgsrasterfilewriter_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/raster\l/qgsrasterfilewriter.cpp" alt="" coords="225,109,415,165"/>
+<area shape="rect" id="node4" href="$qgsrasteriterator_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/raster\l/qgsrasteriterator.cpp" alt="" coords="439,109,630,165"/>
+<area shape="rect" id="node5" href="$qgsrasterlayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/raster\l/qgsrasterlayer.cpp" alt="" coords="654,109,845,165"/>
+<area shape="rect" id="node6" href="$qgsrasterlayerrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/raster\l/qgsrasterlayerrenderer.cpp" alt="" coords="869,109,1067,165"/>
+<area shape="rect" id="node7" href="$qgsrasterpipe_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/raster\l/qgsrasterpipe.cpp" alt="" coords="1091,109,1282,165"/>
+<area shape="rect" id="node8" href="$qgsrasterprojector_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/raster\l/qgsrasterprojector.cpp" alt="" coords="1306,109,1497,165"/>
+<area shape="rect" id="node9" href="$qgsrasterresamplefilter_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/raster\l/qgsrasterresamplefilter.cpp" alt="" coords="1521,109,1722,165"/>
+<area shape="rect" id="node10" href="$qgsrastercalculator_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/analysis\l/raster/qgsrastercalculator.cpp" alt="" coords="1746,109,1963,165"/>
+<area shape="rect" id="node11" href="$qgswcsgetcoverage_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wcs/qgswcsgetcoverage.cpp" alt="" coords="1987,109,2250,165"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsProcessingFeatureSink" name="QgsProcessingFeatureSink">
+<area shape="rect" id="node2" href="$classQgsProxyFeatureSink.html" title="A simple feature sink which proxies feature addition on to another feature sink. " alt="" coords="22,80,179,107"/>
+<area shape="rect" id="node3" href="$classQgsFeatureSink.html" title="An interface for objects which accept features via addFeature(s) methods. " alt="" coords="39,5,162,32"/>
+</map>

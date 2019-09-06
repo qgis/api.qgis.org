@@ -1,0 +1,20 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/effects/qgspainteffectregistry.h" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/effects/qgspainteffectregistry.h">
+<area shape="rect" id="node2" href="$qgsapplication_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/qgsapplication.cpp" alt="" coords="5,117,277,158"/>
+<area shape="rect" id="node3" href="$qgstextrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/qgstextrenderer.cpp" alt="" coords="301,117,584,158"/>
+<area shape="rect" id="node4" href="$qgseffectstack_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/effects\l/qgseffectstack.cpp" alt="" coords="609,109,805,165"/>
+<area shape="rect" id="node5" href="$qgspainteffectregistry_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/effects\l/qgspainteffectregistry.cpp" alt="" coords="829,109,1025,165"/>
+<area shape="rect" id="node6" href="$qgscategorizedsymbolrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/symbology\l/qgscategorizedsymbolrenderer.cpp" alt="" coords="1049,109,1300,165"/>
+<area shape="rect" id="node7" href="$qgsgraduatedsymbolrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/symbology\l/qgsgraduatedsymbolrenderer.cpp" alt="" coords="1324,109,1567,165"/>
+<area shape="rect" id="node8" href="$qgsheatmaprenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/symbology\l/qgsheatmaprenderer.cpp" alt="" coords="1591,109,1814,165"/>
+<area shape="rect" id="node9" href="$qgsinvertedpolygonrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/symbology\l/qgsinvertedpolygonrenderer.cpp" alt="" coords="1839,109,2071,165"/>
+<area shape="rect" id="node10" href="$qgspointclusterrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/symbology\l/qgspointclusterrenderer.cpp" alt="" coords="2095,109,2318,165"/>
+<area shape="rect" id="node11" href="$qgspointdisplacementrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/symbology\l/qgspointdisplacementrenderer.cpp" alt="" coords="2341,109,2589,165"/>
+<area shape="rect" id="node12" href="$qgsrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/symbology\l/qgsrenderer.cpp" alt="" coords="2613,109,2835,165"/>
+<area shape="rect" id="node13" href="$qgsrulebasedrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/symbology\l/qgsrulebasedrenderer.cpp" alt="" coords="2859,109,3082,165"/>
+<area shape="rect" id="node14" href="$qgssinglesymbolrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/symbology\l/qgssinglesymbolrenderer.cpp" alt="" coords="3106,109,3329,165"/>
+<area shape="rect" id="node15" href="$qgssymbollayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/symbology\l/qgssymbollayer.cpp" alt="" coords="3353,109,3575,165"/>
+<area shape="rect" id="node16" href="$qgssymbollayerutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/symbology\l/qgssymbollayerutils.cpp" alt="" coords="3599,109,3822,165"/>
+<area shape="rect" id="node17" href="$qgstextformatwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgstextformatwidget.cpp" alt="" coords="3846,117,4149,158"/>
+<area shape="rect" id="node18" href="$qgseffectstackpropertieswidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/effects\l/qgseffectstackpropertieswidget.cpp" alt="" coords="4173,109,4425,165"/>
+<area shape="rect" id="node19" href="$qgspainteffectpropertieswidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/effects\l/qgspainteffectpropertieswidget.cpp" alt="" coords="4449,109,4700,165"/>
+</map>

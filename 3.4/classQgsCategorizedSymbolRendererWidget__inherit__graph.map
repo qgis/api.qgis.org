@@ -1,0 +1,5 @@
+<map id="QgsCategorizedSymbolRendererWidget" name="QgsCategorizedSymbolRendererWidget">
+<area shape="rect" id="node2" href="$classQgsRendererWidget.html" title="Base class for renderer settings widgets. " alt="" coords="219,5,366,32"/>
+<area shape="rect" id="node3" href="$classQgsPanelWidget.html" title="Base class for any widget that can be shown as a inline panel. " alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node5" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="177,123,408,149"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="QgsOgcServiceException" name="QgsOgcServiceException">
+<area shape="rect" id="node4" href="$classQgsBadRequestException.html" title="Exception thrown in case of malformed request. " alt="" coords="608,5,793,32"/>
+<area shape="rect" id="node5" href="$classQgsMapServiceException.html" title="Exception class for WMS service exceptions (for compatibility only). " alt="" coords="609,56,792,83"/>
+<area shape="rect" id="node6" href="$classQgsWcs_1_1QgsServiceException.html" title="Exception class for WFS services. " alt="" coords="593,107,808,133"/>
+<area shape="rect" id="node9" href="$classQgsWfs_1_1QgsServiceException.html" title="Exception class for WFS service exceptions. " alt="" coords="595,191,806,217"/>
+<area shape="rect" id="node13" href="$classQgsWms_1_1QgsServiceException.html" title="Exception class for WMS service exceptions. " alt="" coords="591,331,811,357"/>
+<area shape="rect" id="node2" href="$classQgsServerException.html" title="Exception base class for server exceptions. " alt="" coords="163,107,313,133"/>
+<area shape="rect" id="node3" href="$classQgsException.html" title="Defines a QGIS exception class. " alt="" coords="5,107,115,133"/>
+<area shape="rect" id="node7" href="$classQgsWcs_1_1QgsRequestNotWellFormedException.html" title="Exception thrown in case of malformed request. " alt="" coords="882,17,1085,58"/>
+<area shape="rect" id="node8" href="$classQgsWcs_1_1QgsSecurityAccessException.html" title="Exception thrown when data access violates access controls. " alt="" coords="882,82,1085,123"/>
+<area shape="rect" id="node10" href="$classQgsWfs_1_1QgsBadRequestException.html" title="Exception thrown in case of malformed request. " alt="" coords="863,148,1103,175"/>
+<area shape="rect" id="node11" href="$classQgsWfs_1_1QgsRequestNotWellFormedException.html" title="Exception thrown in case of malformed request. " alt="" coords="883,199,1083,241"/>
+<area shape="rect" id="node12" href="$classQgsWfs_1_1QgsSecurityAccessException.html" title="Exception thrown when data access violates access controls. " alt="" coords="884,265,1083,306"/>
+<area shape="rect" id="node14" href="$classQgsWms_1_1QgsBadRequestException.html" title="Exception thrown in case of malformed request. " alt="" coords="859,331,1108,357"/>
+<area shape="rect" id="node15" href="$classQgsWms_1_1QgsSecurityException.html" title="Exception thrown when data access violates access controls. " alt="" coords="871,381,1096,408"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/server/services/qgsmodule.h" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/server/services/qgsmodule.h">
+<area shape="rect" id="node2" href="$qgis_8h.html" title="qgis.h" alt="" coords="1485,333,1545,360"/>
+<area shape="rect" id="node23" href="$qgsservicemodule_8h.html" title="qgsservicemodule.h" alt="" coords="3146,184,3297,211"/>
+<area shape="rect" id="node25" href="$qgsserviceregistry_8h.html" title="qgsserviceregistry.h" alt="" coords="1744,259,1892,285"/>
+<area shape="rect" id="node28" href="$qgsservice_8h.html" title="qgsservice.h" alt="" coords="2793,259,2896,285"/>
+<area shape="rect" id="node31" href="$qgsserverinterface_8h.html" title="qgsserverinterface.h" alt="" coords="2425,109,2578,136"/>
+<area shape="rect" id="node36" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="1585,259,1720,285"/>
+<area shape="rect" id="node37" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="251,333,347,360"/>
+<area shape="rect" id="node19" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="1800,408,1918,435"/>
+<area shape="rect" id="node21" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="2672,483,2758,509"/>
+<area shape="rect" id="node22" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="762,408,878,435"/>
+<area shape="rect" id="node27" href="$qgsservicenativeloader_8h.html" title="qgsservicenativeloader.h" alt="" coords="2046,333,2226,360"/>
+<area shape="rect" id="node29" href="$qgsserverrequest_8h.html" title="qgsserverrequest.h" alt="" coords="2771,333,2918,360"/>
+<area shape="rect" id="node30" href="$qgsserverresponse_8h.html" title="qgsserverresponse.h" alt="" coords="2942,333,3098,360"/>
+<area shape="rect" id="node32" href="$qgscapabilitiescache_8h.html" title="qgscapabilitiescache.h" alt="" coords="2250,333,2417,360"/>
+<area shape="rect" id="node33" href="$qgsrequesthandler_8h.html" title="qgsrequesthandler.h" alt="" coords="2441,333,2594,360"/>
+<area shape="rect" id="node34" href="$qgsserverfilter_8h.html" title="qgsserverfilter.h" alt="" coords="3122,333,3246,360"/>
+<area shape="rect" id="node35" href="$qgsserversettings_8h.html" title="qgsserversettings.h" alt="" coords="2428,184,2576,211"/>
+</map>

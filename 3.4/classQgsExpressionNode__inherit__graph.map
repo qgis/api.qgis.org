@@ -1,0 +1,9 @@
+<map id="QgsExpressionNode" name="QgsExpressionNode">
+<area shape="rect" id="node2" href="$classQgsExpressionNodeBinaryOperator.html" title="A binary expression operator, which operates on two values. " alt="" coords="204,5,451,32"/>
+<area shape="rect" id="node3" href="$classQgsExpressionNodeColumnRef.html" title="An expression node which takes it value from a feature&#39;s field. " alt="" coords="218,56,437,83"/>
+<area shape="rect" id="node4" href="$classQgsExpressionNodeCondition.html" title="An expression node for CASE WHEN clauses. " alt="" coords="222,107,433,133"/>
+<area shape="rect" id="node5" href="$classQgsExpressionNodeFunction.html" title="An expression node for expression functions. " alt="" coords="226,157,429,184"/>
+<area shape="rect" id="node6" href="$classQgsExpressionNodeInOperator.html" title="An expression node for value IN or NOT IN clauses. " alt="" coords="218,208,437,235"/>
+<area shape="rect" id="node7" href="$classQgsExpressionNodeLiteral.html" title="An expression node for literal values. " alt="" coords="233,259,422,285"/>
+<area shape="rect" id="node8" href="$classQgsExpressionNodeUnaryOperator.html" title="A unary node is either negative as in boolean (not) or as in numbers (minus). " alt="" coords="205,309,450,336"/>
+</map>

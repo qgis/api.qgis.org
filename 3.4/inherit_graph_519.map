@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsServerParameters.html" title="QgsServerParameters provides an interface to retrieve and manipulate global parameters received from ..." alt="" coords="5,31,168,57"/>
+<area shape="rect" id="node2" href="$classQgsWfs_1_1QgsWfsParameters.html" title="Provides an interface to retrieve and manipulate WFS parameters received from the client..." alt="" coords="225,5,423,32"/>
+<area shape="rect" id="node3" href="$classQgsWms_1_1QgsWmsParameters.html" title="Provides an interface to retrieve and manipulate WMS parameters received from the client..." alt="" coords="216,56,432,83"/>
+</map>

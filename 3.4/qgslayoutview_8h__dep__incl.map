@@ -1,0 +1,20 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/layout/qgslayoutview.h" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/layout/qgslayoutview.h">
+<area shape="rect" id="node2" href="$qgslayoutmousehandles_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutmousehandles.cpp" alt="" coords="5,109,215,165"/>
+<area shape="rect" id="node3" href="$qgslayoutreportsectionlabel_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutreportsectionlabel.h" alt="" coords="291,109,505,165"/>
+<area shape="rect" id="node4" href="$qgslayoutreportsectionlabel_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutreportsectionlabel.cpp" alt="" coords="152,213,383,269"/>
+<area shape="rect" id="node5" href="$qgslayoutview_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutview.cpp" alt="" coords="436,213,619,269"/>
+<area shape="rect" id="node6" href="$qgslayoutruler_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutruler.cpp" alt="" coords="581,109,764,165"/>
+<area shape="rect" id="node7" href="$qgslayoutviewmouseevent_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewmouseevent.cpp" alt="" coords="788,109,1011,165"/>
+<area shape="rect" id="node8" href="$qgslayoutviewrubberband_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewrubberband.cpp" alt="" coords="1035,109,1251,165"/>
+<area shape="rect" id="node9" href="$qgslayoutviewtool_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewtool.cpp" alt="" coords="1276,109,1459,165"/>
+<area shape="rect" id="node10" href="$qgslayoutviewtooladditem_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewtooladditem.cpp" alt="" coords="1483,109,1702,165"/>
+<area shape="rect" id="node11" href="$qgslayoutviewtooladdnodeitem_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewtooladdnodeitem.cpp" alt="" coords="1726,109,1977,165"/>
+<area shape="rect" id="node12" href="$qgslayoutviewtooleditnodes_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewtooleditnodes.cpp" alt="" coords="2001,109,2230,165"/>
+<area shape="rect" id="node13" href="$qgslayoutviewtoolmoveitemcontent_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewtoolmoveitemcontent.cpp" alt="" coords="2254,109,2534,165"/>
+<area shape="rect" id="node14" href="$qgslayoutviewtoolpan_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewtoolpan.cpp" alt="" coords="2559,109,2749,165"/>
+<area shape="rect" id="node15" href="$qgslayoutviewtoolselect_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewtoolselect.cpp" alt="" coords="2773,109,2977,165"/>
+<area shape="rect" id="node16" href="$qgslayoutviewtooltemporarykeypan_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewtooltemporarykeypan.cpp" alt="" coords="3001,109,3280,165"/>
+<area shape="rect" id="node17" href="$qgslayoutviewtooltemporarykeyzoom_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewtooltemporarykeyzoom.cpp" alt="" coords="3305,109,3595,165"/>
+<area shape="rect" id="node18" href="$qgslayoutviewtooltemporarymousepan_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewtooltemporarymousepan.cpp" alt="" coords="3619,109,3921,165"/>
+<area shape="rect" id="node19" href="$qgslayoutviewtoolzoom_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/layout\l/qgslayoutviewtoolzoom.cpp" alt="" coords="3945,109,4147,165"/>
+</map>

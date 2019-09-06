@@ -1,0 +1,5 @@
+<map id="QgsFeatureFilterProvider" name="QgsFeatureFilterProvider">
+<area shape="rect" id="node2" href="$classQgsAccessControl.html" title="A helper class that centralizes restrictions given by all the access control filter plugins..." alt="" coords="5,87,144,114"/>
+<area shape="rect" id="node3" href="$classQgsFeatureFilter.html" title="A feature filter provider allowing to set filter expressions on a per&#45;layer basis. " alt="" coords="168,87,293,114"/>
+<area shape="rect" id="node4" href="$classQgsFeatureFilterProviderGroup.html" title="A filter filter provider grouping several filter providers. " alt="" coords="318,80,495,121"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/qgsfieldformatterregistry.h" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/qgsfieldformatterregistry.h">
+<area shape="rect" id="node2" href="$qgsapplication_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/qgsapplication.cpp" alt="" coords="5,102,277,143"/>
+<area shape="rect" id="node3" href="$qgsfieldformatterregistry_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/qgsfieldformatterregistry.cpp" alt="" coords="301,102,637,143"/>
+<area shape="rect" id="node4" href="$qgsjsonutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/qgsjsonutils.cpp" alt="" coords="662,102,917,143"/>
+<area shape="rect" id="node5" href="$qgsexpressionfunction_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/expression\l/qgsexpressionfunction.cpp" alt="" coords="941,95,1163,151"/>
+<area shape="rect" id="node6" href="$qgsattributetablemodel_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/attributetable\l/qgsattributetablemodel.cpp" alt="" coords="1187,95,1418,151"/>
+<area shape="rect" id="node7" href="$qgswmsrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wms/qgswmsrenderer.cpp" alt="" coords="1443,95,1691,151"/>
+<area shape="rect" id="node8" href="$qgswfsdescribefeaturetype_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wfs/qgswfsdescribefeaturetype.cpp" alt="" coords="1715,95,2019,151"/>
+<area shape="rect" id="node9" href="$qgswfsgetfeature_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wfs/qgswfsgetfeature.cpp" alt="" coords="2043,95,2285,151"/>
+</map>

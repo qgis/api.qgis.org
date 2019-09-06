@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsProcessingAlgorithm.html" title="Abstract base class for processing algorithms. " alt="" coords="5,13,184,39"/>
+<area shape="rect" id="node2" href="$classQgsProcessingFeatureBasedAlgorithm.html" title="An abstract QgsProcessingAlgorithm base class for processing algorithms which operate &quot;feature&#45;by&#45;fea..." alt="" coords="232,5,436,47"/>
+</map>

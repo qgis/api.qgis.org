@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsCollapsibleGroupBoxBasic.html" title="A groupbox that collapses/expands when toggled. " alt="" coords="148,56,360,83"/>
+<area shape="rect" id="node3" href="$classQgsCollapsibleGroupBox.html" title="A groupbox that collapses/expands when toggled and can save its collapsed and checked states..." alt="" coords="416,56,595,83"/>
+<area shape="rect" id="node4" href="$classQgsExtentGroupBox.html" title="Collapsible group box for configuration of extent, typically for a save operation. " alt="" coords="664,5,815,32"/>
+<area shape="rect" id="node5" href="$classQgsRelationEditorWidget.html" title="QgsRelationEditorWidget" alt="" coords="651,56,828,83"/>
+</map>

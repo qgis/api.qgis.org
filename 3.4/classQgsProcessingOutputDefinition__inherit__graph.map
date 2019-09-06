@@ -1,0 +1,11 @@
+<map id="QgsProcessingOutputDefinition" name="QgsProcessingOutputDefinition">
+<area shape="rect" id="node2" href="$classQgsProcessingOutputFile.html" title="A file output for processing algorithms. " alt="" coords="295,5,475,32"/>
+<area shape="rect" id="node3" href="$classQgsProcessingOutputFolder.html" title="A folder output for processing algorithms. " alt="" coords="285,56,484,83"/>
+<area shape="rect" id="node4" href="$classQgsProcessingOutputHtml.html" title="A HTML file output for processing algorithms. " alt="" coords="289,107,480,133"/>
+<area shape="rect" id="node5" href="$classQgsProcessingOutputMapLayer.html" title="A map layer output for processing algorithms, where layers may be either vector or raster..." alt="" coords="273,157,496,184"/>
+<area shape="rect" id="node6" href="$classQgsProcessingOutputMultipleLayers.html" title="A multi&#45;layer output for processing algorithms which create map layers, when the number and nature of..." alt="" coords="280,209,489,250"/>
+<area shape="rect" id="node7" href="$classQgsProcessingOutputNumber.html" title="A numeric output for processing algorithms. " alt="" coords="279,275,491,301"/>
+<area shape="rect" id="node8" href="$classQgsProcessingOutputRasterLayer.html" title="A raster layer output for processing algorithms. " alt="" coords="284,326,485,367"/>
+<area shape="rect" id="node9" href="$classQgsProcessingOutputString.html" title="A string output for processing algorithms. " alt="" coords="285,392,484,419"/>
+<area shape="rect" id="node10" href="$classQgsProcessingOutputVectorLayer.html" title="A vector layer output for processing algorithms. " alt="" coords="284,443,485,485"/>
+</map>

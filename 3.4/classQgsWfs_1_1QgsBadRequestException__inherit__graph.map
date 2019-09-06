@@ -1,0 +1,4 @@
+<map id="QgsWfs::QgsBadRequestException" name="QgsWfs::QgsBadRequestException">
+<area shape="rect" id="node2" href="$classQgsWfs_1_1QgsServiceException.html" title="Exception class for WFS service exceptions. " alt="" coords="20,80,231,107"/>
+<area shape="rect" id="node3" href="$classQgsOgcServiceException.html" title="Exception base class for service exceptions. " alt="" coords="35,5,216,32"/>
+</map>

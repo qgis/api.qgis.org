@@ -1,0 +1,5 @@
+<map id="QgsPointDistanceRenderer" name="QgsPointDistanceRenderer">
+<area shape="rect" id="node3" href="$classQgsPointClusterRenderer.html" title="A renderer that automatically clusters points with the same geographic position. " alt="" coords="5,155,187,181"/>
+<area shape="rect" id="node4" href="$classQgsPointDisplacementRenderer.html" title="A renderer that automatically displaces points with the same geographic location. ..." alt="" coords="211,155,435,181"/>
+<area shape="rect" id="node2" href="$classQgsFeatureRenderer.html" title="QgsFeatureRenderer" alt="" coords="133,5,285,32"/>
+</map>

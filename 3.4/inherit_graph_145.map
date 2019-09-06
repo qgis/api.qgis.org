@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsContrastEnhancementFunction.html" title="A contrast enhancement function is the base class for all raster contrast enhancements. " alt="" coords="5,56,249,83"/>
+<area shape="rect" id="node2" href="$classQgsClipToMinMaxEnhancement.html" title="A raster contrast enhancement that will clip a value to the specified min/max range. " alt="" coords="299,5,519,32"/>
+<area shape="rect" id="node3" href="$classQgsLinearMinMaxEnhancement.html" title="A color enhancement function that performs a linear enhanceContrast between min and max..." alt="" coords="297,56,520,83"/>
+<area shape="rect" id="node4" href="$classQgsLinearMinMaxEnhancementWithClip.html" title="A linear enhanceContrast enhancement that first clips to min max and then enhanceContrastes linearly ..." alt="" coords="297,107,520,149"/>
+</map>

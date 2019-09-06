@@ -1,0 +1,4 @@
+<map id="QgsNetworkStrategy" name="QgsNetworkStrategy">
+<area shape="rect" id="node2" href="$classQgsNetworkDistanceStrategy.html" title="Strategy for calculating edge cost based on its length. " alt="" coords="5,80,216,107"/>
+<area shape="rect" id="node3" href="$classQgsNetworkSpeedStrategy.html" title="Strategy for calculating edge cost based on travel time. " alt="" coords="240,80,435,107"/>
+</map>

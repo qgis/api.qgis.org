@@ -1,0 +1,4 @@
+<map id="QgsLayoutItemPolyline" name="QgsLayoutItemPolyline">
+<area shape="rect" id="node2" href="$classQgsLayoutNodesItem.html" title="An abstract layout item that provides generic methods for node based shapes such as polygon or polyli..." alt="" coords="9,80,169,107"/>
+<area shape="rect" id="node3" href="$classQgsLayoutItem.html" title="Base class for graphical items within a QgsLayout. " alt="" coords="29,5,148,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QgsPrintLayout" name="QgsPrintLayout">
+<area shape="rect" id="node2" href="$classQgsLayout.html" title="Base class for layouts, which can contain items such as maps, labels, scalebars, etc. " alt="" coords="228,80,319,107"/>
+<area shape="rect" id="node4" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="158,5,389,32"/>
+<area shape="rect" id="node5" href="$classQgsLayoutUndoObjectInterface.html" title="Interface for layout objects which support undo/redo commands. " alt="" coords="413,5,635,32"/>
+<area shape="rect" id="node6" href="$classQgsMasterLayoutInterface.html" title="Interface for master layout type objects, such as print layouts and reports. " alt="" coords="343,80,534,107"/>
+</map>

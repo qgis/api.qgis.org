@@ -1,0 +1,5 @@
+<map id="QgsVectorDataProvider" name="QgsVectorDataProvider">
+<area shape="rect" id="node2" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations. " alt="" coords="5,80,136,107"/>
+<area shape="rect" id="node4" href="$classQgsFeatureSink.html" title="An interface for objects which accept features via addFeature(s) methods. " alt="" coords="160,80,283,107"/>
+<area shape="rect" id="node5" href="$classQgsFeatureSource.html" title="An interface for objects which provide features via a getFeatures method. " alt="" coords="307,80,447,107"/>
+</map>

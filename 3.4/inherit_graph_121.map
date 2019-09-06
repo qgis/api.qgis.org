@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsBrowserTreeView.html" title="The QgsBrowserTreeView class extends QTreeView with save/restore tree state functionality. " alt="" coords="141,5,294,32"/>
+<area shape="rect" id="node3" href="$classQgsColorSchemeList.html" title="An editable list of color swatches, taken from an associated QgsColorScheme. " alt="" coords="140,56,295,83"/>
+<area shape="rect" id="node4" href="$classQgsLayerTreeView.html" title="The QgsLayerTreeView class extends QTreeView and provides some additional functionality when working ..." alt="" coords="149,107,286,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgs3DRendererAbstractMetadata.html" title="Base metadata class for 3D renderers. " alt="" coords="5,13,243,39"/>
+<area shape="rect" id="node2" href="$classQgsVectorLayer3DRendererMetadata.html" title="Metadata for vector layer 3D renderer to allow creation of its instances from XML. " alt="" coords="291,5,489,47"/>
+</map>

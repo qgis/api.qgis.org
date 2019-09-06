@@ -1,0 +1,5 @@
+<map id="QgsLayoutItemPage" name="QgsLayoutItemPage">
+<area shape="rect" id="node2" href="$classQgsLayoutItem.html" title="Base class for graphical items within a QgsLayout. " alt="" coords="173,80,291,107"/>
+<area shape="rect" id="node3" href="$classQgsLayoutObject.html" title="A base class for objects which belong to a layout. " alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node5" href="$classQgsLayoutUndoObjectInterface.html" title="Interface for layout objects which support undo/redo commands. " alt="" coords="328,5,549,32"/>
+</map>

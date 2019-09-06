@@ -1,0 +1,4 @@
+<map id="QgsDateTimeEditConfig" name="QgsDateTimeEditConfig">
+<area shape="rect" id="node2" href="$classQgsEditorConfigWidget.html" title="This class should be subclassed for every configurable editor widget type. " alt="" coords="47,80,214,107"/>
+<area shape="rect" id="node4" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="105,5,335,32"/>
+</map>

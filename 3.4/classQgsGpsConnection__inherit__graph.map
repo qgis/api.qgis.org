@@ -1,0 +1,5 @@
+<map id="QgsGpsConnection" name="QgsGpsConnection">
+<area shape="rect" id="node3" href="$classQgsNmeaConnection.html" title="Evaluates NMEA sentences coming from a GPS device. " alt="" coords="5,155,164,181"/>
+<area shape="rect" id="node5" href="$classQgsQtLocationConnection.html" title="QgsQtLocationConnection" alt="" coords="188,155,376,181"/>
+<area shape="rect" id="node4" href="$classQgsGpsdConnection.html" title="Evaluates NMEA sentences coming from gpsd. " alt="" coords="9,229,161,256"/>
+</map>

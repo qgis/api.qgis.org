@@ -1,0 +1,5 @@
+<map id="QgsLayoutViewRubberBand" name="QgsLayoutViewRubberBand">
+<area shape="rect" id="node3" href="$classQgsLayoutViewEllipticalRubberBand.html" title="QgsLayoutViewEllipseRubberBand is elliptical rubber band for use within QgsLayoutView widgets..." alt="" coords="371,5,617,32"/>
+<area shape="rect" id="node4" href="$classQgsLayoutViewRectangularRubberBand.html" title="QgsLayoutViewRectangularRubberBand is rectangular rubber band for use within QgsLayoutView widgets..." alt="" coords="397,57,591,98"/>
+<area shape="rect" id="node5" href="$classQgsLayoutViewTriangleRubberBand.html" title="QgsLayoutViewTriangleRubberBand is triangular rubber band for use within QgsLayoutView widgets..." alt="" coords="372,123,616,149"/>
+</map>

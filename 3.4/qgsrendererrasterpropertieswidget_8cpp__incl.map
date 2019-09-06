@@ -1,0 +1,29 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/raster/qgsrendererrasterpropertieswidget.cpp" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/raster/qgsrendererrasterpropertieswidget.cpp">
+<area shape="rect" id="node2" href="$qgsrendererrasterpropertieswidget_8h.html" title="qgsrendererrasterpropertieswidget.h" alt="" coords="4359,109,4615,136"/>
+<area shape="rect" id="node8" href="$qgis_8h.html" title="qgis.h" alt="" coords="1464,259,1524,285"/>
+<area shape="rect" id="node29" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="2715,109,2846,136"/>
+<area shape="rect" id="node35" href="$qgsbrightnesscontrastfilter_8h.html" title="qgsbrightnesscontrastfilter.h" alt="" coords="1077,184,1281,211"/>
+<area shape="rect" id="node36" href="$qgshuesaturationfilter_8h.html" title="qgshuesaturationfilter.h" alt="" coords="1407,184,1581,211"/>
+<area shape="rect" id="node37" href="$qgsrasterlayer_8h.html" title="qgsrasterlayer.h" alt="" coords="2630,184,2755,211"/>
+<area shape="rect" id="node38" href="$qgsrasterrendererwidget_8h.html" title="qgsrasterrendererwidget.h" alt="" coords="3365,184,3556,211"/>
+<area shape="rect" id="node39" href="$qgsrasterrendererregistry_8h.html" title="qgsrasterrendererregistry.h" alt="" coords="2444,109,2640,136"/>
+<area shape="rect" id="node40" href="$qgssinglebandgrayrendererwidget_8h.html" title="qgssinglebandgrayrendererwidget.h" alt="" coords="3526,109,3777,136"/>
+<area shape="rect" id="node41" href="$qgssinglebandpseudocolorrendererwidget_8h.html" title="qgssinglebandpseudocolorrendererwidget.h" alt="" coords="3801,109,4101,136"/>
+<area shape="rect" id="node42" href="$qgsmultibandcolorrendererwidget_8h.html" title="qgsmultibandcolorrendererwidget.h" alt="" coords="3254,109,3502,136"/>
+<area shape="rect" id="node43" href="$qgspalettedrendererwidget_8h.html" title="qgspalettedrendererwidget.h" alt="" coords="2972,109,3179,136"/>
+<area shape="rect" id="node44" href="$qgshillshaderendererwidget_8h.html" title="qgshillshaderendererwidget.h" alt="" coords="4125,109,4335,136"/>
+<area shape="rect" id="node45" href="$qgsrasterresamplefilter_8h.html" title="qgsrasterresamplefilter.h" alt="" coords="871,184,1053,211"/>
+<area shape="rect" id="node46" href="$qgsbilinearrasterresampler_8h.html" title="qgsbilinearrasterresampler.h" alt="" coords="3199,333,3405,360"/>
+<area shape="rect" id="node47" href="$qgscubicrasterresampler_8h.html" title="qgscubicrasterresampler.h" alt="" coords="2983,333,3175,360"/>
+<area shape="rect" id="node48" href="$qgsmultibandcolorrenderer_8h.html" title="qgsmultibandcolorrenderer.h" alt="" coords="1837,184,2044,211"/>
+<area shape="rect" id="node49" href="$qgssinglebandgrayrenderer_8h.html" title="qgssinglebandgrayrenderer.h" alt="" coords="1605,184,1813,211"/>
+<area shape="rect" id="node50" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="72,184,207,211"/>
+<area shape="rect" id="node6" href="$qgsmaplayerconfigwidget_8h.html" title="qgsmaplayerconfigwidget.h" alt="" coords="3784,184,3980,211"/>
+<area shape="rect" id="node25" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="1719,333,1837,360"/>
+<area shape="rect" id="node27" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="3147,408,3233,435"/>
+<area shape="rect" id="node28" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="377,333,493,360"/>
+<area shape="rect" id="node31" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="2329,184,2504,211"/>
+<area shape="rect" id="node32" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="2970,259,3087,285"/>
+<area shape="rect" id="node33" href="$qgsfeatureid_8h.html" title="qgsfeatureid.h" alt="" coords="2781,259,2895,285"/>
+<area shape="rect" id="node34" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="2187,184,2305,211"/>
+</map>

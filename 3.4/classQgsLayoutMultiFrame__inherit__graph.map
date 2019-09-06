@@ -1,0 +1,9 @@
+<map id="QgsLayoutMultiFrame" name="QgsLayoutMultiFrame">
+<area shape="rect" id="node6" href="$classQgsLayoutItemHtml.html" title="A layout multiframe subclass for HTML content. " alt="" coords="75,229,225,256"/>
+<area shape="rect" id="node7" href="$classQgsLayoutTable.html" title="A class to display a table in the print layout, and allow the table to span over multiple frames..." alt="" coords="250,229,373,256"/>
+<area shape="rect" id="node2" href="$classQgsLayoutObject.html" title="A base class for objects which belong to a layout. " alt="" coords="65,80,195,107"/>
+<area shape="rect" id="node4" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="103,5,333,32"/>
+<area shape="rect" id="node5" href="$classQgsLayoutUndoObjectInterface.html" title="Interface for layout objects which support undo/redo commands. " alt="" coords="219,80,441,107"/>
+<area shape="rect" id="node8" href="$classQgsLayoutItemAttributeTable.html" title="A layout table subclass that displays attributes from a vector layer. " alt="" coords="100,304,307,331"/>
+<area shape="rect" id="node9" href="$classQgsLayoutItemTextTable.html" title="A text table item that reads text from string lists. " alt="" coords="331,304,507,331"/>
+</map>

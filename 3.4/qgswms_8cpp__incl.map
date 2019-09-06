@@ -1,0 +1,34 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/server/services/wms/qgswms.cpp" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/server/services/wms/qgswms.cpp">
+<area shape="rect" id="node2" href="$qgsmodule_8h.html" title="qgsmodule.h" alt="" coords="685,184,790,211"/>
+<area shape="rect" id="node16" href="$qgswmsutils_8h.html" title="qgswmsutils.h" alt="" coords="682,109,794,136"/>
+<area shape="rect" id="node18" href="$qgsdxfwriter_8h.html" title="qgsdxfwriter.h" alt="" coords="546,109,657,136"/>
+<area shape="rect" id="node19" href="$qgswmsgetcapabilities_8h.html" title="qgswmsgetcapabilities.h" alt="" coords="210,109,388,136"/>
+<area shape="rect" id="node25" href="$qgswmsgetmap_8h.html" title="qgswmsgetmap.h" alt="" coords="818,109,954,136"/>
+<area shape="rect" id="node26" href="$qgswmsgetstyles_8h.html" title="qgswmsgetstyles.h" alt="" coords="978,109,1122,136"/>
+<area shape="rect" id="node27" href="$qgswmsgetcontext_8h.html" title="qgswmsgetcontext.h" alt="" coords="1146,109,1300,136"/>
+<area shape="rect" id="node28" href="$qgswmsgetschemaextension_8h.html" title="qgswmsgetschemaextension.h" alt="" coords="1325,109,1545,136"/>
+<area shape="rect" id="node29" href="$qgswmsgetprint_8h.html" title="qgswmsgetprint.h" alt="" coords="1570,109,1706,136"/>
+<area shape="rect" id="node30" href="$qgswmsgetfeatureinfo_8h.html" title="qgswmsgetfeatureinfo.h" alt="" coords="1730,109,1906,136"/>
+<area shape="rect" id="node31" href="$qgswmsdescribelayer_8h.html" title="qgswmsdescribelayer.h" alt="" coords="1930,109,2100,136"/>
+<area shape="rect" id="node32" href="$qgswmsgetlegendgraphics_8h.html" title="qgswmsgetlegendgraphics.h" alt="" coords="2125,109,2329,136"/>
+<area shape="rect" id="node33" href="$qgswmsparameters_8h.html" title="qgswmsparameters.h" alt="" coords="1566,259,1728,285"/>
+<area shape="rect" id="node3" href="$qgis_8h.html" title="qgis.h" alt="" coords="746,408,806,435"/>
+<area shape="rect" id="node6" href="$qgsservicemodule_8h.html" title="qgsservicemodule.h" alt="" coords="472,259,622,285"/>
+<area shape="rect" id="node7" href="$qgsserviceregistry_8h.html" title="qgsserviceregistry.h" alt="" coords="814,333,962,360"/>
+<area shape="rect" id="node8" href="$qgsservice_8h.html" title="qgsservice.h" alt="" coords="1056,259,1158,285"/>
+<area shape="rect" id="node13" href="$qgsserverinterface_8h.html" title="qgsserverinterface.h" alt="" coords="818,259,972,285"/>
+<area shape="rect" id="node14" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="647,259,743,285"/>
+<area shape="rect" id="node15" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="553,333,688,360"/>
+<area shape="rect" id="node9" href="$qgsserverrequest_8h.html" title="qgsserverrequest.h" alt="" coords="1038,333,1184,360"/>
+<area shape="rect" id="node10" href="$qgsserverparameters_8h.html" title="qgsserverparameters.h" alt="" coords="1462,408,1634,435"/>
+<area shape="rect" id="node17" href="$qgswmsserviceexception_8h.html" title="qgswmsserviceexception.h" alt="" coords="1209,333,1402,360"/>
+<area shape="rect" id="node20" href="$qgslayertreenode_8h.html" title="qgslayertreenode.h" alt="" coords="140,333,287,360"/>
+<area shape="rect" id="node21" href="$qgslayertreegroup_8h.html" title="qgslayertreegroup.h" alt="" coords="77,259,228,285"/>
+<area shape="rect" id="node22" href="$qgslayertreelayer_8h.html" title="qgslayertreelayer.h" alt="" coords="252,259,396,285"/>
+<area shape="rect" id="node23" href="$qgslayertreemodel_8h.html" title="qgslayertreemodel.h" alt="" coords="164,184,319,211"/>
+<area shape="rect" id="node24" href="$qgslayertree_8h.html" title="qgslayertree.h" alt="" coords="26,184,140,211"/>
+<area shape="rect" id="node34" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1760,333,1878,360"/>
+<area shape="rect" id="node35" href="$qgslegendsettings_8h.html" title="qgslegendsettings.h" alt="" coords="1800,408,1950,435"/>
+<area shape="rect" id="node36" href="$qgsprojectversion_8h.html" title="qgsprojectversion.h" alt="" coords="1952,333,2099,360"/>
+<area shape="rect" id="node37" href="$qgsogcutils_8h.html" title="qgsogcutils.h" alt="" coords="1427,333,1534,360"/>
+</map>

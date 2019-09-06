@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsServerInterface.html" title="QgsServerInterface Class defining interfaces exposed by QGIS Server and made available to plugins..." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node2" href="$classQgsServerInterfaceImpl.html" title="Interfaces exposed by QGIS Server and made available to plugins. " alt="" coords="199,5,371,32"/>
+</map>

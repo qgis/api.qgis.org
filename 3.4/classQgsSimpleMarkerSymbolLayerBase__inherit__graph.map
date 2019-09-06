@@ -1,0 +1,6 @@
+<map id="QgsSimpleMarkerSymbolLayerBase" name="QgsSimpleMarkerSymbolLayerBase">
+<area shape="rect" id="node4" href="$classQgsFilledMarkerSymbolLayer.html" title="Filled marker symbol layer, consisting of a shape which is rendered using a QgsFillSymbol. " alt="" coords="5,229,211,256"/>
+<area shape="rect" id="node5" href="$classQgsSimpleMarkerSymbolLayer.html" title="Simple marker symbol layer, consisting of a rendered shape with solid fill color and an stroke..." alt="" coords="235,229,453,256"/>
+<area shape="rect" id="node2" href="$classQgsMarkerSymbolLayer.html" title="Abstract base class for marker symbol layers. " alt="" coords="138,80,313,107"/>
+<area shape="rect" id="node3" href="$classQgsSymbolLayer.html" title="QgsSymbolLayer" alt="" coords="160,5,291,32"/>
+</map>

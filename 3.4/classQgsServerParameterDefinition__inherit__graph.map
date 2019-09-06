@@ -1,0 +1,5 @@
+<map id="QgsServerParameterDefinition" name="QgsServerParameterDefinition">
+<area shape="rect" id="node2" href="$classQgsServerParameter.html" title="Parameter common to all services (WMS, WFS, ...) " alt="" coords="5,80,161,107"/>
+<area shape="rect" id="node3" href="$classQgsWfs_1_1QgsWfsParameter.html" title="WFS parameter received from the client. " alt="" coords="185,80,376,107"/>
+<area shape="rect" id="node4" href="$classQgsWms_1_1QgsWmsParameter.html" title="WMS parameter received from the client. " alt="" coords="400,80,609,107"/>
+</map>

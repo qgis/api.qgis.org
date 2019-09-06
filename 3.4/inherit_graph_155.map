@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsDataItemProvider.html" title="This is the interface for those who want to add custom data items to the browser tree. " alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$classQgsDataItemProviderFromPlugin.html" title="Simple data item provider implementation that handles the support for provider plugins (which may con..." alt="" coords="212,5,441,32"/>
+</map>

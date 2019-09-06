@@ -1,0 +1,23 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/processing/qgsprocessingalgorithmdialogbase.cpp" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/processing/qgsprocessingalgorithmdialogbase.cpp">
+<area shape="rect" id="node2" href="$qgsprocessingalgorithmdialogbase_8h.html" title="qgsprocessingalgorithmdialogbase.h" alt="" coords="1053,259,1309,285"/>
+<area shape="rect" id="node18" href="$qgssettings_8h.html" title="qgssettings.h" alt="" coords="1201,483,1309,509"/>
+<area shape="rect" id="node21" href="$qgshelp_8h.html" title="qgshelp.h" alt="" coords="121,109,205,136"/>
+<area shape="rect" id="node23" href="$qgsmessagebar_8h.html" title="qgsmessagebar.h" alt="" coords="292,483,428,509"/>
+<area shape="rect" id="node30" href="$qgsgui_8h.html" title="qgsgui.h" alt="" coords="458,557,534,584"/>
+<area shape="rect" id="node31" href="$qgsprocessingalgorithm_8h.html" title="processing/qgsprocessingalgorithm.h" alt="" coords="1875,184,2135,211"/>
+<area shape="rect" id="node34" href="$qgsprocessingprovider_8h.html" title="processing/qgsprocessingprovider.h" alt="" coords="1880,109,2131,136"/>
+<area shape="rect" id="node35" href="$qgstaskmanager_8h.html" title="qgstaskmanager.h" alt="" coords="2685,408,2827,435"/>
+<area shape="rect" id="node40" href="$qgsprocessingalgrunnertask_8h.html" title="processing/qgsprocessingalgrunnertask.h" alt="" coords="2155,109,2442,136"/>
+<area shape="rect" id="node41" href="$qgsstringutils_8h.html" title="qgsstringutils.h" alt="" coords="859,483,978,509"/>
+<area shape="rect" id="node3" href="$qgis_8h.html" title="qgis.h" alt="" coords="1566,557,1626,584"/>
+<area shape="rect" id="node14" href="$qgsprocessingcontext_8h.html" title="processing/qgsprocessingcontext.h" alt="" coords="1637,333,1883,360"/>
+<area shape="rect" id="node15" href="$qgsprocessingfeedback_8h.html" title="qgsprocessingfeedback.h" alt="" coords="1965,408,2149,435"/>
+<area shape="rect" id="node10" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1468,632,1553,659"/>
+<area shape="rect" id="node16" href="$qgsprocessingutils_8h.html" title="qgsprocessingutils.h" alt="" coords="1739,408,1891,435"/>
+<area shape="rect" id="node17" href="$qgsfeaturesource_8h.html" title="qgsfeaturesource.h" alt="" coords="1741,483,1888,509"/>
+<area shape="rect" id="node20" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1344,557,1440,584"/>
+<area shape="rect" id="node24" href="$qgsguiutils_8h.html" title="qgsguiutils.h" alt="" coords="331,557,434,584"/>
+<area shape="rect" id="node32" href="$qgsprocessingparameters_8h.html" title="qgsprocessingparameters.h" alt="" coords="2009,333,2210,360"/>
+<area shape="rect" id="node33" href="$qgsprocessingoutputs_8h.html" title="qgsprocessingoutputs.h" alt="" coords="1958,259,2133,285"/>
+<area shape="rect" id="node39" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="2742,483,2858,509"/>
+</map>

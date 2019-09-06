@@ -1,0 +1,29 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/qgsmaptool.h" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/qgsmaptool.h">
+<area shape="rect" id="node2" href="$qgsmaptooledit_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptooledit.h" alt="" coords="347,95,603,136"/>
+<area shape="rect" id="node5" href="$qgsmaptoolpan_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptoolpan.h" alt="" coords="2014,95,2270,136"/>
+<area shape="rect" id="node10" href="$qgsextentgroupbox_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsextentgroupbox.h" alt="" coords="2707,191,2987,233"/>
+<area shape="rect" id="node12" href="$qgsmaptoolextent_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptoolextent.h" alt="" coords="2705,95,2979,136"/>
+<area shape="rect" id="node14" href="$qgsformannotation_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsformannotation.cpp" alt="" coords="3003,95,3297,136"/>
+<area shape="rect" id="node15" href="$qgsmaptoolidentify_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptoolidentify.h" alt="" coords="3321,95,3597,136"/>
+<area shape="rect" id="node19" href="$qgsmapcanvassnappingutils_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmapcanvassnappingutils.h" alt="" coords="1160,95,1497,136"/>
+<area shape="rect" id="node21" href="$qgsmaptoolzoom_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptoolzoom.h" alt="" coords="1521,95,1789,136"/>
+<area shape="rect" id="node23" href="$qgsmapcanvasannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmapcanvasannotationitem.cpp" alt="" coords="3621,95,3988,136"/>
+<area shape="rect" id="node24" href="$qgsmaptip_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptip.cpp" alt="" coords="4012,95,4251,136"/>
+<area shape="rect" id="node25" href="$qgsmaptool_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptool.cpp" alt="" coords="4275,95,4521,136"/>
+<area shape="rect" id="node26" href="$qgsmaptoolemitpoint_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptoolemitpoint.h" alt="" coords="4546,95,4839,136"/>
+<area shape="rect" id="node3" href="$qgsmaptooladvanceddigitizing_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptooladvanceddigitizing.h" alt="" coords="300,191,651,233"/>
+<area shape="rect" id="node4" href="$qgsmaptooledit_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptooledit.cpp" alt="" coords="5,191,276,233"/>
+<area shape="rect" id="node6" href="$qgsbrowserdockwidget__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsbrowserdockwidget_p.cpp" alt="" coords="1651,191,1982,233"/>
+<area shape="rect" id="node7" href="$qgsmapcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmapcanvas.cpp" alt="" coords="1359,191,1627,233"/>
+<area shape="rect" id="node8" href="$qgsmaptoolpan_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptoolpan.cpp" alt="" coords="2007,191,2277,233"/>
+<area shape="rect" id="node9" href="$qgsprojectionselectiontreewidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsprojectionselectiontreewidget.cpp" alt="" coords="2302,191,2683,233"/>
+<area shape="rect" id="node11" href="$qgsextentgroupbox_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsextentgroupbox.cpp" alt="" coords="2700,288,2995,329"/>
+<area shape="rect" id="node13" href="$qgsmaptoolextent_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptoolextent.cpp" alt="" coords="3011,191,3299,233"/>
+<area shape="rect" id="node16" href="$qgsidentifymenu_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsidentifymenu.h" alt="" coords="3324,191,3587,233"/>
+<area shape="rect" id="node17" href="$qgsmaptoolidentify_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptoolidentify.cpp" alt="" coords="3394,288,3685,329"/>
+<area shape="rect" id="node18" href="$qgsmaptoolidentifyfeature_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptoolidentifyfeature.h" alt="" coords="3663,191,3987,233"/>
+<area shape="rect" id="node20" href="$qgsmapcanvassnappingutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmapcanvassnappingutils.cpp" alt="" coords="675,191,1027,233"/>
+<area shape="rect" id="node22" href="$qgsmaptoolzoom_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptoolzoom.cpp" alt="" coords="1051,191,1334,233"/>
+<area shape="rect" id="node27" href="$qgsmaptoolemitpoint_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/qgsmaptoolemitpoint.cpp" alt="" coords="4687,191,4995,233"/>
+<area shape="rect" id="node28" href="$qgsrastertransparencywidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/gui/raster\l/qgsrastertransparencywidget.cpp" alt="" coords="4424,184,4663,240"/>
+</map>

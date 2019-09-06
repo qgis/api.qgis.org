@@ -1,0 +1,20 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/qgsmaptoolzoom.cpp" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/qgsmaptoolzoom.cpp">
+<area shape="rect" id="node6" href="$qgsmaptoolzoom_8h.html" title="qgsmaptoolzoom.h" alt="" coords="228,244,375,271"/>
+<area shape="rect" id="node17" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="1759,95,1889,121"/>
+<area shape="rect" id="node29" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="2431,468,2559,495"/>
+<area shape="rect" id="node31" href="$qgsrubberband_8h.html" title="qgsrubberband.h" alt="" coords="647,244,777,271"/>
+<area shape="rect" id="node37" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="404,468,500,495"/>
+<area shape="rect" id="node39" href="$qgsmapmouseevent_8h.html" title="qgsmapmouseevent.h" alt="" coords="1155,244,1322,271"/>
+<area shape="rect" id="node7" href="$qgsmaptool_8h.html" title="qgsmaptool.h" alt="" coords="177,319,287,345"/>
+<area shape="rect" id="node9" href="$qgis_8h.html" title="qgis.h" alt="" coords="1338,543,1398,569"/>
+<area shape="rect" id="node13" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="2300,617,2385,644"/>
+<area shape="rect" id="node18" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="2077,244,2251,271"/>
+<area shape="rect" id="node22" href="$qgsfeatureid_8h.html" title="qgsfeatureid.h" alt="" coords="2089,468,2204,495"/>
+<area shape="rect" id="node23" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1641,393,1759,420"/>
+<area shape="rect" id="node25" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1884,393,2001,420"/>
+<area shape="rect" id="node28" href="$qgsmapsettings_8h.html" title="qgsmapsettings.h" alt="" coords="2222,169,2359,196"/>
+<area shape="rect" id="node30" href="$qgsprevieweffect_8h.html" title="qgsprevieweffect.h" alt="" coords="1448,319,1589,345"/>
+<area shape="rect" id="node19" href="$qgspointlocator_8h.html" title="qgspointlocator.h" alt="" coords="1766,319,1898,345"/>
+<area shape="rect" id="node20" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="1239,468,1340,495"/>
+<area shape="rect" id="node32" href="$qgsmapcanvasitem_8h.html" title="qgsmapcanvasitem.h" alt="" coords="824,319,984,345"/>
+</map>

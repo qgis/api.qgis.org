@@ -1,0 +1,21 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/pal/problem.cpp" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/pal/problem.cpp">
+<area shape="rect" id="node2" href="$pal_8h.html" title="pal.h" alt="" coords="826,184,879,211"/>
+<area shape="rect" id="node16" href="$palstat_8h.html" title="palstat.h" alt="" coords="120,109,198,136"/>
+<area shape="rect" id="node17" href="$layer_8h.html" title="layer.h" alt="" coords="1140,109,1204,136"/>
+<area shape="rect" id="node18" href="$rtree_8hpp.html" title="rtree.hpp" alt="" coords="1506,259,1588,285"/>
+<area shape="rect" id="node22" href="$feature_8h.html" title="feature.h" alt="" coords="1636,109,1716,136"/>
+<area shape="rect" id="node25" href="$labelposition_8h.html" title="labelposition.h" alt="" coords="1815,184,1930,211"/>
+<area shape="rect" id="node27" href="$geomfunction_8h.html" title="geomfunction.h" alt="" coords="1314,184,1436,211"/>
+<area shape="rect" id="node28" href="$problem_8h.html" title="problem.h" alt="" coords="389,184,476,211"/>
+<area shape="rect" id="node30" href="$util_8h.html" title="util.h" alt="" coords="628,109,682,136"/>
+<area shape="rect" id="node31" href="$priorityqueue_8h.html" title="priorityqueue.h" alt="" coords="937,109,1056,136"/>
+<area shape="rect" id="node32" href="$internalexception_8h.html" title="internalexception.h" alt="" coords="2207,109,2351,136"/>
+<area shape="rect" id="node34" href="$qgslabelingengine_8h.html" title="qgslabelingengine.h" alt="" coords="215,184,364,211"/>
+<area shape="rect" id="node4" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1288,333,1406,360"/>
+<area shape="rect" id="node7" href="$qgsgeos_8h.html" title="qgsgeos.h" alt="" coords="1286,259,1374,285"/>
+<area shape="rect" id="node8" href="$qgspallabeling_8h.html" title="qgspallabeling.h" alt="" coords="735,259,860,285"/>
+<area shape="rect" id="node11" href="$qgslabelingenginesettings_8h.html" title="qgslabelingenginesettings.h" alt="" coords="202,333,402,360"/>
+<area shape="rect" id="node23" href="$pointset_8h.html" title="pointset.h" alt="" coords="1892,259,1978,285"/>
+<area shape="rect" id="node26" href="$qgslabelfeature_8h.html" title="qgslabelfeature.h" alt="" coords="1156,184,1290,211"/>
+<area shape="rect" id="node35" href="$qgsmapsettings_8h.html" title="qgsmapsettings.h" alt="" coords="122,259,260,285"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsAbstractMetadataBase.html" title="An abstract base class for metadata stores. " alt="" coords="5,31,200,57"/>
+<area shape="rect" id="node2" href="$classQgsLayerMetadata.html" title="A structured metadata store for a map layer. " alt="" coords="253,5,395,32"/>
+<area shape="rect" id="node3" href="$classQgsProjectMetadata.html" title="A structured metadata store for a map layer. " alt="" coords="248,56,400,83"/>
+</map>

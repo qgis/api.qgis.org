@@ -1,0 +1,4 @@
+<map id="QgsLayoutGuideCollection" name="QgsLayoutGuideCollection">
+<area shape="rect" id="node3" href="$classQgsLayoutSerializableObject.html" title="An interface for layout objects which can be stored and read from DOM elements. " alt="" coords="185,80,389,107"/>
+<area shape="rect" id="node4" href="$classQgsLayoutUndoObjectInterface.html" title="Interface for layout objects which support undo/redo commands. " alt="" coords="177,5,398,32"/>
+</map>

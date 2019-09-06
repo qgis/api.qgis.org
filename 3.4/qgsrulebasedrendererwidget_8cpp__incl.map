@@ -1,0 +1,32 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/symbology/qgsrulebasedrendererwidget.cpp" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/symbology/qgsrulebasedrendererwidget.cpp">
+<area shape="rect" id="node2" href="$qgsrulebasedrendererwidget_8h.html" title="qgsrulebasedrendererwidget.h" alt="" coords="2693,109,2909,136"/>
+<area shape="rect" id="node5" href="$qgssymbol_8h.html" title="qgssymbol.h" alt="" coords="1373,333,1476,360"/>
+<area shape="rect" id="node11" href="$qgspanelwidget_8h.html" title="qgspanelwidget.h" alt="" coords="3831,259,3965,285"/>
+<area shape="rect" id="node14" href="$qgsrulebasedrenderer_8h.html" title="qgsrulebasedrenderer.h" alt="" coords="1819,184,1993,211"/>
+<area shape="rect" id="node18" href="$qgsexpression_8h.html" title="qgsexpression.h" alt="" coords="1045,408,1172,435"/>
+<area shape="rect" id="node23" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="365,259,514,285"/>
+<area shape="rect" id="node25" href="$qgssymbollayerutils_8h.html" title="qgssymbollayerutils.h" alt="" coords="2351,259,2511,285"/>
+<area shape="rect" id="node28" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="628,184,755,211"/>
+<area shape="rect" id="node29" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="5,483,132,509"/>
+<area shape="rect" id="node30" href="$qgssymbolselectordialog_8h.html" title="qgssymbolselectordialog.h" alt="" coords="4062,184,4254,211"/>
+<area shape="rect" id="node32" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1330,557,1426,584"/>
+<area shape="rect" id="node33" href="$qgsreadwritecontext_8h.html" title="qgsreadwritecontext.h" alt="" coords="2160,408,2324,435"/>
+<area shape="rect" id="node35" href="$qgssinglesymbolrenderer_8h.html" title="qgssinglesymbolrenderer.h" alt="" coords="929,184,1123,211"/>
+<area shape="rect" id="node36" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="2586,259,2717,285"/>
+<area shape="rect" id="node37" href="$qgssettings_8h.html" title="qgssettings.h" alt="" coords="1000,483,1108,509"/>
+<area shape="rect" id="node42" href="$qgscategorizedsymbolrenderer_8h.html" title="qgscategorizedsymbolrenderer.h" alt="" coords="1202,184,1434,211"/>
+<area shape="rect" id="node43" href="$qgscategorizedsymbolrendererwidget_8h.html" title="qgscategorizedsymbolrendererwidget.h" alt="" coords="2191,109,2466,136"/>
+<area shape="rect" id="node44" href="$qgsgraduatedsymbolrenderer_8h.html" title="qgsgraduatedsymbolrenderer.h" alt="" coords="1508,184,1731,211"/>
+<area shape="rect" id="node45" href="$qgsgraduatedsymbolrendererwidget_8h.html" title="qgsgraduatedsymbolrendererwidget.h" alt="" coords="1851,109,2116,136"/>
+<area shape="rect" id="node46" href="$qgsexpressionbuilderdialog_8h.html" title="qgsexpressionbuilderdialog.h" alt="" coords="3579,184,3785,211"/>
+<area shape="rect" id="node49" href="$qgssymbollevelsdialog_8h.html" title="qgssymbollevelsdialog.h" alt="" coords="3809,184,3987,211"/>
+<area shape="rect" id="node50" href="$qgsvscrollarea_8h.html" title="qgsvscrollarea.h" alt="" coords="2843,259,2969,285"/>
+<area shape="rect" id="node3" href="$qgsrendererwidget_8h.html" title="qgsrendererwidget.h" alt="" coords="2261,184,2415,211"/>
+<area shape="rect" id="node7" href="$qgis_8h.html" title="qgis.h" alt="" coords="1611,557,1671,584"/>
+<area shape="rect" id="node10" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="1285,483,1375,509"/>
+<area shape="rect" id="node9" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="2358,632,2443,659"/>
+<area shape="rect" id="node15" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="609,408,712,435"/>
+<area shape="rect" id="node16" href="$qgsrenderer_8h.html" title="qgsrenderer.h" alt="" coords="1568,259,1679,285"/>
+<area shape="rect" id="node17" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="589,333,741,360"/>
+<area shape="rect" id="node24" href="$qgsindexedfeature_8h.html" title="qgsindexedfeature.h" alt="" coords="360,333,513,360"/>
+</map>

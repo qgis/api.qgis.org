@@ -1,0 +1,4 @@
+<map id="QgsHillshadeRenderer" name="QgsHillshadeRenderer">
+<area shape="rect" id="node2" href="$classQgsRasterRenderer.html" title="Raster renderer pipe that applies colors to a raster. " alt="" coords="14,80,159,107"/>
+<area shape="rect" id="node3" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc. " alt="" coords="15,5,159,32"/>
+</map>

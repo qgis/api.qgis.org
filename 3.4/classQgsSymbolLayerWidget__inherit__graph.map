@@ -1,0 +1,21 @@
+<map id="QgsSymbolLayerWidget" name="QgsSymbolLayerWidget">
+<area shape="rect" id="node4" href="$classQgsArrowSymbolLayerWidget.html" title="QgsArrowSymbolLayerWidget" alt="" coords="521,5,731,32"/>
+<area shape="rect" id="node5" href="$classQgsCentroidFillSymbolLayerWidget.html" title="QgsCentroidFillSymbolLayer\lWidget" alt="" coords="527,57,725,98"/>
+<area shape="rect" id="node6" href="$classQgsEllipseSymbolLayerWidget.html" title="QgsEllipseSymbolLayerWidget" alt="" coords="519,123,733,149"/>
+<area shape="rect" id="node7" href="$classQgsFilledMarkerSymbolLayerWidget.html" title="Widget for configuring QgsFilledMarkerSymbolLayer symbol layers. " alt="" coords="523,174,729,215"/>
+<area shape="rect" id="node8" href="$classQgsFontMarkerSymbolLayerWidget.html" title="QgsFontMarkerSymbolLayer\lWidget" alt="" coords="525,239,727,281"/>
+<area shape="rect" id="node9" href="$classQgsGeometryGeneratorSymbolLayerWidget.html" title="QgsGeometryGeneratorSymbol\lLayerWidget" alt="" coords="514,305,738,346"/>
+<area shape="rect" id="node10" href="$classQgsGradientFillSymbolLayerWidget.html" title="QgsGradientFillSymbolLayer\lWidget" alt="" coords="526,370,726,411"/>
+<area shape="rect" id="node11" href="$classQgsLinePatternFillSymbolLayerWidget.html" title="QgsLinePatternFillSymbol\lLayerWidget" alt="" coords="535,435,717,477"/>
+<area shape="rect" id="node12" href="$classQgsMarkerLineSymbolLayerWidget.html" title="QgsMarkerLineSymbolLayer\lWidget" alt="" coords="526,501,726,542"/>
+<area shape="rect" id="node13" href="$classQgsPointPatternFillSymbolLayerWidget.html" title="QgsPointPatternFillSymbol\lLayerWidget" alt="" coords="532,566,720,607"/>
+<area shape="rect" id="node14" href="$classQgsRasterFillSymbolLayerWidget.html" title="QgsRasterFillSymbolLayer\lWidget" alt="" coords="533,631,719,673"/>
+<area shape="rect" id="node15" href="$classQgsShapeburstFillSymbolLayerWidget.html" title="QgsShapeburstFillSymbolLayer\lWidget" alt="" coords="517,697,735,738"/>
+<area shape="rect" id="node16" href="$classQgsSimpleFillSymbolLayerWidget.html" title="QgsSimpleFillSymbolLayer\lWidget" alt="" coords="531,762,721,803"/>
+<area shape="rect" id="node17" href="$classQgsSimpleLineSymbolLayerWidget.html" title="QgsSimpleLineSymbolLayer\lWidget" alt="" coords="526,827,726,869"/>
+<area shape="rect" id="node18" href="$classQgsSimpleMarkerSymbolLayerWidget.html" title="QgsSimpleMarkerSymbolLayer\lWidget" alt="" coords="517,893,735,934"/>
+<area shape="rect" id="node19" href="$classQgsSVGFillSymbolLayerWidget.html" title="QgsSVGFillSymbolLayerWidget" alt="" coords="518,959,734,985"/>
+<area shape="rect" id="node20" href="$classQgsSvgMarkerSymbolLayerWidget.html" title="QgsSvgMarkerSymbolLayerWidget" alt="" coords="505,1009,747,1036"/>
+<area shape="rect" id="node21" href="$classQgsVectorFieldSymbolLayerWidget.html" title="QgsVectorFieldSymbolLayer\lWidget" alt="" coords="527,1061,725,1102"/>
+<area shape="rect" id="node3" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="5,567,236,593"/>
+</map>

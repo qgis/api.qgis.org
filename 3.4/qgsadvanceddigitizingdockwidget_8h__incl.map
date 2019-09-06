@@ -1,0 +1,15 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/qgsadvanceddigitizingdockwidget.h" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/gui/qgsadvanceddigitizingdockwidget.h">
+<area shape="rect" id="node6" href="$qgis_8h.html" title="qgis.h" alt="" coords="1783,319,1843,345"/>
+<area shape="rect" id="node27" href="$qgsdockwidget_8h.html" title="qgsdockwidget.h" alt="" coords="2384,95,2512,121"/>
+<area shape="rect" id="node29" href="$qgsmessagebaritem_8h.html" title="qgsmessagebaritem.h" alt="" coords="2602,95,2769,121"/>
+<area shape="rect" id="node33" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="253,244,355,271"/>
+<area shape="rect" id="node37" href="$qgspointlocator_8h.html" title="qgspointlocator.h" alt="" coords="1878,95,2010,121"/>
+<area shape="rect" id="node22" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="780,393,897,420"/>
+<area shape="rect" id="node25" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="2529,468,2615,495"/>
+<area shape="rect" id="node26" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="922,393,1038,420"/>
+<area shape="rect" id="node34" href="$qgsvector_8h.html" title="qgsvector.h" alt="" coords="23,319,119,345"/>
+<area shape="rect" id="node38" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1697,244,1930,271"/>
+<area shape="rect" id="node39" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="1718,169,1906,196"/>
+<area shape="rect" id="node40" href="$qgsfeatureid_8h.html" title="qgsfeatureid.h" alt="" coords="2533,244,2648,271"/>
+<area shape="rect" id="node41" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="2085,169,2203,196"/>
+</map>

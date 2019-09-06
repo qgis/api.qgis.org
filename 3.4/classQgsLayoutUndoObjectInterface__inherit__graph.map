@@ -1,0 +1,25 @@
+<map id="QgsLayoutUndoObjectInterface" name="QgsLayoutUndoObjectInterface">
+<area shape="rect" id="node2" href="$classQgsLayout.html" title="Base class for layouts, which can contain items such as maps, labels, scalebars, etc. " alt="" coords="331,132,422,159"/>
+<area shape="rect" id="node4" href="$classQgsLayoutItem.html" title="Base class for graphical items within a QgsLayout. " alt="" coords="317,335,436,361"/>
+<area shape="rect" id="node16" href="$classQgsLayoutMultiFrame.html" title="Abstract base class for layout items with the ability to distribute the content to several frames (Qg..." alt="" coords="297,613,457,640"/>
+<area shape="rect" id="node19" href="$classQgsLayoutSerializableObject.html" title="An interface for layout objects which can be stored and read from DOM elements. " alt="" coords="275,791,479,817"/>
+<area shape="rect" id="node3" href="$classQgsPrintLayout.html" title="Print layout, a QgsLayout subclass for static or atlas&#45;based layouts. " alt="" coords="562,5,681,32"/>
+<area shape="rect" id="node5" href="$classQgsLayoutFrame.html" title="Base class for frame items, which form a layout multiframe item. " alt="" coords="556,56,687,83"/>
+<area shape="rect" id="node6" href="$classQgsLayoutItem3DMap.html" title="3Implements support of 3D map views in print layouts " alt="" coords="539,107,703,133"/>
+<area shape="rect" id="node7" href="$classQgsLayoutItemGroup.html" title="A container for grouping several QgsLayoutItems. " alt="" coords="542,157,701,184"/>
+<area shape="rect" id="node8" href="$classQgsLayoutItemLabel.html" title="A layout item subclass for text labels. " alt="" coords="545,208,698,235"/>
+<area shape="rect" id="node9" href="$classQgsLayoutItemLegend.html" title="A layout item subclass for map legends. " alt="" coords="538,259,705,285"/>
+<area shape="rect" id="node10" href="$classQgsLayoutItemMap.html" title="Layout graphical items for displaying a map. " alt="" coords="548,309,695,336"/>
+<area shape="rect" id="node11" href="$classQgsLayoutItemPage.html" title="Item representing the paper in a layout. " alt="" coords="546,360,697,387"/>
+<area shape="rect" id="node12" href="$classQgsLayoutItemPicture.html" title="A layout item subclass that displays SVG files or raster format images (jpg, png, ..." alt="" coords="540,411,703,437"/>
+<area shape="rect" id="node13" href="$classQgsLayoutItemScaleBar.html" title="A layout item subclass for scale bars. " alt="" coords="533,461,709,488"/>
+<area shape="rect" id="node14" href="$classQgsLayoutItemShape.html" title="Layout item for basic filled shapes (e.g. " alt="" coords="541,512,701,539"/>
+<area shape="rect" id="node15" href="$classQgsLayoutNodesItem.html" title="An abstract layout item that provides generic methods for node based shapes such as polygon or polyli..." alt="" coords="541,563,701,589"/>
+<area shape="rect" id="node17" href="$classQgsLayoutItemHtml.html" title="A layout multiframe subclass for HTML content. " alt="" coords="546,613,697,640"/>
+<area shape="rect" id="node18" href="$classQgsLayoutTable.html" title="A class to display a table in the print layout, and allow the table to span over multiple frames..." alt="" coords="560,664,683,691"/>
+<area shape="rect" id="node20" href="$classQgsLayoutAtlas.html" title="Class used to render QgsLayout as an atlas, by iterating over the features from an associated vector ..." alt="" coords="560,715,683,741"/>
+<area shape="rect" id="node21" href="$classQgsLayoutGridSettings.html" title="Contains settings relating to the appearance, spacing and offset for layout grids. " alt="" coords="537,765,706,792"/>
+<area shape="rect" id="node22" href="$classQgsLayoutGuideCollection.html" title="Stores and manages the snap guides used by a layout. " alt="" coords="527,816,716,843"/>
+<area shape="rect" id="node23" href="$classQgsLayoutPageCollection.html" title="A manager for a collection of pages in a layout. " alt="" coords="530,867,713,893"/>
+<area shape="rect" id="node24" href="$classQgsLayoutSnapper.html" title="Manages snapping grids and preset snap lines in a layout, and handles snapping points to the nearest ..." alt="" coords="549,917,693,944"/>
+</map>

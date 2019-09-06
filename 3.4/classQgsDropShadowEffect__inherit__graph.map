@@ -1,0 +1,4 @@
+<map id="QgsDropShadowEffect" name="QgsDropShadowEffect">
+<area shape="rect" id="node2" href="$classQgsShadowEffect.html" title="Base class for paint effects which offset, blurred shadows. " alt="" coords="21,80,154,107"/>
+<area shape="rect" id="node3" href="$classQgsPaintEffect.html" title="Base class for visual effects which can be applied to QPicture drawings. " alt="" coords="30,5,145,32"/>
+</map>

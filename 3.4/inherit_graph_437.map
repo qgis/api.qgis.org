@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsPropertyTransformer.html" title="Abstract base class for objects which transform the calculated value of a property. " alt="" coords="5,56,183,83"/>
+<area shape="rect" id="node2" href="$classQgsColorRampTransformer.html" title="QgsPropertyTransformer subclass for transforming a numeric value into a color from a color ramp..." alt="" coords="247,5,441,32"/>
+<area shape="rect" id="node3" href="$classQgsGenericNumericTransformer.html" title="QgsPropertyTransformer subclass for scaling an input numeric value into an output numeric value..." alt="" coords="231,56,457,83"/>
+<area shape="rect" id="node4" href="$classQgsSizeScaleTransformer.html" title="QgsPropertyTransformer subclass for scaling a value into a size according to various scaling methods..." alt="" coords="251,107,437,133"/>
+</map>

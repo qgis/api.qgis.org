@@ -1,0 +1,17 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/server/qgsserverinterface.h" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/server/qgsserverinterface.h">
+<area shape="rect" id="node2" href="$qgsserverplugins_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/qgsserverplugins.h" alt="" coords="413,109,575,165"/>
+<area shape="rect" id="node5" href="$qgsserverinterfaceimpl_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/qgsserverinterfaceimpl.h" alt="" coords="205,109,389,165"/>
+<area shape="rect" id="node7" href="$qgsserverinterface_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/qgsserverinterface.cpp" alt="" coords="599,109,771,165"/>
+<area shape="rect" id="node8" href="$qgsmodule_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/qgsmodule.h" alt="" coords="1010,109,1175,165"/>
+<area shape="rect" id="node3" href="$qgsserver_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/qgsserver.h" alt="" coords="228,213,389,269"/>
+<area shape="rect" id="node4" href="$qgsserverplugins_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/qgsserverplugins.cpp" alt="" coords="413,213,575,269"/>
+<area shape="rect" id="node6" href="$qgsserverinterfaceimpl_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/qgsserverinterfaceimpl.cpp" alt="" coords="5,213,204,269"/>
+<area shape="rect" id="node9" href="$qgsdxfwriter_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wms/qgsdxfwriter.cpp" alt="" coords="1523,317,1742,373"/>
+<area shape="rect" id="node10" href="$qgswmsutils_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wms/qgswmsutils.h" alt="" coords="1181,213,1386,269"/>
+<area shape="rect" id="node11" href="$qgswms_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wms/qgswms.cpp" alt="" coords="1059,317,1254,373"/>
+<area shape="rect" id="node12" href="$qgswmsutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wms/qgswmsutils.cpp" alt="" coords="1279,317,1499,373"/>
+<area shape="rect" id="node13" href="$qgswfs_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wfs/qgswfs.cpp" alt="" coords="859,317,1035,373"/>
+<area shape="rect" id="node14" href="$qgswfsutils_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wfs/qgswfsutils.h" alt="" coords="869,213,1055,269"/>
+<area shape="rect" id="node15" href="$qgswcs_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wcs/qgswcs.cpp" alt="" coords="587,317,769,373"/>
+<area shape="rect" id="node16" href="$qgswcsutils_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wcs/qgswcsutils.h" alt="" coords="651,213,844,269"/>
+</map>

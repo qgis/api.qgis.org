@@ -1,0 +1,11 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/server/qgsmapserviceexception.h" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/server/qgsmapserviceexception.h">
+<area shape="rect" id="node2" href="$qgsserver_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/qgsserver.cpp" alt="" coords="5,117,167,173"/>
+<area shape="rect" id="node3" href="$qgsserverplugins_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/qgsserverplugins.cpp" alt="" coords="191,117,352,173"/>
+<area shape="rect" id="node4" href="$qgswmsrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wms/qgswmsrenderer.cpp" alt="" coords="377,117,625,173"/>
+<area shape="rect" id="node5" href="$qgswfsdescribefeaturetype_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wfs/qgswfsdescribefeaturetype.cpp" alt="" coords="649,117,953,173"/>
+<area shape="rect" id="node6" href="$qgswfsgetcapabilities_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wfs/qgswfsgetcapabilities.cpp" alt="" coords="977,117,1245,173"/>
+<area shape="rect" id="node7" href="$qgswfsgetcapabilities__1__0__0_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wfs/qgswfsgetcapabilities\l_1_0_0.cpp" alt="" coords="1269,109,1511,180"/>
+<area shape="rect" id="node8" href="$qgswcsdescribecoverage_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wcs/qgswcsdescribecoverage.cpp" alt="" coords="1535,117,1829,173"/>
+<area shape="rect" id="node9" href="$qgswcsgetcapabilities_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wcs/qgswcsgetcapabilities.cpp" alt="" coords="1854,117,2129,173"/>
+<area shape="rect" id="node10" href="$qgswcsutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wcs/qgswcsutils.cpp" alt="" coords="2153,117,2361,173"/>
+</map>

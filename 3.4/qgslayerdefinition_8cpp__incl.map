@@ -1,0 +1,30 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/qgslayerdefinition.cpp" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/qgslayerdefinition.cpp">
+<area shape="rect" id="node6" href="$qgslayerdefinition_8h.html" title="qgslayerdefinition.h" alt="" coords="144,393,291,420"/>
+<area shape="rect" id="node16" href="$qgslayertree_8h.html" title="qgslayertree.h" alt="" coords="1100,169,1215,196"/>
+<area shape="rect" id="node18" href="$qgsreadwritecontext_8h.html" title="qgsreadwritecontext.h" alt="" coords="769,393,933,420"/>
+<area shape="rect" id="node19" href="$qgspathresolver_8h.html" title="qgspathresolver.h" alt="" coords="565,468,701,495"/>
+<area shape="rect" id="node22" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="3917,468,4013,495"/>
+<area shape="rect" id="node26" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="633,319,749,345"/>
+<area shape="rect" id="node27" href="$qgspluginlayer_8h.html" title="qgspluginlayer.h" alt="" coords="628,244,753,271"/>
+<area shape="rect" id="node30" href="$qgspluginlayerregistry_8h.html" title="qgspluginlayerregistry.h" alt="" coords="1318,393,1490,420"/>
+<area shape="rect" id="node31" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="781,319,883,345"/>
+<area shape="rect" id="node35" href="$qgsrasterlayer_8h.html" title="qgsrasterlayer.h" alt="" coords="3028,244,3153,271"/>
+<area shape="rect" id="node44" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="2191,95,2318,121"/>
+<area shape="rect" id="node8" href="$qgis_8h.html" title="qgis.h" alt="" coords="2279,468,2339,495"/>
+<area shape="rect" id="node13" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="3591,543,3676,569"/>
+<area shape="rect" id="node17" href="$qgslayertreenode_8h.html" title="qgslayertreenode.h" alt="" coords="1045,319,1192,345"/>
+<area shape="rect" id="node20" href="$qgslayertreegroup_8h.html" title="qgslayertreegroup.h" alt="" coords="930,244,1081,271"/>
+<area shape="rect" id="node21" href="$qgslayertreelayer_8h.html" title="qgslayertreelayer.h" alt="" coords="1156,244,1300,271"/>
+<area shape="rect" id="node28" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="1798,393,1935,420"/>
+<area shape="rect" id="node34" href="$qgsexpressioncontextgenerator_8h.html" title="qgsexpressioncontextgenerator.h" alt="" coords="957,393,1193,420"/>
+<area shape="rect" id="node37" href="$qgsraster_8h.html" title="qgsraster.h" alt="" coords="3202,393,3297,420"/>
+<area shape="rect" id="node38" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="2878,319,3053,345"/>
+<area shape="rect" id="node40" href="$qgsrasterpipe_8h.html" title="qgsrasterpipe.h" alt="" coords="3372,393,3495,420"/>
+<area shape="rect" id="node41" href="$qgsrasterviewport_8h.html" title="qgsrasterviewport.h" alt="" coords="3451,319,3599,345"/>
+<area shape="rect" id="node42" href="$qgsrasterminmaxorigin_8h.html" title="qgsrasterminmaxorigin.h" alt="" coords="2943,393,3126,420"/>
+<area shape="rect" id="node43" href="$qgscontrastenhancement_8h.html" title="qgscontrastenhancement.h" alt="" coords="3127,319,3326,345"/>
+<area shape="rect" id="node39" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="2264,393,2355,420"/>
+<area shape="rect" id="node48" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="2341,319,2443,345"/>
+<area shape="rect" id="node49" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="2311,244,2463,271"/>
+<area shape="rect" id="node50" href="$qgsfeaturesource_8h.html" title="qgsfeaturesource.h" alt="" coords="2071,169,2217,196"/>
+</map>

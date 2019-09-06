@@ -1,0 +1,4 @@
+<map id="QgsLayoutItemMapItemStack" name="QgsLayoutItemMapItemStack">
+<area shape="rect" id="node2" href="$classQgsLayoutItemMapGridStack.html" title="A collection of grids which is drawn above the map content in a QgsLayoutItemMap. ..." alt="" coords="5,87,213,114"/>
+<area shape="rect" id="node3" href="$classQgsLayoutItemMapOverviewStack.html" title="A collection of overviews which are drawn above the map content in a QgsLayoutItemMap. " alt="" coords="237,80,440,121"/>
+</map>

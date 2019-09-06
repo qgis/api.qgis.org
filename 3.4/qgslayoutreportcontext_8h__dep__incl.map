@@ -1,0 +1,16 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/layout/qgslayoutreportcontext.h" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/core/layout/qgslayoutreportcontext.h">
+<area shape="rect" id="node2" href="$qgsexpressioncontext_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/qgsexpressioncontext.cpp" alt="" coords="480,325,800,366"/>
+<area shape="rect" id="node3" href="$qgsabstractreportsection_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/layout\l/qgsabstractreportsection.h" alt="" coords="254,109,453,165"/>
+<area shape="rect" id="node8" href="$qgslayoutexporter_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/layout\l/qgslayoutexporter.h" alt="" coords="904,109,1096,165"/>
+<area shape="rect" id="node11" href="$qgslayoutitemmap_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/layout\l/qgslayoutitemmap.cpp" alt="" coords="1040,317,1232,373"/>
+<area shape="rect" id="node12" href="$qgslayoutitempicture_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/layout\l/qgslayoutitempicture.cpp" alt="" coords="1256,317,1448,373"/>
+<area shape="rect" id="node13" href="$qgslayoutobject_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/layout\l/qgslayoutobject.cpp" alt="" coords="1472,317,1664,373"/>
+<area shape="rect" id="node14" href="$qgslayoutreportcontext_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/layout\l/qgslayoutreportcontext.cpp" alt="" coords="1688,317,1891,373"/>
+<area shape="rect" id="node4" href="$qgsabstractreportsection_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/layout\l/qgsabstractreportsection.cpp" alt="" coords="241,317,456,373"/>
+<area shape="rect" id="node5" href="$qgsreport_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/layout\l/qgsreport.h" alt="" coords="32,213,224,269"/>
+<area shape="rect" id="node6" href="$qgsreportsectionfieldgroup_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/layout\l/qgsreportsectionfieldgroup.h" alt="" coords="249,213,458,269"/>
+<area shape="rect" id="node7" href="$qgsreportsectionlayout_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/layout\l/qgsreportsectionlayout.h" alt="" coords="483,213,675,269"/>
+<area shape="rect" id="node9" href="$qgslayout_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/layout\l/qgslayout.h" alt="" coords="1072,213,1264,269"/>
+<area shape="rect" id="node10" href="$qgslayoutexporter_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/core/layout\l/qgslayoutexporter.cpp" alt="" coords="824,317,1016,373"/>
+<area shape="rect" id="node15" href="$qgswmsrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/server\l/services/wms/qgswmsrenderer.cpp" alt="" coords="800,213,1048,269"/>
+</map>

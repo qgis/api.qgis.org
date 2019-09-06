@@ -1,0 +1,18 @@
+<map id="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/3d/qgs3dtypes.h" name="/tmp/buildd/qgis&#45;3.4.3+14stretch/src/3d/qgs3dtypes.h">
+<area shape="rect" id="node2" href="$qgs3dutils_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/qgs3dutils.h" alt="" coords="1425,102,1643,143"/>
+<area shape="rect" id="node14" href="$qgsline3dsymbol_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/symbols\l/qgsline3dsymbol.h" alt="" coords="1719,95,1914,151"/>
+<area shape="rect" id="node16" href="$qgspoint3dsymbol_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/symbols\l/qgspoint3dsymbol.h" alt="" coords="2041,95,2235,151"/>
+<area shape="rect" id="node17" href="$qgspolygon3dsymbol_8h.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/symbols\l/qgspolygon3dsymbol.h" alt="" coords="2397,95,2591,151"/>
+<area shape="rect" id="node3" href="$qgs3dmapscene_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/qgs3dmapscene.cpp" alt="" coords="1113,206,1387,247"/>
+<area shape="rect" id="node4" href="$qgs3dmapsettings_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/qgs3dmapsettings.cpp" alt="" coords="5,206,292,247"/>
+<area shape="rect" id="node5" href="$qgs3dutils_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/qgs3dutils.cpp" alt="" coords="316,206,549,247"/>
+<area shape="rect" id="node6" href="$qgslayoutitem3dmap_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/qgslayoutitem3dmap.cpp" alt="" coords="574,206,878,247"/>
+<area shape="rect" id="node7" href="$qgschunkedentity__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/chunks\l/qgschunkedentity_p.cpp" alt="" coords="902,199,1089,255"/>
+<area shape="rect" id="node8" href="$qgsline3dsymbol_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/symbols\l/qgsline3dsymbol.cpp" alt="" coords="1411,199,1606,255"/>
+<area shape="rect" id="node9" href="$qgsline3dsymbol__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/symbols\l/qgsline3dsymbol_p.cpp" alt="" coords="1630,199,1825,255"/>
+<area shape="rect" id="node10" href="$qgspoint3dsymbol_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/symbols\l/qgspoint3dsymbol.cpp" alt="" coords="1849,199,2043,255"/>
+<area shape="rect" id="node11" href="$qgspoint3dsymbol__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/symbols\l/qgspoint3dsymbol_p.cpp" alt="" coords="2067,199,2262,255"/>
+<area shape="rect" id="node12" href="$qgspolygon3dsymbol_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/symbols\l/qgspolygon3dsymbol.cpp" alt="" coords="2286,199,2481,255"/>
+<area shape="rect" id="node13" href="$qgspolygon3dsymbol__p_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/symbols\l/qgspolygon3dsymbol_p.cpp" alt="" coords="2505,199,2707,255"/>
+<area shape="rect" id="node15" href="$qgsvectorlayer3drenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.4.3\l+14stretch/src/3d/qgsvectorlayer3drenderer.cpp" alt="" coords="2732,206,3064,247"/>
+</map>
