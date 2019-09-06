@@ -1,0 +1,24 @@
+<map id="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/gui/raster/qgssinglebandpseudocolorrendererwidget.h" name="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/gui/raster/qgssinglebandpseudocolorrendererwidget.h">
+<area shape="rect" id="node3" href="$qgsrasterminmaxwidget_8h.html" title="qgsrasterminmaxwidget.h" alt="" coords="1267,115,1453,143"/>
+<area shape="rect" id="node50" href="$qgscolorrampshader_8h.html" title="qgscolorrampshader.h" alt="" coords="93,502,259,530"/>
+<area shape="rect" id="node145" href="$qgsrasterrendererwidget_8h.html" title="qgsrasterrendererwidget.h" alt="" coords="2061,115,2251,143"/>
+<area shape="rect" id="node7" href="$qgsrasterlayer_8h.html" title="qgsrasterlayer.h" alt="" coords="1005,193,1131,221"/>
+<area shape="rect" id="node71" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1972,579,2089,607"/>
+<area shape="rect" id="node21" href="$qgis_8h.html" title="qgis.h" alt="" coords="1497,734,1556,762"/>
+<area shape="rect" id="node41" href="$qgsbrightnesscontrastfilter_8h.html" title="qgsbrightnesscontrastfilter.h" alt="" coords="859,347,1061,375"/>
+<area shape="rect" id="node43" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="1089,425,1263,453"/>
+<area shape="rect" id="node54" href="$qgsrastershaderfunction_8h.html" title="qgsrastershaderfunction.h" alt="" coords="195,579,384,607"/>
+<area shape="rect" id="node62" href="$qgsraster_8h.html" title="qgsraster.h" alt="" coords="1273,657,1367,685"/>
+<area shape="rect" id="node66" href="$qgsrasterinterface_8h.html" title="qgsrasterinterface.h" alt="" coords="793,502,943,530"/>
+<area shape="rect" id="node77" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="2139,657,2227,685"/>
+<area shape="rect" id="node86" href="$qgscontrastenhancement_8h.html" title="qgscontrastenhancement.h" alt="" coords="459,502,656,530"/>
+<area shape="rect" id="node90" href="$qgshuesaturationfilter_8h.html" title="qgshuesaturationfilter.h" alt="" coords="661,347,835,375"/>
+<area shape="rect" id="node94" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1732,425,1847,453"/>
+<area shape="rect" id="node120" href="$qgsrasterpipe_8h.html" title="qgsrasterpipe.h" alt="" coords="1243,270,1365,298"/>
+<area shape="rect" id="node128" href="$qgsrasterresamplefilter_8h.html" title="qgsrasterresamplefilter.h" alt="" coords="1085,347,1267,375"/>
+<area shape="rect" id="node135" href="$qgsrastershader_8h.html" title="qgsrastershader.h" alt="" coords="195,425,333,453"/>
+<area shape="rect" id="node138" href="$qgsrastertransparency_8h.html" title="qgsrastertransparency.h" alt="" coords="2560,270,2736,298"/>
+<area shape="rect" id="node141" href="$qgsrasterviewport_8h.html" title="qgsrasterviewport.h" alt="" coords="2760,270,2907,298"/>
+<area shape="rect" id="node58" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="1373,502,1459,530"/>
+<area shape="rect" id="node110" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="1968,502,2107,530"/>
+</map>

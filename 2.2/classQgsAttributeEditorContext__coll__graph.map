@@ -1,0 +1,6 @@
+<map id="QgsAttributeEditorContext" name="QgsAttributeEditorContext">
+<area shape="rect" id="node2" href="$classQgsVectorLayerTools.html" title="Methods in this class are used to handle basic operations on vector layers." alt="" coords="5,209,160,237"/>
+<area shape="rect" id="node4" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="184,209,317,237"/>
+<area shape="rect" id="node6" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="161,115,340,143"/>
+<area shape="rect" id="node8" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="136,6,365,34"/>
+</map>

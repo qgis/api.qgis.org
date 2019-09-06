@@ -1,0 +1,11 @@
+<map id="QgsSnapper" name="QgsSnapper">
+<area shape="rect" id="node2" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter." alt="" coords="1053,215,1184,243"/>
+<area shape="rect" id="node4" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="419,51,528,79"/>
+<area shape="rect" id="node10" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="744,170,885,198"/>
+<area shape="rect" id="node6" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor dpi." alt="" coords="741,119,888,147"/>
+<area shape="rect" id="node8" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="375,210,572,238"/>
+<area shape="rect" id="node13" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="384,303,563,331"/>
+<area shape="rect" id="node20" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="748,303,881,331"/>
+<area shape="rect" id="node15" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="5,331,235,359"/>
+<area shape="rect" id="node18" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="416,118,531,146"/>
+</map>

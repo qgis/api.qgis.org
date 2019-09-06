@@ -1,0 +1,4 @@
+<map id="QgsSingleBandColorDataRenderer" name="QgsSingleBandColorDataRenderer">
+<area shape="rect" id="node2" href="$classQgsRasterRenderer.html" title="Raster renderer pipe that applies colors to a raster." alt="" coords="53,83,197,111"/>
+<area shape="rect" id="node4" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc." alt="" coords="53,6,197,34"/>
+</map>

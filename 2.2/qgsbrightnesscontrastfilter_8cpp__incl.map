@@ -1,0 +1,22 @@
+<map id="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/core/raster/qgsbrightnesscontrastfilter.cpp" name="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/core/raster/qgsbrightnesscontrastfilter.cpp">
+<area shape="rect" id="node3" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="1000,193,1173,221"/>
+<area shape="rect" id="node139" href="$qgsbrightnesscontrastfilter_8h.html" title="qgsbrightnesscontrastfilter.h" alt="" coords="1471,115,1673,143"/>
+<area shape="rect" id="node13" href="$qgscolorrampshader_8h.html" title="qgscolorrampshader.h" alt="" coords="117,425,283,453"/>
+<area shape="rect" id="node24" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="776,425,1008,453"/>
+<area shape="rect" id="node50" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="580,270,716,298"/>
+<area shape="rect" id="node58" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="667,425,752,453"/>
+<area shape="rect" id="node64" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="387,425,488,453"/>
+<area shape="rect" id="node75" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1032,425,1115,453"/>
+<area shape="rect" id="node80" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1787,425,1883,453"/>
+<area shape="rect" id="node87" href="$qgsrasterbandstats_8h.html" title="qgsrasterbandstats.h" alt="" coords="1175,347,1332,375"/>
+<area shape="rect" id="node94" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1513,425,1631,453"/>
+<area shape="rect" id="node105" href="$qgsraster_8h.html" title="qgsraster.h" alt="" coords="1333,502,1427,530"/>
+<area shape="rect" id="node109" href="$qgsrasterhistogram_8h.html" title="qgsrasterhistogram.h" alt="" coords="991,347,1151,375"/>
+<area shape="rect" id="node114" href="$qgsrasterinterface_8h.html" title="qgsrasterinterface.h" alt="" coords="1497,270,1647,298"/>
+<area shape="rect" id="node129" href="$qgsrasterrange_8h.html" title="qgsrasterrange.h" alt="" coords="512,425,643,453"/>
+<area shape="rect" id="node135" href="$qgsrasterpyramid_8h.html" title="qgsrasterpyramid.h" alt="" coords="1069,270,1216,298"/>
+<area shape="rect" id="node19" href="$qgsrastershaderfunction_8h.html" title="qgsrastershaderfunction.h" alt="" coords="93,502,283,530"/>
+<area shape="rect" id="node33" href="$qgis_8h.html" title="qgis.h" alt="" coords="1613,579,1672,607"/>
+<area shape="rect" id="node100" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1587,502,1675,530"/>
+<area shape="rect" id="node122" href="$qgsrasterblock_8h.html" title="qgsrasterblock.h" alt="" coords="1508,347,1636,375"/>
+</map>

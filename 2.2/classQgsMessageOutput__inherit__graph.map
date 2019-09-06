@@ -1,0 +1,4 @@
+<map id="QgsMessageOutput" name="QgsMessageOutput">
+<area shape="rect" id="node3" href="$classQgsMessageOutputConsole.html" title="Default implementation of message output interface." alt="" coords="5,83,203,111"/>
+<area shape="rect" id="node5" href="$classQgsMessageViewer.html" title="A generic message view for displaying QGIS messages." alt="" coords="227,83,373,111"/>
+</map>

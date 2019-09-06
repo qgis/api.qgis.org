@@ -1,0 +1,18 @@
+<map id="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/gui/qgsmaptoolidentify.h" name="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/gui/qgsmaptoolidentify.h">
+<area shape="rect" id="node3" href="$qgsmaptool_8h.html" title="qgsmaptool.h" alt="" coords="123,331,233,359"/>
+<area shape="rect" id="node13" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1266,486,1354,514"/>
+<area shape="rect" id="node39" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="653,409,754,437"/>
+<area shape="rect" id="node53" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="239,409,322,437"/>
+<area shape="rect" id="node58" href="$qgsdistancearea_8h.html" title="qgsdistancearea.h" alt="" coords="611,254,750,282"/>
+<area shape="rect" id="node88" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1414,99,1529,127"/>
+<area shape="rect" id="node15" href="$qgis_8h.html" title="qgis.h" alt="" coords="1605,563,1663,591"/>
+<area shape="rect" id="node61" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="959,331,1146,359"/>
+<area shape="rect" id="node65" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1479,409,1597,437"/>
+<area shape="rect" id="node72" href="$qgscsexception_8h.html" title="qgscsexception.h" alt="" coords="778,409,911,437"/>
+<area shape="rect" id="node77" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="935,409,1167,437"/>
+<area shape="rect" id="node74" href="$qgsexception_8h.html" title="qgsexception.h" alt="" coords="822,563,939,591"/>
+<area shape="rect" id="node103" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="442,409,527,437"/>
+<area shape="rect" id="node108" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="1126,177,1265,205"/>
+<area shape="rect" id="node120" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="1250,254,1397,282"/>
+<area shape="rect" id="node125" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="1309,331,1437,359"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="QgsFeatureRequest" name="QgsFeatureRequest">
+<area shape="rect" id="node2" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="15,302,124,330"/>
+<area shape="rect" id="node4" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;)." alt="" coords="148,302,263,330"/>
+<area shape="rect" id="node6" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="53,209,187,237"/>
+<area shape="rect" id="node8" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="31,115,209,143"/>
+<area shape="rect" id="node10" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="5,6,235,34"/>
+<area shape="rect" id="node12" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="211,209,368,237"/>
+<area shape="rect" id="node14" href="$classQgsSimplifyMethod.html" title="This class contains information about how to simplify geometries fetched from a QgsFeatureIterator." alt="" coords="287,302,431,330"/>
+</map>

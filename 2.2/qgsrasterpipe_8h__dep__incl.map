@@ -1,0 +1,30 @@
+<map id="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/core/raster/qgsrasterpipe.h" name="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/core/raster/qgsrasterpipe.h">
+<area shape="rect" id="node3" href="$qgsrasterlayer_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/raster\l/qgsrasterlayer.h" alt="" coords="2169,115,2353,175"/>
+<area shape="rect" id="node60" href="$qgsrasterfilewriter_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/raster\l/qgsrasterfilewriter.h" alt="" coords="984,115,1168,175"/>
+<area shape="rect" id="node63" href="$qgsrasterpipe_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/raster\l/qgsrasterpipe.cpp" alt="" coords="2377,115,2561,175"/>
+<area shape="rect" id="node5" href="$qgsproject_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/qgsproject.cpp" alt="" coords="3417,233,3657,277"/>
+<area shape="rect" id="node7" href="$qgsprojectfiletransform_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/qgsprojectfiletransform.cpp" alt="" coords="3681,233,4004,277"/>
+<area shape="rect" id="node9" href="$qgscomposerlegenditem_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/composer\l/qgscomposerlegenditem.cpp" alt="" coords="4028,225,4239,285"/>
+<area shape="rect" id="node11" href="$qgscomposermap_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/composer\l/qgscomposermap.cpp" alt="" coords="213,225,424,285"/>
+<area shape="rect" id="node13" href="$qgslegendmodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/composer\l/qgslegendmodel.cpp" alt="" coords="448,225,659,285"/>
+<area shape="rect" id="node15" href="$qgsrasterchecker_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/raster\l/qgsrasterchecker.cpp" alt="" coords="683,225,867,285"/>
+<area shape="rect" id="node17" href="$qgsrasterfilewriter_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/raster\l/qgsrasterfilewriter.cpp" alt="" coords="5,225,189,285"/>
+<area shape="rect" id="node19" href="$qgsrasterlayer_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/raster\l/qgsrasterlayer.cpp" alt="" coords="749,334,933,394"/>
+<area shape="rect" id="node21" href="$qgsrasterrendererregistry_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/raster\l/qgsrasterrendererregistry.h" alt="" coords="941,225,1141,285"/>
+<area shape="rect" id="node28" href="$qgsmaptoolidentify_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsmaptoolidentify.cpp" alt="" coords="1165,233,1451,277"/>
+<area shape="rect" id="node30" href="$qgsrasterformatsaveoptionswidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsrasterformatsaveoptionswidget.cpp" alt="" coords="1475,233,1861,277"/>
+<area shape="rect" id="node32" href="$qgsrasterlayersaveasdialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsrasterlayersaveasdialog.cpp" alt="" coords="1885,233,2224,277"/>
+<area shape="rect" id="node34" href="$qgsrasterminmaxwidget_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/raster\l/qgsrasterminmaxwidget.h" alt="" coords="2349,225,2541,285"/>
+<area shape="rect" id="node38" href="$qgsmultibandcolorrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/raster\l/qgsmultibandcolorrendererwidget.cpp" alt="" coords="1585,443,1852,503"/>
+<area shape="rect" id="node40" href="$qgsrasterminmaxwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/raster\l/qgsrasterminmaxwidget.cpp" alt="" coords="1512,334,1717,394"/>
+<area shape="rect" id="node44" href="$qgssinglebandgrayrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/raster\l/qgssinglebandgrayrendererwidget.cpp" alt="" coords="2064,443,2333,503"/>
+<area shape="rect" id="node48" href="$qgssinglebandpseudocolorrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/raster\l/qgssinglebandpseudocolorrendererwidget.cpp" alt="" coords="2469,443,2787,503"/>
+<area shape="rect" id="node51" href="$qgspalettedrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/raster\l/qgspalettedrendererwidget.cpp" alt="" coords="2695,225,2919,285"/>
+<area shape="rect" id="node54" href="$qgsrasterrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/raster\l/qgsrasterrendererwidget.cpp" alt="" coords="2943,225,3153,285"/>
+<area shape="rect" id="node58" href="$qgsrastercalculator_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/analysis\l/raster/qgsrastercalculator.cpp" alt="" coords="3177,225,3393,285"/>
+<area shape="rect" id="node24" href="$qgsrasterrendererregistry_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/core/raster\l/qgsrasterrendererregistry.cpp" alt="" coords="957,334,1171,394"/>
+<area shape="rect" id="node26" href="$qgsrasterhistogramwidget_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/raster\l/qgsrasterhistogramwidget.cpp" alt="" coords="1195,334,1413,394"/>
+<area shape="rect" id="node36" href="$qgsmultibandcolorrendererwidget_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/raster\l/qgsmultibandcolorrendererwidget.h" alt="" coords="1741,334,1992,394"/>
+<area shape="rect" id="node42" href="$qgssinglebandgrayrendererwidget_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/raster\l/qgssinglebandgrayrendererwidget.h" alt="" coords="2016,334,2269,394"/>
+<area shape="rect" id="node46" href="$qgssinglebandpseudocolorrendererwidget_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/raster\l/qgssinglebandpseudocolorrendererwidget.h" alt="" coords="2293,334,2597,394"/>
+</map>

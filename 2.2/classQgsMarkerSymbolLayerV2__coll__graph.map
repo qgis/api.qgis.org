@@ -1,0 +1,8 @@
+<map id="QgsMarkerSymbolLayerV2" name="QgsMarkerSymbolLayerV2">
+<area shape="rect" id="node2" href="$classQgsSymbolLayerV2.html" title="QgsSymbolLayerV2" alt="" coords="5,302,152,330"/>
+<area shape="rect" id="node4" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;)." alt="" coords="176,302,291,330"/>
+<area shape="rect" id="node6" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="59,209,192,237"/>
+<area shape="rect" id="node8" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="36,115,215,143"/>
+<area shape="rect" id="node10" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="11,6,240,34"/>
+<area shape="rect" id="node12" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="216,209,373,237"/>
+</map>

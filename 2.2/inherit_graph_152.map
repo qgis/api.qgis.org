@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsIFeatureSelectionManager.html" title="Is an interface class to abstract feature selection handling." alt="" coords="5,42,219,70"/>
+<area shape="rect" id="node3" href="$classQgsGenericFeatureSelectionManager.html" title="This selection manager synchronizes a local set of selected features with an attribute table..." alt="" coords="285,5,488,49"/>
+<area shape="rect" id="node5" href="$classQgsVectorLayerSelectionManager.html" title="QgsVectorLayerSelectionManager" alt="" coords="268,71,505,99"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/gui/qgsmapcanvasitem.h" name="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/gui/qgsmapcanvasitem.h">
+<area shape="rect" id="node3" href="$qgsannotationitem_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsannotationitem.h" alt="" coords="815,99,1084,143"/>
+<area shape="rect" id="node23" href="$qgshighlight_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgshighlight.h" alt="" coords="2056,99,2283,143"/>
+<area shape="rect" id="node31" href="$qgsrubberband_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsrubberband.h" alt="" coords="2560,99,2805,143"/>
+<area shape="rect" id="node39" href="$qgsmapcanvasitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsmapcanvasitem.cpp" alt="" coords="2829,99,3120,143"/>
+<area shape="rect" id="node41" href="$qgsvertexmarker_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsvertexmarker.h" alt="" coords="3287,99,3545,143"/>
+<area shape="rect" id="node5" href="$qgsannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsannotationitem.cpp" alt="" coords="5,193,291,237"/>
+<area shape="rect" id="node7" href="$qgsformannotationitem_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsformannotationitem.h" alt="" coords="315,193,616,237"/>
+<area shape="rect" id="node11" href="$qgshtmlannotationitem_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgshtmlannotationitem.h" alt="" coords="640,193,939,237"/>
+<area shape="rect" id="node15" href="$qgssvgannotationitem_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgssvgannotationitem.h" alt="" coords="963,193,1256,237"/>
+<area shape="rect" id="node19" href="$qgstextannotationitem_8h.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgstextannotationitem.h" alt="" coords="1280,193,1576,237"/>
+<area shape="rect" id="node9" href="$qgsformannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsformannotationitem.cpp" alt="" coords="285,286,600,330"/>
+<area shape="rect" id="node13" href="$qgshtmlannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgshtmlannotationitem.cpp" alt="" coords="624,286,939,330"/>
+<area shape="rect" id="node17" href="$qgssvgannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgssvgannotationitem.cpp" alt="" coords="963,286,1269,330"/>
+<area shape="rect" id="node21" href="$qgstextannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgstextannotationitem.cpp" alt="" coords="1293,286,1603,330"/>
+<area shape="rect" id="node25" href="$qgsattributedialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsattributedialog.cpp" alt="" coords="1600,193,1880,237"/>
+<area shape="rect" id="node27" href="$qgshighlight_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgshighlight.cpp" alt="" coords="1904,193,2147,237"/>
+<area shape="rect" id="node29" href="$qgsmaptoolidentify_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsmaptoolidentify.cpp" alt="" coords="2171,193,2456,237"/>
+<area shape="rect" id="node33" href="$qgsmapcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsmapcanvas.cpp" alt="" coords="2480,193,2741,237"/>
+<area shape="rect" id="node35" href="$qgsmaptoolzoom_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsmaptoolzoom.cpp" alt="" coords="2765,193,3043,237"/>
+<area shape="rect" id="node37" href="$qgsrubberband_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsrubberband.cpp" alt="" coords="3067,193,3328,237"/>
+<area shape="rect" id="node43" href="$qgsvertexmarker_8cpp.html" title="/tmp/buildd/qgis&#45;2.2.0\l+wheezy1/src/gui/qgsvertexmarker.cpp" alt="" coords="3352,193,3624,237"/>
+</map>

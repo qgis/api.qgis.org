@@ -1,0 +1,4 @@
+<map id="QgsRasterDataProvider" name="QgsRasterDataProvider">
+<area shape="rect" id="node2" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations." alt="" coords="5,6,136,34"/>
+<area shape="rect" id="node4" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc." alt="" coords="160,6,304,34"/>
+</map>

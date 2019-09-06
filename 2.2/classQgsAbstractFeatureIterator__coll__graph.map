@@ -1,0 +1,11 @@
+<map id="QgsAbstractFeatureIterator" name="QgsAbstractFeatureIterator">
+<area shape="rect" id="node2" href="$classQgsAbstractGeometrySimplifier.html" title="Abstract base class for simplify geometries using a specific algorithm." alt="" coords="5,395,229,423"/>
+<area shape="rect" id="node4" href="$classQgsFeatureRequest.html" title="This class wraps a request for features to a vector layer (or directly its vector data provider)..." alt="" coords="253,395,400,423"/>
+<area shape="rect" id="node6" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="136,302,245,330"/>
+<area shape="rect" id="node8" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;)." alt="" coords="269,302,384,330"/>
+<area shape="rect" id="node10" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="175,209,308,237"/>
+<area shape="rect" id="node12" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="152,115,331,143"/>
+<area shape="rect" id="node14" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="127,6,356,34"/>
+<area shape="rect" id="node16" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="332,209,489,237"/>
+<area shape="rect" id="node18" href="$classQgsSimplifyMethod.html" title="This class contains information about how to simplify geometries fetched from a QgsFeatureIterator." alt="" coords="408,302,552,330"/>
+</map>

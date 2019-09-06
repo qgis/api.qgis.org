@@ -1,0 +1,7 @@
+<map id="QgsRasterIterator::RasterPartInfo" name="QgsRasterIterator::RasterPartInfo">
+<area shape="rect" id="node2" href="$classQgsRasterProjector.html" title="QgsRasterProjector" alt="" coords="288,131,432,159"/>
+<area shape="rect" id="node4" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc." alt="" coords="5,6,149,34"/>
+<area shape="rect" id="node7" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="247,6,356,34"/>
+<area shape="rect" id="node9" href="$classQgsPoint.html" title="A class to represent a point geometry." alt="" coords="380,6,457,34"/>
+<area shape="rect" id="node11" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="481,6,711,34"/>
+</map>

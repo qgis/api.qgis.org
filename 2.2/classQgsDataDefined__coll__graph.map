@@ -1,0 +1,7 @@
+<map id="QgsDataDefined" name="QgsDataDefined">
+<area shape="rect" id="node2" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;)." alt="" coords="189,302,304,330"/>
+<area shape="rect" id="node4" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="53,209,187,237"/>
+<area shape="rect" id="node6" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="31,115,209,143"/>
+<area shape="rect" id="node8" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="5,6,235,34"/>
+<area shape="rect" id="node10" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="211,209,368,237"/>
+</map>

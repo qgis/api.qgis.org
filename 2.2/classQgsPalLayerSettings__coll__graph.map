@@ -1,0 +1,12 @@
+<map id="QgsPalLayerSettings" name="QgsPalLayerSettings">
+<area shape="rect" id="node2" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="375,26,553,54"/>
+<area shape="rect" id="node18" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="736,93,869,121"/>
+<area shape="rect" id="node4" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="5,26,235,54"/>
+<area shape="rect" id="node6" href="$classQgsPoint.html" title="A class to represent a point geometry." alt="" coords="1033,97,1111,125"/>
+<area shape="rect" id="node8" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="1015,147,1129,175"/>
+<area shape="rect" id="node10" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="1025,262,1119,290"/>
+<area shape="rect" id="node12" href="$classQgsGeometry.html" title="QgsGeometry" alt="" coords="748,225,857,253"/>
+<area shape="rect" id="node14" href="$classQgsFields.html" title="Container of fields for a vector layer." alt="" coords="761,295,844,323"/>
+<area shape="rect" id="node16" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;)." alt="" coords="1015,42,1129,70"/>
+<area shape="rect" id="node21" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="724,42,881,70"/>
+</map>

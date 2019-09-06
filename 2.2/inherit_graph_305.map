@@ -1,0 +1,20 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsSymbolLayerV2.html" title="QgsSymbolLayerV2" alt="" coords="5,233,152,261"/>
+<area shape="rect" id="node3" href="$classQgsFillSymbolLayerV2.html" title="QgsFillSymbolLayerV2" alt="" coords="215,106,377,134"/>
+<area shape="rect" id="node19" href="$classQgsLineSymbolLayerV2.html" title="QgsLineSymbolLayerV2" alt="" coords="209,233,383,261"/>
+<area shape="rect" id="node25" href="$classQgsMarkerSymbolLayerV2.html" title="QgsMarkerSymbolLayerV2" alt="" coords="201,385,391,413"/>
+<area shape="rect" id="node5" href="$classQgsCentroidFillSymbolLayerV2.html" title="QgsCentroidFillSymbolLayerV2" alt="" coords="449,5,665,33"/>
+<area shape="rect" id="node7" href="$classQgsGradientFillSymbolLayerV2.html" title="QgsGradientFillSymbolLayerV2" alt="" coords="449,55,665,83"/>
+<area shape="rect" id="node9" href="$classQgsImageFillSymbolLayer.html" title="Base class for polygon renderers generating texture images." alt="" coords="465,106,649,134"/>
+<area shape="rect" id="node17" href="$classQgsSimpleFillSymbolLayerV2.html" title="QgsSimpleFillSymbolLayerV2" alt="" coords="455,157,660,185"/>
+<area shape="rect" id="node11" href="$classQgsLinePatternFillSymbolLayer.html" title="QgsLinePatternFillSymbol\lLayer" alt="" coords="727,31,908,75"/>
+<area shape="rect" id="node13" href="$classQgsPointPatternFillSymbolLayer.html" title="QgsPointPatternFillSymbol\lLayer" alt="" coords="724,98,911,142"/>
+<area shape="rect" id="node15" href="$classQgsSVGFillSymbolLayer.html" title="A class for svg fill patterns." alt="" coords="731,165,904,193"/>
+<area shape="rect" id="node21" href="$classQgsMarkerLineSymbolLayerV2.html" title="QgsMarkerLineSymbolLayerV2" alt="" coords="449,207,665,235"/>
+<area shape="rect" id="node23" href="$classQgsSimpleLineSymbolLayerV2.html" title="QgsSimpleLineSymbolLayerV2" alt="" coords="449,258,665,286"/>
+<area shape="rect" id="node27" href="$classQgsEllipseSymbolLayerV2.html" title="A symbol layer for rendering objects with major and minor axis (e.g." alt="" coords="464,309,651,337"/>
+<area shape="rect" id="node29" href="$classQgsFontMarkerSymbolLayerV2.html" title="QgsFontMarkerSymbolLayerV2" alt="" coords="448,359,667,387"/>
+<area shape="rect" id="node31" href="$classQgsSimpleMarkerSymbolLayerV2.html" title="QgsSimpleMarkerSymbolLayerV2" alt="" coords="440,410,675,438"/>
+<area shape="rect" id="node33" href="$classQgsSvgMarkerSymbolLayerV2.html" title="QgsSvgMarkerSymbolLayerV2" alt="" coords="451,461,664,489"/>
+<area shape="rect" id="node35" href="$classQgsVectorFieldSymbolLayer.html" title="A symbol layer class for displaying displacement arrows based on point layer attributes." alt="" coords="459,511,656,539"/>
+</map>

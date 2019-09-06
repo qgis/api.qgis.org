@@ -1,0 +1,48 @@
+<map id="QgsComposerShape" name="QgsComposerShape">
+<area shape="rect" id="node2" href="$classQgsComposerItem.html" title="A item that forms part of a map composition." alt="" coords="3276,463,3417,491"/>
+<area shape="rect" id="node100" href="$classQgsComposerItemCommand.html" title="Undo command to undo/redo all composer item related changes." alt="" coords="3657,506,3865,534"/>
+<area shape="rect" id="node103" href="$classQgsComposerMap.html" title="Object representing map window." alt="" coords="3692,379,3831,407"/>
+<area shape="rect" id="node4" href="$classQgsComposition.html" title="Graphics scene for map printing." alt="" coords="4071,506,4196,534"/>
+<area shape="rect" id="node6" href="$classQgsComposerMouseHandles.html" title="Handles drawing of selection outlines and mouse handles." alt="" coords="4377,485,4583,513"/>
+<area shape="rect" id="node88" href="$classQgsComposerMultiFrame.html" title="Abstract base class for composer entries with the ability to distribute the content to several frames..." alt="" coords="4389,426,4571,454"/>
+<area shape="rect" id="node112" href="$classQgsAtlasComposition.html" title="Class used to render an Atlas, iterating over geometry features." alt="" coords="4401,770,4559,798"/>
+<area shape="rect" id="node9" href="$classQgsFillSymbolV2.html" title="QgsFillSymbolV2" alt="" coords="3284,579,3409,607"/>
+<area shape="rect" id="node11" href="$classQgsSymbolV2.html" title="QgsSymbolV2" alt="" coords="3024,413,3136,441"/>
+<area shape="rect" id="node109" href="$classQgsLineSymbolV2.html" title="QgsLineSymbolV2" alt="" coords="3277,382,3416,410"/>
+<area shape="rect" id="node13" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets." alt="" coords="2621,698,2744,726"/>
+<area shape="rect" id="node32" href="$classQgsGeometryCache.html" title="QgsGeometryCache" alt="" coords="3005,565,3155,593"/>
+<area shape="rect" id="node45" href="$classQgsVectorLayerEditBuffer.html" title="QgsVectorLayerEditBuffer" alt="" coords="2988,754,3172,782"/>
+<area shape="rect" id="node48" href="$classQgsAttributeAction.html" title="Storage and management of actions associated with Qgis layer attributes." alt="" coords="3009,686,3151,714"/>
+<area shape="rect" id="node15" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="1473,551,1583,579"/>
+<area shape="rect" id="node17" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="1096,443,1205,471"/>
+<area shape="rect" id="node38" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="1457,319,1599,347"/>
+<area shape="rect" id="node59" href="$classQgsFeatureRequest.html" title="This class wraps a request for features to a vector layer (or directly its vector data provider)..." alt="" coords="1455,1019,1601,1047"/>
+<area shape="rect" id="node91" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter." alt="" coords="1863,218,1993,246"/>
+<area shape="rect" id="node19" href="$classQgsError.html" title="QgsError is container for error messages (report)." alt="" coords="1112,622,1189,650"/>
+<area shape="rect" id="node73" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations." alt="" coords="1463,645,1593,673"/>
+<area shape="rect" id="node21" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="5,247,235,275"/>
+<area shape="rect" id="node25" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="375,639,553,667"/>
+<area shape="rect" id="node23" href="$classQgsDiagramLayerSettings.html" title="QgsDiagramLayerSettings" alt="" coords="1433,925,1623,953"/>
+<area shape="rect" id="node64" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="736,639,869,667"/>
+<area shape="rect" id="node28" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="1093,497,1208,525"/>
+<area shape="rect" id="node30" href="$classQgsDiagramRendererV2.html" title="Returns diagram settings for a feature." alt="" coords="1063,881,1239,909"/>
+<area shape="rect" id="node36" href="$classQgsFeatureRendererV2.html" title="QgsFeatureRendererV2" alt="" coords="2257,594,2425,622"/>
+<area shape="rect" id="node42" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="1052,85,1249,113"/>
+<area shape="rect" id="node51" href="$classQgsVectorSimplifyMethod.html" title="This class contains information how to simplify geometries fetched from a vector layer." alt="" coords="2248,645,2435,673"/>
+<area shape="rect" id="node53" href="$classQgsFeatureIterator.html" title="Wrapper for iterator of features from vector data provider or vector layer." alt="" coords="2271,1026,2412,1054"/>
+<area shape="rect" id="node55" href="$classQgsAbstractFeatureIterator.html" title="Internal feature iterator to be implemented within data providers." alt="" coords="1831,1026,2025,1054"/>
+<area shape="rect" id="node57" href="$classQgsAbstractGeometrySimplifier.html" title="Abstract base class for simplify geometries using a specific algorithm." alt="" coords="1416,1070,1640,1098"/>
+<area shape="rect" id="node62" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;)." alt="" coords="1093,1070,1208,1098"/>
+<area shape="rect" id="node67" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="724,1070,881,1098"/>
+<area shape="rect" id="node69" href="$classQgsSimplifyMethod.html" title="This class contains information about how to simplify geometries fetched from a QgsFeatureIterator." alt="" coords="1079,1019,1223,1047"/>
+<area shape="rect" id="node71" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers." alt="" coords="2052,657,2223,685"/>
+<area shape="rect" id="node76" href="$classQgsLabel.html" title="A class to render labels." alt="" coords="2301,759,2381,787"/>
+<area shape="rect" id="node78" href="$classQgsLabelAttributes.html" title="A class to store attributes needed for label rendering." alt="" coords="1856,703,2000,731"/>
+<area shape="rect" id="node80" href="$classQgsFields.html" title="Container of fields for a vector layer." alt="" coords="1887,794,1969,822"/>
+<area shape="rect" id="node117" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="2295,1077,2388,1105"/>
+<area shape="rect" id="node84" href="$classQgsVectorLayerJoinBuffer.html" title="Manages joined fields for a vector layer." alt="" coords="2251,975,2432,1003"/>
+<area shape="rect" id="node86" href="$classQgsComposerMultiFrameCommand.html" title="QgsComposerMultiFrameCommand" alt="" coords="4720,511,4971,539"/>
+<area shape="rect" id="node94" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor dpi." alt="" coords="1455,218,1601,246"/>
+<area shape="rect" id="node119" href="$classQgsGeometry.html" title="QgsGeometry" alt="" coords="1873,1077,1983,1105"/>
+<area shape="rect" id="node123" href="$classQgsComposerEffect.html" title="QgsComposerEffect" alt="" coords="3005,463,3155,491"/>
+</map>

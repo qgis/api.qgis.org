@@ -1,0 +1,21 @@
+<map id="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/gui/qgsdatadefinedbutton.h" name="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/gui/qgsdatadefinedbutton.h">
+<area shape="rect" id="node3" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="204,409,287,437"/>
+<area shape="rect" id="node11" href="$qgsdatadefined_8h.html" title="qgsdatadefined.h" alt="" coords="991,99,1124,127"/>
+<area shape="rect" id="node14" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1747,177,1872,205"/>
+<area shape="rect" id="node24" href="$qgis_8h.html" title="qgis.h" alt="" coords="316,795,375,823"/>
+<area shape="rect" id="node42" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1053,409,1168,437"/>
+<area shape="rect" id="node86" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1632,563,1733,591"/>
+<area shape="rect" id="node97" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="1821,409,1971,437"/>
+<area shape="rect" id="node109" href="$qgseditorwidgetconfig_8h.html" title="qgseditorwidgetconfig.h" alt="" coords="2200,563,2373,591"/>
+<area shape="rect" id="node115" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="1200,254,1307,282"/>
+<area shape="rect" id="node127" href="$qgsrelation_8h.html" title="qgsrelation.h" alt="" coords="1872,331,1976,359"/>
+<area shape="rect" id="node135" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="2325,254,2520,282"/>
+<area shape="rect" id="node58" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="1496,563,1581,591"/>
+<area shape="rect" id="node62" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="933,641,1051,669"/>
+<area shape="rect" id="node72" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="597,486,736,514"/>
+<area shape="rect" id="node68" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="729,718,817,746"/>
+<area shape="rect" id="node83" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="383,563,529,591"/>
+<area shape="rect" id="node99" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="1821,486,1973,514"/>
+<area shape="rect" id="node106" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1936,795,2032,823"/>
+<area shape="rect" id="node118" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="608,331,725,359"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="QgsRasterInterface" name="QgsRasterInterface">
+<area shape="rect" id="node3" href="$classQgsBrightnessContrastFilter.html" title="Brightness/contrast filter pipe for rasters." alt="" coords="197,5,397,33"/>
+<area shape="rect" id="node5" href="$classQgsHueSaturationFilter.html" title="Color and saturation filter pipe for rasters." alt="" coords="212,55,383,83"/>
+<area shape="rect" id="node7" href="$classQgsRasterDataProvider.html" title="Base class for raster data providers." alt="" coords="212,106,383,134"/>
+<area shape="rect" id="node9" href="$classQgsRasterNuller.html" title="Raster pipe that deals with null values." alt="" coords="235,157,360,185"/>
+<area shape="rect" id="node11" href="$classQgsRasterProjector.html" title="QgsRasterProjector" alt="" coords="225,207,369,235"/>
+<area shape="rect" id="node13" href="$classQgsRasterRenderer.html" title="Raster renderer pipe that applies colors to a raster." alt="" coords="225,258,369,286"/>
+<area shape="rect" id="node25" href="$classQgsRasterResampleFilter.html" title="Resample filter pipe for rasters." alt="" coords="208,309,387,337"/>
+<area shape="rect" id="node15" href="$classQgsMultiBandColorRenderer.html" title="Renderer for multiband images with the color components." alt="" coords="465,157,665,185"/>
+<area shape="rect" id="node17" href="$classQgsPalettedRasterRenderer.html" title="Renderer for paletted raster images." alt="" coords="467,207,664,235"/>
+<area shape="rect" id="node19" href="$classQgsSingleBandColorDataRenderer.html" title="Raster renderer pipe for single band color." alt="" coords="445,258,685,286"/>
+<area shape="rect" id="node21" href="$classQgsSingleBandGrayRenderer.html" title="Raster renderer pipe for single band gray." alt="" coords="463,309,668,337"/>
+<area shape="rect" id="node23" href="$classQgsSingleBandPseudoColorRenderer.html" title="Raster renderer pipe for single band pseudocolor." alt="" coords="467,359,664,403"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QgsAbstractFeatureIterator" name="QgsAbstractFeatureIterator">
+<area shape="rect" id="node3" href="$classQgsCachedFeatureIterator.html" title="Delivers features from the cache." alt="" coords="269,5,459,33"/>
+<area shape="rect" id="node5" href="$classQgsCachedFeatureWriterIterator.html" title="Uses another iterator as backend and writes features to the cache." alt="" coords="251,55,477,83"/>
+<area shape="rect" id="node7" href="$classQgsVectorLayerFeatureIterator.html" title="QgsVectorLayerFeatureIterator" alt="" coords="255,106,473,134"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/core/composer/qgsticksscalebarstyle.cpp" name="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/core/composer/qgsticksscalebarstyle.cpp">
+<area shape="rect" id="node3" href="$qgsticksscalebarstyle_8h.html" title="qgsticksscalebarstyle.h" alt="" coords="51,115,221,143"/>
+<area shape="rect" id="node11" href="$qgscomposerscalebar_8h.html" title="qgscomposerscalebar.h" alt="" coords="261,115,435,143"/>
+<area shape="rect" id="node5" href="$qgsscalebarstyle_8h.html" title="qgsscalebarstyle.h" alt="" coords="33,193,175,221"/>
+<area shape="rect" id="node13" href="$qgscomposeritem_8h.html" title="qgscomposeritem.h" alt="" coords="688,193,837,221"/>
+<area shape="rect" id="node15" href="$qgscomposeritemcommand_8h.html" title="qgscomposeritemcommand.h" alt="" coords="249,270,463,298"/>
+<area shape="rect" id="node21" href="$qgscomposereffect_8h.html" title="qgscomposereffect.h" alt="" coords="1293,270,1451,298"/>
+<area shape="rect" id="node27" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="776,270,915,298"/>
+<area shape="rect" id="node39" href="$qgis_8h.html" title="qgis.h" alt="" coords="563,657,621,685"/>
+<area shape="rect" id="node59" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="483,502,600,530"/>
+<area shape="rect" id="node72" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="772,347,919,375"/>
+<area shape="rect" id="node100" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1116,579,1217,607"/>
+<area shape="rect" id="node64" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="684,579,772,607"/>
+<area shape="rect" id="node76" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="752,425,939,453"/>
+<area shape="rect" id="node95" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="963,425,1091,453"/>
+<area shape="rect" id="node82" href="$qgscsexception_8h.html" title="qgscsexception.h" alt="" coords="624,502,757,530"/>
+<area shape="rect" id="node84" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="860,579,1092,607"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/core/qgsvectorfilewriter.h" name="/tmp/buildd/qgis&#45;2.2.0+wheezy1/src/core/qgsvectorfilewriter.h">
+<area shape="rect" id="node3" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1351,99,1476,127"/>
+<area shape="rect" id="node104" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="1039,563,1121,591"/>
+<area shape="rect" id="node143" href="$qgssymbolv2_8h.html" title="qgssymbolv2.h" alt="" coords="1923,486,2040,514"/>
+<area shape="rect" id="node13" href="$qgis_8h.html" title="qgis.h" alt="" coords="363,718,421,746"/>
+<area shape="rect" id="node33" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="664,331,779,359"/>
+<area shape="rect" id="node78" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1347,486,1448,514"/>
+<area shape="rect" id="node89" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="1564,331,1713,359"/>
+<area shape="rect" id="node113" href="$qgseditorwidgetconfig_8h.html" title="qgseditorwidgetconfig.h" alt="" coords="2115,486,2288,514"/>
+<area shape="rect" id="node119" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="1215,177,1321,205"/>
+<area shape="rect" id="node131" href="$qgsrelation_8h.html" title="qgsrelation.h" alt="" coords="1475,254,1579,282"/>
+<area shape="rect" id="node139" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="1653,177,1848,205"/>
+<area shape="rect" id="node49" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="1661,486,1747,514"/>
+<area shape="rect" id="node53" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="611,563,728,591"/>
+<area shape="rect" id="node63" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="832,409,971,437"/>
+<area shape="rect" id="node59" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="283,641,371,669"/>
+<area shape="rect" id="node75" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="597,486,744,514"/>
+<area shape="rect" id="node91" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="1420,409,1572,437"/>
+<area shape="rect" id="node110" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="2208,718,2304,746"/>
+<area shape="rect" id="node97" href="$qgsexpression_8h.html" title="qgsexpression.h" alt="" coords="1197,486,1323,514"/>
+<area shape="rect" id="node122" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="813,254,931,282"/>
+</map>
