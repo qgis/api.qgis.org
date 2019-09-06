@@ -1,0 +1,5 @@
+<map id="_nmeaINFO" name="_nmeaINFO">
+<area shape="rect" id="node2" href="$struct__nmeaSATINFO.html" title="Information about all satellites in view." alt="" coords="11,99,131,127"/>
+<area shape="rect" id="node4" href="$struct__nmeaSATELLITE.html" title="Information about satellite." alt="" coords="5,6,136,34"/>
+<area shape="rect" id="node6" href="$struct__nmeaTIME.html" title="Date and time data." alt="" coords="155,99,248,127"/>
+</map>

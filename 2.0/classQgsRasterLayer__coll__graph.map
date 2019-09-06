@@ -1,0 +1,12 @@
+<map id="QgsRasterLayer" name="QgsRasterLayer">
+<area shape="rect" id="node2" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="623,77,732,105"/>
+<area shape="rect" id="node4" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="244,241,353,269"/>
+<area shape="rect" id="node10" href="$structQgsRasterViewPort.html" title="This class provides details of the viewable area that a raster will be rendered into." alt="" coords="607,194,748,222"/>
+<area shape="rect" id="node18" href="$classQgsRasterDataProvider.html" title="Base class for raster data providers." alt="" coords="592,322,763,350"/>
+<area shape="rect" id="node6" href="$classQgsError.html" title="QgsError is container for error messages (report)." alt="" coords="7,94,84,122"/>
+<area shape="rect" id="node20" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations." alt="" coords="233,382,364,410"/>
+<area shape="rect" id="node8" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="184,66,413,94"/>
+<area shape="rect" id="node13" href="$classQgsPoint.html" title="A class to represent a point geometry." alt="" coords="260,190,337,218"/>
+<area shape="rect" id="node16" href="$classQgsRasterPipe.html" title="Base class for processing modules." alt="" coords="620,245,735,273"/>
+<area shape="rect" id="node23" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc." alt="" coords="227,331,371,359"/>
+</map>

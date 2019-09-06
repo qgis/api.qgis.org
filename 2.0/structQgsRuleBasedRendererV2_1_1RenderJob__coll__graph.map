@@ -1,0 +1,7 @@
+<map id="QgsRuleBasedRendererV2::RenderJob" name="QgsRuleBasedRendererV2::RenderJob">
+<area shape="rect" id="node2" href="$classQgsSymbolV2.html" title="QgsSymbolV2" alt="" coords="5,201,117,229"/>
+<area shape="rect" id="node4" href="$structQgsRuleBasedRendererV2_1_1FeatureToRender.html" title="QgsRuleBasedRendererV2\l::FeatureToRender" alt="" coords="141,193,328,237"/>
+<area shape="rect" id="node6" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="188,99,281,127"/>
+<area shape="rect" id="node8" href="$classQgsGeometry.html" title="A geometry is the spatial representation of a feature." alt="" coords="120,6,229,34"/>
+<area shape="rect" id="node10" href="$classQgsFields.html" title="Container of fields for a vector layer." alt="" coords="253,6,336,34"/>
+</map>

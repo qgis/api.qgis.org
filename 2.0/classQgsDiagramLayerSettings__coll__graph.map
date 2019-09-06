@@ -1,0 +1,6 @@
+<map id="QgsDiagramLayerSettings" name="QgsDiagramLayerSettings">
+<area shape="rect" id="node2" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="31,115,209,143"/>
+<area shape="rect" id="node4" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="5,6,235,34"/>
+<area shape="rect" id="node6" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="233,115,348,143"/>
+<area shape="rect" id="node8" href="$classQgsDiagramRendererV2.html" title="Returns diagram settings for a feature." alt="" coords="372,115,548,143"/>
+</map>

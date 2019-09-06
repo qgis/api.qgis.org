@@ -1,0 +1,17 @@
+<map id="/tmp/buildd/qgis&#45;2.0.1/src/core/composer/qgscomposershape.cpp" name="/tmp/buildd/qgis&#45;2.0.1/src/core/composer/qgscomposershape.cpp">
+<area shape="rect" id="node3" href="$qgscomposershape_8h.html" title="qgscomposershape.h" alt="" coords="963,99,1123,127"/>
+<area shape="rect" id="node5" href="$qgscomposeritem_8h.html" title="qgscomposeritem.h" alt="" coords="1119,177,1268,205"/>
+<area shape="rect" id="node7" href="$qgscomposeritemcommand_8h.html" title="qgscomposeritemcommand.h" alt="" coords="1296,254,1509,282"/>
+<area shape="rect" id="node13" href="$qgscomposereffect_8h.html" title="qgscomposereffect.h" alt="" coords="1115,254,1272,282"/>
+<area shape="rect" id="node19" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="379,254,517,282"/>
+<area shape="rect" id="node31" href="$qgis_8h.html" title="qgis.h" alt="" coords="525,641,584,669"/>
+<area shape="rect" id="node51" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="621,486,739,514"/>
+<area shape="rect" id="node64" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="607,331,753,359"/>
+<area shape="rect" id="node99" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="253,563,355,591"/>
+<area shape="rect" id="node56" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="912,563,1000,591"/>
+<area shape="rect" id="node68" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="756,409,943,437"/>
+<area shape="rect" id="node92" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="988,409,1116,437"/>
+<area shape="rect" id="node74" href="$qgscsexception_8h.html" title="qgscsexception.h" alt="" coords="763,486,896,514"/>
+<area shape="rect" id="node79" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="429,563,661,591"/>
+<area shape="rect" id="node76" href="$qgsexception_8h.html" title="qgsexception.h" alt="" coords="771,563,888,591"/>
+</map>

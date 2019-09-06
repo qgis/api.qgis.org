@@ -1,0 +1,19 @@
+<map id="QgsPalLabeling" name="QgsPalLabeling">
+<area shape="rect" id="node2" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="375,73,572,101"/>
+<area shape="rect" id="node4" href="$classQgsMapRenderer.html" title="A non GUI class for rendering a map layer set onto a QPainter." alt="" coords="1067,174,1197,202"/>
+<area shape="rect" id="node11" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="751,174,892,202"/>
+<area shape="rect" id="node6" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="419,219,528,247"/>
+<area shape="rect" id="node8" href="$classQgsScaleCalculator.html" title="Calculates scale for a given combination of canvas size, map extent, and monitor dpi." alt="" coords="748,123,895,151"/>
+<area shape="rect" id="node14" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="384,318,563,346"/>
+<area shape="rect" id="node21" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="755,321,888,349"/>
+<area shape="rect" id="node27" href="$classQgsPalLayerSettings.html" title="QgsPalLayerSettings" alt="" coords="1321,473,1473,501"/>
+<area shape="rect" id="node16" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="5,61,235,89"/>
+<area shape="rect" id="node19" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="416,450,531,478"/>
+<area shape="rect" id="node39" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;)." alt="" coords="1075,371,1189,399"/>
+<area shape="rect" id="node25" href="$classQgsLabelSearchTree.html" title="A class to query the labeling structure at a given point (small wraper around pal RTree class)..." alt="" coords="1321,523,1473,551"/>
+<area shape="rect" id="node30" href="$classQgsPoint.html" title="A class to represent a point geometry." alt="" coords="1093,523,1171,551"/>
+<area shape="rect" id="node33" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="1085,638,1179,666"/>
+<area shape="rect" id="node35" href="$classQgsGeometry.html" title="A geometry is the spatial representation of a feature." alt="" coords="767,593,876,621"/>
+<area shape="rect" id="node37" href="$classQgsFields.html" title="Container of fields for a vector layer." alt="" coords="780,681,863,709"/>
+<area shape="rect" id="node42" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="743,371,900,399"/>
+</map>

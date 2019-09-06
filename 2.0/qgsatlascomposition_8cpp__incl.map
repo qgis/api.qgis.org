@@ -1,0 +1,28 @@
+<map id="/tmp/buildd/qgis&#45;2.0.1/src/core/composer/qgsatlascomposition.cpp" name="/tmp/buildd/qgis&#45;2.0.1/src/core/composer/qgsatlascomposition.cpp">
+<area shape="rect" id="node5" href="$qgsatlascomposition_8h.html" title="qgsatlascomposition.h" alt="" coords="1509,177,1675,205"/>
+<area shape="rect" id="node55" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="2332,99,2457,127"/>
+<area shape="rect" id="node91" href="$qgscomposermap_8h.html" title="qgscomposermap.h" alt="" coords="360,99,509,127"/>
+<area shape="rect" id="node105" href="$qgscomposition_8h.html" title="qgscomposition.h" alt="" coords="796,99,929,127"/>
+<area shape="rect" id="node126" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="2573,177,2749,205"/>
+<area shape="rect" id="node142" href="$qgsexpression_8h.html" title="qgsexpression.h" alt="" coords="1753,99,1879,127"/>
+<area shape="rect" id="node154" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="2905,177,3023,205"/>
+<area shape="rect" id="node166" href="$qgscomposerlabel_8h.html" title="qgscomposerlabel.h" alt="" coords="187,99,336,127"/>
+<area shape="rect" id="node170" href="$qgsmaplayerregistry_8h.html" title="qgsmaplayerregistry.h" alt="" coords="3493,254,3656,282"/>
+<area shape="rect" id="node7" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="1752,254,1939,282"/>
+<area shape="rect" id="node37" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="2680,331,2781,359"/>
+<area shape="rect" id="node11" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1989,409,2077,437"/>
+<area shape="rect" id="node22" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1448,331,1565,359"/>
+<area shape="rect" id="node27" href="$qgscsexception_8h.html" title="qgscsexception.h" alt="" coords="1741,331,1875,359"/>
+<area shape="rect" id="node29" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="2957,331,3189,359"/>
+<area shape="rect" id="node13" href="$qgis_8h.html" title="qgis.h" alt="" coords="1624,486,1683,514"/>
+<area shape="rect" id="node63" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1259,254,1373,282"/>
+<area shape="rect" id="node74" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="2188,177,2337,205"/>
+<area shape="rect" id="node81" href="$qgsfield_8h.html" title="qgsfield.h" alt="" coords="2523,331,2605,359"/>
+<area shape="rect" id="node86" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="2341,254,2448,282"/>
+<area shape="rect" id="node76" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="2165,254,2317,282"/>
+<area shape="rect" id="node93" href="$qgscomposeritem_8h.html" title="qgscomposeritem.h" alt="" coords="187,177,336,205"/>
+<area shape="rect" id="node95" href="$qgscomposeritemcommand_8h.html" title="qgscomposeritemcommand.h" alt="" coords="173,254,387,282"/>
+<area shape="rect" id="node122" href="$qgsaddremoveitemcommand_8h.html" title="qgsaddremoveitemcommand.h" alt="" coords="1109,177,1333,205"/>
+<area shape="rect" id="node133" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="3080,254,3216,282"/>
+<area shape="rect" id="node150" href="$qgsdistancearea_8h.html" title="qgsdistancearea.h" alt="" coords="1851,177,1989,205"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="/tmp/buildd/qgis&#45;2.0.1/src/core/composer/qgsaddremovemultiframecommand.cpp" name="/tmp/buildd/qgis&#45;2.0.1/src/core/composer/qgsaddremovemultiframecommand.cpp">
+<area shape="rect" id="node3" href="$qgsaddremovemultiframecommand_8h.html" title="qgsaddremovemultiframecommand.h" alt="" coords="177,177,441,205"/>
+<area shape="rect" id="node7" href="$qgscomposermultiframe_8h.html" title="qgscomposermultiframe.h" alt="" coords="1040,99,1229,127"/>
+<area shape="rect" id="node13" href="$qgscomposition_8h.html" title="qgscomposition.h" alt="" coords="739,254,872,282"/>
+<area shape="rect" id="node117" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="1619,99,1720,127"/>
+<area shape="rect" id="node15" href="$qgscomposeritem_8h.html" title="qgscomposeritem.h" alt="" coords="517,331,667,359"/>
+<area shape="rect" id="node17" href="$qgscomposeritemcommand_8h.html" title="qgscomposeritemcommand.h" alt="" coords="155,409,368,437"/>
+<area shape="rect" id="node104" href="$qgsaddremoveitemcommand_8h.html" title="qgsaddremoveitemcommand.h" alt="" coords="27,331,251,359"/>
+<area shape="rect" id="node108" href="$qgsatlascomposition_8h.html" title="qgsatlascomposition.h" alt="" coords="893,409,1059,437"/>
+<area shape="rect" id="node22" href="$qgscomposereffect_8h.html" title="qgscomposereffect.h" alt="" coords="611,409,768,437"/>
+<area shape="rect" id="node28" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="1992,409,2131,437"/>
+<area shape="rect" id="node40" href="$qgis_8h.html" title="qgis.h" alt="" coords="2372,795,2431,823"/>
+<area shape="rect" id="node44" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1732,641,1849,669"/>
+<area shape="rect" id="node53" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="2197,486,2344,514"/>
+<area shape="rect" id="node76" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1493,486,1595,514"/>
+<area shape="rect" id="node47" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="2357,718,2445,746"/>
+<area shape="rect" id="node55" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="2072,563,2259,591"/>
+<area shape="rect" id="node71" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="2409,563,2537,591"/>
+<area shape="rect" id="node60" href="$qgscsexception_8h.html" title="qgscsexception.h" alt="" coords="1924,641,2057,669"/>
+<area shape="rect" id="node62" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="2132,641,2364,669"/>
+<area shape="rect" id="node120" href="$qgsprojectversion_8h.html" title="qgsprojectversion.h" alt="" coords="2771,409,2917,437"/>
+<area shape="rect" id="node128" href="$qgssnapper_8h.html" title="qgssnapper.h" alt="" coords="1616,177,1723,205"/>
+<area shape="rect" id="node131" href="$qgstolerance_8h.html" title="qgstolerance.h" alt="" coords="1944,254,2061,282"/>
+<area shape="rect" id="node135" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1897,331,2012,359"/>
+</map>

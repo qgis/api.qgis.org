@@ -1,0 +1,4 @@
+<map id="QgsHillshadeFilter" name="QgsHillshadeFilter">
+<area shape="rect" id="node2" href="$classQgsDerivativeFilter.html" title="Adds the ability to calculate derivatives in x&#45; and y&#45;directions." alt="" coords="5,83,147,111"/>
+<area shape="rect" id="node4" href="$classQgsNineCellFilter.html" title="Base class for raster analysis methods that work with a 3x3 cell filter and calculate the value of ea..." alt="" coords="12,6,140,34"/>
+</map>

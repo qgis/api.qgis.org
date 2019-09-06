@@ -1,0 +1,10 @@
+<map id="QgsRuleBasedRendererV2" name="QgsRuleBasedRendererV2">
+<area shape="rect" id="node2" href="$classQgsFeatureRendererV2.html" title="QgsFeatureRendererV2" alt="" coords="5,403,173,431"/>
+<area shape="rect" id="node4" href="$classQgsRuleBasedRendererV2_1_1Rule.html" title="This class keeps data about a rules for rule&#45;based renderer." alt="" coords="197,395,384,439"/>
+<area shape="rect" id="node6" href="$classQgsSymbolV2.html" title="QgsSymbolV2" alt="" coords="176,302,288,330"/>
+<area shape="rect" id="node9" href="$classQgsExpression.html" title="Class for parsing and evaluation of expressions (formerly called &quot;search strings&quot;)." alt="" coords="312,302,427,330"/>
+<area shape="rect" id="node11" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="195,209,328,237"/>
+<area shape="rect" id="node13" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="172,115,351,143"/>
+<area shape="rect" id="node15" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="147,6,376,34"/>
+<area shape="rect" id="node17" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="352,209,509,237"/>
+</map>

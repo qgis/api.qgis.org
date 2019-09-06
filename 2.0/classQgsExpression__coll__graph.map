@@ -1,0 +1,6 @@
+<map id="QgsExpression" name="QgsExpression">
+<area shape="rect" id="node2" href="$classQgsDistanceArea.html" title="General purpose distance and area calculator." alt="" coords="53,209,187,237"/>
+<area shape="rect" id="node4" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="31,115,209,143"/>
+<area shape="rect" id="node6" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="5,6,235,34"/>
+<area shape="rect" id="node8" href="$classQgsExpression_1_1Node.html" title="QgsExpression::Node" alt="" coords="211,209,368,237"/>
+</map>

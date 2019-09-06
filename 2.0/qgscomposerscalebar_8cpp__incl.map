@@ -1,0 +1,24 @@
+<map id="/tmp/buildd/qgis&#45;2.0.1/src/core/composer/qgscomposerscalebar.cpp" name="/tmp/buildd/qgis&#45;2.0.1/src/core/composer/qgscomposerscalebar.cpp">
+<area shape="rect" id="node3" href="$qgscomposerscalebar_8h.html" title="qgscomposerscalebar.h" alt="" coords="209,99,383,127"/>
+<area shape="rect" id="node11" href="$qgsmaprenderer_8h.html" title="qgsmaprenderer.h" alt="" coords="573,254,712,282"/>
+<area shape="rect" id="node27" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="455,486,572,514"/>
+<area shape="rect" id="node63" href="$qgscomposermap_8h.html" title="qgscomposermap.h" alt="" coords="407,99,556,127"/>
+<area shape="rect" id="node69" href="$qgscomposition_8h.html" title="qgscomposition.h" alt="" coords="1221,99,1355,127"/>
+<area shape="rect" id="node99" href="$qgsdistancearea_8h.html" title="qgsdistancearea.h" alt="" coords="944,331,1083,359"/>
+<area shape="rect" id="node103" href="$qgsscalebarstyle_8h.html" title="qgsscalebarstyle.h" alt="" coords="2431,177,2572,205"/>
+<area shape="rect" id="node109" href="$qgsdoubleboxscalebarstyle_8h.html" title="qgsdoubleboxscalebarstyle.h" alt="" coords="2539,99,2744,127"/>
+<area shape="rect" id="node113" href="$qgsnumericscalebarstyle_8h.html" title="qgsnumericscalebarstyle.h" alt="" coords="2768,99,2960,127"/>
+<area shape="rect" id="node116" href="$qgssingleboxscalebarstyle_8h.html" title="qgssingleboxscalebarstyle.h" alt="" coords="2069,99,2269,127"/>
+<area shape="rect" id="node119" href="$qgsticksscalebarstyle_8h.html" title="qgsticksscalebarstyle.h" alt="" coords="2293,99,2464,127"/>
+<area shape="rect" id="node123" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="1968,177,2069,205"/>
+<area shape="rect" id="node5" href="$qgscomposeritem_8h.html" title="qgscomposeritem.h" alt="" coords="509,177,659,205"/>
+<area shape="rect" id="node7" href="$qgscomposeritemcommand_8h.html" title="qgscomposeritemcommand.h" alt="" coords="837,254,1051,282"/>
+<area shape="rect" id="node23" href="$qgis_8h.html" title="qgis.h" alt="" coords="580,641,639,669"/>
+<area shape="rect" id="node35" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="344,331,491,359"/>
+<area shape="rect" id="node46" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1208,331,1309,359"/>
+<area shape="rect" id="node32" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="647,563,735,591"/>
+<area shape="rect" id="node39" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="647,409,833,437"/>
+<area shape="rect" id="node88" href="$qgsaddremoveitemcommand_8h.html" title="qgsaddremoveitemcommand.h" alt="" coords="1619,177,1843,205"/>
+<area shape="rect" id="node91" href="$qgsatlascomposition_8h.html" title="qgsatlascomposition.h" alt="" coords="1205,177,1371,205"/>
+<area shape="rect" id="node126" href="$qgsprojectversion_8h.html" title="qgsprojectversion.h" alt="" coords="1744,254,1891,282"/>
+</map>

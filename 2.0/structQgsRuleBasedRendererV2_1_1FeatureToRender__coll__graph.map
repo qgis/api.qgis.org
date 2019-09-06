@@ -1,0 +1,5 @@
+<map id="QgsRuleBasedRendererV2::FeatureToRender" name="QgsRuleBasedRendererV2::FeatureToRender">
+<area shape="rect" id="node2" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="73,99,167,127"/>
+<area shape="rect" id="node4" href="$classQgsGeometry.html" title="A geometry is the spatial representation of a feature." alt="" coords="5,6,115,34"/>
+<area shape="rect" id="node6" href="$classQgsFields.html" title="Container of fields for a vector layer." alt="" coords="139,6,221,34"/>
+</map>

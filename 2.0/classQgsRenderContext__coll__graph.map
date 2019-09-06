@@ -1,0 +1,7 @@
+<map id="QgsRenderContext" name="QgsRenderContext">
+<area shape="rect" id="node2" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="5,115,115,143"/>
+<area shape="rect" id="node4" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="139,115,317,143"/>
+<area shape="rect" id="node6" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="113,6,343,34"/>
+<area shape="rect" id="node8" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="341,115,539,143"/>
+<area shape="rect" id="node10" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="563,115,677,143"/>
+</map>

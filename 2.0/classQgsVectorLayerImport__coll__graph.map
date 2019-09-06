@@ -1,0 +1,5 @@
+<map id="QgsVectorLayerImport" name="QgsVectorLayerImport">
+<area shape="rect" id="node2" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers." alt="" coords="5,179,176,207"/>
+<area shape="rect" id="node4" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations." alt="" coords="25,99,156,127"/>
+<area shape="rect" id="node6" href="$classQgsError.html" title="QgsError is container for error messages (report)." alt="" coords="52,6,129,34"/>
+</map>

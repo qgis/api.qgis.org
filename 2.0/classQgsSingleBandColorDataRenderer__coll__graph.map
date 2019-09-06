@@ -1,0 +1,5 @@
+<map id="QgsSingleBandColorDataRenderer" name="QgsSingleBandColorDataRenderer">
+<area shape="rect" id="node2" href="$classQgsRasterRenderer.html" title="Raster renderer pipe that applies colors to a raster." alt="" coords="196,99,340,127"/>
+<area shape="rect" id="node4" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc." alt="" coords="5,6,149,34"/>
+<area shape="rect" id="node7" href="$classQgsRasterTransparency.html" title="Defines the list of pixel values to be considered as transparent or semi transparent when rendering r..." alt="" coords="247,6,417,34"/>
+</map>

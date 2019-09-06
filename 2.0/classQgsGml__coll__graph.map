@@ -1,0 +1,6 @@
+<map id="QgsGml" name="QgsGml">
+<area shape="rect" id="node2" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="5,99,115,127"/>
+<area shape="rect" id="node4" href="$classQgsFeature.html" title="The feature class encapsulates a single feature including its id, geometry and a list of field/values..." alt="" coords="147,99,240,127"/>
+<area shape="rect" id="node6" href="$classQgsGeometry.html" title="A geometry is the spatial representation of a feature." alt="" coords="79,6,188,34"/>
+<area shape="rect" id="node8" href="$classQgsFields.html" title="Container of fields for a vector layer." alt="" coords="212,6,295,34"/>
+</map>

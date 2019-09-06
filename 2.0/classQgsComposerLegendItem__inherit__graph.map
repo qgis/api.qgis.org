@@ -1,0 +1,6 @@
+<map id="QgsComposerLegendItem" name="QgsComposerLegendItem">
+<area shape="rect" id="node3" href="$classQgsComposerGroupItem.html" title="QgsComposerGroupItem" alt="" coords="268,5,449,33"/>
+<area shape="rect" id="node5" href="$classQgsComposerLayerItem.html" title="QgsComposerLayerItem" alt="" coords="271,55,447,83"/>
+<area shape="rect" id="node7" href="$classQgsComposerRasterSymbolItem.html" title="QgsComposerRasterSymbolItem" alt="" coords="244,106,473,134"/>
+<area shape="rect" id="node9" href="$classQgsComposerSymbolV2Item.html" title="QgsComposerSymbolV2Item" alt="" coords="256,157,461,185"/>
+</map>

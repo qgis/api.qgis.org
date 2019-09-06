@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsGPSConnection.html" title="Abstract base class for connection to a GPS device." alt="" coords="5,30,152,58"/>
+<area shape="rect" id="node3" href="$classQgsNMEAConnection.html" title="Evaluates NMEA sentences coming from a GPS device." alt="" coords="216,5,373,33"/>
+<area shape="rect" id="node7" href="$classQgsQtLocationConnection.html" title="QgsQtLocationConnection" alt="" coords="201,55,388,83"/>
+<area shape="rect" id="node5" href="$classQgsGpsdConnection.html" title="Evaluates NMEA sentences coming from gpsd." alt="" coords="437,5,589,33"/>
+</map>

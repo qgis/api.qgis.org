@@ -1,0 +1,15 @@
+<map id="QgsMultiBandColorRendererWidget" name="QgsMultiBandColorRendererWidget">
+<area shape="rect" id="node2" href="$classQgsRasterRendererWidget.html" title="QgsRasterRendererWidget" alt="" coords="739,395,925,423"/>
+<area shape="rect" id="node4" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="571,99,680,127"/>
+<area shape="rect" id="node8" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="443,209,552,237"/>
+<area shape="rect" id="node15" href="$structQgsRasterViewPort.html" title="This class provides details of the viewable area that a raster will be rendered into." alt="" coords="184,209,325,237"/>
+<area shape="rect" id="node23" href="$classQgsRasterDataProvider.html" title="Base class for raster data providers." alt="" coords="869,209,1040,237"/>
+<area shape="rect" id="node32" href="$classQgsRasterMinMaxWidget.html" title="QgsRasterMinMaxWidget" alt="" coords="536,395,715,423"/>
+<area shape="rect" id="node6" href="$classQgsRasterLayer.html" title="This class provides qgis with the ability to render raster datasets onto the mapcanvas." alt="" coords="627,302,749,330"/>
+<area shape="rect" id="node11" href="$classQgsError.html" title="QgsError is container for error messages (report)." alt="" coords="544,6,621,34"/>
+<area shape="rect" id="node25" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations." alt="" coords="733,99,864,127"/>
+<area shape="rect" id="node13" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="164,99,393,127"/>
+<area shape="rect" id="node18" href="$classQgsPoint.html" title="A class to represent a point geometry." alt="" coords="5,99,83,127"/>
+<area shape="rect" id="node21" href="$classQgsRasterPipe.html" title="Base class for processing modules." alt="" coords="627,209,741,237"/>
+<area shape="rect" id="node28" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc." alt="" coords="916,99,1060,127"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsRasterRenderer" name="QgsRasterRenderer">
+<area shape="rect" id="node2" href="$classQgsRasterInterface.html" title="Base class for processing filters like renderers, reprojector, resampler etc." alt="" coords="5,6,149,34"/>
+<area shape="rect" id="node5" href="$classQgsRasterTransparency.html" title="Defines the list of pixel values to be considered as transparent or semi transparent when rendering r..." alt="" coords="247,6,417,34"/>
+</map>

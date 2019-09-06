@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="5,55,115,83"/>
+<area shape="rect" id="node3" href="$classQgsPluginLayer.html" title="Base class for plugin layers." alt="" coords="164,5,284,33"/>
+<area shape="rect" id="node5" href="$classQgsRasterLayer.html" title="This class provides qgis with the ability to render raster datasets onto the mapcanvas." alt="" coords="163,55,285,83"/>
+<area shape="rect" id="node7" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets." alt="" coords="163,106,285,134"/>
+</map>

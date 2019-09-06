@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsDiagramRendererV2.html" title="Returns diagram settings for a feature." alt="" coords="5,46,181,74"/>
+<area shape="rect" id="node3" href="$classQgsLinearlyInterpolatedDiagramRenderer.html" title="QgsLinearlyInterpolatedDiagram\lRenderer" alt="" coords="231,5,457,49"/>
+<area shape="rect" id="node5" href="$classQgsSingleCategoryDiagramRenderer.html" title="Renders the diagrams for all features with the same settings." alt="" coords="245,71,443,115"/>
+</map>

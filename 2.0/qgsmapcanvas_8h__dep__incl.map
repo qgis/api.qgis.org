@@ -1,0 +1,25 @@
+<map id="/tmp/buildd/qgis&#45;2.0.1/src/gui/qgsmapcanvas.h" name="/tmp/buildd/qgis&#45;2.0.1/src/gui/qgsmapcanvas.h">
+<area shape="rect" id="node3" href="$qgsannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsannotationitem.cpp" alt="" coords="5,107,224,151"/>
+<area shape="rect" id="node5" href="$qgsattributedialog_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsattributedialog.cpp" alt="" coords="248,107,461,151"/>
+<area shape="rect" id="node7" href="$qgsformannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsformannotationitem.cpp" alt="" coords="485,107,736,151"/>
+<area shape="rect" id="node9" href="$qgshighlight_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgshighlight.cpp" alt="" coords="760,107,936,151"/>
+<area shape="rect" id="node11" href="$qgshtmlannotationitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgshtmlannotationitem.cpp" alt="" coords="960,107,1208,151"/>
+<area shape="rect" id="node13" href="$qgsmapcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsmapcanvas.cpp" alt="" coords="1232,107,1427,151"/>
+<area shape="rect" id="node15" href="$qgsmapcanvasitem_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsmapcanvasitem.cpp" alt="" coords="1451,107,1675,151"/>
+<area shape="rect" id="node17" href="$qgsmapcanvasmap_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsmapcanvasmap.cpp" alt="" coords="1699,107,1923,151"/>
+<area shape="rect" id="node19" href="$qgsmapcanvassnapper_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsmapcanvassnapper.cpp" alt="" coords="1947,107,2192,151"/>
+<area shape="rect" id="node21" href="$qgsmapoverviewcanvas_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsmapoverviewcanvas.cpp" alt="" coords="2216,107,2467,151"/>
+<area shape="rect" id="node23" href="$qgsmaptip_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsmaptip.cpp" alt="" coords="2491,107,2656,151"/>
+<area shape="rect" id="node25" href="$qgsmaptool_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsmaptool.cpp" alt="" coords="2680,107,2853,151"/>
+<area shape="rect" id="node27" href="$qgsmaptoolemitpoint_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsmaptoolemitpoint.cpp" alt="" coords="2877,107,3112,151"/>
+<area shape="rect" id="node29" href="$qgsmaptoolidentify_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsmaptoolidentify.cpp" alt="" coords="3136,107,3355,151"/>
+<area shape="rect" id="node31" href="$qgsmaptoolpan_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsmaptoolpan.cpp" alt="" coords="3379,107,3576,151"/>
+<area shape="rect" id="node33" href="$qgsmaptooltouch_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsmaptooltouch.cpp" alt="" coords="3600,107,3811,151"/>
+<area shape="rect" id="node35" href="$qgsmaptoolzoom_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsmaptoolzoom.cpp" alt="" coords="3835,107,4045,151"/>
+<area shape="rect" id="node37" href="$qgsrubberband_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/qgsrubberband.cpp" alt="" coords="4069,107,4264,151"/>
+<area shape="rect" id="node39" href="$qgsattributetablefiltermodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/attributetable\l/qgsattributetablefiltermodel.cpp" alt="" coords="4288,99,4517,159"/>
+<area shape="rect" id="node41" href="$qgsattributetablemodel_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/attributetable\l/qgsattributetablemodel.cpp" alt="" coords="4541,99,4744,159"/>
+<area shape="rect" id="node43" href="$qgsattributetableview_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/attributetable\l/qgsattributetableview.cpp" alt="" coords="4768,99,4957,159"/>
+<area shape="rect" id="node45" href="$qgsdualview_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/attributetable\l/qgsdualview.cpp" alt="" coords="4981,99,5141,159"/>
+<area shape="rect" id="node47" href="$qgsfeaturelistview_8cpp.html" title="/tmp/buildd/qgis&#45;2.0.1\l/src/gui/attributetable\l/qgsfeaturelistview.cpp" alt="" coords="5165,99,5331,159"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="QgsCacheIndexFeatureId" name="QgsCacheIndexFeatureId">
+<area shape="rect" id="node2" href="$classQgsAbstractCacheIndex.html" title="Abstract base class for cache indices." alt="" coords="1692,131,1865,159"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayerCache.html" title="This class caches features of a given QgsVectorLayer." alt="" coords="1697,182,1860,210"/>
+<area shape="rect" id="node6" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets." alt="" coords="1435,299,1557,327"/>
+<area shape="rect" id="node25" href="$classQgsGeometryCache.html" title="QgsGeometryCache" alt="" coords="1704,462,1853,490"/>
+<area shape="rect" id="node38" href="$classQgsVectorLayerEditBuffer.html" title="QgsVectorLayerEditBuffer" alt="" coords="1687,346,1871,374"/>
+<area shape="rect" id="node41" href="$classQgsAttributeAction.html" title="Storage and management of actions associated with Qgis layer attributes." alt="" coords="1708,254,1849,282"/>
+<area shape="rect" id="node8" href="$classQgsMapLayer.html" title="Base class for all map layer types." alt="" coords="651,133,760,161"/>
+<area shape="rect" id="node10" href="$classQgsRectangle.html" title="A rectangle specified with double values." alt="" coords="5,493,115,521"/>
+<area shape="rect" id="node31" href="$classQgsRenderContext.html" title="Contains information about the context of a rendering operation." alt="" coords="1047,379,1188,407"/>
+<area shape="rect" id="node48" href="$classQgsFeatureRequest.html" title="This class wraps a request for features to a vector layer (or directly its vector data provider)..." alt="" coords="279,521,425,549"/>
+<area shape="rect" id="node12" href="$classQgsError.html" title="QgsError is container for error messages (report)." alt="" coords="313,91,391,119"/>
+<area shape="rect" id="node53" href="$classQgsDataProvider.html" title="Abstract base class for spatial data provider implementations." alt="" coords="640,73,771,101"/>
+<area shape="rect" id="node14" href="$classQgsCoordinateReferenceSystem.html" title="Class for storing a coordinate reference system (CRS)" alt="" coords="237,243,467,271"/>
+<area shape="rect" id="node18" href="$classQgsCoordinateTransform.html" title="Class for doing transforms between two map coordinate systems." alt="" coords="616,262,795,290"/>
+<area shape="rect" id="node16" href="$classQgsDiagramLayerSettings.html" title="QgsDiagramLayerSettings" alt="" coords="1023,299,1212,327"/>
+<area shape="rect" id="node21" href="$classQgsMapToPixel.html" title="Perform transforms between map coordinates and device coordinates." alt="" coords="648,350,763,378"/>
+<area shape="rect" id="node23" href="$classQgsDiagramRendererV2.html" title="Returns diagram settings for a feature." alt="" coords="617,189,793,217"/>
+<area shape="rect" id="node29" href="$classQgsFeatureRendererV2.html" title="QgsFeatureRendererV2" alt="" coords="1033,249,1201,277"/>
+<area shape="rect" id="node35" href="$classQgsLabelingEngineInterface.html" title="Labeling engine interface." alt="" coords="607,419,804,447"/>
+<area shape="rect" id="node44" href="$classQgsFeatureIterator.html" title="Wrapper for iterator of features from vector data provider or vector layer." alt="" coords="1047,470,1188,498"/>
+<area shape="rect" id="node46" href="$classQgsAbstractFeatureIterator.html" title="Internal feature iterator to be implemented within data providers." alt="" coords="608,521,803,549"/>
+<area shape="rect" id="node51" href="$classQgsVectorDataProvider.html" title="This is the base class for vector data providers." alt="" coords="1032,73,1203,101"/>
+<area shape="rect" id="node56" href="$classQgsLabel.html" title="A class to render labels." alt="" coords="1077,543,1157,571"/>
+<area shape="rect" id="node58" href="$classQgsLabelAttributes.html" title="A class to store attributes needed for label rendering." alt="" coords="633,630,777,658"/>
+<area shape="rect" id="node60" href="$classQgsFields.html" title="Container of fields for a vector layer." alt="" coords="664,575,747,603"/>
+<area shape="rect" id="node64" href="$classQgsVectorLayerJoinBuffer.html" title="Manages joined fields for a vector layer." alt="" coords="1027,22,1208,50"/>
+</map>
