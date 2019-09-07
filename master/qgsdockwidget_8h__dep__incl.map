@@ -1,0 +1,14 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsdockwidget.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsdockwidget.h">
+<area shape="rect" id="node2" href="$qgsadvanceddigitizingdockwidget_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsadvanceddigitizingdockwidget.h" alt="" coords="473,109,756,165"/>
+<area shape="rect" id="node8" href="$qgsbrowserdockwidget_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsbrowserdockwidget.h" alt="" coords="1200,109,1419,165"/>
+<area shape="rect" id="node11" href="$qgsdockwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsdockwidget.cpp" alt="" coords="1443,109,1661,165"/>
+<area shape="rect" id="node12" href="$qgsmessagelogviewer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsmessagelogviewer.cpp" alt="" coords="1686,109,1909,165"/>
+<area shape="rect" id="node13" href="$qgsorganizetablecolumnsdialog_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/attributetable/qgsorganizetablecolumnsdialog.cpp" alt="" coords="1933,109,2310,165"/>
+<area shape="rect" id="node3" href="$qgsadvanceddigitizingcanvasitem_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsadvanceddigitizingcanvasitem.cpp" alt="" coords="5,213,304,269"/>
+<area shape="rect" id="node4" href="$qgsadvanceddigitizingfloater_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsadvanceddigitizingfloater.h" alt="" coords="329,213,578,269"/>
+<area shape="rect" id="node5" href="$qgsadvanceddigitizingdockwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsadvanceddigitizingdockwidget.cpp" alt="" coords="384,317,683,373"/>
+<area shape="rect" id="node6" href="$qgsmaptooladvanceddigitizing_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsmaptooladvanceddigitizing.cpp" alt="" coords="652,213,929,269"/>
+<area shape="rect" id="node7" href="$qgsmaptoolcapture_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsmaptoolcapture.cpp" alt="" coords="953,213,1172,269"/>
+<area shape="rect" id="node9" href="$qgsbrowserdockwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsbrowserdockwidget.cpp" alt="" coords="1196,213,1423,269"/>
+<area shape="rect" id="node10" href="$qgsdatasourcemanagerdialog_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsdatasourcemanagerdialog.cpp" alt="" coords="1447,213,1718,269"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsdatasourceselectdialog.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsdatasourceselectdialog.h">
+<area shape="rect" id="node4" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1501,333,1619,360"/>
+<area shape="rect" id="node26" href="$qgsmimedatautils_8h.html" title="qgsmimedatautils.h" alt="" coords="415,483,567,509"/>
+<area shape="rect" id="node29" href="$qgsbrowserguimodel_8h.html" title="qgsbrowserguimodel.h" alt="" coords="307,109,477,136"/>
+<area shape="rect" id="node32" href="$qgsbrowserproxymodel_8h.html" title="qgsbrowserproxymodel.h" alt="" coords="2360,259,2547,285"/>
+<area shape="rect" id="node14" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1897,632,1983,659"/>
+<area shape="rect" id="node15" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="1185,483,1271,509"/>
+<area shape="rect" id="node16" href="$qgsobjectcustomproperties_8h.html" title="qgsobjectcustomproperties.h" alt="" coords="2155,408,2365,435"/>
+<area shape="rect" id="node17" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="2007,632,2126,659"/>
+<area shape="rect" id="node18" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1586,557,1822,584"/>
+<area shape="rect" id="node19" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="2445,557,2593,584"/>
+<area shape="rect" id="node20" href="$qgsmaplayerdependency_8h.html" title="qgsmaplayerdependency.h" alt="" coords="502,632,698,659"/>
+<area shape="rect" id="node21" href="$qgslayermetadata_8h.html" title="qgslayermetadata.h" alt="" coords="1825,483,1978,509"/>
+<area shape="rect" id="node22" href="$qgsmaplayerstyle_8h.html" title="qgsmaplayerstyle.h" alt="" coords="958,483,1109,509"/>
+<area shape="rect" id="node24" href="$qgsreadwritecontext_8h.html" title="qgsreadwritecontext.h" alt="" coords="1209,408,1377,435"/>
+<area shape="rect" id="node25" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="895,408,1033,435"/>
+<area shape="rect" id="node28" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="447,557,567,584"/>
+<area shape="rect" id="node30" href="$qgsdataitem_8h.html" title="qgsdataitem.h" alt="" coords="495,259,611,285"/>
+<area shape="rect" id="node31" href="$qgsbrowsermodel_8h.html" title="qgsbrowsermodel.h" alt="" coords="275,184,426,211"/>
+</map>

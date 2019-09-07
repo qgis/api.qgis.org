@@ -1,0 +1,11 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/editorwidgets/qgsdummyconfigdlg.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/editorwidgets/qgsdummyconfigdlg.h">
+<area shape="rect" id="node2" href="$qgsbinarywidgetfactory_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsbinarywidgetfactory.cpp" alt="" coords="5,109,328,165"/>
+<area shape="rect" id="node3" href="$qgsclassificationwidgetwrapperfactory_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsclassificationwidgetwrapperfactory.cpp" alt="" coords="352,109,771,165"/>
+<area shape="rect" id="node4" href="$qgscolorwidgetfactory_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgscolorwidgetfactory.cpp" alt="" coords="795,109,1109,165"/>
+<area shape="rect" id="node5" href="$qgsdummyconfigdlg_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsdummyconfigdlg.cpp" alt="" coords="1133,109,1435,165"/>
+<area shape="rect" id="node6" href="$qgsenumerationwidgetfactory_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsenumerationwidgetfactory.cpp" alt="" coords="1459,109,1823,165"/>
+<area shape="rect" id="node7" href="$qgshiddenwidgetfactory_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgshiddenwidgetfactory.cpp" alt="" coords="1848,109,2173,165"/>
+<area shape="rect" id="node8" href="$qgskeyvaluewidgetfactory_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgskeyvaluewidgetfactory.cpp" alt="" coords="2197,109,2539,165"/>
+<area shape="rect" id="node9" href="$qgslistwidgetfactory_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgslistwidgetfactory.cpp" alt="" coords="2563,109,2864,165"/>
+<area shape="rect" id="node10" href="$qgsuuidwidgetfactory_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsuuidwidgetfactory.cpp" alt="" coords="2888,109,3197,165"/>
+</map>
