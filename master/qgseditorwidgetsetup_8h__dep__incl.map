@@ -1,0 +1,11 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgseditorwidgetsetup.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgseditorwidgetsetup.h">
+<area shape="rect" id="node2" href="$qgsfield_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsfield.h" alt="" coords="789,109,1008,165"/>
+<area shape="rect" id="node3" href="$qgsfields_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsfields.h" alt="" coords="5,213,224,269"/>
+<area shape="rect" id="node4" href="$qgsfieldformatter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsfieldformatter.cpp" alt="" coords="79,317,297,373"/>
+<area shape="rect" id="node5" href="$qgsvectorlayercache_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsvectorlayercache.h" alt="" coords="299,213,517,269"/>
+<area shape="rect" id="node6" href="$qgsdatetimefieldformatter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/fieldformatter/qgsdatetimefieldformatter.cpp" alt="" coords="542,213,893,269"/>
+<area shape="rect" id="node7" href="$qgsrangefieldformatter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/fieldformatter/qgsrangefieldformatter.cpp" alt="" coords="917,213,1245,269"/>
+<area shape="rect" id="node8" href="$qgsmeshlayerrenderer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/mesh/qgsmeshlayerrenderer.cpp" alt="" coords="1270,213,1541,269"/>
+<area shape="rect" id="node9" href="$qgspointclusterrendererwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/symbology/qgspointclusterrendererwidget.cpp" alt="" coords="1565,213,1917,269"/>
+<area shape="rect" id="node10" href="$qgsserverfeatureid_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsserverfeatureid.h" alt="" coords="1941,213,2160,269"/>
+</map>

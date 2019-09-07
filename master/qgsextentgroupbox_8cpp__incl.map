@@ -1,0 +1,30 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsextentgroupbox.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsextentgroupbox.cpp">
+<area shape="rect" id="node2" href="$qgsextentgroupbox_8h.html" title="qgsextentgroupbox.h" alt="" coords="535,184,695,211"/>
+<area shape="rect" id="node19" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1407,333,1505,360"/>
+<area shape="rect" id="node20" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="1773,184,1963,211"/>
+<area shape="rect" id="node22" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="1071,109,1203,136"/>
+<area shape="rect" id="node31" href="$qgsmaplayermodel_8h.html" title="qgsmaplayermodel.h" alt="" coords="2749,333,2909,360"/>
+<area shape="rect" id="node34" href="$qgsexception_8h.html" title="qgsexception.h" alt="" coords="3093,109,3214,136"/>
+<area shape="rect" id="node35" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="3114,184,3217,211"/>
+<area shape="rect" id="node3" href="$qgscollapsiblegroupbox_8h.html" title="qgscollapsiblegroupbox.h" alt="" coords="426,333,614,360"/>
+<area shape="rect" id="node4" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1693,408,1779,435"/>
+<area shape="rect" id="node6" href="$qgsmaptool_8h.html" title="qgsmaptool.h" alt="" coords="291,333,402,360"/>
+<area shape="rect" id="node10" href="$qgsmaptoolextent_8h.html" title="qgsmaptoolextent.h" alt="" coords="439,259,593,285"/>
+<area shape="rect" id="node13" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1845,259,2081,285"/>
+<area shape="rect" id="node17" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1529,333,1647,360"/>
+<area shape="rect" id="node16" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="1926,333,2045,360"/>
+<area shape="rect" id="node21" href="$qgscoordinatetransformcontext_8h.html" title="qgscoordinatetransformcontext.h" alt="" coords="2486,333,2725,360"/>
+<area shape="rect" id="node23" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="3514,333,3691,360"/>
+<area shape="rect" id="node25" href="$qgsfeatureid_8h.html" title="qgsfeatureid.h" alt="" coords="1165,333,1281,360"/>
+<area shape="rect" id="node26" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1261,259,1379,285"/>
+<area shape="rect" id="node29" href="$qgsmapsettings_8h.html" title="qgsmapsettings.h" alt="" coords="1988,184,2127,211"/>
+<area shape="rect" id="node30" href="$qgsprevieweffect_8h.html" title="qgsprevieweffect.h" alt="" coords="689,333,836,360"/>
+<area shape="rect" id="node40" href="$qgssnappingconfig_8h.html" title="qgssnappingconfig.h" alt="" coords="3716,333,3871,360"/>
+<area shape="rect" id="node41" href="$qgsprojectversion_8h.html" title="qgsprojectversion.h" alt="" coords="3339,333,3490,360"/>
+<area shape="rect" id="node42" href="$qgsexpressioncontextgenerator_8h.html" title="qgsexpressioncontextgenerator.h" alt="" coords="3495,259,3734,285"/>
+<area shape="rect" id="node43" href="$qgsprojectproperty_8h.html" title="qgsprojectproperty.h" alt="" coords="3945,333,4100,360"/>
+<area shape="rect" id="node44" href="$qgsmaplayerstore_8h.html" title="qgsmaplayerstore.h" alt="" coords="2069,333,2221,360"/>
+<area shape="rect" id="node45" href="$qgsarchive_8h.html" title="qgsarchive.h" alt="" coords="3042,259,3147,285"/>
+<area shape="rect" id="node46" href="$qgsreadwritecontext_8h.html" title="qgsreadwritecontext.h" alt="" coords="2644,259,2812,285"/>
+<area shape="rect" id="node47" href="$qgsprojectmetadata_8h.html" title="qgsprojectmetadata.h" alt="" coords="2296,333,2461,360"/>
+</map>
