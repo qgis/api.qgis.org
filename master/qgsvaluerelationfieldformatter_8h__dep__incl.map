@@ -1,0 +1,11 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/fieldformatter/qgsvaluerelationfieldformatter.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/fieldformatter/qgsvaluerelationfieldformatter.h">
+<area shape="rect" id="node2" href="$qgsfieldformatterregistry_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsfieldformatterregistry.cpp" alt="" coords="5,109,252,165"/>
+<area shape="rect" id="node3" href="$qgsvaluerelationfieldformatter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/fieldformatter/qgsvaluerelationfieldformatter.cpp" alt="" coords="276,109,653,165"/>
+<area shape="rect" id="node4" href="$qgsvaluerelationconfigdlg_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsvaluerelationconfigdlg.cpp" alt="" coords="678,109,1017,165"/>
+<area shape="rect" id="node5" href="$qgsvaluerelationsearchwidgetwrapper_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsvaluerelationsearchwidgetwrapper.h" alt="" coords="1041,109,1443,165"/>
+<area shape="rect" id="node8" href="$qgsvaluerelationwidgetwrapper_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsvaluerelationwidgetwrapper.h" alt="" coords="1467,109,1827,165"/>
+<area shape="rect" id="node9" href="$qgsvaluerelationwidgetwrapper_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsvaluerelationwidgetwrapper.cpp" alt="" coords="1779,213,2153,269"/>
+<area shape="rect" id="node10" href="$qgsquickutils_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/quickgui/qgsquickutils.cpp" alt="" coords="1902,109,2121,165"/>
+<area shape="rect" id="node6" href="$qgsvaluerelationsearchwidgetwrapper_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsvaluerelationsearchwidgetwrapper.cpp" alt="" coords="1335,213,1754,269"/>
+<area shape="rect" id="node7" href="$qgsvaluerelationwidgetfactory_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsvaluerelationwidgetfactory.cpp" alt="" coords="944,213,1311,269"/>
+</map>

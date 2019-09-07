@@ -1,0 +1,23 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsvectorlayertools.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsvectorlayertools.h">
+<area shape="rect" id="node2" href="$qgstrackedvectorlayertools_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgstrackedvectorlayertools.h" alt="" coords="853,109,1101,165"/>
+<area shape="rect" id="node5" href="$qgsvectorlayertools_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsvectorlayertools.cpp" alt="" coords="2935,109,3154,165"/>
+<area shape="rect" id="node6" href="$qgsattributeeditorcontext_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsattributeeditorcontext.h" alt="" coords="1496,109,1724,165"/>
+<area shape="rect" id="node11" href="$qgsrelationeditorwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsrelationeditorwidget.cpp" alt="" coords="2694,525,2926,581"/>
+<area shape="rect" id="node3" href="$qgstrackedvectorlayertools_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgstrackedvectorlayertools.cpp" alt="" coords="5,213,268,269"/>
+<area shape="rect" id="node4" href="$qgsattributedialog_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsattributedialog.h" alt="" coords="1098,317,1317,373"/>
+<area shape="rect" id="node7" href="$qgsattributeform_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsattributeform.h" alt="" coords="2490,213,2709,269"/>
+<area shape="rect" id="node8" href="$qgsattributeformeditorwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsattributeformeditorwidget.cpp" alt="" coords="1325,421,1594,477"/>
+<area shape="rect" id="node9" href="$qgsdualview_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/attributetable/qgsdualview.h" alt="" coords="2575,317,2811,373"/>
+<area shape="rect" id="node10" href="$qgsrelationeditorwidget_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsrelationeditorwidget.h" alt="" coords="2613,421,2831,477"/>
+<area shape="rect" id="node12" href="$qgsrelationwidgetwrapper_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsrelationwidgetwrapper.cpp" alt="" coords="1294,525,1633,581"/>
+<area shape="rect" id="node13" href="$qgsattributeformwidget_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsattributeformwidget.h" alt="" coords="2031,421,2250,477"/>
+<area shape="rect" id="node14" href="$qgsfeatureselectiondlg_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsfeatureselectiondlg.cpp" alt="" coords="1497,213,1723,269"/>
+<area shape="rect" id="node15" href="$qgsformannotation_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsformannotation.cpp" alt="" coords="855,317,1074,373"/>
+<area shape="rect" id="node16" href="$qgsattributetablemodel_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/attributetable/qgsattributetablemodel.h" alt="" coords="1748,213,2056,269"/>
+<area shape="rect" id="node17" href="$qgsrelationreferencefactory_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsrelationreferencefactory.h" alt="" coords="395,317,729,373"/>
+<area shape="rect" id="node18" href="$qgseditorwidgetregistry_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/core/qgseditorwidgetregistry.cpp" alt="" coords="487,421,842,477"/>
+<area shape="rect" id="node19" href="$qgsrelationreferencewidget_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsrelationreferencewidget.h" alt="" coords="2080,213,2415,269"/>
+<area shape="rect" id="node20" href="$qgswidgetwrapper_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/core/qgswidgetwrapper.h" alt="" coords="1166,213,1473,269"/>
+<area shape="rect" id="node21" href="$qgssearchwidgetwrapper_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/core/qgssearchwidgetwrapper.h" alt="" coords="1391,317,1741,373"/>
+<area shape="rect" id="node22" href="$qgseditorwidgetregistry_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/core/qgseditorwidgetregistry.h" alt="" coords="599,213,939,269"/>
+</map>
