@@ -1,0 +1,27 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsauxiliarystorage.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsauxiliarystorage.h">
+<area shape="rect" id="node3" href="$qgsdatasourceuri_8h.html" title="qgsdatasourceuri.h" alt="" coords="3272,333,3419,360"/>
+<area shape="rect" id="node8" href="$qgspallabeling_8h.html" title="qgspallabeling.h" alt="" coords="2190,109,2319,136"/>
+<area shape="rect" id="node26" href="$qgsproperty_8h.html" title="qgsproperty.h" alt="" coords="1278,259,1389,285"/>
+<area shape="rect" id="node31" href="$qgsdiagramrenderer_8h.html" title="qgsdiagramrenderer.h" alt="" coords="568,109,733,136"/>
+<area shape="rect" id="node37" href="$qgsvectorlayerjoininfo_8h.html" title="qgsvectorlayerjoininfo.h" alt="" coords="2971,109,3151,136"/>
+<area shape="rect" id="node39" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="2568,259,2699,285"/>
+<area shape="rect" id="node40" href="$qgsspatialiteutils_8h.html" title="qgsspatialiteutils.h" alt="" coords="3077,408,3224,435"/>
+<area shape="rect" id="node4" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1770,557,1857,584"/>
+<area shape="rect" id="node5" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="3248,408,3368,435"/>
+<area shape="rect" id="node16" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="2544,408,2648,435"/>
+<area shape="rect" id="node17" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="1953,483,2045,509"/>
+<area shape="rect" id="node18" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="2665,483,2783,509"/>
+<area shape="rect" id="node21" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="2739,557,2843,584"/>
+<area shape="rect" id="node22" href="$qgslabelingenginesettings_8h.html" title="qgslabelingenginesettings.h" alt="" coords="1304,483,1509,509"/>
+<area shape="rect" id="node23" href="$qgsmapunitscale_8h.html" title="qgsmapunitscale.h" alt="" coords="1566,259,1711,285"/>
+<area shape="rect" id="node24" href="$qgsstringutils_8h.html" title="qgsstringutils.h" alt="" coords="2344,259,2467,285"/>
+<area shape="rect" id="node25" href="$qgssymbol_8h.html" title="qgssymbol.h" alt="" coords="1399,184,1505,211"/>
+<area shape="rect" id="node29" href="$qgstextrenderer_8h.html" title="qgstextrenderer.h" alt="" coords="1838,184,1975,211"/>
+<area shape="rect" id="node30" href="$qgspropertycollection_8h.html" title="qgspropertycollection.h" alt="" coords="862,184,1037,211"/>
+<area shape="rect" id="node27" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="1142,333,1319,360"/>
+<area shape="rect" id="node34" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="289,483,479,509"/>
+<area shape="rect" id="node35" href="$qgsdatadefinedsizelegend_8h.html" title="qgsdatadefinedsizelegend.h" alt="" coords="643,259,847,285"/>
+<area shape="rect" id="node36" href="$qgsdiagram_8h.html" title="diagram/qgsdiagram.h" alt="" coords="43,333,213,360"/>
+<area shape="rect" id="node38" href="$qgsvectorlayerref_8h.html" title="qgsvectorlayerref.h" alt="" coords="2987,184,3135,211"/>
+<area shape="rect" id="node41" href="$qgssqliteutils_8h.html" title="qgssqliteutils.h" alt="" coords="3145,483,3266,509"/>
+</map>

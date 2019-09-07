@@ -1,0 +1,16 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/analysis/qgsanalysis.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/analysis/qgsanalysis.cpp">
+<area shape="rect" id="node2" href="$qgsanalysis_8h.html" title="qgsanalysis.h" alt="" coords="5,184,116,211"/>
+<area shape="rect" id="node6" href="$qgsgeometrycheckregistry_8h.html" title="qgsgeometrycheckregistry.h" alt="" coords="341,109,548,136"/>
+<area shape="rect" id="node11" href="$qgsgeometrycheckfactory_8h.html" title="qgsgeometrycheckfactory.h" alt="" coords="714,109,917,136"/>
+<area shape="rect" id="node13" href="$qgsgeometryselfintersectioncheck_8h.html" title="qgsgeometryselfintersectioncheck.h" alt="" coords="994,184,1253,211"/>
+<area shape="rect" id="node16" href="$qgis_8h.html" title="qgis.h" alt="" coords="141,184,202,211"/>
+<area shape="rect" id="node17" href="$qgsgeometrygapcheck_8h.html" title="qgsgeometrygapcheck.h" alt="" coords="1576,109,1759,136"/>
+<area shape="rect" id="node19" href="$qgsgeometrymissingvertexcheck_8h.html" title="qgsgeometrymissingvertexcheck.h" alt="" coords="1154,259,1405,285"/>
+<area shape="rect" id="node20" href="$qgsgeometryoverlapcheck_8h.html" title="qgsgeometryoverlapcheck.h" alt="" coords="1429,259,1636,285"/>
+<area shape="rect" id="node21" href="$qgsgeometryisvalidcheck_8h.html" title="qgsgeometryisvalidcheck.h" alt="" coords="1101,109,1303,136"/>
+<area shape="rect" id="node4" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="351,259,437,285"/>
+<area shape="rect" id="node10" href="$qgsgeometrycheck_8h.html" title="qgsgeometrycheck.h" alt="" coords="984,408,1143,435"/>
+<area shape="rect" id="node14" href="$qgssinglegeometrycheck_8h.html" title="qgssinglegeometrycheck.h" alt="" coords="933,259,1130,285"/>
+<area shape="rect" id="node15" href="$qgsgeometrycheckerror_8h.html" title="qgsgeometrycheckerror.h" alt="" coords="1153,333,1341,360"/>
+<area shape="rect" id="node18" href="$qgsfeatureid_8h.html" title="qgsfeatureid.h" alt="" coords="1379,184,1495,211"/>
+</map>

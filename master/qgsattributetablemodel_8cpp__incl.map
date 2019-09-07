@@ -1,0 +1,34 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/attributetable/qgsattributetablemodel.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/attributetable/qgsattributetablemodel.cpp">
+<area shape="rect" id="node2" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="1068,333,1198,360"/>
+<area shape="rect" id="node11" href="$qgsattributetablemodel_8h.html" title="qgsattributetablemodel.h" alt="" coords="3786,184,3973,211"/>
+<area shape="rect" id="node18" href="$qgsconditionalstyle_8h.html" title="qgsconditionalstyle.h" alt="" coords="2263,259,2424,285"/>
+<area shape="rect" id="node20" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="2601,333,2732,360"/>
+<area shape="rect" id="node21" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="2590,408,2682,435"/>
+<area shape="rect" id="node22" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="2983,408,3163,435"/>
+<area shape="rect" id="node23" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="2706,408,2856,435"/>
+<area shape="rect" id="node26" href="$qgsattributetablefiltermodel_8h.html" title="qgsattributetablefiltermodel.h" alt="" coords="3946,109,4163,136"/>
+<area shape="rect" id="node29" href="$qgsactionmanager_8h.html" title="qgsactionmanager.h" alt="" coords="69,333,224,360"/>
+<area shape="rect" id="node32" href="$qgseditorwidgetregistry_8h.html" title="qgseditorwidgetregistry.h" alt="" coords="3381,184,3568,211"/>
+<area shape="rect" id="node33" href="$qgseditorwidgetfactory_8h.html" title="qgseditorwidgetfactory.h" alt="" coords="2979,259,3162,285"/>
+<area shape="rect" id="node35" href="$qgsexpression_8h.html" title="qgsexpression.h" alt="" coords="418,333,546,360"/>
+<area shape="rect" id="node36" href="$qgsfieldformatter_8h.html" title="qgsfieldformatter.h" alt="" coords="248,333,394,360"/>
+<area shape="rect" id="node37" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1660,333,1758,360"/>
+<area shape="rect" id="node38" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="2823,259,2955,285"/>
+<area shape="rect" id="node39" href="$qgsmaplayeractionregistry_8h.html" title="qgsmaplayeractionregistry.h" alt="" coords="4483,259,4690,285"/>
+<area shape="rect" id="node40" href="$qgsrenderer_8h.html" title="qgsrenderer.h" alt="" coords="1782,333,1892,360"/>
+<area shape="rect" id="node41" href="$qgssymbollayerutils_8h.html" title="qgssymbollayerutils.h" alt="" coords="3340,408,3507,435"/>
+<area shape="rect" id="node42" href="$qgsfieldformatterregistry_8h.html" title="qgsfieldformatterregistry.h" alt="" coords="2257,333,2452,360"/>
+<area shape="rect" id="node43" href="$qgsgui_8h.html" title="qgsgui.h" alt="" coords="3288,259,3365,285"/>
+<area shape="rect" id="node44" href="$qgsexpressionnodeimpl_8h.html" title="qgsexpressionnodeimpl.h" alt="" coords="4461,109,4650,136"/>
+<area shape="rect" id="node45" href="$qgsvectorlayerjoininfo_8h.html" title="qgsvectorlayerjoininfo.h" alt="" coords="648,408,828,435"/>
+<area shape="rect" id="node46" href="$qgsvectorlayerjoinbuffer_8h.html" title="qgsvectorlayerjoinbuffer.h" alt="" coords="1917,333,2109,360"/>
+<area shape="rect" id="node47" href="$qgsfieldmodel_8h.html" title="qgsfieldmodel.h" alt="" coords="2756,333,2883,360"/>
+<area shape="rect" id="node48" href="$qgstexteditwidgetfactory_8h.html" title="qgstexteditwidgetfactory.h" alt="" coords="2975,184,3171,211"/>
+<area shape="rect" id="node49" href="$qgsexpressioncontextutils_8h.html" title="qgsexpressioncontextutils.h" alt="" coords="1853,408,2058,435"/>
+<area shape="rect" id="node7" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="3094,483,3180,509"/>
+<area shape="rect" id="node9" href="$qgstranslationcontext_8h.html" title="qgstranslationcontext.h" alt="" coords="1501,408,1677,435"/>
+<area shape="rect" id="node19" href="$qgsattributeeditorcontext_8h.html" title="qgsattributeeditorcontext.h" alt="" coords="3642,259,3842,285"/>
+<area shape="rect" id="node25" href="$qgsvectorlayercache_8h.html" title="qgsvectorlayercache.h" alt="" coords="2907,333,3076,360"/>
+<area shape="rect" id="node28" href="$qgsfeaturemodel_8h.html" title="qgsfeaturemodel.h" alt="" coords="4240,184,4386,211"/>
+<area shape="rect" id="node31" href="$qgsaction_8h.html" title="qgsaction.h" alt="" coords="118,408,215,435"/>
+</map>
