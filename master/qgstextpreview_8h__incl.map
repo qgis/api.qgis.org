@@ -1,0 +1,16 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgstextpreview.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgstextpreview.h">
+<area shape="rect" id="node2" href="$qgstextrenderer_8h.html" title="qgstextrenderer.h" alt="" coords="371,259,509,285"/>
+<area shape="rect" id="node11" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="1294,109,1442,136"/>
+<area shape="rect" id="node3" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="958,408,1045,435"/>
+<area shape="rect" id="node5" href="$qgsmapunitscale_8h.html" title="qgsmapunitscale.h" alt="" coords="1761,333,1906,360"/>
+<area shape="rect" id="node6" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="990,333,1109,360"/>
+<area shape="rect" id="node14" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="1298,259,1489,285"/>
+<area shape="rect" id="node15" href="$qgscoordinatetransformcontext_8h.html" title="qgscoordinatetransformcontext.h" alt="" coords="1235,333,1474,360"/>
+<area shape="rect" id="node16" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="585,333,762,360"/>
+<area shape="rect" id="node17" href="$qgsfeaturefilterprovider_8h.html" title="qgsfeaturefilterprovider.h" alt="" coords="1549,333,1736,360"/>
+<area shape="rect" id="node18" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="988,259,1119,285"/>
+<area shape="rect" id="node19" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1850,259,1969,285"/>
+<area shape="rect" id="node20" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="1801,184,2002,211"/>
+<area shape="rect" id="node21" href="$qgsdistancearea_8h.html" title="qgsdistancearea.h" alt="" coords="1297,184,1439,211"/>
+<area shape="rect" id="node22" href="$qgspathresolver_8h.html" title="qgspathresolver.h" alt="" coords="2027,184,2165,211"/>
+</map>
