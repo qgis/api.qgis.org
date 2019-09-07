@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsFeatureFilterProvider.html" title="Abstract interface for use by classes that filter the features of a layer. " alt="" coords="5,56,187,83"/>
+<area shape="rect" id="node2" href="$classQgsAccessControl.html" title="A helper class that centralizes restrictions given by all the access control filter plugins..." alt="" coords="256,5,395,32"/>
+<area shape="rect" id="node3" href="$classQgsFeatureFilter.html" title="A feature filter provider allowing to set filter expressions on a per&#45;layer basis. " alt="" coords="262,56,389,83"/>
+<area shape="rect" id="node4" href="$classQgsFeatureFilterProviderGroup.html" title="A filter filter provider grouping several filter providers. " alt="" coords="235,107,416,149"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsLayoutView.html" title="A graphical widget to display and interact with QgsLayouts. " alt="" coords="175,5,297,32"/>
+<area shape="rect" id="node3" href="$classQgsMapCanvas.html" title="Map canvas is a class for displaying all GIS data types on a canvas. " alt="" coords="175,56,297,83"/>
+<area shape="rect" id="node4" href="$classQgsCoordinateBoundsPreviewMapWidget.html" title="A widget for showing the bounds of a rectangular region on an interactive map. " alt="" coords="345,49,564,90"/>
+</map>

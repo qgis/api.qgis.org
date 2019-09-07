@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsLayoutManagerModel.html" title="List model representing the print layouts and reports available in a layout manager. " alt="" coords="209,5,396,32"/>
+<area shape="rect" id="node3" href="$classQgsQuickMessageLogModel.html" title="This model will connect to the QgsMessageLog singleton and store any messages received. " alt="" coords="201,56,404,83"/>
+<area shape="rect" id="node4" href="$classQgsSvgSelectorListModel.html" title="A model for displaying SVG files with a preview icon. " alt="" coords="209,107,396,133"/>
+</map>

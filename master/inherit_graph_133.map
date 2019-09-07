@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsBrowserModel.html" title="A model for showing available data sources and other items in a structured tree. " alt="" coords="250,5,389,32"/>
+<area shape="rect" id="node4" href="$classQgsColorSchemeModel.html" title="A model for colors in a color scheme. " alt="" coords="233,56,405,83"/>
+<area shape="rect" id="node5" href="$classQgsCptCityBrowserModel.html" title="QgsCptCityBrowserModel" alt="" coords="226,107,413,133"/>
+<area shape="rect" id="node6" href="$classQgsFeatureFilterModel.html" title="Provides a list of features based on filter conditions. " alt="" coords="236,157,403,184"/>
+<area shape="rect" id="node7" href="$classQgsFieldModel.html" title="The QgsFieldModel class is a model to display the list of fields of a layer in widgets. " alt="" coords="261,208,377,235"/>
+<area shape="rect" id="node8" href="$classQgsLayerTreeModel.html" title="The QgsLayerTreeModel class is model implementation for Qt item views framework. " alt="" coords="245,259,394,285"/>
+<area shape="rect" id="node10" href="$classQgsLayoutModel.html" title="A model for items attached to a layout. " alt="" coords="254,309,385,336"/>
+<area shape="rect" id="node11" href="$classQgsMapLayerModel.html" title="The QgsMapLayerModel class is a model to display layers in widgets. " alt="" coords="245,360,394,387"/>
+<area shape="rect" id="node12" href="$classQgsNewsFeedModel.html" title="A model for published QGIS news feeds. " alt="" coords="243,411,395,437"/>
+<area shape="rect" id="node13" href="$classQgsProcessingToolboxModel.html" title="A model for providers and algorithms shown within the Processing toolbox. " alt="" coords="216,461,423,488"/>
+<area shape="rect" id="node14" href="$classQgsRuleBasedRendererModel.html" title="Tree model for the rules: " alt="" coords="213,512,425,539"/>
+<area shape="rect" id="node15" href="$classQgsStyleModel.html" title="A QAbstractItemModel subclass for showing symbol and color ramp entities contained within a QgsStyle ..." alt="" coords="260,563,379,589"/>
+<area shape="rect" id="node16" href="$classQgsValidityCheckResultsModel.html" title="A QAbstractItemModel subclass for displaying the results from a QgsAbtractValidityCheck. " alt="" coords="208,613,431,640"/>
+<area shape="rect" id="node3" href="$classQgsBrowserGuiModel.html" title="A model for showing available data sources and other items in a structured tree. " alt="" coords="479,5,640,32"/>
+<area shape="rect" id="node9" href="$classQgsLegendModel.html" title="Item model implementation based on layer tree model for layout legend. " alt="" coords="493,259,626,285"/>
+</map>

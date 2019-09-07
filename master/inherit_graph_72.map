@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsAbstractGeoPdfExporter.html" title="Abstract base class for GeoPDF exporters. " alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node2" href="$classQgsLayoutGeoPdfExporter.html" title="Handles GeoPDF export specific setup, cleanup and processing steps. " alt="" coords="256,5,449,32"/>
+</map>

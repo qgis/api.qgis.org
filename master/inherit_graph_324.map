@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsLabelingEngine.html" title="The QgsLabelingEngine class provides map labeling functionality. " alt="" coords="5,31,152,57"/>
+<area shape="rect" id="node2" href="$classQgsDefaultLabelingEngine.html" title="Default QgsLabelingEngine implementation, which completes the whole labeling operation (including lab..." alt="" coords="221,5,415,32"/>
+<area shape="rect" id="node3" href="$classQgsStagedRenderLabelingEngine.html" title="A QgsLabelingEngine implementation, which only calculates the labeling solution during its run() meth..." alt="" coords="200,56,436,83"/>
+</map>

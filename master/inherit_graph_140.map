@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsCallout.html" title="Abstract base class for callout renderers. " alt="" coords="5,5,99,32"/>
+<area shape="rect" id="node2" href="$classQgsSimpleLineCallout.html" title="A simple direct line callout style. " alt="" coords="147,5,312,32"/>
+<area shape="rect" id="node3" href="$classQgsManhattanLineCallout.html" title="Draws straight (right angled) lines as callouts. " alt="" coords="360,5,549,32"/>
+</map>

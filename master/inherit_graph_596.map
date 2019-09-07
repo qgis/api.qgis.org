@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsServiceModule.html" title="Class defining the service module interface for QGIS server services. " alt="" coords="5,56,148,83"/>
+<area shape="rect" id="node2" href="$classQgsWcsModule.html" title="Service module specialized for WCS. " alt="" coords="199,5,320,32"/>
+<area shape="rect" id="node3" href="$classQgsWfsModule.html" title="Module specialized for WFS service. " alt="" coords="200,56,319,83"/>
+<area shape="rect" id="node4" href="$classQgsWmsModule.html" title="Module specialized for WMS service. " alt="" coords="196,107,323,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsCodeEditor.html" title="A text editor based on QScintilla2. " alt="" coords="156,107,275,133"/>
+<area shape="rect" id="node3" href="$classQgsCodeEditorCSS.html" title="A CSS editor based on QScintilla2. " alt="" coords="346,5,489,32"/>
+<area shape="rect" id="node4" href="$classQgsCodeEditorExpression.html" title="A QGIS expression editor based on QScintilla2. " alt="" coords="323,56,512,83"/>
+<area shape="rect" id="node5" href="$classQgsCodeEditorHTML.html" title="A HTML editor based on QScintilla2. " alt="" coords="340,107,495,133"/>
+<area shape="rect" id="node6" href="$classQgsCodeEditorPython.html" title="A Python editor based on QScintilla2. " alt="" coords="336,157,499,184"/>
+<area shape="rect" id="node7" href="$classQgsCodeEditorSQL.html" title="A SQL editor based on QScintilla2. " alt="" coords="346,208,489,235"/>
+</map>

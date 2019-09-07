@@ -1,0 +1,29 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsSymbolLayer.html" title="QgsSymbolLayer" alt="" coords="5,281,137,307"/>
+<area shape="rect" id="node2" href="$classQgsFillSymbolLayer.html" title="QgsFillSymbolLayer" alt="" coords="223,133,374,159"/>
+<area shape="rect" id="node12" href="$classQgsGeometryGeneratorSymbolLayer.html" title="QgsGeometryGeneratorSymbol\lLayer" alt="" coords="185,244,412,285"/>
+<area shape="rect" id="node13" href="$classQgsLineSymbolLayer.html" title="QgsLineSymbolLayer" alt="" coords="219,310,378,337"/>
+<area shape="rect" id="node19" href="$classQgsMarkerSymbolLayer.html" title="Abstract base class for marker symbol layers. " alt="" coords="210,513,387,539"/>
+<area shape="rect" id="node3" href="$classQgsCentroidFillSymbolLayer.html" title="QgsCentroidFillSymbolLayer" alt="" coords="487,6,692,33"/>
+<area shape="rect" id="node4" href="$classQgsGradientFillSymbolLayer.html" title="QgsGradientFillSymbolLayer" alt="" coords="486,57,693,83"/>
+<area shape="rect" id="node5" href="$classQgsImageFillSymbolLayer.html" title="Base class for polygon renderers generating texture images. " alt="" coords="494,107,685,134"/>
+<area shape="rect" id="node10" href="$classQgsShapeburstFillSymbolLayer.html" title="QgsShapeburstFillSymbolLayer" alt="" coords="478,158,701,185"/>
+<area shape="rect" id="node11" href="$classQgsSimpleFillSymbolLayer.html" title="QgsSimpleFillSymbolLayer" alt="" coords="492,209,687,235"/>
+<area shape="rect" id="node6" href="$classQgsLinePatternFillSymbolLayer.html" title="A symbol fill consisting of repeated parallel lines. " alt="" coords="785,5,971,47"/>
+<area shape="rect" id="node7" href="$classQgsPointPatternFillSymbolLayer.html" title="QgsPointPatternFillSymbol\lLayer" alt="" coords="781,71,975,112"/>
+<area shape="rect" id="node8" href="$classQgsRasterFillSymbolLayer.html" title="A class for filling symbols with a repeated raster image. " alt="" coords="782,137,974,163"/>
+<area shape="rect" id="node9" href="$classQgsSVGFillSymbolLayer.html" title="A class for filling symbols with a repeated SVG file. " alt="" coords="789,187,967,214"/>
+<area shape="rect" id="node14" href="$classQgsArrowSymbolLayer.html" title="Line symbol layer used for representing lines as arrows. " alt="" coords="504,259,675,286"/>
+<area shape="rect" id="node15" href="$classQgsSimpleLineSymbolLayer.html" title="A simple line symbol layer, which renders lines using a line in a variety of styles (e..." alt="" coords="487,310,691,337"/>
+<area shape="rect" id="node16" href="$classQgsTemplatedLineSymbolLayerBase.html" title="Base class for templated line symbols, e.g. " alt="" coords="460,361,719,387"/>
+<area shape="rect" id="node17" href="$classQgsHashedLineSymbolLayer.html" title="Line symbol layer type which draws repeating line sections along a line feature. " alt="" coords="774,335,982,362"/>
+<area shape="rect" id="node18" href="$classQgsMarkerLineSymbolLayer.html" title="Line symbol layer type which draws repeating marker symbols along a line feature. ..." alt="" coords="776,386,980,413"/>
+<area shape="rect" id="node20" href="$classQgsEllipseSymbolLayer.html" title="A symbol layer for rendering objects with major and minor axis (e.g. " alt="" coords="502,411,677,438"/>
+<area shape="rect" id="node21" href="$classQgsFontMarkerSymbolLayer.html" title="QgsFontMarkerSymbolLayer" alt="" coords="487,462,692,489"/>
+<area shape="rect" id="node22" href="$classQgsRasterMarkerSymbolLayer.html" title="Raster marker symbol layer class. " alt="" coords="480,513,699,539"/>
+<area shape="rect" id="node23" href="$classQgsSimpleMarkerSymbolLayerBase.html" title="Abstract base class for simple marker symbol layers. " alt="" coords="462,563,717,590"/>
+<area shape="rect" id="node26" href="$classQgsSvgMarkerSymbolLayer.html" title="QgsSvgMarkerSymbolLayer" alt="" coords="489,614,690,641"/>
+<area shape="rect" id="node27" href="$classQgsVectorFieldSymbolLayer.html" title="A symbol layer class for displaying displacement arrows based on point layer attributes. " alt="" coords="488,665,691,691"/>
+<area shape="rect" id="node24" href="$classQgsFilledMarkerSymbolLayer.html" title="Filled marker symbol layer, consisting of a shape which is rendered using a QgsFillSymbol. " alt="" coords="773,538,983,565"/>
+<area shape="rect" id="node25" href="$classQgsSimpleMarkerSymbolLayer.html" title="Simple marker symbol layer, consisting of a rendered shape with solid fill color and an stroke..." alt="" coords="767,589,989,615"/>
+</map>

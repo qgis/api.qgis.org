@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsGeometryCheckError.html" title="This represents an error reported by a geometry check. " alt="" coords="5,159,188,185"/>
+<area shape="rect" id="node2" href="$classQgsGeometryCheckErrorSingle.html" title="Wraps a QgsSingleGeometryError into a standard QgsGeometryCheckError. " alt="" coords="242,5,465,32"/>
+<area shape="rect" id="node3" href="$classQgsGeometryContainedCheckError.html" title="QgsGeometryContainedCheck\lError" alt="" coords="244,57,463,98"/>
+<area shape="rect" id="node4" href="$classQgsGeometryDuplicateCheckError.html" title="QgsGeometryDuplicateCheck\lError" alt="" coords="246,122,461,163"/>
+<area shape="rect" id="node5" href="$classQgsGeometryGapCheckError.html" title="An error produced by a QgsGeometryGapCheck. " alt="" coords="249,188,458,215"/>
+<area shape="rect" id="node6" href="$classQgsGeometryMissingVertexCheckError.html" title="A geometry check error for a missing vertex. " alt="" coords="252,239,455,281"/>
+<area shape="rect" id="node7" href="$classQgsGeometryOverlapCheckError.html" title="An error of a QgsGeometryOverlapCheck. " alt="" coords="236,305,471,332"/>
+</map>

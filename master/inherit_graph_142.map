@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsCalloutAbstractMetadata.html" title="Stores metadata about one callout renderer class. " alt="" coords="5,5,213,32"/>
+<area shape="rect" id="node2" href="$classQgsCalloutMetadata.html" title="Convenience metadata class that uses static functions to create callouts and their widgets..." alt="" coords="261,5,416,32"/>
+</map>
