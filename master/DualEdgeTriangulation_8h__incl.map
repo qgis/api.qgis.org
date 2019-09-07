@@ -1,0 +1,10 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/analysis/interpolation/DualEdgeTriangulation.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/analysis/interpolation/DualEdgeTriangulation.h">
+<area shape="rect" id="node13" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="975,259,1062,285"/>
+<area shape="rect" id="node15" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="233,109,324,136"/>
+<area shape="rect" id="node19" href="$Triangulation_8h.html" title="Triangulation.h" alt="" coords="1427,109,1546,136"/>
+<area shape="rect" id="node23" href="$HalfEdge_8h.html" title="HalfEdge.h" alt="" coords="1701,184,1794,211"/>
+<area shape="rect" id="node17" href="$qgsabstractgeometry_8h.html" title="qgsabstractgeometry.h" alt="" coords="24,184,194,211"/>
+<area shape="rect" id="node18" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="219,184,338,211"/>
+<area shape="rect" id="node21" href="$TriangleInterpolator_8h.html" title="TriangleInterpolator.h" alt="" coords="1106,184,1266,211"/>
+<area shape="rect" id="node22" href="$qgsinterpolator_8h.html" title="qgsinterpolator.h" alt="" coords="1291,184,1423,211"/>
+</map>

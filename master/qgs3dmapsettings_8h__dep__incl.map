@@ -1,0 +1,27 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/3d/qgs3dmapsettings.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/3d/qgs3dmapsettings.h">
+<area shape="rect" id="node2" href="$qgs3dmapscene_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/qgs3dmapscene.cpp" alt="" coords="3811,213,4029,269"/>
+<area shape="rect" id="node3" href="$qgs3dutils_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/qgs3dutils.h" alt="" coords="2125,109,2344,165"/>
+<area shape="rect" id="node4" href="$qgs3dmapsettings_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/qgs3dmapsettings.cpp" alt="" coords="5,213,224,269"/>
+<area shape="rect" id="node6" href="$qgsfeature3dhandler__p_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/qgsfeature3dhandler_p.cpp" alt="" coords="249,213,471,269"/>
+<area shape="rect" id="node8" href="$qgsrulebased3drenderer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/qgsrulebased3drenderer.cpp" alt="" coords="495,213,726,269"/>
+<area shape="rect" id="node11" href="$qgsline3dsymbol__p_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/symbols/qgsline3dsymbol_p.cpp" alt="" coords="2923,213,3181,269"/>
+<area shape="rect" id="node14" href="$qgsmesh3dsymbol__p_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/symbols/qgsmesh3dsymbol_p.cpp" alt="" coords="3205,213,3475,269"/>
+<area shape="rect" id="node16" href="$qgspoint3dsymbol__p_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/symbols/qgspoint3dsymbol_p.cpp" alt="" coords="4053,213,4320,269"/>
+<area shape="rect" id="node18" href="$qgspolygon3dsymbol__p_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/symbols/qgspolygon3dsymbol_p.cpp" alt="" coords="3499,213,3786,269"/>
+<area shape="rect" id="node19" href="$qgspoint3dbillboardmaterial_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/symbols/qgspoint3dbillboardmaterial.h" alt="" coords="3769,109,4071,165"/>
+<area shape="rect" id="node20" href="$qgspoint3dbillboardmaterial_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/symbols/qgspoint3dbillboardmaterial.cpp" alt="" coords="4345,213,4661,269"/>
+<area shape="rect" id="node21" href="$qgsdemterraintileloader__p_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/terrain/qgsdemterraintileloader_p.cpp" alt="" coords="4146,109,4438,165"/>
+<area shape="rect" id="node22" href="$qgsflatterraingenerator_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/terrain/qgsflatterraingenerator.cpp" alt="" coords="4463,109,4732,165"/>
+<area shape="rect" id="node23" href="$qgsterrainentity__p_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/terrain/qgsterrainentity_p.cpp" alt="" coords="4757,109,4995,165"/>
+<area shape="rect" id="node24" href="$qgsterraingenerator_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/terrain/qgsterraingenerator.cpp" alt="" coords="5020,109,5268,165"/>
+<area shape="rect" id="node25" href="$qgsterraintexturegenerator__p_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/terrain/qgsterraintexturegenerator_p.cpp" alt="" coords="5291,109,5602,165"/>
+<area shape="rect" id="node26" href="$qgsterraintileloader__p_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/terrain/qgsterraintileloader_p.cpp" alt="" coords="5626,109,5889,165"/>
+<area shape="rect" id="node5" href="$qgs3dutils_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/qgs3dutils.cpp" alt="" coords="2680,213,2899,269"/>
+<area shape="rect" id="node7" href="$qgslayoutitem3dmap_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/qgslayoutitem3dmap.cpp" alt="" coords="751,213,969,269"/>
+<area shape="rect" id="node9" href="$qgschunkedentity__p_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/chunks/qgschunkedentity_p.cpp" alt="" coords="994,213,1249,269"/>
+<area shape="rect" id="node10" href="$qgsline3dsymbol_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/symbols/qgsline3dsymbol.cpp" alt="" coords="1273,213,1516,269"/>
+<area shape="rect" id="node12" href="$qgslinevertexdata__p_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/symbols/qgslinevertexdata_p.cpp" alt="" coords="1541,213,1806,269"/>
+<area shape="rect" id="node13" href="$qgsmesh3dsymbol_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/symbols/qgsmesh3dsymbol.cpp" alt="" coords="1830,213,2085,269"/>
+<area shape="rect" id="node15" href="$qgspoint3dsymbol_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/symbols/qgspoint3dsymbol.cpp" alt="" coords="2109,213,2361,269"/>
+<area shape="rect" id="node17" href="$qgspolygon3dsymbol_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/symbols/qgspolygon3dsymbol.cpp" alt="" coords="2385,213,2655,269"/>
+</map>
