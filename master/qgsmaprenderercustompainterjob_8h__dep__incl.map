@@ -1,0 +1,12 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsmaprenderercustompainterjob.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsmaprenderercustompainterjob.h">
+<area shape="rect" id="node2" href="$qgsmaprenderercustompainterjob_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsmaprenderercustompainterjob.cpp" alt="" coords="5,109,312,165"/>
+<area shape="rect" id="node3" href="$qgsmaprenderersequentialjob_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsmaprenderersequentialjob.cpp" alt="" coords="336,109,616,165"/>
+<area shape="rect" id="node4" href="$qgsmaprendererstagedrenderjob_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsmaprendererstagedrenderjob.h" alt="" coords="883,109,1165,165"/>
+<area shape="rect" id="node7" href="$qgslayoutitemmap_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgslayoutitemmap.h" alt="" coords="1198,213,1437,269"/>
+<area shape="rect" id="node8" href="$qgsmaprenderertask_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsmaprenderertask.h" alt="" coords="640,109,859,165"/>
+<area shape="rect" id="node9" href="$qgsmapcanvas_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsmapcanvas.cpp" alt="" coords="1240,109,1459,165"/>
+<area shape="rect" id="node10" href="$qgsterraintexturegenerator__p_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/terrain/qgsterraintexturegenerator_p.cpp" alt="" coords="1483,109,1794,165"/>
+<area shape="rect" id="node11" href="$qgsmaprendererjobproxy_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgsmaprendererjobproxy.cpp" alt="" coords="1818,109,2171,165"/>
+<area shape="rect" id="node5" href="$qgsmaprendererstagedrenderjob_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsmaprendererstagedrenderjob.cpp" alt="" coords="875,213,1173,269"/>
+<area shape="rect" id="node6" href="$qgsmaprenderertask_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsmaprenderertask.cpp" alt="" coords="630,213,850,269"/>
+</map>

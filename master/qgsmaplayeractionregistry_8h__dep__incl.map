@@ -1,0 +1,12 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsmaplayeractionregistry.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsmaplayeractionregistry.h">
+<area shape="rect" id="node2" href="$qgsactionmenu_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsactionmenu.cpp" alt="" coords="5,109,224,165"/>
+<area shape="rect" id="node3" href="$qgsgui_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsgui.cpp" alt="" coords="248,109,467,165"/>
+<area shape="rect" id="node4" href="$qgsidentifymenu_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsidentifymenu.h" alt="" coords="491,109,709,165"/>
+<area shape="rect" id="node8" href="$qgsmaplayeractionregistry_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsmaplayeractionregistry.cpp" alt="" coords="733,109,984,165"/>
+<area shape="rect" id="node9" href="$qgsattributetablemodel_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/attributetable/qgsattributetablemodel.cpp" alt="" coords="1008,109,1331,165"/>
+<area shape="rect" id="node10" href="$qgsattributetableview_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/attributetable/qgsattributetableview.cpp" alt="" coords="1355,109,1667,165"/>
+<area shape="rect" id="node11" href="$qgsdualview_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/attributetable/qgsdualview.cpp" alt="" coords="1691,109,1941,165"/>
+<area shape="rect" id="node5" href="$qgsidentifymenu_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsidentifymenu.cpp" alt="" coords="248,213,467,269"/>
+<area shape="rect" id="node6" href="$qgsmaptoolidentify_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsmaptoolidentify.cpp" alt="" coords="491,213,709,269"/>
+<area shape="rect" id="node7" href="$qgsrelationreferencewidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsrelationreferencewidget.cpp" alt="" coords="733,213,1083,269"/>
+</map>

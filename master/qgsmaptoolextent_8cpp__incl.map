@@ -1,0 +1,17 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsmaptoolextent.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsmaptoolextent.cpp">
+<area shape="rect" id="node2" href="$qgsmaptoolextent_8h.html" title="qgsmaptoolextent.h" alt="" coords="1105,109,1258,136"/>
+<area shape="rect" id="node14" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="426,109,558,136"/>
+<area shape="rect" id="node21" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="1283,109,1403,136"/>
+<area shape="rect" id="node22" href="$qgsmapmouseevent_8h.html" title="qgsmapmouseevent.h" alt="" coords="1428,109,1594,136"/>
+<area shape="rect" id="node3" href="$qgsmaptool_8h.html" title="qgsmaptool.h" alt="" coords="761,184,872,211"/>
+<area shape="rect" id="node7" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="1442,333,1546,360"/>
+<area shape="rect" id="node8" href="$qgsrubberband_8h.html" title="qgsrubberband.h" alt="" coords="1168,184,1299,211"/>
+<area shape="rect" id="node9" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="837,408,924,435"/>
+<area shape="rect" id="node10" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="944,259,1062,285"/>
+<area shape="rect" id="node13" href="$qgsfeatureid_8h.html" title="qgsfeatureid.h" alt="" coords="969,333,1085,360"/>
+<area shape="rect" id="node15" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="57,259,234,285"/>
+<area shape="rect" id="node16" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="460,259,578,285"/>
+<area shape="rect" id="node19" href="$qgsmapsettings_8h.html" title="qgsmapsettings.h" alt="" coords="158,184,296,211"/>
+<area shape="rect" id="node20" href="$qgsprevieweffect_8h.html" title="qgsprevieweffect.h" alt="" coords="896,184,1043,211"/>
+<area shape="rect" id="node24" href="$qgspointlocator_8h.html" title="qgspointlocator.h" alt="" coords="1374,184,1509,211"/>
+</map>
