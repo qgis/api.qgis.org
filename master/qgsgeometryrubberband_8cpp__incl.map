@@ -1,0 +1,17 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsgeometryrubberband.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsgeometryrubberband.cpp">
+<area shape="rect" id="node2" href="$qgsgeometryrubberband_8h.html" title="qgsgeometryrubberband.h" alt="" coords="196,259,391,285"/>
+<area shape="rect" id="node13" href="$qgsabstractgeometry_8h.html" title="qgsabstractgeometry.h" alt="" coords="736,408,907,435"/>
+<area shape="rect" id="node19" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="1037,109,1169,136"/>
+<area shape="rect" id="node23" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="875,333,966,360"/>
+<area shape="rect" id="node3" href="$qgsmapcanvasitem_8h.html" title="qgsmapcanvasitem.h" alt="" coords="587,333,750,360"/>
+<area shape="rect" id="node9" href="$qgswkbtypes_8h.html" title="qgswkbtypes.h" alt="" coords="354,557,474,584"/>
+<area shape="rect" id="node4" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1086,557,1173,584"/>
+<area shape="rect" id="node5" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1397,408,1516,435"/>
+<area shape="rect" id="node15" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="285,483,476,509"/>
+<area shape="rect" id="node17" href="$qgswkbptr_8h.html" title="qgswkbptr.h" alt="" coords="500,483,602,509"/>
+<area shape="rect" id="node20" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="1500,483,1677,509"/>
+<area shape="rect" id="node21" href="$qgsfeatureid_8h.html" title="qgsfeatureid.h" alt="" coords="1142,333,1258,360"/>
+<area shape="rect" id="node22" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="994,259,1113,285"/>
+<area shape="rect" id="node26" href="$qgsmapsettings_8h.html" title="qgsmapsettings.h" alt="" coords="1580,184,1719,211"/>
+<area shape="rect" id="node27" href="$qgsprevieweffect_8h.html" title="qgsprevieweffect.h" alt="" coords="416,333,563,360"/>
+</map>

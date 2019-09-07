@@ -1,0 +1,16 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsgeometrysimplifier.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsgeometrysimplifier.h">
+<area shape="rect" id="node2" href="$qgsgeometrysimplifier_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsgeometrysimplifier.cpp" alt="" coords="670,109,901,165"/>
+<area shape="rect" id="node3" href="$qgsmaptopixelgeometrysimplifier_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsmaptopixelgeometrysimplifier.h" alt="" coords="976,109,1267,165"/>
+<area shape="rect" id="node6" href="$qgssimplifymethod_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgssimplifymethod.cpp" alt="" coords="5,213,224,269"/>
+<area shape="rect" id="node13" href="$qgsvectorlayerfeatureiterator_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsvectorlayerfeatureiterator.cpp" alt="" coords="1291,109,1567,165"/>
+<area shape="rect" id="node14" href="$qgslinesymbollayer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/symbology/qgslinesymbollayer.cpp" alt="" coords="1592,109,1880,165"/>
+<area shape="rect" id="node15" href="$qgssymbollayer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/symbology/qgssymbollayer.cpp" alt="" coords="1904,109,2168,165"/>
+<area shape="rect" id="node4" href="$qgsmaptopixelgeometrysimplifier_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsmaptopixelgeometrysimplifier.cpp" alt="" coords="249,213,554,269"/>
+<area shape="rect" id="node5" href="$qgspallabeling_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgspallabeling.cpp" alt="" coords="579,213,797,269"/>
+<area shape="rect" id="node7" href="$qgsexpressionfunction_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/expression/qgsexpressionfunction.cpp" alt="" coords="821,213,1128,269"/>
+<area shape="rect" id="node8" href="$qgssymbol_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/symbology/qgssymbol.cpp" alt="" coords="1152,213,1384,269"/>
+<area shape="rect" id="node9" href="$qgsalgorithmfiltervertices_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/analysis/processing/qgsalgorithmfiltervertices.h" alt="" coords="1408,213,1747,269"/>
+<area shape="rect" id="node10" href="$qgsalgorithmmergelines_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/analysis/processing/qgsalgorithmmergelines.h" alt="" coords="1771,213,2101,269"/>
+<area shape="rect" id="node11" href="$qgsalgorithmsegmentize_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/analysis/processing/qgsalgorithmsegmentize.h" alt="" coords="2125,213,2457,269"/>
+<area shape="rect" id="node12" href="$qgsalgorithmsimplify_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/analysis/processing/qgsalgorithmsimplify.h" alt="" coords="2481,213,2788,269"/>
+</map>

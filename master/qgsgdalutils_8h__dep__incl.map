@@ -1,0 +1,12 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsgdalutils.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsgdalutils.h">
+<area shape="rect" id="node2" href="$qgsabstractgeopdfexporter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsabstractgeopdfexporter.cpp" alt="" coords="5,109,265,165"/>
+<area shape="rect" id="node3" href="$qgsgdalutils_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsgdalutils.cpp" alt="" coords="290,109,509,165"/>
+<area shape="rect" id="node4" href="$qgslayoutgeopdfexporter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgslayoutgeopdfexporter.cpp" alt="" coords="533,109,826,165"/>
+<area shape="rect" id="node5" href="$qgsrasterfilewriter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/raster/qgsrasterfilewriter.cpp" alt="" coords="850,109,1095,165"/>
+<area shape="rect" id="node6" href="$qgsrasterformatsaveoptionswidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsrasterformatsaveoptionswidget.cpp" alt="" coords="1120,109,1425,165"/>
+<area shape="rect" id="node7" href="$qgsrasterlayersaveasdialog_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsrasterlayersaveasdialog.cpp" alt="" coords="1449,109,1707,165"/>
+<area shape="rect" id="node8" href="$qgsninecellfilter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/analysis/raster/qgsninecellfilter.cpp" alt="" coords="1731,109,1987,165"/>
+<area shape="rect" id="node9" href="$qgsrastercalculator_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/analysis/raster/qgsrastercalculator.cpp" alt="" coords="2011,109,2289,165"/>
+<area shape="rect" id="node10" href="$qgsrelief_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/analysis/raster/qgsrelief.cpp" alt="" coords="2313,109,2531,165"/>
+<area shape="rect" id="node11" href="$qgsterraindownloader_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/terrain/qgsterraindownloader.cpp" alt="" coords="2555,109,2817,165"/>
+</map>
