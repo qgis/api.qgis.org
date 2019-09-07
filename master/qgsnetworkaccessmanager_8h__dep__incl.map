@@ -1,0 +1,26 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsnetworkaccessmanager.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsnetworkaccessmanager.h">
+<area shape="rect" id="node2" href="$qgsabstractcontentcache_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsabstractcontentcache.h" alt="" coords="423,109,657,165"/>
+<area shape="rect" id="node5" href="$qgsapplication_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsapplication.cpp" alt="" coords="245,317,464,373"/>
+<area shape="rect" id="node6" href="$qgsimagecache_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsimagecache.cpp" alt="" coords="757,317,976,373"/>
+<area shape="rect" id="node8" href="$qgssvgcache_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/symbology/qgssvgcache.cpp" alt="" coords="488,317,733,373"/>
+<area shape="rect" id="node9" href="$qgsblockingnetworkrequest_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsblockingnetworkrequest.cpp" alt="" coords="905,109,1170,165"/>
+<area shape="rect" id="node10" href="$qgsfiledownloader_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsfiledownloader.cpp" alt="" coords="1195,109,1413,165"/>
+<area shape="rect" id="node11" href="$qgsgml_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsgml.cpp" alt="" coords="1437,109,1656,165"/>
+<area shape="rect" id="node12" href="$qgsgmlschema_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsgmlschema.cpp" alt="" coords="1680,109,1899,165"/>
+<area shape="rect" id="node13" href="$qgsnetworkaccessmanager_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsnetworkaccessmanager.cpp" alt="" coords="1923,109,2186,165"/>
+<area shape="rect" id="node14" href="$qgsnetworkcontentfetcher_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsnetworkcontentfetcher.cpp" alt="" coords="2210,109,2465,165"/>
+<area shape="rect" id="node15" href="$qgsnewsfeedparser_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsnewsfeedparser.cpp" alt="" coords="2489,109,2708,165"/>
+<area shape="rect" id="node16" href="$qgstilecache_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgstilecache.cpp" alt="" coords="2732,109,2951,165"/>
+<area shape="rect" id="node17" href="$qgshtmlannotation_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/annotations/qgshtmlannotation.cpp" alt="" coords="2975,109,3265,165"/>
+<area shape="rect" id="node18" href="$qgsgeonoderequest_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/geocms/geonode/qgsgeonoderequest.cpp" alt="" coords="3289,109,3617,165"/>
+<area shape="rect" id="node19" href="$qgslayoutitemhtml_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgslayoutitemhtml.cpp" alt="" coords="3642,109,3897,165"/>
+<area shape="rect" id="node20" href="$qgslayoutitemlabel_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgslayoutitemlabel.cpp" alt="" coords="3921,109,4177,165"/>
+<area shape="rect" id="node21" href="$qgsowssourceselect_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsowssourceselect.cpp" alt="" coords="4201,109,4420,165"/>
+<area shape="rect" id="node22" href="$qgsautheditorwidgets_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/auth/qgsautheditorwidgets.cpp" alt="" coords="4444,109,4695,165"/>
+<area shape="rect" id="node23" href="$qgsauthsslerrorsdialog_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/auth/qgsauthsslerrorsdialog.cpp" alt="" coords="4719,109,4977,165"/>
+<area shape="rect" id="node24" href="$quantizedmeshgeometry_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/3d/terrain/quantizedmeshgeometry.cpp" alt="" coords="5002,109,5283,165"/>
+<area shape="rect" id="node25" href="$qgsserver_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsserver.cpp" alt="" coords="5308,109,5527,165"/>
+<area shape="rect" id="node3" href="$qgsabstractcontentcache_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsabstractcontentcache.cpp" alt="" coords="32,213,280,269"/>
+<area shape="rect" id="node4" href="$qgsimagecache_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsimagecache.h" alt="" coords="560,213,779,269"/>
+<area shape="rect" id="node7" href="$qgssvgcache_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/symbology/qgssvgcache.h" alt="" coords="305,213,535,269"/>
+</map>
