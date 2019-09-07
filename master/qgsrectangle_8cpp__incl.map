@@ -1,0 +1,16 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/geometry/qgsrectangle.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/geometry/qgsrectangle.cpp">
+<area shape="rect" id="node9" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="743,184,862,211"/>
+<area shape="rect" id="node21" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="787,408,891,435"/>
+<area shape="rect" id="node24" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1525,333,1643,360"/>
+<area shape="rect" id="node26" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1197,259,1294,285"/>
+<area shape="rect" id="node30" href="$qgsbox3d_8h.html" title="qgsbox3d.h" alt="" coords="1535,259,1633,285"/>
+<area shape="rect" id="node31" href="$qgspolygon_8h.html" title="qgspolygon.h" alt="" coords="2044,184,2153,211"/>
+<area shape="rect" id="node33" href="$qgslinestring_8h.html" title="qgslinestring.h" alt="" coords="1771,109,1890,136"/>
+<area shape="rect" id="node18" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1770,333,1857,360"/>
+<area shape="rect" id="node19" href="$qgsabstractgeometry_8h.html" title="qgsabstractgeometry.h" alt="" coords="616,333,787,360"/>
+<area shape="rect" id="node23" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1369,259,1460,285"/>
+<area shape="rect" id="node25" href="$qgsfeatureid_8h.html" title="qgsfeatureid.h" alt="" coords="1057,259,1173,285"/>
+<area shape="rect" id="node32" href="$qgscurvepolygon_8h.html" title="qgscurvepolygon.h" alt="" coords="2029,259,2174,285"/>
+<area shape="rect" id="node35" href="$qgscurve_8h.html" title="qgscurve.h" alt="" coords="1657,259,1751,285"/>
+<area shape="rect" id="node36" href="$qgscompoundcurve_8h.html" title="qgscompoundcurve.h" alt="" coords="1690,184,1851,211"/>
+</map>

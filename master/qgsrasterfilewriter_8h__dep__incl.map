@@ -1,0 +1,11 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/raster/qgsrasterfilewriter.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/raster/qgsrasterfilewriter.h">
+<area shape="rect" id="node2" href="$qgsprocessingparameters_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/processing/qgsprocessingparameters.cpp" alt="" coords="5,109,332,165"/>
+<area shape="rect" id="node3" href="$qgsprocessingprovider_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/processing/qgsprocessingprovider.cpp" alt="" coords="356,109,661,165"/>
+<area shape="rect" id="node4" href="$qgsrasterfilewriter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/raster/qgsrasterfilewriter.cpp" alt="" coords="686,109,931,165"/>
+<area shape="rect" id="node5" href="$qgsrasterfilewritertask_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/raster/qgsrasterfilewritertask.h" alt="" coords="955,109,1214,165"/>
+<area shape="rect" id="node7" href="$qgsrasterlayersaveasdialog_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsrasterlayersaveasdialog.cpp" alt="" coords="1239,109,1496,165"/>
+<area shape="rect" id="node8" href="$qgsalgorithmrasterlogicalop_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/analysis/processing/qgsalgorithmrasterlogicalop.cpp" alt="" coords="1521,109,1889,165"/>
+<area shape="rect" id="node9" href="$qgsalgorithmreclassifybylayer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/analysis/processing/qgsalgorithmreclassifybylayer.cpp" alt="" coords="1913,109,2296,165"/>
+<area shape="rect" id="node10" href="$qgswcsgetcoverage_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wcs/qgswcsgetcoverage.cpp" alt="" coords="2321,109,2635,165"/>
+<area shape="rect" id="node6" href="$qgsrasterfilewritertask_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/raster/qgsrasterfilewritertask.cpp" alt="" coords="947,213,1222,269"/>
+</map>

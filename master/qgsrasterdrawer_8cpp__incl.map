@@ -1,0 +1,29 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/raster/qgsrasterdrawer.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/raster/qgsrasterdrawer.cpp">
+<area shape="rect" id="node2" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="458,483,555,509"/>
+<area shape="rect" id="node10" href="$qgsrasterblock_8h.html" title="qgsrasterblock.h" alt="" coords="792,333,923,360"/>
+<area shape="rect" id="node17" href="$qgsrasterdrawer_8h.html" title="qgsrasterdrawer.h" alt="" coords="1469,333,1608,360"/>
+<area shape="rect" id="node19" href="$qgsrasterinterface_8h.html" title="qgsrasterinterface.h" alt="" coords="895,259,1049,285"/>
+<area shape="rect" id="node26" href="$qgsrasteriterator_8h.html" title="qgsrasteriterator.h" alt="" coords="1683,333,1826,360"/>
+<area shape="rect" id="node27" href="$qgsrasterviewport_8h.html" title="qgsrasterviewport.h" alt="" coords="2097,259,2249,285"/>
+<area shape="rect" id="node31" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="2936,483,3067,509"/>
+<area shape="rect" id="node35" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="2421,109,2569,136"/>
+<area shape="rect" id="node4" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="794,632,881,659"/>
+<area shape="rect" id="node13" href="$qgis_8h.html" title="qgis.h" alt="" coords="2120,557,2181,584"/>
+<area shape="rect" id="node15" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="1193,483,1279,509"/>
+<area shape="rect" id="node16" href="$qgsrasterrange_8h.html" title="qgsrasterrange.h" alt="" coords="1507,483,1639,509"/>
+<area shape="rect" id="node21" href="$qgsfeedback_8h.html" title="qgsfeedback.h" alt="" coords="867,557,984,584"/>
+<area shape="rect" id="node22" href="$qgsrasterbandstats_8h.html" title="qgsrasterbandstats.h" alt="" coords="998,333,1157,360"/>
+<area shape="rect" id="node23" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="2019,408,2138,435"/>
+<area shape="rect" id="node25" href="$qgsrasterhistogram_8h.html" title="qgsrasterhistogram.h" alt="" coords="1233,333,1394,360"/>
+<area shape="rect" id="node24" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="2019,483,2123,509"/>
+<area shape="rect" id="node28" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1850,333,2086,360"/>
+<area shape="rect" id="node30" href="$qgscoordinatetransformcontext_8h.html" title="qgscoordinatetransformcontext.h" alt="" coords="2262,333,2501,360"/>
+<area shape="rect" id="node29" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="1918,557,2037,584"/>
+<area shape="rect" id="node37" href="$qgscoordinatetransform_8h.html" title="qgscoordinatetransform.h" alt="" coords="1813,259,2003,285"/>
+<area shape="rect" id="node38" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="991,483,1169,509"/>
+<area shape="rect" id="node39" href="$qgsfeaturefilterprovider_8h.html" title="qgsfeaturefilterprovider.h" alt="" coords="656,557,843,584"/>
+<area shape="rect" id="node40" href="$qgsmapunitscale_8h.html" title="qgsmapunitscale.h" alt="" coords="2665,483,2810,509"/>
+<area shape="rect" id="node41" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="2747,184,2949,211"/>
+<area shape="rect" id="node42" href="$qgsdistancearea_8h.html" title="qgsdistancearea.h" alt="" coords="1812,184,1953,211"/>
+<area shape="rect" id="node43" href="$qgspathresolver_8h.html" title="qgspathresolver.h" alt="" coords="2501,483,2640,509"/>
+</map>
