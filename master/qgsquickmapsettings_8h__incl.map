@@ -1,0 +1,16 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/quickgui/qgsquickmapsettings.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/quickgui/qgsquickmapsettings.h">
+<area shape="rect" id="node3" href="$qgscoordinatetransformcontext_8h.html" title="qgscoordinatetransformcontext.h" alt="" coords="1377,184,1615,211"/>
+<area shape="rect" id="node7" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1766,333,1885,360"/>
+<area shape="rect" id="node10" href="$qgsmapsettings_8h.html" title="qgsmapsettings.h" alt="" coords="749,109,888,136"/>
+<area shape="rect" id="node25" href="$qgspoint_8h.html" title="qgspoint.h" alt="" coords="1697,259,1788,285"/>
+<area shape="rect" id="node26" href="$qgsmapthemecollection_8h.html" title="qgsmapthemecollection.h" alt="" coords="1785,109,1975,136"/>
+<area shape="rect" id="node5" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="983,333,1070,360"/>
+<area shape="rect" id="node6" href="$qgsdatumtransform_8h.html" title="qgsdatumtransform.h" alt="" coords="1460,259,1623,285"/>
+<area shape="rect" id="node16" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1913,259,2149,285"/>
+<area shape="rect" id="node18" href="$qgslabelingenginesettings_8h.html" title="qgslabelingenginesettings.h" alt="" coords="28,259,233,285"/>
+<area shape="rect" id="node19" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="257,259,388,285"/>
+<area shape="rect" id="node20" href="$qgsscalecalculator_8h.html" title="qgsscalecalculator.h" alt="" coords="412,259,567,285"/>
+<area shape="rect" id="node21" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="826,184,1003,211"/>
+<area shape="rect" id="node23" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1914,184,2033,211"/>
+<area shape="rect" id="node24" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1027,184,1146,211"/>
+</map>

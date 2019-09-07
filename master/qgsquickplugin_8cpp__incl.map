@@ -1,0 +1,29 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/quickgui/plugin/qgsquickplugin.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/quickgui/plugin/qgsquickplugin.cpp">
+<area shape="rect" id="node6" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1674,333,1778,360"/>
+<area shape="rect" id="node21" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="2534,483,2638,509"/>
+<area shape="rect" id="node23" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="95,483,192,509"/>
+<area shape="rect" id="node27" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="700,408,819,435"/>
+<area shape="rect" id="node29" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="3105,483,3241,509"/>
+<area shape="rect" id="node30" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="843,408,945,435"/>
+<area shape="rect" id="node31" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="319,483,437,509"/>
+<area shape="rect" id="node32" href="$qgscoordinatetransformcontext_8h.html" title="qgscoordinatetransformcontext.h" alt="" coords="1423,483,1661,509"/>
+<area shape="rect" id="node33" href="$qgsrelationmanager_8h.html" title="qgsrelationmanager.h" alt="" coords="2713,483,2877,509"/>
+<area shape="rect" id="node34" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="959,259,1090,285"/>
+<area shape="rect" id="node38" href="$qgsquickfeaturehighlight_8h.html" title="qgsquickfeaturehighlight.h" alt="" coords="2623,109,2819,136"/>
+<area shape="rect" id="node39" href="$qgsquickfeaturelayerpair_8h.html" title="qgsquickfeaturelayerpair.h" alt="" coords="2216,259,2412,285"/>
+<area shape="rect" id="node40" href="$qgsquickmaptransform_8h.html" title="qgsquickmaptransform.h" alt="" coords="2356,184,2541,211"/>
+<area shape="rect" id="node41" href="$qgsquickcoordinatetransformer_8h.html" title="qgsquickcoordinatetransformer.h" alt="" coords="2387,408,2625,435"/>
+<area shape="rect" id="node42" href="$qgsquickidentifykit_8h.html" title="qgsquickidentifykit.h" alt="" coords="2668,184,2827,211"/>
+<area shape="rect" id="node43" href="$qgsquickmapcanvasmap_8h.html" title="qgsquickmapcanvasmap.h" alt="" coords="2724,333,2920,360"/>
+<area shape="rect" id="node44" href="$qgsquickmapsettings_8h.html" title="qgsquickmapsettings.h" alt="" coords="2649,408,2822,435"/>
+<area shape="rect" id="node45" href="$qgsquickmessagelogmodel_8h.html" title="qgsquickmessagelogmodel.h" alt="" coords="3104,408,3316,435"/>
+<area shape="rect" id="node46" href="$qgsquickplugin_8h.html" title="qgsquickplugin.h" alt="" coords="3285,109,3417,136"/>
+<area shape="rect" id="node47" href="$qgsquickpositionkit_8h.html" title="qgsquickpositionkit.h" alt="" coords="2539,333,2700,360"/>
+<area shape="rect" id="node48" href="$qgsquickscalebarkit_8h.html" title="qgsquickscalebarkit.h" alt="" coords="3097,109,3261,136"/>
+<area shape="rect" id="node49" href="$qgsquickutils_8h.html" title="qgsquickutils.h" alt="" coords="2851,184,2971,211"/>
+<area shape="rect" id="node8" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="619,557,705,584"/>
+<area shape="rect" id="node16" href="$qgsattributes_8h.html" title="qgsattributes.h" alt="" coords="1274,408,1394,435"/>
+<area shape="rect" id="node17" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="513,483,605,509"/>
+<area shape="rect" id="node18" href="$qgsfeatureid_8h.html" title="qgsfeatureid.h" alt="" coords="1839,483,1955,509"/>
+<area shape="rect" id="node20" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1940,408,2059,435"/>
+</map>
