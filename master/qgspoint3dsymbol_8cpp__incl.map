@@ -1,0 +1,20 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/3d/symbols/qgspoint3dsymbol.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/3d/symbols/qgspoint3dsymbol.cpp">
+<area shape="rect" id="node2" href="$qgspoint3dsymbol_8h.html" title="qgspoint3dsymbol.h" alt="" coords="784,109,939,136"/>
+<area shape="rect" id="node18" href="$qgs3dutils_8h.html" title="qgs3dutils.h" alt="" coords="257,109,359,136"/>
+<area shape="rect" id="node22" href="$qgsreadwritecontext_8h.html" title="qgsreadwritecontext.h" alt="" coords="1303,109,1471,136"/>
+<area shape="rect" id="node23" href="$qgsxmlutils_8h.html" title="qgsxmlutils.h" alt="" coords="1238,259,1349,285"/>
+<area shape="rect" id="node26" href="$qgssymbollayerutils_8h.html" title="qgssymbollayerutils.h" alt="" coords="1665,109,1831,136"/>
+<area shape="rect" id="node4" href="$qgsabstract3dsymbol_8h.html" title="qgsabstract3dsymbol.h" alt="" coords="987,259,1162,285"/>
+<area shape="rect" id="node6" href="$qgsphongmaterialsettings_8h.html" title="qgsphongmaterialsettings.h" alt="" coords="759,259,963,285"/>
+<area shape="rect" id="node8" href="$qgs3dtypes_8h.html" title="qgs3dtypes.h" alt="" coords="428,184,537,211"/>
+<area shape="rect" id="node9" href="$qgssymbol_8h.html" title="qgssymbol.h" alt="" coords="1478,184,1583,211"/>
+<area shape="rect" id="node5" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1033,408,1119,435"/>
+<area shape="rect" id="node11" href="$qgis_8h.html" title="qgis.h" alt="" coords="1584,333,1645,360"/>
+<area shape="rect" id="node15" href="$qgsmapunitscale_8h.html" title="qgsmapunitscale.h" alt="" coords="2055,259,2201,285"/>
+<area shape="rect" id="node19" href="$qgs3dmapsettings_8h.html" title="qgs3dmapsettings.h" alt="" coords="612,184,767,211"/>
+<area shape="rect" id="node20" href="$qgs3danimationsettings_8h.html" title="qgs3danimationsettings.h" alt="" coords="213,184,403,211"/>
+<area shape="rect" id="node21" href="$qgsaabb_8h.html" title="qgsaabb.h" alt="" coords="99,184,189,211"/>
+<area shape="rect" id="node25" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="1091,333,1210,360"/>
+<area shape="rect" id="node30" href="$qgscolorramp_8h.html" title="qgscolorramp.h" alt="" coords="1709,259,1832,285"/>
+<area shape="rect" id="node31" href="$qgsarrowsymbollayer_8h.html" title="qgsarrowsymbollayer.h" alt="" coords="1857,259,2031,285"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/processing/qgsprocessingwidgetwrapperimpl.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/processing/qgsprocessingwidgetwrapperimpl.cpp">
+<area shape="rect" id="node2" href="$qgsprocessingwidgetwrapperimpl_8h.html" title="qgsprocessingwidgetwrapperimpl.h" alt="" coords="5,124,259,151"/>
+<area shape="rect" id="node3" href="$qgsprocessingparameters_8h.html" title="qgsprocessingparameters.h" alt="" coords="769,213,972,240"/>
+<area shape="rect" id="node5" href="$qgis_8h.html" title="qgis.h" alt="" coords="1056,288,1117,315"/>
+<area shape="rect" id="node16" href="$qgsprocessingoutputs_8h.html" title="qgsprocessingoutputs.h" alt="" coords="485,124,661,151"/>
+<area shape="rect" id="node17" href="$qgsprojectionselectionwidget_8h.html" title="qgsprojectionselectionwidget.h" alt="" coords="2427,124,2653,151"/>
+<area shape="rect" id="node21" href="$qgsprocessingmatrixparameterdialog_8h.html" title="qgsprocessingmatrixparameterdialog.h" alt="" coords="737,124,1015,151"/>
+<area shape="rect" id="node22" href="$qgsspinbox_8h.html" title="qgsspinbox.h" alt="" coords="6303,124,6411,151"/>
+<area shape="rect" id="node23" href="$qgsdoublespinbox_8h.html" title="qgsdoublespinbox.h" alt="" coords="6436,124,6588,151"/>
+<area shape="rect" id="node24" href="$qgsprocessingcontext_8h.html" title="qgsprocessingcontext.h" alt="" coords="1245,213,1421,240"/>
+<area shape="rect" id="node25" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="1317,288,1419,315"/>
+<area shape="rect" id="node26" href="$qgsauthconfigselect_8h.html" title="qgsauthconfigselect.h" alt="" coords="6613,124,6777,151"/>
+<area shape="rect" id="node28" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="138,288,267,315"/>
+<area shape="rect" id="node29" href="$qgsfilewidget_8h.html" title="qgsfilewidget.h" alt="" coords="2999,124,3121,151"/>
+<area shape="rect" id="node30" href="$qgsfilterlineedit_8h.html" title="qgsfilterlineedit.h" alt="" coords="2939,213,3075,240"/>
+<area shape="rect" id="node31" href="$qgssettings_8h.html" title="qgssettings.h" alt="" coords="292,288,401,315"/>
+<area shape="rect" id="node32" href="$qgsexpressionlineedit_8h.html" title="qgsexpressionlineedit.h" alt="" coords="1599,288,1777,315"/>
+<area shape="rect" id="node33" href="$qgsfieldexpressionwidget_8h.html" title="qgsfieldexpressionwidget.h" alt="" coords="2204,124,2404,151"/>
+<area shape="rect" id="node34" href="$qgsprocessingmultipleselectiondialog_8h.html" title="qgsprocessingmultipleselectiondialog.h" alt="" coords="1040,124,1320,151"/>
+<area shape="rect" id="node35" href="$qgslayoutmanager_8h.html" title="qgslayoutmanager.h" alt="" coords="1496,213,1651,240"/>
+<area shape="rect" id="node36" href="$qgslayoutcombobox_8h.html" title="qgslayoutcombobox.h" alt="" coords="1807,124,1974,151"/>
+<area shape="rect" id="node37" href="$qgslayoutitemcombobox_8h.html" title="qgslayoutitemcombobox.h" alt="" coords="2677,124,2873,151"/>
+<area shape="rect" id="node38" href="$qgsprintlayout_8h.html" title="qgsprintlayout.h" alt="" coords="425,288,553,315"/>
+<area shape="rect" id="node39" href="$qgsscalewidget_8h.html" title="qgsscalewidget.h" alt="" coords="1649,124,1783,151"/>
+<area shape="rect" id="node40" href="$qgssnapindicator_8h.html" title="qgssnapindicator.h" alt="" coords="6852,124,6996,151"/>
+<area shape="rect" id="node41" href="$qgsmapmouseevent_8h.html" title="qgsmapmouseevent.h" alt="" coords="7021,124,7187,151"/>
+<area shape="rect" id="node42" href="$qgsmapcanvas_8h.html" title="qgsmapcanvas.h" alt="" coords="7211,124,7343,151"/>
+<area shape="rect" id="node43" href="$qgscolorbutton_8h.html" title="qgscolorbutton.h" alt="" coords="1999,124,2129,151"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/layout/qgsprintlayout.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/layout/qgsprintlayout.h">
+<area shape="rect" id="node2" href="$qgscompositionconverter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgscompositionconverter.cpp" alt="" coords="5,109,300,165"/>
+<area shape="rect" id="node3" href="$qgslayoutmanager_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgslayoutmanager.cpp" alt="" coords="325,109,575,165"/>
+<area shape="rect" id="node4" href="$qgsprintlayout_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgsprintlayout.cpp" alt="" coords="599,109,823,165"/>
+<area shape="rect" id="node5" href="$qgsprocessingparameters_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/processing/qgsprocessingparameters.cpp" alt="" coords="848,109,1175,165"/>
+<area shape="rect" id="node6" href="$qgslayoutitemwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/layout/qgslayoutitemwidget.cpp" alt="" coords="1199,109,1459,165"/>
+<area shape="rect" id="node7" href="$qgsprocessingwidgetwrapperimpl_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/processing/qgsprocessingwidgetwrapperimpl.cpp" alt="" coords="1483,109,1854,165"/>
+<area shape="rect" id="node8" href="$qgsalgorithmextractlayoutmapextent_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/analysis/processing/qgsalgorithmextractlayoutmapextent.cpp" alt="" coords="1878,109,2307,165"/>
+<area shape="rect" id="node9" href="$qgswmsgetcapabilities_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsgetcapabilities.cpp" alt="" coords="2331,109,2673,165"/>
+<area shape="rect" id="node10" href="$qgswmsrenderer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsrenderer.cpp" alt="" coords="2697,109,2995,165"/>
+</map>
