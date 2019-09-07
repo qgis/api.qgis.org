@@ -1,0 +1,13 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/layout/qgslayoutitemregistry.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/layout/qgslayoutitemregistry.h">
+<area shape="rect" id="node3" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="781,333,868,360"/>
+<area shape="rect" id="node4" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="568,184,697,211"/>
+<area shape="rect" id="node11" href="$qgspathresolver_8h.html" title="qgspathresolver.h" alt="" coords="82,259,221,285"/>
+<area shape="rect" id="node16" href="$qgslayoutitem_8h.html" title="qgslayoutitem.h" alt="" coords="1106,109,1234,136"/>
+<area shape="rect" id="node9" href="$qgstranslationcontext_8h.html" title="qgstranslationcontext.h" alt="" coords="295,259,471,285"/>
+<area shape="rect" id="node17" href="$qgslayoutobject_8h.html" title="qgslayoutobject.h" alt="" coords="1058,259,1197,285"/>
+<area shape="rect" id="node18" href="$qgslayoutsize_8h.html" title="qgslayoutsize.h" alt="" coords="1771,184,1895,211"/>
+<area shape="rect" id="node19" href="$qgslayoutpoint_8h.html" title="qgslayoutpoint.h" alt="" coords="1351,184,1482,211"/>
+<area shape="rect" id="node20" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="805,184,953,211"/>
+<area shape="rect" id="node21" href="$qgslayoutundocommand_8h.html" title="qgslayoutundocommand.h" alt="" coords="1322,259,1517,285"/>
+<area shape="rect" id="node22" href="$qgslayoutmeasurement_8h.html" title="qgslayoutmeasurement.h" alt="" coords="1506,184,1695,211"/>
+</map>

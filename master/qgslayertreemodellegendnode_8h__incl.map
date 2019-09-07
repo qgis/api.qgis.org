@@ -1,0 +1,21 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/layertree/qgslayertreemodellegendnode.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/layertree/qgslayertreemodellegendnode.h">
+<area shape="rect" id="node5" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1217,483,1303,509"/>
+<area shape="rect" id="node6" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="1597,109,1774,136"/>
+<area shape="rect" id="node24" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="2843,259,3021,285"/>
+<area shape="rect" id="node29" href="$qgslegendsymbolitem_8h.html" title="qgslegendsymbolitem.h" alt="" coords="2473,333,2652,360"/>
+<area shape="rect" id="node30" href="$qgstextrenderer_8h.html" title="qgstextrenderer.h" alt="" coords="535,259,673,285"/>
+<area shape="rect" id="node11" href="$qgscolorrampshader_8h.html" title="qgscolorrampshader.h" alt="" coords="1757,184,1923,211"/>
+<area shape="rect" id="node13" href="$qgsrasterinterface_8h.html" title="qgsrasterinterface.h" alt="" coords="1559,259,1713,285"/>
+<area shape="rect" id="node14" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="1863,333,1982,360"/>
+<area shape="rect" id="node16" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="2260,333,2399,360"/>
+<area shape="rect" id="node19" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="1738,408,1830,435"/>
+<area shape="rect" id="node20" href="$qgsraster_8h.html" title="qgsraster.h" alt="" coords="1693,333,1787,360"/>
+<area shape="rect" id="node21" href="$qgsrasterpyramid_8h.html" title="qgsrasterpyramid.h" alt="" coords="2049,184,2199,211"/>
+<area shape="rect" id="node22" href="$qgsrasterrange_8h.html" title="qgsrasterrange.h" alt="" coords="1014,333,1146,360"/>
+<area shape="rect" id="node23" href="$qgsrasteriterator_8h.html" title="qgsrasteriterator.h" alt="" coords="1890,259,2033,285"/>
+<area shape="rect" id="node15" href="$qgis_8h.html" title="qgis.h" alt="" coords="1652,408,1713,435"/>
+<area shape="rect" id="node27" href="$qgsexpressionfunction_8h.html" title="qgsexpressionfunction.h" alt="" coords="2777,333,2959,360"/>
+<area shape="rect" id="node28" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="3033,333,3137,360"/>
+<area shape="rect" id="node31" href="$qgsmapunitscale_8h.html" title="qgsmapunitscale.h" alt="" coords="1471,333,1617,360"/>
+<area shape="rect" id="node32" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="667,333,786,360"/>
+</map>

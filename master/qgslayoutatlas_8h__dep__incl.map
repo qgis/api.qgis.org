@@ -1,0 +1,9 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/layout/qgslayoutatlas.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/layout/qgslayoutatlas.h">
+<area shape="rect" id="node2" href="$qgsexpressioncontextutils_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/expression/qgsexpressioncontextutils.cpp" alt="" coords="5,109,336,165"/>
+<area shape="rect" id="node3" href="$qgscompositionconverter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgscompositionconverter.cpp" alt="" coords="361,109,655,165"/>
+<area shape="rect" id="node4" href="$qgslayoutatlas_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgslayoutatlas.cpp" alt="" coords="680,109,907,165"/>
+<area shape="rect" id="node5" href="$qgsprintlayout_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgsprintlayout.cpp" alt="" coords="931,109,1155,165"/>
+<area shape="rect" id="node6" href="$qgslayoutitemwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/layout/qgslayoutitemwidget.cpp" alt="" coords="1178,109,1438,165"/>
+<area shape="rect" id="node7" href="$qgswmsgetcapabilities_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsgetcapabilities.cpp" alt="" coords="1463,109,1804,165"/>
+<area shape="rect" id="node8" href="$qgswmsrenderer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsrenderer.cpp" alt="" coords="1828,109,2127,165"/>
+</map>

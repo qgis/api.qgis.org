@@ -1,0 +1,18 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgslegendsettings.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgslegendsettings.h">
+<area shape="rect" id="node2" href="$qgslegendrenderer_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgslegendrenderer.h" alt="" coords="843,317,1062,373"/>
+<area shape="rect" id="node7" href="$qgslegendsettings_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgslegendsettings.cpp" alt="" coords="1590,109,1809,165"/>
+<area shape="rect" id="node8" href="$qgslayertreemodellegendnode_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layertree/qgslayertreemodellegendnode.cpp" alt="" coords="1833,109,2179,165"/>
+<area shape="rect" id="node9" href="$qgslayoutitemlegend_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgslayoutitemlegend.h" alt="" coords="566,317,819,373"/>
+<area shape="rect" id="node12" href="$qgswmsparameters_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsparameters.h" alt="" coords="1260,109,1565,165"/>
+<area shape="rect" id="node3" href="$qgslegendrenderer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgslegendrenderer.cpp" alt="" coords="914,421,1133,477"/>
+<area shape="rect" id="node4" href="$qgslayoutitemlegend_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgslayoutitemlegend.cpp" alt="" coords="621,421,889,477"/>
+<area shape="rect" id="node5" href="$qgswmsgetlegendgraphics_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsgetlegendgraphics.cpp" alt="" coords="1479,421,1845,477"/>
+<area shape="rect" id="node6" href="$qgswmsrenderer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsrenderer.cpp" alt="" coords="1157,421,1455,477"/>
+<area shape="rect" id="node10" href="$qgscompositionconverter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgscompositionconverter.cpp" alt="" coords="5,421,300,477"/>
+<area shape="rect" id="node11" href="$qgslayoutitemregistry_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/layout/qgslayoutitemregistry.cpp" alt="" coords="325,421,597,477"/>
+<area shape="rect" id="node13" href="$qgswmsrenderer_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsrenderer.h" alt="" coords="1801,317,2085,373"/>
+<area shape="rect" id="node14" href="$qgswmsrendercontext_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsrendercontext.h" alt="" coords="1767,213,2088,269"/>
+<area shape="rect" id="node15" href="$qgswmsserviceexception_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsserviceexception.h" alt="" coords="1242,213,1583,269"/>
+<area shape="rect" id="node16" href="$qgswms_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswms.cpp" alt="" coords="1086,317,1331,373"/>
+<area shape="rect" id="node17" href="$qgswmsparameters_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsparameters.cpp" alt="" coords="1457,317,1777,373"/>
+</map>

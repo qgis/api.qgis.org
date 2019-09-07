@@ -1,0 +1,24 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/3d/qgslayoutitem3dmap.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/3d/qgslayoutitem3dmap.cpp">
+<area shape="rect" id="node2" href="$qgslayoutitem3dmap_8h.html" title="qgslayoutitem3dmap.h" alt="" coords="715,184,888,211"/>
+<area shape="rect" id="node7" href="$qgs3dmapscene_8h.html" title="qgs3dmapscene.h" alt="" coords="24,184,164,211"/>
+<area shape="rect" id="node9" href="$qgs3dutils_8h.html" title="qgs3dutils.h" alt="" coords="1127,184,1228,211"/>
+<area shape="rect" id="node16" href="$qgscameracontroller_8h.html" title="qgscameracontroller.h" alt="" coords="248,184,414,211"/>
+<area shape="rect" id="node19" href="$qgslayout_8h.html" title="qgslayout.h" alt="" coords="1830,109,1928,136"/>
+<area shape="rect" id="node29" href="$qgslayoutmodel_8h.html" title="qgslayoutmodel.h" alt="" coords="2862,109,3000,136"/>
+<area shape="rect" id="node30" href="$qgslayoutitemregistry_8h.html" title="qgslayoutitemregistry.h" alt="" coords="2610,184,2786,211"/>
+<area shape="rect" id="node34" href="$qgsoffscreen3dengine_8h.html" title="qgsoffscreen3dengine.h" alt="" coords="1264,184,1441,211"/>
+<area shape="rect" id="node4" href="$qgslayoutitem_8h.html" title="qgslayoutitem.h" alt="" coords="1658,259,1786,285"/>
+<area shape="rect" id="node6" href="$qgscamerapose_8h.html" title="qgscamerapose.h" alt="" coords="322,259,460,285"/>
+<area shape="rect" id="node10" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="2532,259,2618,285"/>
+<area shape="rect" id="node11" href="$qgs3dmapsettings_8h.html" title="qgs3dmapsettings.h" alt="" coords="1100,259,1255,285"/>
+<area shape="rect" id="node13" href="$qgs3danimationsettings_8h.html" title="qgs3danimationsettings.h" alt="" coords="649,259,840,285"/>
+<area shape="rect" id="node14" href="$qgs3dtypes_8h.html" title="qgs3dtypes.h" alt="" coords="967,259,1076,285"/>
+<area shape="rect" id="node15" href="$qgsaabb_8h.html" title="qgsaabb.h" alt="" coords="536,259,625,285"/>
+<area shape="rect" id="node21" href="$qgslayoutsnapper_8h.html" title="qgslayoutsnapper.h" alt="" coords="1692,184,1842,211"/>
+<area shape="rect" id="node22" href="$qgslayoutguidecollection_8h.html" title="qgslayoutguidecollection.h" alt="" coords="1911,259,2108,285"/>
+<area shape="rect" id="node24" href="$qgsexpressioncontextgenerator_8h.html" title="qgsexpressioncontextgenerator.h" alt="" coords="2069,184,2308,211"/>
+<area shape="rect" id="node25" href="$qgslayoutgridsettings_8h.html" title="qgslayoutgridsettings.h" alt="" coords="2196,259,2370,285"/>
+<area shape="rect" id="node26" href="$qgslayoutexporter_8h.html" title="qgslayoutexporter.h" alt="" coords="1466,184,1618,211"/>
+<area shape="rect" id="node28" href="$qgsmasterlayoutinterface_8h.html" title="qgsmasterlayoutinterface.h" alt="" coords="2383,184,2586,211"/>
+<area shape="rect" id="node35" href="$qgsabstract3dengine_8h.html" title="qgsabstract3dengine.h" alt="" coords="1330,259,1500,285"/>
+</map>
