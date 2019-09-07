@@ -1,0 +1,21 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/server/services/wcs/qgswcsutils.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/server/services/wcs/qgswcsutils.h">
+<area shape="rect" id="node2" href="$qgsmodule_8h.html" title="qgsmodule.h" alt="" coords="698,109,805,136"/>
+<area shape="rect" id="node14" href="$qgswcsserviceexception_8h.html" title="qgswcsserviceexception.h" alt="" coords="5,184,199,211"/>
+<area shape="rect" id="node15" href="$qgsrasterlayer_8h.html" title="qgsrasterlayer.h" alt="" coords="1804,109,1931,136"/>
+<area shape="rect" id="node3" href="$qgsservicemodule_8h.html" title="qgsservicemodule.h" alt="" coords="597,184,751,211"/>
+<area shape="rect" id="node4" href="$qgsserviceregistry_8h.html" title="qgsserviceregistry.h" alt="" coords="419,259,571,285"/>
+<area shape="rect" id="node6" href="$qgsservice_8h.html" title="qgsservice.h" alt="" coords="775,184,879,211"/>
+<area shape="rect" id="node7" href="$qgsserverapi_8h.html" title="qgsserverapi.h" alt="" coords="223,184,341,211"/>
+<area shape="rect" id="node10" href="$qgsserverinterface_8h.html" title="qgsserverinterface.h" alt="" coords="417,184,573,211"/>
+<area shape="rect" id="node11" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="753,259,851,285"/>
+<area shape="rect" id="node13" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="875,259,1011,285"/>
+<area shape="rect" id="node8" href="$qgsserverexception_8h.html" title="qgsserverexception.h" alt="" coords="217,259,379,285"/>
+<area shape="rect" id="node9" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1141,333,1228,360"/>
+<area shape="rect" id="node22" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1759,184,1877,211"/>
+<area shape="rect" id="node23" href="$qgsraster_8h.html" title="qgsraster.h" alt="" coords="1095,259,1189,285"/>
+<area shape="rect" id="node24" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="1505,184,1683,211"/>
+<area shape="rect" id="node25" href="$qgsrasterpipe_8h.html" title="qgsrasterpipe.h" alt="" coords="2043,184,2166,211"/>
+<area shape="rect" id="node26" href="$qgsrasterviewport_8h.html" title="qgsrasterviewport.h" alt="" coords="1329,184,1481,211"/>
+<area shape="rect" id="node27" href="$qgsrasterminmaxorigin_8h.html" title="qgsrasterminmaxorigin.h" alt="" coords="2499,184,2686,211"/>
+<area shape="rect" id="node29" href="$qgscontrastenhancement_8h.html" title="qgscontrastenhancement.h" alt="" coords="1105,184,1304,211"/>
+</map>
