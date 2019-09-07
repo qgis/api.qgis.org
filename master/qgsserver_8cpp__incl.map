@@ -1,0 +1,29 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/server/qgsserver.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/server/qgsserver.cpp">
+<area shape="rect" id="node3" href="$qgsserver_8h.html" title="qgsserver.h" alt="" coords="1307,109,1405,136"/>
+<area shape="rect" id="node5" href="$qgsrequesthandler_8h.html" title="qgsrequesthandler.h" alt="" coords="1840,184,1995,211"/>
+<area shape="rect" id="node11" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="1611,259,1714,285"/>
+<area shape="rect" id="node14" href="$qgscapabilitiescache_8h.html" title="qgscapabilitiescache.h" alt="" coords="885,259,1056,285"/>
+<area shape="rect" id="node20" href="$qgsserverrequest_8h.html" title="qgsserverrequest.h" alt="" coords="83,184,229,211"/>
+<area shape="rect" id="node21" href="$qgsserverparameters_8h.html" title="qgsserverparameters.h" alt="" coords="5,259,179,285"/>
+<area shape="rect" id="node22" href="$qgsauthmanager_8h.html" title="qgsauthmanager.h" alt="" coords="3369,184,3511,211"/>
+<area shape="rect" id="node36" href="$qgsfontutils_8h.html" title="qgsfontutils.h" alt="" coords="2503,259,2614,285"/>
+<area shape="rect" id="node37" href="$qgsproviderregistry_8h.html" title="qgsproviderregistry.h" alt="" coords="2065,259,2223,285"/>
+<area shape="rect" id="node38" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="1891,259,1989,285"/>
+<area shape="rect" id="node39" href="$qgsmapserviceexception_8h.html" title="qgsmapserviceexception.h" alt="" coords="304,184,501,211"/>
+<area shape="rect" id="node40" href="$qgsnetworkaccessmanager_8h.html" title="qgsnetworkaccessmanager.h" alt="" coords="2689,259,2900,285"/>
+<area shape="rect" id="node41" href="$qgsserverlogger_8h.html" title="qgsserverlogger.h" alt="" coords="723,259,861,285"/>
+<area shape="rect" id="node42" href="$qgsfilterresponsedecorator_8h.html" title="qgsfilterresponsedecorator.h" alt="" coords="2425,109,2631,136"/>
+<area shape="rect" id="node43" href="$qgsservice_8h.html" title="qgsservice.h" alt="" coords="193,109,297,136"/>
+<area shape="rect" id="node44" href="$qgsserverapi_8h.html" title="qgsserverapi.h" alt="" coords="322,109,441,136"/>
+<area shape="rect" id="node45" href="$qgsserverapicontext_8h.html" title="qgsserverapicontext.h" alt="" coords="526,184,693,211"/>
+<area shape="rect" id="node46" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="2350,259,2479,285"/>
+<area shape="rect" id="node8" href="$qgsconfigcache_8h.html" title="qgsconfigcache.h" alt="" coords="1505,184,1639,211"/>
+<area shape="rect" id="node16" href="$qgsserviceregistry_8h.html" title="qgsserviceregistry.h" alt="" coords="1664,184,1816,211"/>
+<area shape="rect" id="node17" href="$qgsserversettings_8h.html" title="qgsserversettings.h" alt="" coords="1283,259,1434,285"/>
+<area shape="rect" id="node18" href="$qgsserverplugins_8h.html" title="qgsserverplugins.h" alt="" coords="1283,184,1429,211"/>
+<area shape="rect" id="node19" href="$qgsserverinterfaceimpl_8h.html" title="qgsserverinterfaceimpl.h" alt="" coords="971,184,1157,211"/>
+<area shape="rect" id="node6" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="2218,333,2305,360"/>
+<area shape="rect" id="node32" href="$qgsauthcertutils_8h.html" title="qgsauthcertutils.h" alt="" coords="3815,259,3953,285"/>
+<area shape="rect" id="node33" href="$qgsauthconfig_8h.html" title="qgsauthconfig.h" alt="" coords="3943,333,4068,360"/>
+<area shape="rect" id="node34" href="$qgsauthmethod_8h.html" title="qgsauthmethod.h" alt="" coords="3503,259,3639,285"/>
+</map>

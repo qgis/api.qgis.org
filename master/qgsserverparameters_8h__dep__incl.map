@@ -1,0 +1,28 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/server/qgsserverparameters.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/server/qgsserverparameters.h">
+<area shape="rect" id="node2" href="$qgsserverrequest_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsserverrequest.h" alt="" coords="1225,109,1444,165"/>
+<area shape="rect" id="node6" href="$qgsserver_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsserver.cpp" alt="" coords="1593,317,1812,373"/>
+<area shape="rect" id="node16" href="$qgsserverparameters_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsserverparameters.cpp" alt="" coords="2955,109,3192,165"/>
+<area shape="rect" id="node17" href="$qgswmsparameters_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsparameters.h" alt="" coords="3217,109,3522,165"/>
+<area shape="rect" id="node23" href="$qgswfsparameters_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wfs/qgswfsparameters.h" alt="" coords="4162,109,4451,165"/>
+<area shape="rect" id="node3" href="$qgsservercachefilter_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsservercachefilter.h" alt="" coords="5,213,224,269"/>
+<area shape="rect" id="node4" href="$qgsservercachemanager_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsservercachemanager.h" alt="" coords="67,317,309,373"/>
+<area shape="rect" id="node5" href="$qgsserver_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsserver.h" alt="" coords="299,213,517,269"/>
+<area shape="rect" id="node7" href="$qgsfcgiserverresponse_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsfcgiserverresponse.h" alt="" coords="593,213,823,269"/>
+<area shape="rect" id="node8" href="$qgsfcgiserverrequest_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsfcgiserverrequest.h" alt="" coords="847,213,1067,269"/>
+<area shape="rect" id="node9" href="$qgsbufferserverrequest_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsbufferserverrequest.h" alt="" coords="1092,213,1327,269"/>
+<area shape="rect" id="node10" href="$qgsrequesthandler_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsrequesthandler.cpp" alt="" coords="1351,213,1569,269"/>
+<area shape="rect" id="node11" href="$qgsservice_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsservice.h" alt="" coords="1593,213,1812,269"/>
+<area shape="rect" id="node12" href="$qgsserverapi_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsserverapi.h" alt="" coords="1836,213,2055,269"/>
+<area shape="rect" id="node13" href="$qgsserverapicontext_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsserverapicontext.cpp" alt="" coords="2079,213,2310,269"/>
+<area shape="rect" id="node14" href="$qgsserverquerystringparameter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsserverquerystringparameter.cpp" alt="" coords="2334,213,2637,269"/>
+<area shape="rect" id="node15" href="$qgsserverrequest_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsserverrequest.cpp" alt="" coords="2661,213,2880,269"/>
+<area shape="rect" id="node18" href="$qgswmsrenderer_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsrenderer.h" alt="" coords="2881,317,3165,373"/>
+<area shape="rect" id="node19" href="$qgswmsrendercontext_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsrendercontext.h" alt="" coords="3007,213,3329,269"/>
+<area shape="rect" id="node20" href="$qgswmsserviceexception_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsserviceexception.h" alt="" coords="3404,213,3745,269"/>
+<area shape="rect" id="node21" href="$qgswms_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswms.cpp" alt="" coords="3271,317,3516,373"/>
+<area shape="rect" id="node22" href="$qgswmsparameters_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsparameters.cpp" alt="" coords="3595,317,3915,373"/>
+<area shape="rect" id="node24" href="$qgswfsgetfeature_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wfs/qgswfsgetfeature.h" alt="" coords="3820,213,4103,269"/>
+<area shape="rect" id="node25" href="$qgswfsdescribefeaturetype_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wfs/qgswfsdescribefeaturetype.cpp" alt="" coords="4127,213,4487,269"/>
+<area shape="rect" id="node26" href="$qgswfsparameters_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wfs/qgswfsparameters.cpp" alt="" coords="4511,213,4815,269"/>
+<area shape="rect" id="node27" href="$qgswfsutils_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wfs/qgswfsutils.cpp" alt="" coords="4839,213,5097,269"/>
+</map>

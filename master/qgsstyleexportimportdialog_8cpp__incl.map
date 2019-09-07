@@ -1,0 +1,24 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/symbology/qgsstyleexportimportdialog.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/symbology/qgsstyleexportimportdialog.cpp">
+<area shape="rect" id="node2" href="$qgsstyleexportimportdialog_8h.html" title="qgsstyleexportimportdialog.h" alt="" coords="338,109,553,136"/>
+<area shape="rect" id="node10" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="1950,408,2079,435"/>
+<area shape="rect" id="node18" href="$qgsstyle_8h.html" title="qgsstyle.h" alt="" coords="1241,259,1330,285"/>
+<area shape="rect" id="node24" href="$qgssymbollayerutils_8h.html" title="qgssymbollayerutils.h" alt="" coords="781,333,947,360"/>
+<area shape="rect" id="node26" href="$qgssymbol_8h.html" title="qgssymbol.h" alt="" coords="1103,408,1209,435"/>
+<area shape="rect" id="node27" href="$qgscolorramp_8h.html" title="qgscolorramp.h" alt="" coords="703,408,825,435"/>
+<area shape="rect" id="node30" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="2427,483,2525,509"/>
+<area shape="rect" id="node34" href="$qgsnetworkcontentfetchertask_8h.html" title="qgsnetworkcontentfetchertask.h" alt="" coords="1930,333,2163,360"/>
+<area shape="rect" id="node37" href="$qgsstylegroupselectiondialog_8h.html" title="qgsstylegroupselectiondialog.h" alt="" coords="89,109,314,136"/>
+<area shape="rect" id="node38" href="$qgsguiutils_8h.html" title="qgsguiutils.h" alt="" coords="931,184,1037,211"/>
+<area shape="rect" id="node39" href="$qgssettings_8h.html" title="qgssettings.h" alt="" coords="1816,408,1925,435"/>
+<area shape="rect" id="node40" href="$qgsgui_8h.html" title="qgsgui.h" alt="" coords="5,184,83,211"/>
+<area shape="rect" id="node41" href="$qgsstylemodel_8h.html" title="qgsstylemodel.h" alt="" coords="1163,184,1293,211"/>
+<area shape="rect" id="node42" href="$qgsstylemanagerdialog_8h.html" title="qgsstylemanagerdialog.h" alt="" coords="800,109,987,136"/>
+<area shape="rect" id="node7" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="765,557,851,584"/>
+<area shape="rect" id="node8" href="$qgshelp_8h.html" title="qgshelp.h" alt="" coords="771,184,856,211"/>
+<area shape="rect" id="node16" href="$qgstranslationcontext_8h.html" title="qgstranslationcontext.h" alt="" coords="1800,483,1976,509"/>
+<area shape="rect" id="node19" href="$qgis_8h.html" title="qgis.h" alt="" coords="659,483,720,509"/>
+<area shape="rect" id="node23" href="$qgssqliteutils_8h.html" title="qgssqliteutils.h" alt="" coords="846,483,967,509"/>
+<area shape="rect" id="node28" href="$qgstextrenderer_8h.html" title="qgstextrenderer.h" alt="" coords="1233,408,1370,435"/>
+<area shape="rect" id="node29" href="$qgspallabeling_8h.html" title="qgspallabeling.h" alt="" coords="1278,333,1407,360"/>
+<area shape="rect" id="node35" href="$qgstaskmanager_8h.html" title="qgstaskmanager.h" alt="" coords="1649,408,1791,435"/>
+</map>

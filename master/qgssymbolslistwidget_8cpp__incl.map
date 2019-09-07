@@ -1,0 +1,32 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/symbology/qgssymbolslistwidget.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/symbology/qgssymbolslistwidget.cpp">
+<area shape="rect" id="node2" href="$qgssymbolslistwidget_8h.html" title="qgssymbolslistwidget.h" alt="" coords="1996,333,2172,360"/>
+<area shape="rect" id="node20" href="$qgsstylemanagerdialog_8h.html" title="qgsstylemanagerdialog.h" alt="" coords="787,333,973,360"/>
+<area shape="rect" id="node27" href="$qgsstylesavedialog_8h.html" title="qgsstylesavedialog.h" alt="" coords="93,408,253,435"/>
+<area shape="rect" id="node29" href="$qgsstyleitemslistwidget_8h.html" title="qgsstyleitemslistwidget.h" alt="" coords="1523,408,1714,435"/>
+<area shape="rect" id="node31" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="3129,184,3260,211"/>
+<area shape="rect" id="node45" href="$qgsnewauxiliarylayerdialog_8h.html" title="qgsnewauxiliarylayerdialog.h" alt="" coords="1446,333,1661,360"/>
+<area shape="rect" id="node48" href="$qgsauxiliarystorage_8h.html" title="qgsauxiliarystorage.h" alt="" coords="2376,109,2539,136"/>
+<area shape="rect" id="node4" href="$qgssymbolwidgetcontext_8h.html" title="qgssymbolwidgetcontext.h" alt="" coords="2222,408,2421,435"/>
+<area shape="rect" id="node15" href="$qgssymbollayer_8h.html" title="qgssymbollayer.h" alt="" coords="2917,557,3054,584"/>
+<area shape="rect" id="node16" href="$qgsstylemodel_8h.html" title="qgsstylemodel.h" alt="" coords="1896,483,2027,509"/>
+<area shape="rect" id="node5" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="3303,483,3481,509"/>
+<area shape="rect" id="node7" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="2138,707,2225,733"/>
+<area shape="rect" id="node10" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="3129,557,3233,584"/>
+<area shape="rect" id="node13" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="3047,632,3139,659"/>
+<area shape="rect" id="node17" href="$qgsstyle_8h.html" title="qgsstyle.h" alt="" coords="2151,557,2241,584"/>
+<area shape="rect" id="node18" href="$qgis_8h.html" title="qgis.h" alt="" coords="2151,632,2212,659"/>
+<area shape="rect" id="node26" href="$qgshelp_8h.html" title="qgshelp.h" alt="" coords="589,408,675,435"/>
+<area shape="rect" id="node34" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="2389,632,2507,659"/>
+<area shape="rect" id="node35" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="3306,408,3459,435"/>
+<area shape="rect" id="node36" href="$qgsfeaturesource_8h.html" title="qgsfeaturesource.h" alt="" coords="3153,333,3300,360"/>
+<area shape="rect" id="node37" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="2901,259,3081,285"/>
+<area shape="rect" id="node38" href="$qgsaggregatecalculator_8h.html" title="qgsaggregatecalculator.h" alt="" coords="3425,333,3612,360"/>
+<area shape="rect" id="node39" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="4309,259,4510,285"/>
+<area shape="rect" id="node40" href="$qgseditformconfig_8h.html" title="qgseditformconfig.h" alt="" coords="2417,557,2569,584"/>
+<area shape="rect" id="node41" href="$qgsattributetableconfig_8h.html" title="qgsattributetableconfig.h" alt="" coords="2786,632,2971,659"/>
+<area shape="rect" id="node42" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="3981,333,4131,360"/>
+<area shape="rect" id="node43" href="$qgsexpressioncontextgenerator_8h.html" title="qgsexpressioncontextgenerator.h" alt="" coords="3258,259,3497,285"/>
+<area shape="rect" id="node44" href="$qgsexpressioncontextscopegenerator_8h.html" title="qgsexpressioncontextscopegenerator.h" alt="" coords="3521,259,3799,285"/>
+<area shape="rect" id="node47" href="$qgsguiutils_8h.html" title="qgsguiutils.h" alt="" coords="1738,408,1843,435"/>
+<area shape="rect" id="node49" href="$qgsdatasourceuri_8h.html" title="qgsdatasourceuri.h" alt="" coords="2695,557,2841,584"/>
+</map>
