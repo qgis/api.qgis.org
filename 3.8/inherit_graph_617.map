@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsTessellatedPolygonGeometry.html" title="3 Class derived from Qt3DRender::QGeometry that represents polygons tessellated into 3D geometry..." alt="" coords="151,5,388,32"/>
+<area shape="rect" id="node3" href="$classQuantizedMeshGeometry.html" title="3 Stores vertex and index buffer for one tile of quantized mesh terrain. " alt="" coords="176,56,363,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsScaleBarRenderer.html" title="Abstract base class for scale bar renderers. " alt="" coords="5,81,168,108"/>
+<area shape="rect" id="node2" href="$classQgsDoubleBoxScaleBarRenderer.html" title="Double box with alternating colors. " alt="" coords="216,5,449,32"/>
+<area shape="rect" id="node3" href="$classQgsNumericScaleBarRenderer.html" title="A scale bar style that draws text in the form of &#39;1:XXXXX&#39;. " alt="" coords="224,56,441,83"/>
+<area shape="rect" id="node4" href="$classQgsSingleBoxScaleBarRenderer.html" title="Scalebar style that draws a single box with alternating color for the segments. " alt="" coords="219,107,446,133"/>
+<area shape="rect" id="node5" href="$classQgsTicksScaleBarRenderer.html" title="A scale bar that draws segments using short ticks. " alt="" coords="235,157,431,184"/>
+</map>

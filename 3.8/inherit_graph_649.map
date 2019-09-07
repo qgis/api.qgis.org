@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsVectorFileWriter_1_1Option.html" title="QgsVectorFileWriter\l::Option" alt="" coords="5,104,155,145"/>
+<area shape="rect" id="node2" href="$classQgsVectorFileWriter_1_1HiddenOption.html" title="QgsVectorFileWriter\l::HiddenOption" alt="" coords="203,5,352,47"/>
+<area shape="rect" id="node3" href="$classQgsVectorFileWriter_1_1IntOption.html" title="QgsVectorFileWriter\l::IntOption" alt="" coords="203,71,352,112"/>
+<area shape="rect" id="node4" href="$classQgsVectorFileWriter_1_1SetOption.html" title="QgsVectorFileWriter\l::SetOption" alt="" coords="203,136,352,177"/>
+<area shape="rect" id="node6" href="$classQgsVectorFileWriter_1_1StringOption.html" title="QgsVectorFileWriter\l::StringOption" alt="" coords="203,201,352,243"/>
+<area shape="rect" id="node5" href="$classQgsVectorFileWriter_1_1BoolOption.html" title="QgsVectorFileWriter\l::BoolOption" alt="" coords="400,136,549,177"/>
+</map>

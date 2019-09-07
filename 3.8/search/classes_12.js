@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['savevectoroptions',['SaveVectorOptions',['../classQgsVectorFileWriter_1_1SaveVectorOptions.html',1,'QgsVectorFileWriter']]],
+  ['scalebarcontext',['ScaleBarContext',['../structQgsScaleBarRenderer_1_1ScaleBarContext.html',1,'QgsScaleBarRenderer']]],
+  ['selfintersection',['SelfIntersection',['../structQgsGeometryUtils_1_1SelfIntersection.html',1,'QgsGeometryUtils']]],
+  ['service',['Service',['../classQgsWcs_1_1Service.html',1,'QgsWcs::Service'],['../classQgsWfs_1_1Service.html',1,'QgsWfs::Service'],['../classQgsWms_1_1Service.html',1,'QgsWms::Service']]],
+  ['servicelayerdetail',['ServiceLayerDetail',['../structQgsGeoNodeRequest_1_1ServiceLayerDetail.html',1,'QgsGeoNodeRequest']]],
+  ['setoption',['SetOption',['../classQgsVectorFileWriter_1_1SetOption.html',1,'QgsVectorFileWriter']]],
+  ['setting',['Setting',['../structQgsServerSettings_1_1Setting.html',1,'QgsServerSettings']]],
+  ['sizeclass',['SizeClass',['../structQgsDataDefinedSizeLegend_1_1SizeClass.html',1,'QgsDataDefinedSizeLegend']]],
+  ['sol',['Sol',['../classpal_1_1Sol.html',1,'pal']]],
+  ['sourcelayer',['SourceLayer',['../classQgsVirtualLayerDefinition_1_1SourceLayer.html',1,'QgsVirtualLayerDefinition']]],
+  ['spatialextent',['SpatialExtent',['../structQgsLayerMetadata_1_1SpatialExtent.html',1,'QgsLayerMetadata']]],
+  ['spatialite_5fdatabase_5funique_5fptr',['spatialite_database_unique_ptr',['../classspatialite__database__unique__ptr.html',1,'']]],
+  ['sqlite3_5fdatabase_5funique_5fptr',['sqlite3_database_unique_ptr',['../classsqlite3__database__unique__ptr.html',1,'']]],
+  ['sqlite3_5fstatement_5funique_5fptr',['sqlite3_statement_unique_ptr',['../classsqlite3__statement__unique__ptr.html',1,'']]],
+  ['sqlvalidatorcallback',['SQLValidatorCallback',['../classQgsSQLComposerDialog_1_1SQLValidatorCallback.html',1,'QgsSQLComposerDialog']]],
+  ['staticvariable',['StaticVariable',['../structQgsExpressionContextScope_1_1StaticVariable.html',1,'QgsExpressionContextScope']]],
+  ['stringoption',['StringOption',['../classQgsVectorFileWriter_1_1StringOption.html',1,'QgsVectorFileWriter']]],
+  ['subpartcontext',['SubPartContext',['../structSubPartContext.html',1,'']]],
+  ['supportedformat',['SupportedFormat',['../structQgsOWSSourceSelect_1_1SupportedFormat.html',1,'QgsOWSSourceSelect']]],
+  ['svgexportsettings',['SvgExportSettings',['../structQgsLayoutExporter_1_1SvgExportSettings.html',1,'QgsLayoutExporter']]]
+];

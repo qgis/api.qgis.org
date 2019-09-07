@@ -1,0 +1,5 @@
+<map id="QgsPointClusterRendererWidget" name="QgsPointClusterRendererWidget">
+<area shape="rect" id="node2" href="$classQgsRendererWidget.html" title="Base class for renderer settings widgets. " alt="" coords="223,5,374,32"/>
+<area shape="rect" id="node3" href="$classQgsPanelWidget.html" title="Base class for any widget that can be shown as a inline panel. " alt="" coords="5,5,133,32"/>
+<area shape="rect" id="node4" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="181,56,416,83"/>
+</map>

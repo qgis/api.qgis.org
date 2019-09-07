@@ -1,0 +1,5 @@
+<map id="QgsPropertyTransformer" name="QgsPropertyTransformer">
+<area shape="rect" id="node2" href="$classQgsColorRampTransformer.html" title="QgsPropertyTransformer subclass for transforming a numeric value into a color from a color ramp..." alt="" coords="5,80,203,107"/>
+<area shape="rect" id="node3" href="$classQgsGenericNumericTransformer.html" title="QgsPropertyTransformer subclass for scaling an input numeric value into an output numeric value..." alt="" coords="227,80,458,107"/>
+<area shape="rect" id="node4" href="$classQgsSizeScaleTransformer.html" title="QgsPropertyTransformer subclass for scaling a value into a size according to various scaling methods..." alt="" coords="483,80,669,107"/>
+</map>

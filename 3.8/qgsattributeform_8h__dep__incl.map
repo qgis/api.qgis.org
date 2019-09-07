@@ -1,0 +1,23 @@
+<map id="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/gui/qgsattributeform.h" name="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/gui/qgsattributeform.h">
+<area shape="rect" id="node2" href="$qgsactionmenu_8h.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsactionmenu.h" alt="" coords="623,102,891,143"/>
+<area shape="rect" id="node4" href="$qgsattributedialog_8h.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsattributedialog.h" alt="" coords="923,206,1210,247"/>
+<area shape="rect" id="node5" href="$qgsattributedialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsattributedialog.cpp" alt="" coords="319,310,622,351"/>
+<area shape="rect" id="node6" href="$qgsrelationreferencewidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/editorwidgets\l/qgsrelationreferencewidget.cpp" alt="" coords="1035,303,1280,359"/>
+<area shape="rect" id="node9" href="$qgsattributeform_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsattributeform.cpp" alt="" coords="1285,102,1579,143"/>
+<area shape="rect" id="node10" href="$qgsattributeformeditorwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsattributeformeditorwidget.cpp" alt="" coords="1603,102,1978,143"/>
+<area shape="rect" id="node11" href="$qgsattributeforminterface_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsattributeforminterface.cpp" alt="" coords="2002,102,2353,143"/>
+<area shape="rect" id="node12" href="$qgsattributeformlegacyinterface_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsattributeformlegacyinterface.cpp" alt="" coords="2377,102,2772,143"/>
+<area shape="rect" id="node13" href="$qgsattributeformrelationeditorwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsattributeformrelationeditorwidget.cpp" alt="" coords="3394,206,3819,247"/>
+<area shape="rect" id="node14" href="$qgsattributeformwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsattributeformwidget.cpp" alt="" coords="3066,102,3403,143"/>
+<area shape="rect" id="node15" href="$qgsdualview_8h.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/attributetable\l/qgsdualview.h" alt="" coords="2796,95,3041,151"/>
+<area shape="rect" id="node18" href="$qgskeyvaluewidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/editorwidgets\l/qgskeyvaluewidgetwrapper.cpp" alt="" coords="3479,95,3724,151"/>
+<area shape="rect" id="node19" href="$qgslistwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/editorwidgets\l/qgslistwidgetwrapper.cpp" alt="" coords="3748,95,3993,151"/>
+<area shape="rect" id="node20" href="$qgsrelationaggregatesearchwidgetwrapper_8h.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/editorwidgets\l/qgsrelationaggregatesearchwidgetwrapper.h" alt="" coords="4018,95,4334,151"/>
+<area shape="rect" id="node21" href="$qgsrelationaggregatesearchwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/editorwidgets\l/qgsrelationaggregatesearchwidgetwrapper.cpp" alt="" coords="4108,199,4439,255"/>
+<area shape="rect" id="node22" href="$qgsvaluerelationwidgetwrapper_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/editorwidgets\l/qgsvaluerelationwidgetwrapper.cpp" alt="" coords="4409,95,4668,151"/>
+<area shape="rect" id="node3" href="$qgsactionmenu_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsactionmenu.cpp" alt="" coords="616,206,899,247"/>
+<area shape="rect" id="node7" href="$qgsidentifymenu_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsidentifymenu.cpp" alt="" coords="29,206,323,247"/>
+<area shape="rect" id="node8" href="$qgsfeaturelistview_8h.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/attributetable\l/qgsfeaturelistview.h" alt="" coords="347,199,592,255"/>
+<area shape="rect" id="node16" href="$qgsrelationeditorwidget_8h.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsrelationeditorwidget.h" alt="" coords="2819,206,3141,247"/>
+<area shape="rect" id="node17" href="$qgsdualview_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/attributetable\l/qgsdualview.cpp" alt="" coords="2549,199,2795,255"/>
+</map>

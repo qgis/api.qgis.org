@@ -1,0 +1,32 @@
+<map id="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/core/qgsmapsettingsutils.cpp" name="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/core/qgsmapsettingsutils.cpp">
+<area shape="rect" id="node2" href="$qgsmapsettings_8h.html" title="qgsmapsettings.h" alt="" coords="909,319,1048,345"/>
+<area shape="rect" id="node28" href="$qgsmapsettingsutils_8h.html" title="qgsmapsettingsutils.h" alt="" coords="475,244,642,271"/>
+<area shape="rect" id="node29" href="$qgspallabeling_8h.html" title="qgspallabeling.h" alt="" coords="1697,244,1826,271"/>
+<area shape="rect" id="node34" href="$qgstextrenderer_8h.html" title="qgstextrenderer.h" alt="" coords="2451,393,2589,420"/>
+<area shape="rect" id="node36" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="3003,95,3133,121"/>
+<area shape="rect" id="node4" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="2241,617,2327,644"/>
+<area shape="rect" id="node10" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="1469,468,1705,495"/>
+<area shape="rect" id="node14" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="666,543,785,569"/>
+<area shape="rect" id="node17" href="$qgslabelingenginesettings_8h.html" title="qgslabelingenginesettings.h" alt="" coords="347,393,552,420"/>
+<area shape="rect" id="node18" href="$qgsmaptopixel_8h.html" title="qgsmaptopixel.h" alt="" coords="1333,543,1464,569"/>
+<area shape="rect" id="node19" href="$qgsscalecalculator_8h.html" title="qgsscalecalculator.h" alt="" coords="1155,543,1309,569"/>
+<area shape="rect" id="node20" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="2198,393,2375,420"/>
+<area shape="rect" id="node25" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1013,543,1131,569"/>
+<area shape="rect" id="node26" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="1361,393,1479,420"/>
+<area shape="rect" id="node16" href="$qgspointxy_8h.html" title="qgspointxy.h" alt="" coords="631,617,735,644"/>
+<area shape="rect" id="node22" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="3181,468,3285,495"/>
+<area shape="rect" id="node24" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="2915,543,3007,569"/>
+<area shape="rect" id="node32" href="$qgsmapunitscale_8h.html" title="qgsmapunitscale.h" alt="" coords="2555,468,2701,495"/>
+<area shape="rect" id="node33" href="$qgsstringutils_8h.html" title="qgsstringutils.h" alt="" coords="1849,319,1972,345"/>
+<area shape="rect" id="node35" href="$qgspropertycollection_8h.html" title="qgspropertycollection.h" alt="" coords="1351,319,1526,345"/>
+<area shape="rect" id="node38" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="3182,319,3335,345"/>
+<area shape="rect" id="node39" href="$qgsfeaturesource_8h.html" title="qgsfeaturesource.h" alt="" coords="3381,244,3528,271"/>
+<area shape="rect" id="node40" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="3382,169,3562,196"/>
+<area shape="rect" id="node41" href="$qgsaggregatecalculator_8h.html" title="qgsaggregatecalculator.h" alt="" coords="3069,244,3256,271"/>
+<area shape="rect" id="node42" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="2625,617,2826,644"/>
+<area shape="rect" id="node43" href="$qgseditformconfig_8h.html" title="qgseditformconfig.h" alt="" coords="3867,468,4019,495"/>
+<area shape="rect" id="node44" href="$qgsattributetableconfig_8h.html" title="qgsattributetableconfig.h" alt="" coords="1742,543,1927,569"/>
+<area shape="rect" id="node45" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="2843,244,2994,271"/>
+<area shape="rect" id="node46" href="$qgsexpressioncontextgenerator_8h.html" title="qgsexpressioncontextgenerator.h" alt="" coords="2353,169,2591,196"/>
+<area shape="rect" id="node47" href="$qgsexpressioncontextscopegenerator_8h.html" title="qgsexpressioncontextscopegenerator.h" alt="" coords="2616,169,2893,196"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="QgsTask" name="QgsTask">
+<area shape="rect" id="node3" href="$classQgsMapRendererTask.html" title="QgsTask task which draws a map to an image file or a painter as a background task. " alt="" coords="286,5,447,32"/>
+<area shape="rect" id="node4" href="$classQgsNetworkContentFetcherTask.html" title="Handles HTTP network content fetching in a background task. " alt="" coords="252,56,481,83"/>
+<area shape="rect" id="node5" href="$classQgsProcessingAlgRunnerTask.html" title="QgsTask task which runs a QgsProcessingAlgorithm in a background task. " alt="" coords="261,107,473,133"/>
+<area shape="rect" id="node6" href="$classQgsProxyProgressTask.html" title="A QgsTask shell which proxies progress reports. " alt="" coords="282,157,451,184"/>
+<area shape="rect" id="node7" href="$classQgsRasterFileWriterTask.html" title="QgsTask task which performs a QgsRasterFileWriter layer saving operation as a background task..." alt="" coords="277,208,456,235"/>
+<area shape="rect" id="node8" href="$classQgsVectorFileWriterTask.html" title="QgsTask task which performs a QgsVectorFileWriter layer saving operation as a background task..." alt="" coords="277,259,456,285"/>
+<area shape="rect" id="node9" href="$classQgsVectorLayerExporterTask.html" title="QgsTask task which performs a QgsVectorLayerExporter layer export operation as a background task..." alt="" coords="263,309,471,336"/>
+<area shape="rect" id="node10" href="$classQgsVectorLayerFeatureCounter.html" title="Counts the features in a QgsVectorLayer in task. " alt="" coords="255,360,478,387"/>
+<area shape="rect" id="node11" href="$classQgsVirtualLayerTask.html" title="Initializes a virtual layer with postpone mode activated and reloads the data in a separated thread..." alt="" coords="289,411,444,437"/>
+</map>

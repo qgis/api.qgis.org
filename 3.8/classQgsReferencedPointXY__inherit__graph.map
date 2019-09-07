@@ -1,0 +1,4 @@
+<map id="QgsReferencedPointXY" name="QgsReferencedPointXY">
+<area shape="rect" id="node2" href="$classQgsPointXY.html" title="A class to represent a 2D point. " alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node3" href="$classQgsReferencedGeometryBase.html" title="A base class for geometry primitives which are stored with an associated reference system..." alt="" coords="127,5,344,32"/>
+</map>

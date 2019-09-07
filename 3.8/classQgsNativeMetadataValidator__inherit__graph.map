@@ -1,0 +1,4 @@
+<map id="QgsNativeMetadataValidator" name="QgsNativeMetadataValidator">
+<area shape="rect" id="node2" href="$classQgsNativeMetadataBaseValidator.html" title="A validator for the native base QGIS metadata schema definition. " alt="" coords="11,80,252,107"/>
+<area shape="rect" id="node3" href="$classQgsAbstractMetadataBaseValidator.html" title="Abstract base class for metadata validators. " alt="" coords="5,5,257,32"/>
+</map>

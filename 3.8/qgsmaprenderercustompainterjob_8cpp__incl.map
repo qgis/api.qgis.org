@@ -1,0 +1,32 @@
+<map id="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/core/qgsmaprenderercustompainterjob.cpp" name="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/core/qgsmaprenderercustompainterjob.cpp">
+<area shape="rect" id="node2" href="$qgsmaprenderercustompainterjob_8h.html" title="qgsmaprenderercustompainterjob.h" alt="" coords="171,95,426,121"/>
+<area shape="rect" id="node17" href="$qgsfeedback_8h.html" title="qgsfeedback.h" alt="" coords="93,393,211,420"/>
+<area shape="rect" id="node18" href="$qgslabelingengine_8h.html" title="qgslabelingengine.h" alt="" coords="3365,169,3518,196"/>
+<area shape="rect" id="node24" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="485,244,582,271"/>
+<area shape="rect" id="node27" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="2030,244,2133,271"/>
+<area shape="rect" id="node45" href="$qgsmaplayerrenderer_8h.html" title="qgsmaplayerrenderer.h" alt="" coords="2963,319,3136,345"/>
+<area shape="rect" id="node46" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="3795,319,3925,345"/>
+<area shape="rect" id="node48" href="$qgsrenderer_8h.html" title="qgsrenderer.h" alt="" coords="4106,393,4217,420"/>
+<area shape="rect" id="node49" href="$qgsmaplayerlistutils_8h.html" title="qgsmaplayerlistutils.h" alt="" coords="4199,95,4366,121"/>
+<area shape="rect" id="node4" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="841,468,927,495"/>
+<area shape="rect" id="node5" href="$qgsmaprendererjob_8h.html" title="qgsmaprendererjob.h" alt="" coords="218,169,379,196"/>
+<area shape="rect" id="node8" href="$qgsmapsettings_8h.html" title="qgsmapsettings.h" alt="" coords="1008,244,1147,271"/>
+<area shape="rect" id="node10" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="959,319,1195,345"/>
+<area shape="rect" id="node15" href="$qgslabelingenginesettings_8h.html" title="qgslabelingenginesettings.h" alt="" coords="3043,393,3248,420"/>
+<area shape="rect" id="node14" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="677,393,795,420"/>
+<area shape="rect" id="node19" href="$qgspallabeling_8h.html" title="qgspallabeling.h" alt="" coords="3641,319,3770,345"/>
+<area shape="rect" id="node22" href="$pal_8h.html" title="pal.h" alt="" coords="3557,244,3611,271"/>
+<area shape="rect" id="node32" href="$qgssnappingconfig_8h.html" title="qgssnappingconfig.h" alt="" coords="1563,319,1717,345"/>
+<area shape="rect" id="node33" href="$qgsprojectversion_8h.html" title="qgsprojectversion.h" alt="" coords="3161,319,3311,345"/>
+<area shape="rect" id="node34" href="$qgsexpressioncontextgenerator_8h.html" title="qgsexpressioncontextgenerator.h" alt="" coords="3843,393,4082,420"/>
+<area shape="rect" id="node35" href="$qgscoordinatetransformcontext_8h.html" title="qgscoordinatetransformcontext.h" alt="" coords="1314,393,1553,420"/>
+<area shape="rect" id="node36" href="$qgsprojectproperty_8h.html" title="qgsprojectproperty.h" alt="" coords="1947,319,2101,345"/>
+<area shape="rect" id="node37" href="$qgsmaplayerstore_8h.html" title="qgsmaplayerstore.h" alt="" coords="449,393,601,420"/>
+<area shape="rect" id="node38" href="$qgsarchive_8h.html" title="qgsarchive.h" alt="" coords="2177,319,2282,345"/>
+<area shape="rect" id="node39" href="$qgsreadwritecontext_8h.html" title="qgsreadwritecontext.h" alt="" coords="1320,319,1488,345"/>
+<area shape="rect" id="node40" href="$qgsprojecttranslator_8h.html" title="qgsprojecttranslator.h" alt="" coords="1577,393,1741,420"/>
+<area shape="rect" id="node41" href="$qgsprojectmetadata_8h.html" title="qgsprojectmetadata.h" alt="" coords="1023,393,1188,420"/>
+<area shape="rect" id="node42" href="$qgstranslationcontext_8h.html" title="qgstranslationcontext.h" alt="" coords="3323,393,3499,420"/>
+<area shape="rect" id="node43" href="$qgsattributeeditorelement_8h.html" title="qgsattributeeditorelement.h" alt="" coords="2357,319,2563,345"/>
+<area shape="rect" id="node44" href="$qgscolorscheme_8h.html" title="qgscolorscheme.h" alt="" coords="2275,393,2415,420"/>
+</map>

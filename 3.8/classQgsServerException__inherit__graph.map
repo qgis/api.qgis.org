@@ -1,0 +1,9 @@
+<map id="QgsServerException" name="QgsServerException">
+<area shape="rect" id="node3" href="$classQgsOgcServiceException.html" title="Exception base class for service exceptions. " alt="" coords="365,107,549,133"/>
+<area shape="rect" id="node2" href="$classQgsException.html" title="Defines a QGIS exception class. " alt="" coords="5,107,116,133"/>
+<area shape="rect" id="node4" href="$classQgsBadRequestException.html" title="Exception thrown in case of malformed request. " alt="" coords="616,5,804,32"/>
+<area shape="rect" id="node5" href="$classQgsMapServiceException.html" title="Exception class for WMS service exceptions (for compatibility only). " alt="" coords="617,56,803,83"/>
+<area shape="rect" id="node6" href="$classQgsWcs_1_1QgsServiceException.html" title="Exception class for WFS services. " alt="" coords="601,107,819,133"/>
+<area shape="rect" id="node7" href="$classQgsWfs_1_1QgsServiceException.html" title="Exception class for WFS service exceptions. " alt="" coords="601,157,819,184"/>
+<area shape="rect" id="node8" href="$classQgsWms_1_1QgsServiceException.html" title="Exception class for WMS service exceptions. " alt="" coords="597,208,823,235"/>
+</map>

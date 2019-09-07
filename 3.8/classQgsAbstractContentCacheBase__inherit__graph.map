@@ -1,0 +1,7 @@
+<map id="QgsAbstractContentCacheBase" name="QgsAbstractContentCacheBase">
+<area shape="rect" id="node3" href="$classQgsAbstractContentCache.html" title="Abstract base class for file content caches, such as SVG or raster image caches. " alt="" coords="400,5,631,32"/>
+<area shape="rect" id="node4" href="$classQgsAbstractContentCache.html" title="QgsAbstractContentCache\l\&lt; QgsImageCacheEntry \&gt;" alt="" coords="419,57,611,98"/>
+<area shape="rect" id="node6" href="$classQgsAbstractContentCache.html" title="QgsAbstractContentCache\l\&lt; QgsSvgCacheEntry \&gt;" alt="" coords="419,122,611,163"/>
+<area shape="rect" id="node5" href="$classQgsImageCache.html" title="A cache for images derived from raster files. " alt="" coords="679,64,807,91"/>
+<area shape="rect" id="node7" href="$classQgsSvgCache.html" title="A cache for images / pictures derived from svg files. " alt="" coords="687,129,798,156"/>
+</map>

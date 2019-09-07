@@ -1,0 +1,5 @@
+<map id="QgsFeaturePool" name="QgsFeaturePool">
+<area shape="rect" id="node3" href="$classQgsVectorDataProviderFeaturePool.html" title="A feature pool based on a vector data provider. " alt="" coords="5,155,255,181"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayerFeaturePool.html" title="A feature pool based on a vector layer. " alt="" coords="278,155,478,181"/>
+<area shape="rect" id="node2" href="$classQgsFeatureSink.html" title="An interface for objects which accept features via addFeature(s) methods. " alt="" coords="193,5,315,32"/>
+</map>

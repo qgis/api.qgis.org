@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsProjectProperty.html" title="An Abstract Base Class for QGIS project property hierarchys. " alt="" coords="5,31,152,57"/>
+<area shape="rect" id="node2" href="$classQgsProjectPropertyKey.html" title="Project property key node. " alt="" coords="206,5,377,32"/>
+<area shape="rect" id="node3" href="$classQgsProjectPropertyValue.html" title="Project property value node, contains a QgsProjectPropertyKey&#39;s value. " alt="" coords="200,56,383,83"/>
+</map>

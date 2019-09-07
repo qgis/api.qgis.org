@@ -1,0 +1,5 @@
+<map id="QgsExpressionContextScopeGenerator" name="QgsExpressionContextScopeGenerator">
+<area shape="rect" id="node2" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="14,102,138,129"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayerSelectedFeatureSource.html" title="QgsFeatureSource subclass for the selected features from a QgsVectorLayer. " alt="" coords="162,95,390,136"/>
+<area shape="rect" id="node3" href="$classQgsAuxiliaryLayer.html" title="Class allowing to manage the auxiliary storage for a vector layer. " alt="" coords="5,184,147,211"/>
+</map>

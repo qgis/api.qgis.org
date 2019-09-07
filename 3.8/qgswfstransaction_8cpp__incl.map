@@ -1,0 +1,33 @@
+<map id="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/server/services/wfs/qgswfstransaction.cpp" name="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/server/services/wfs/qgswfstransaction.cpp">
+<area shape="rect" id="node2" href="$qgswfsutils_8h.html" title="qgswfsutils.h" alt="" coords="1253,184,1361,211"/>
+<area shape="rect" id="node10" href="$qgsexpression_8h.html" title="qgsexpression.h" alt="" coords="839,333,967,360"/>
+<area shape="rect" id="node19" href="$qgsserverprojectutils_8h.html" title="qgsserverprojectutils.h" alt="" coords="3869,408,4040,435"/>
+<area shape="rect" id="node22" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="3723,184,3815,211"/>
+<area shape="rect" id="node23" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="493,333,611,360"/>
+<area shape="rect" id="node25" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="2717,184,2835,211"/>
+<area shape="rect" id="node42" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="467,184,618,211"/>
+<area shape="rect" id="node44" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="1747,184,1927,211"/>
+<area shape="rect" id="node45" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1893,109,2024,136"/>
+<area shape="rect" id="node46" href="$qgsfilterrestorer_8h.html" title="qgsfilterrestorer.h" alt="" coords="4065,408,4202,435"/>
+<area shape="rect" id="node47" href="$qgsogcutils_8h.html" title="qgsogcutils.h" alt="" coords="694,259,802,285"/>
+<area shape="rect" id="node48" href="$qgswfstransaction_8h.html" title="qgswfstransaction.h" alt="" coords="4094,109,4247,136"/>
+<area shape="rect" id="node49" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="3393,333,3495,360"/>
+<area shape="rect" id="node50" href="$qgsexpressioncontextutils_8h.html" title="qgsexpressioncontextutils.h" alt="" coords="1472,408,1677,435"/>
+<area shape="rect" id="node3" href="$qgsmodule_8h.html" title="qgsmodule.h" alt="" coords="1029,259,1136,285"/>
+<area shape="rect" id="node4" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="1313,259,1466,285"/>
+<area shape="rect" id="node17" href="$qgswfsserviceexception_8h.html" title="qgswfsserviceexception.h" alt="" coords="1145,333,1335,360"/>
+<area shape="rect" id="node6" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="2983,557,3070,584"/>
+<area shape="rect" id="node9" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="2090,483,2209,509"/>
+<area shape="rect" id="node14" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="3166,483,3285,509"/>
+<area shape="rect" id="node16" href="$qgsexpressionnode_8h.html" title="qgsexpressionnode.h" alt="" coords="699,408,859,435"/>
+<area shape="rect" id="node32" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="1953,333,2039,360"/>
+<area shape="rect" id="node33" href="$qgsobjectcustomproperties_8h.html" title="qgsobjectcustomproperties.h" alt="" coords="1136,408,1347,435"/>
+<area shape="rect" id="node35" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="3063,408,3299,435"/>
+<area shape="rect" id="node36" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="2217,333,2365,360"/>
+<area shape="rect" id="node37" href="$qgsmaplayerdependency_8h.html" title="qgsmaplayerdependency.h" alt="" coords="1478,333,1674,360"/>
+<area shape="rect" id="node38" href="$qgslayermetadata_8h.html" title="qgslayermetadata.h" alt="" coords="3043,333,3197,360"/>
+<area shape="rect" id="node39" href="$qgsmaplayerstyle_8h.html" title="qgsmaplayerstyle.h" alt="" coords="2697,333,2847,360"/>
+<area shape="rect" id="node40" href="$qgsreadwritecontext_8h.html" title="qgsreadwritecontext.h" alt="" coords="3627,408,3795,435"/>
+<area shape="rect" id="node41" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="2280,259,2419,285"/>
+<area shape="rect" id="node43" href="$qgsindexedfeature_8h.html" title="qgsindexedfeature.h" alt="" coords="303,259,459,285"/>
+</map>

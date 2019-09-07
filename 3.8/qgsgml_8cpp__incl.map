@@ -1,0 +1,20 @@
+<map id="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/core/qgsgml.cpp" name="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/core/qgsgml.cpp">
+<area shape="rect" id="node2" href="$qgsgml_8h.html" title="qgsgml.h" alt="" coords="781,169,864,196"/>
+<area shape="rect" id="node7" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="2701,244,2819,271"/>
+<area shape="rect" id="node10" href="$qgswkbptr_8h.html" title="qgswkbptr.h" alt="" coords="1444,319,1545,345"/>
+<area shape="rect" id="node16" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="749,319,867,345"/>
+<area shape="rect" id="node24" href="$qgsauthmanager_8h.html" title="qgsauthmanager.h" alt="" coords="2090,95,2233,121"/>
+<area shape="rect" id="node40" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="3141,169,3377,196"/>
+<area shape="rect" id="node41" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="3207,319,3305,345"/>
+<area shape="rect" id="node43" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="3400,169,3536,196"/>
+<area shape="rect" id="node44" href="$qgsnetworkaccessmanager_8h.html" title="qgsnetworkaccessmanager.h" alt="" coords="1011,169,1221,196"/>
+<area shape="rect" id="node45" href="$qgsogrutils_8h.html" title="qgsogrutils.h" alt="" coords="2909,169,3016,196"/>
+<area shape="rect" id="node47" href="$qgsapplication_8h.html" title="qgsapplication.h" alt="" coords="1297,169,1426,196"/>
+<area shape="rect" id="node5" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1287,393,1374,420"/>
+<area shape="rect" id="node6" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="1125,319,1217,345"/>
+<area shape="rect" id="node11" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1012,244,1116,271"/>
+<area shape="rect" id="node8" href="$qgis_8h.html" title="qgis.h" alt="" coords="2565,319,2627,345"/>
+<area shape="rect" id="node35" href="$qgsauthcertutils_8h.html" title="qgsauthcertutils.h" alt="" coords="2544,169,2683,196"/>
+<area shape="rect" id="node36" href="$qgsauthconfig_8h.html" title="qgsauthconfig.h" alt="" coords="2551,244,2676,271"/>
+<area shape="rect" id="node37" href="$qgsauthmethod_8h.html" title="qgsauthmethod.h" alt="" coords="2232,169,2368,196"/>
+</map>

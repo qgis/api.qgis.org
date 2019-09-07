@@ -1,0 +1,8 @@
+<map id="QgsColorRamp" name="QgsColorRamp">
+<area shape="rect" id="node2" href="$classQgsColorBrewerColorRamp.html" title="Color ramp utilising &quot;Color Brewer&quot; preset color schemes. " alt="" coords="184,5,383,32"/>
+<area shape="rect" id="node3" href="$classQgsGradientColorRamp.html" title="Gradient color ramp, which smoothly interpolates between two colors and also supports optional extra ..." alt="" coords="196,56,371,83"/>
+<area shape="rect" id="node5" href="$classQgsLimitedRandomColorRamp.html" title="Constrained random color ramp, which returns random colors based on preset parameters. " alt="" coords="172,107,395,133"/>
+<area shape="rect" id="node6" href="$classQgsPresetSchemeColorRamp.html" title="A scheme based color ramp consisting of a list of predefined colors. " alt="" coords="177,157,389,184"/>
+<area shape="rect" id="node7" href="$classQgsRandomColorRamp.html" title="Totally random color ramp. " alt="" coords="197,208,370,235"/>
+<area shape="rect" id="node4" href="$classQgsCptCityColorRamp.html" title="QgsCptCityColorRamp" alt="" coords="443,56,609,83"/>
+</map>

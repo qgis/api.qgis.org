@@ -1,0 +1,12 @@
+<map id="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/core/effects/qgseffectstack.h" name="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/core/effects/qgseffectstack.h">
+<area shape="rect" id="node2" href="$qgseffectstack_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/core/effects\l/qgseffectstack.cpp" alt="" coords="5,109,213,165"/>
+<area shape="rect" id="node3" href="$qgspainteffectregistry_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/core/effects\l/qgspainteffectregistry.cpp" alt="" coords="237,109,445,165"/>
+<area shape="rect" id="node4" href="$qgslayoutitemregistry_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/core/layout\l/qgslayoutitemregistry.cpp" alt="" coords="469,109,675,165"/>
+<area shape="rect" id="node5" href="$qgs25drenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/core/symbology\l/qgs25drenderer.cpp" alt="" coords="699,109,935,165"/>
+<area shape="rect" id="node6" href="$qgsrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/core/symbology\l/qgsrenderer.cpp" alt="" coords="959,109,1195,165"/>
+<area shape="rect" id="node7" href="$qgssymbol_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/core/symbology\l/qgssymbol.cpp" alt="" coords="1219,109,1455,165"/>
+<area shape="rect" id="node8" href="$qgssymbollayer_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/core/symbology\l/qgssymbollayer.cpp" alt="" coords="1479,109,1715,165"/>
+<area shape="rect" id="node9" href="$qgstextformatwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgstextformatwidget.cpp" alt="" coords="1739,117,2059,158"/>
+<area shape="rect" id="node10" href="$qgseffectstackpropertieswidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/effects\l/qgseffectstackpropertieswidget.cpp" alt="" coords="2083,109,2341,165"/>
+<area shape="rect" id="node11" href="$qgspainteffectpropertieswidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/effects\l/qgspainteffectpropertieswidget.cpp" alt="" coords="2365,109,2621,165"/>
+</map>

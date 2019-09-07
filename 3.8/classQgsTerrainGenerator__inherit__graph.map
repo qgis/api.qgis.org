@@ -1,0 +1,6 @@
+<map id="QgsTerrainGenerator" name="QgsTerrainGenerator">
+<area shape="rect" id="node3" href="$classQgsDemTerrainGenerator.html" title="3 Implementation of terrain generator that uses a raster layer with DEM to build terrain. " alt="" coords="458,5,645,32"/>
+<area shape="rect" id="node4" href="$classQgsFlatTerrainGenerator.html" title="3 Terrain generator that creates a simple square flat area. " alt="" coords="461,56,641,83"/>
+<area shape="rect" id="node5" href="$classQgsOnlineTerrainGenerator.html" title="3 Implementation of terrain generator that uses online resources to download heightmaps. " alt="" coords="452,107,651,133"/>
+<area shape="rect" id="node6" href="$classQuantizedMeshTerrainGenerator.html" title="3 Terrain generator using downloaded terrain tiles using quantized mesh specification ..." alt="" coords="436,157,667,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsAbstractGeometrySimplifier" name="QgsAbstractGeometrySimplifier">
+<area shape="rect" id="node2" href="$classQgsMapToPixelSimplifier.html" title="Implementation of GeometrySimplifier using the &quot;MapToPixel&quot; algorithm. " alt="" coords="5,80,188,107"/>
+<area shape="rect" id="node3" href="$classQgsTopologyPreservingSimplifier.html" title="Implementation of GeometrySimplifier using the Douglas&#45;Peucker algorithm. " alt="" coords="212,80,448,107"/>
+</map>

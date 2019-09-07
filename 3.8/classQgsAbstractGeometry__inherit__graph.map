@@ -1,0 +1,13 @@
+<map id="QgsAbstractGeometry" name="QgsAbstractGeometry">
+<area shape="rect" id="node2" href="$classQgsCurve.html" title="Abstract base class for curved geometry type. " alt="" coords="266,81,351,108"/>
+<area shape="rect" id="node6" href="$classQgsGeometryCollection.html" title="Geometry collection. " alt="" coords="220,208,397,235"/>
+<area shape="rect" id="node10" href="$classQgsPoint.html" title="Point geometry type, with support for z&#45;dimension and m&#45;values. " alt="" coords="269,259,349,285"/>
+<area shape="rect" id="node11" href="$classQgsSurface.html" title="QgsSurface" alt="" coords="261,309,357,336"/>
+<area shape="rect" id="node3" href="$classQgsCircularString.html" title="Circular string geometry type. " alt="" coords="455,5,590,32"/>
+<area shape="rect" id="node4" href="$classQgsCompoundCurve.html" title="Compound curve geometry type. " alt="" coords="445,56,600,83"/>
+<area shape="rect" id="node5" href="$classQgsLineString.html" title="Line string geometry type, with support for z&#45;dimension and m&#45;values. " alt="" coords="467,107,579,133"/>
+<area shape="rect" id="node7" href="$classQgsMultiCurve.html" title="Multi curve geometry collection. " alt="" coords="464,157,581,184"/>
+<area shape="rect" id="node8" href="$classQgsMultiPoint.html" title="Multi point geometry collection. " alt="" coords="467,208,579,235"/>
+<area shape="rect" id="node9" href="$classQgsMultiSurface.html" title="Multi surface geometry collection. " alt="" coords="459,259,587,285"/>
+<area shape="rect" id="node12" href="$classQgsCurvePolygon.html" title="Curve polygon geometry type. " alt="" coords="454,309,591,336"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/core/layout/qgsprintlayout.h" name="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/core/layout/qgsprintlayout.h">
+<area shape="rect" id="node2" href="$qgscompositionconverter_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/core/layout\l/qgscompositionconverter.cpp" alt="" coords="5,109,223,165"/>
+<area shape="rect" id="node3" href="$qgslayoutmanager_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/core/layout\l/qgslayoutmanager.cpp" alt="" coords="247,109,453,165"/>
+<area shape="rect" id="node4" href="$qgsprintlayout_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/core/layout\l/qgsprintlayout.cpp" alt="" coords="477,109,682,165"/>
+<area shape="rect" id="node5" href="$qgsprocessingparameters_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/core/processing\l/qgsprocessingparameters.cpp" alt="" coords="706,109,941,165"/>
+<area shape="rect" id="node6" href="$qgslayoutitemwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/layout\l/qgslayoutitemwidget.cpp" alt="" coords="965,109,1162,165"/>
+<area shape="rect" id="node7" href="$qgsprocessingwidgetwrapperimpl_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/processing\l/qgsprocessingwidgetwrapperimpl.cpp" alt="" coords="1186,109,1458,165"/>
+<area shape="rect" id="node8" href="$qgsalgorithmextractlayoutmapextent_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/analysis\l/processing/qgsalgorithmextractlayoutmapextent.cpp" alt="" coords="1482,109,1853,165"/>
+<area shape="rect" id="node9" href="$qgswmsgetcapabilities_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/server\l/services/wms/qgswmsgetcapabilities.cpp" alt="" coords="1877,109,2173,165"/>
+<area shape="rect" id="node10" href="$qgswmsrenderer_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/server\l/services/wms/qgswmsrenderer.cpp" alt="" coords="2197,109,2452,165"/>
+</map>

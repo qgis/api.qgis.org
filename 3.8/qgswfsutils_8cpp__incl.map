@@ -1,0 +1,33 @@
+<map id="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/server/services/wfs/qgswfsutils.cpp" name="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/server/services/wfs/qgswfsutils.cpp">
+<area shape="rect" id="node2" href="$qgswfsutils_8h.html" title="qgswfsutils.h" alt="" coords="247,259,355,285"/>
+<area shape="rect" id="node23" href="$qgsogcutils_8h.html" title="qgsogcutils.h" alt="" coords="1618,333,1726,360"/>
+<area shape="rect" id="node27" href="$qgsserverprojectutils_8h.html" title="qgsserverprojectutils.h" alt="" coords="176,408,346,435"/>
+<area shape="rect" id="node30" href="$qgswfsparameters_8h.html" title="qgswfsparameters.h" alt="" coords="633,333,788,360"/>
+<area shape="rect" id="node34" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="3424,109,3554,136"/>
+<area shape="rect" id="node47" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="1812,408,1915,435"/>
+<area shape="rect" id="node3" href="$qgsmodule_8h.html" title="qgsmodule.h" alt="" coords="54,333,161,360"/>
+<area shape="rect" id="node4" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="3336,333,3490,360"/>
+<area shape="rect" id="node22" href="$qgswfsserviceexception_8h.html" title="qgswfsserviceexception.h" alt="" coords="186,333,376,360"/>
+<area shape="rect" id="node6" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="4164,557,4251,584"/>
+<area shape="rect" id="node9" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="3106,408,3210,435"/>
+<area shape="rect" id="node16" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="3438,483,3556,509"/>
+<area shape="rect" id="node17" href="$qgsexpression_8h.html" title="qgsexpression.h" alt="" coords="2226,408,2354,435"/>
+<area shape="rect" id="node14" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="4120,483,4212,509"/>
+<area shape="rect" id="node15" href="$qgsgeometry_8h.html" title="qgsgeometry.h" alt="" coords="1711,483,1830,509"/>
+<area shape="rect" id="node19" href="$qgsunittypes_8h.html" title="qgsunittypes.h" alt="" coords="2370,483,2488,509"/>
+<area shape="rect" id="node21" href="$qgsexpressionnode_8h.html" title="qgsexpressionnode.h" alt="" coords="918,483,1078,509"/>
+<area shape="rect" id="node25" href="$qgsexpressionnodeimpl_8h.html" title="qgsexpressionnodeimpl.h" alt="" coords="1544,408,1733,435"/>
+<area shape="rect" id="node26" href="$qgssqlstatement_8h.html" title="qgssqlstatement.h" alt="" coords="2838,408,2980,435"/>
+<area shape="rect" id="node32" href="$qgsprojectversion_8h.html" title="qgsprojectversion.h" alt="" coords="642,483,792,509"/>
+<area shape="rect" id="node33" href="$qgsserverparameters_8h.html" title="qgsserverparameters.h" alt="" coords="620,408,793,435"/>
+<area shape="rect" id="node37" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="3488,408,3607,435"/>
+<area shape="rect" id="node38" href="$qgsfeaturesource_8h.html" title="qgsfeaturesource.h" alt="" coords="3749,259,3896,285"/>
+<area shape="rect" id="node39" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="3246,184,3426,211"/>
+<area shape="rect" id="node40" href="$qgsaggregatecalculator_8h.html" title="qgsaggregatecalculator.h" alt="" coords="3437,259,3624,285"/>
+<area shape="rect" id="node41" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="2827,483,3028,509"/>
+<area shape="rect" id="node42" href="$qgseditformconfig_8h.html" title="qgseditformconfig.h" alt="" coords="4072,408,4224,435"/>
+<area shape="rect" id="node43" href="$qgsattributetableconfig_8h.html" title="qgsattributetableconfig.h" alt="" coords="1956,483,2142,509"/>
+<area shape="rect" id="node44" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="3920,259,4071,285"/>
+<area shape="rect" id="node45" href="$qgsexpressioncontextgenerator_8h.html" title="qgsexpressioncontextgenerator.h" alt="" coords="2512,483,2751,509"/>
+<area shape="rect" id="node46" href="$qgsexpressioncontextscopegenerator_8h.html" title="qgsexpressioncontextscopegenerator.h" alt="" coords="3834,184,4112,211"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/server/services/wcs/qgswcs.cpp" name="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/server/services/wcs/qgswcs.cpp">
+<area shape="rect" id="node2" href="$qgsmodule_8h.html" title="qgsmodule.h" alt="" coords="310,184,417,211"/>
+<area shape="rect" id="node9" href="$qgswcsutils_8h.html" title="qgswcsutils.h" alt="" coords="483,109,593,136"/>
+<area shape="rect" id="node13" href="$qgswcsgetcapabilities_8h.html" title="qgswcsgetcapabilities.h" alt="" coords="618,109,797,136"/>
+<area shape="rect" id="node14" href="$qgswcsdescribecoverage_8h.html" title="qgswcsdescribecoverage.h" alt="" coords="821,109,1018,136"/>
+<area shape="rect" id="node15" href="$qgswcsgetcoverage_8h.html" title="qgswcsgetcoverage.h" alt="" coords="1042,109,1205,136"/>
+<area shape="rect" id="node3" href="$qgsservicemodule_8h.html" title="qgsservicemodule.h" alt="" coords="5,259,159,285"/>
+<area shape="rect" id="node4" href="$qgsserviceregistry_8h.html" title="qgsserviceregistry.h" alt="" coords="242,333,394,360"/>
+<area shape="rect" id="node5" href="$qgsservice_8h.html" title="qgsservice.h" alt="" coords="234,259,338,285"/>
+<area shape="rect" id="node6" href="$qgsserverinterface_8h.html" title="qgsserverinterface.h" alt="" coords="363,259,519,285"/>
+<area shape="rect" id="node7" href="$qgslogger_8h.html" title="qgslogger.h" alt="" coords="543,259,640,285"/>
+<area shape="rect" id="node8" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="665,259,801,285"/>
+<area shape="rect" id="node10" href="$qgswcsserviceexception_8h.html" title="qgswcsserviceexception.h" alt="" coords="441,184,635,211"/>
+<area shape="rect" id="node11" href="$qgsrasterlayer_8h.html" title="qgsrasterlayer.h" alt="" coords="659,184,785,211"/>
+</map>

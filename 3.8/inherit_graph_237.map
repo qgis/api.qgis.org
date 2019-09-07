@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsFieldFormatter.html" title="A field formatter helps to handle and display values for a field. " alt="" coords="5,183,147,209"/>
+<area shape="rect" id="node2" href="$classQgsDateTimeFieldFormatter.html" title="Field formatter for a date time field. " alt="" coords="207,5,413,32"/>
+<area shape="rect" id="node3" href="$classQgsFallbackFieldFormatter.html" title="A default fallback field formatter in case no specialized field formatter is defined. " alt="" coords="213,56,407,83"/>
+<area shape="rect" id="node4" href="$classQgsKeyValueFieldFormatter.html" title="Field formatter for a key value field. " alt="" coords="209,107,411,133"/>
+<area shape="rect" id="node5" href="$classQgsListFieldFormatter.html" title="Field formatter for a list field. " alt="" coords="228,157,392,184"/>
+<area shape="rect" id="node6" href="$classQgsRangeFieldFormatter.html" title="Field formatter for a range (double) field with precision and locale. " alt="" coords="219,208,401,235"/>
+<area shape="rect" id="node7" href="$classQgsRelationReferenceFieldFormatter.html" title="Field formatter for a relation reference field. " alt="" coords="213,259,407,301"/>
+<area shape="rect" id="node8" href="$classQgsValueMapFieldFormatter.html" title="Field formatter for a ValueMap field. " alt="" coords="208,325,412,352"/>
+<area shape="rect" id="node9" href="$classQgsValueRelationFieldFormatter.html" title="Field formatter for a value relation field. " alt="" coords="195,376,425,403"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsPointDisplacementRenderer" name="QgsPointDisplacementRenderer">
+<area shape="rect" id="node2" href="$classQgsPointDistanceRenderer.html" title="An abstract base class for distance based point renderers (e.g., clusterer and displacement renderers..." alt="" coords="22,80,217,107"/>
+<area shape="rect" id="node3" href="$classQgsFeatureRenderer.html" title="QgsFeatureRenderer" alt="" coords="43,5,196,32"/>
+</map>

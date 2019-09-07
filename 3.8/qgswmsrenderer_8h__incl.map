@@ -1,0 +1,21 @@
+<map id="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/server/services/wms/qgswmsrenderer.h" name="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/server/services/wms/qgswmsrenderer.h">
+<area shape="rect" id="node2" href="$qgsserversettings_8h.html" title="qgsserversettings.h" alt="" coords="43,259,194,285"/>
+<area shape="rect" id="node10" href="$qgswmsparameters_8h.html" title="qgswmsparameters.h" alt="" coords="709,184,872,211"/>
+<area shape="rect" id="node20" href="$qgswmsrendercontext_8h.html" title="qgswmsrendercontext.h" alt="" coords="615,109,793,136"/>
+<area shape="rect" id="node23" href="$qgsfeaturefilter_8h.html" title="qgsfeaturefilter.h" alt="" coords="552,184,685,211"/>
+<area shape="rect" id="node25" href="$qgslayertreemodellegendnode_8h.html" title="qgslayertreemodellegendnode.h" alt="" coords="1773,184,2006,211"/>
+<area shape="rect" id="node5" href="$qgsmessagelog_8h.html" title="qgsmessagelog.h" alt="" coords="51,333,187,360"/>
+<area shape="rect" id="node9" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1297,333,1383,360"/>
+<area shape="rect" id="node13" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="2050,333,2169,360"/>
+<area shape="rect" id="node15" href="$qgslegendsettings_8h.html" title="qgslegendsettings.h" alt="" coords="966,259,1119,285"/>
+<area shape="rect" id="node16" href="$qgsprojectversion_8h.html" title="qgsprojectversion.h" alt="" coords="799,333,950,360"/>
+<area shape="rect" id="node17" href="$qgsogcutils_8h.html" title="qgsogcutils.h" alt="" coords="1583,259,1691,285"/>
+<area shape="rect" id="node18" href="$qgsserverparameters_8h.html" title="qgsserverparameters.h" alt="" coords="472,259,645,285"/>
+<area shape="rect" id="node19" href="$qgsdxfexport_8h.html" title="qgsdxfexport.h" alt="" coords="821,259,941,285"/>
+<area shape="rect" id="node21" href="$qgsproject_8h.html" title="qgsproject.h" alt="" coords="1143,259,1246,285"/>
+<area shape="rect" id="node22" href="$qgsserverinterface_8h.html" title="qgsserverinterface.h" alt="" coords="371,184,527,211"/>
+<area shape="rect" id="node24" href="$qgsfeaturefilterprovider_8h.html" title="qgsfeaturefilterprovider.h" alt="" coords="1321,259,1508,285"/>
+<area shape="rect" id="node27" href="$qgsrasterdataprovider_8h.html" title="qgsrasterdataprovider.h" alt="" coords="1981,259,2158,285"/>
+<area shape="rect" id="node28" href="$qgslegendsymbolitem_8h.html" title="qgslegendsymbolitem.h" alt="" coords="1520,333,1699,360"/>
+<area shape="rect" id="node29" href="$qgstextrenderer_8h.html" title="qgstextrenderer.h" alt="" coords="1767,259,1905,285"/>
+</map>

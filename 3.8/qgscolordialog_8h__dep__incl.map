@@ -1,0 +1,11 @@
+<map id="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/gui/qgscolordialog.h" name="/tmp/buildd/qgis&#45;3.8.0+99unstable/src/gui/qgscolordialog.h">
+<area shape="rect" id="node2" href="$qgscolorbutton_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgscolorbutton.cpp" alt="" coords="5,102,285,143"/>
+<area shape="rect" id="node3" href="$qgscolordialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgscolordialog.cpp" alt="" coords="310,102,589,143"/>
+<area shape="rect" id="node4" href="$qgscolorschemelist_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgscolorschemelist.cpp" alt="" coords="613,102,923,143"/>
+<area shape="rect" id="node5" href="$qgsgradientcolorrampdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgsgradientcolorrampdialog.cpp" alt="" coords="947,102,1314,143"/>
+<area shape="rect" id="node6" href="$qgspresetcolorrampdialog_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/qgspresetcolorrampdialog.cpp" alt="" coords="1338,102,1691,143"/>
+<area shape="rect" id="node7" href="$qgscolorrampshaderwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/raster\l/qgscolorrampshaderwidget.cpp" alt="" coords="1715,95,1946,151"/>
+<area shape="rect" id="node8" href="$qgspalettedrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/raster\l/qgspalettedrendererwidget.cpp" alt="" coords="1971,95,2200,151"/>
+<area shape="rect" id="node9" href="$qgssinglebandpseudocolorrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/raster\l/qgssinglebandpseudocolorrendererwidget.cpp" alt="" coords="2224,95,2549,151"/>
+<area shape="rect" id="node10" href="$qgsrendererwidget_8cpp.html" title="/tmp/buildd/qgis&#45;3.8.0\l+99unstable/src/gui/symbology\l/qgsrendererwidget.cpp" alt="" coords="2574,95,2802,151"/>
+</map>

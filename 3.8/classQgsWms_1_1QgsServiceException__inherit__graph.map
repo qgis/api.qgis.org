@@ -1,0 +1,6 @@
+<map id="QgsWms::QgsServiceException" name="QgsWms::QgsServiceException">
+<area shape="rect" id="node4" href="$classQgsWms_1_1QgsBadRequestException.html" title="Exception thrown in case of malformed request. " alt="" coords="5,229,260,256"/>
+<area shape="rect" id="node5" href="$classQgsWms_1_1QgsSecurityException.html" title="Exception thrown when data access violates access controls. " alt="" coords="284,229,515,256"/>
+<area shape="rect" id="node2" href="$classQgsOgcServiceException.html" title="Exception base class for service exceptions. " alt="" coords="174,80,358,107"/>
+<area shape="rect" id="node3" href="$classQgsServerException.html" title="Exception base class for server exceptions. " alt="" coords="189,5,343,32"/>
+</map>

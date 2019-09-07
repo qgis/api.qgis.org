@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsServerResponse.html" title="QgsServerResponse Class defining response interface passed to services QgsService::executeRequest() m..." alt="" coords="5,56,156,83"/>
+<area shape="rect" id="node2" href="$classQgsBufferServerResponse.html" title="Class defining buffered response. " alt="" coords="211,5,402,32"/>
+<area shape="rect" id="node3" href="$classQgsFcgiServerResponse.html" title="Class defining fcgi response. " alt="" coords="218,56,395,83"/>
+<area shape="rect" id="node4" href="$classQgsFilterResponseDecorator.html" title="Class defining decorator for calling filter&#39;s hooks. " alt="" coords="204,107,409,133"/>
+</map>

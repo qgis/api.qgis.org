@@ -1,0 +1,4 @@
+<map id="QgsLayoutViewToolZoom" name="QgsLayoutViewToolZoom">
+<area shape="rect" id="node4" href="$classQgsLayoutViewToolTemporaryKeyZoom.html" title="Layout view tool for temporarily zooming a layout while a key is depressed. " alt="" coords="5,229,224,271"/>
+<area shape="rect" id="node2" href="$classQgsLayoutViewTool.html" title="Abstract base class for all layout view tools. " alt="" coords="40,80,189,107"/>
+</map>
