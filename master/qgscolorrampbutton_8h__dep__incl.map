@@ -1,0 +1,10 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgscolorrampbutton.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgscolorrampbutton.h">
+<area shape="rect" id="node2" href="$qgscolorrampbutton_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgscolorrampbutton.cpp" alt="" coords="5,109,224,165"/>
+<area shape="rect" id="node3" href="$qgspainteffectwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/effects/qgspainteffectwidget.cpp" alt="" coords="249,109,511,165"/>
+<area shape="rect" id="node4" href="$qgscolorrampshaderwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/raster/qgscolorrampshaderwidget.cpp" alt="" coords="536,109,832,165"/>
+<area shape="rect" id="node5" href="$qgssinglebandpseudocolorrendererwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/raster/qgssinglebandpseudocolorrendererwidget.cpp" alt="" coords="857,109,1247,165"/>
+<area shape="rect" id="node6" href="$qgscategorizedsymbolrendererwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/symbology/qgscategorizedsymbolrendererwidget.cpp" alt="" coords="1271,109,1670,165"/>
+<area shape="rect" id="node7" href="$qgsgraduatedsymbolrendererwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/symbology/qgsgraduatedsymbolrendererwidget.cpp" alt="" coords="1695,109,2084,165"/>
+<area shape="rect" id="node8" href="$qgsheatmaprendererwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/symbology/qgsheatmaprendererwidget.cpp" alt="" coords="2108,109,2441,165"/>
+<area shape="rect" id="node9" href="$qgssymbollayerwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/symbology/qgssymbollayerwidget.cpp" alt="" coords="2465,109,2767,165"/>
+</map>

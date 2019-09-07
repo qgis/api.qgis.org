@@ -1,0 +1,11 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgscolordialog.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgscolordialog.h">
+<area shape="rect" id="node2" href="$qgscolorbutton_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgscolorbutton.cpp" alt="" coords="5,109,224,165"/>
+<area shape="rect" id="node3" href="$qgscolordialog_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgscolordialog.cpp" alt="" coords="248,109,467,165"/>
+<area shape="rect" id="node4" href="$qgscolorschemelist_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgscolorschemelist.cpp" alt="" coords="491,109,709,165"/>
+<area shape="rect" id="node5" href="$qgsgradientcolorrampdialog_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsgradientcolorrampdialog.cpp" alt="" coords="734,109,994,165"/>
+<area shape="rect" id="node6" href="$qgspresetcolorrampdialog_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgspresetcolorrampdialog.cpp" alt="" coords="1018,109,1265,165"/>
+<area shape="rect" id="node7" href="$qgscolorrampshaderwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/raster/qgscolorrampshaderwidget.cpp" alt="" coords="1288,109,1584,165"/>
+<area shape="rect" id="node8" href="$qgspalettedrendererwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/raster/qgspalettedrendererwidget.cpp" alt="" coords="1609,109,1903,165"/>
+<area shape="rect" id="node9" href="$qgssinglebandpseudocolorrendererwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/raster/qgssinglebandpseudocolorrendererwidget.cpp" alt="" coords="1927,109,2318,165"/>
+<area shape="rect" id="node10" href="$qgsrendererwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/symbology/qgsrendererwidget.cpp" alt="" coords="2343,109,2617,165"/>
+</map>

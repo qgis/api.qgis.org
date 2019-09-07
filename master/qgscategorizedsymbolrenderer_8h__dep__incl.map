@@ -1,0 +1,11 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/symbology/qgscategorizedsymbolrenderer.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/symbology/qgscategorizedsymbolrenderer.h">
+<area shape="rect" id="node2" href="$qgscategorizedsymbolrenderer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/symbology/qgscategorizedsymbolrenderer.cpp" alt="" coords="5,109,368,165"/>
+<area shape="rect" id="node3" href="$qgsrendererregistry_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/symbology/qgsrendererregistry.cpp" alt="" coords="393,109,679,165"/>
+<area shape="rect" id="node4" href="$qgsrulebasedrenderer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/symbology/qgsrulebasedrenderer.cpp" alt="" coords="703,109,1006,165"/>
+<area shape="rect" id="node5" href="$qgsclassificationwidgetwrapper_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/editorwidgets/qgsclassificationwidgetwrapper.cpp" alt="" coords="1030,109,1405,165"/>
+<area shape="rect" id="node6" href="$qgscategorizedsymbolrendererwidget_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/symbology/qgscategorizedsymbolrendererwidget.h" alt="" coords="1480,109,1864,165"/>
+<area shape="rect" id="node7" href="$qgscategorizedsymbolrendererwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/symbology/qgscategorizedsymbolrendererwidget.cpp" alt="" coords="1081,213,1479,269"/>
+<area shape="rect" id="node9" href="$qgsrulebasedrendererwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/symbology/qgsrulebasedrendererwidget.cpp" alt="" coords="1865,213,2204,269"/>
+<area shape="rect" id="node10" href="$qgsalgorithmcategorizeusingstyle_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/analysis/processing/qgsalgorithmcategorizeusingstyle.cpp" alt="" coords="1939,109,2346,165"/>
+<area shape="rect" id="node8" href="$qgsrendererpropertiesdialog_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/symbology/qgsrendererpropertiesdialog.cpp" alt="" coords="1503,213,1841,269"/>
+</map>

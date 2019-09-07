@@ -1,0 +1,12 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgscolorschemeregistry.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgscolorschemeregistry.h">
+<area shape="rect" id="node2" href="$qgsapplication_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsapplication.cpp" alt="" coords="5,109,224,165"/>
+<area shape="rect" id="node3" href="$qgscolorscheme_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgscolorscheme.cpp" alt="" coords="248,109,467,165"/>
+<area shape="rect" id="node4" href="$qgscolorschemeregistry_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgscolorschemeregistry.cpp" alt="" coords="491,109,730,165"/>
+<area shape="rect" id="node5" href="$qgssymbol_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/symbology/qgssymbol.cpp" alt="" coords="755,109,987,165"/>
+<area shape="rect" id="node6" href="$qgscolorbutton_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgscolorbutton.cpp" alt="" coords="1011,109,1229,165"/>
+<area shape="rect" id="node7" href="$qgscolordialog_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgscolordialog.cpp" alt="" coords="1253,109,1472,165"/>
+<area shape="rect" id="node8" href="$qgscompoundcolorwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgscompoundcolorwidget.cpp" alt="" coords="1497,109,1741,165"/>
+<area shape="rect" id="node9" href="$qgsfontbutton_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsfontbutton.cpp" alt="" coords="1765,109,1984,165"/>
+<area shape="rect" id="node10" href="$qgspropertyoverridebutton_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgspropertyoverridebutton.cpp" alt="" coords="2008,109,2259,165"/>
+<area shape="rect" id="node11" href="$qgssymbolbutton_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgssymbolbutton.cpp" alt="" coords="2283,109,2501,165"/>
+</map>
