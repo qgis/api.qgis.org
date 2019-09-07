@@ -1,0 +1,32 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsfieldcombobox.cpp" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/gui/qgsfieldcombobox.cpp">
+<area shape="rect" id="node2" href="$qgsfieldcombobox_8h.html" title="qgsfieldcombobox.h" alt="" coords="618,483,771,509"/>
+<area shape="rect" id="node4" href="$qgsfieldproxymodel_8h.html" title="qgsfieldproxymodel.h" alt="" coords="763,557,925,584"/>
+<area shape="rect" id="node8" href="$qgsmaplayer_8h.html" title="qgsmaplayer.h" alt="" coords="3266,184,3385,211"/>
+<area shape="rect" id="node37" href="$qgsvectorlayer_8h.html" title="qgsvectorlayer.h" alt="" coords="1835,109,1965,136"/>
+<area shape="rect" id="node48" href="$qgsfieldmodel_8h.html" title="qgsfieldmodel.h" alt="" coords="371,483,498,509"/>
+<area shape="rect" id="node6" href="$qgis__sip_8h.html" title="qgis_sip.h" alt="" coords="1459,632,1546,659"/>
+<area shape="rect" id="node17" href="$qgserror_8h.html" title="qgserror.h" alt="" coords="2318,408,2405,435"/>
+<area shape="rect" id="node19" href="$qgsobjectcustomproperties_8h.html" title="qgsobjectcustomproperties.h" alt="" coords="2755,483,2965,509"/>
+<area shape="rect" id="node21" href="$qgsrectangle_8h.html" title="qgsrectangle.h" alt="" coords="3707,483,3826,509"/>
+<area shape="rect" id="node23" href="$qgscoordinatereferencesystem_8h.html" title="qgscoordinatereferencesystem.h" alt="" coords="3362,408,3598,435"/>
+<area shape="rect" id="node24" href="$qgsrendercontext_8h.html" title="qgsrendercontext.h" alt="" coords="3727,333,3875,360"/>
+<area shape="rect" id="node31" href="$qgsmaplayerdependency_8h.html" title="qgsmaplayerdependency.h" alt="" coords="2650,259,2846,285"/>
+<area shape="rect" id="node32" href="$qgslayermetadata_8h.html" title="qgslayermetadata.h" alt="" coords="3373,333,3526,360"/>
+<area shape="rect" id="node33" href="$qgsmaplayerstyle_8h.html" title="qgsmaplayerstyle.h" alt="" coords="2985,408,3135,435"/>
+<area shape="rect" id="node34" href="$qgsreadwritecontext_8h.html" title="qgsreadwritecontext.h" alt="" coords="2411,483,2579,509"/>
+<area shape="rect" id="node35" href="$qgsdataprovider_8h.html" title="qgsdataprovider.h" alt="" coords="3023,259,3161,285"/>
+<area shape="rect" id="node22" href="$qgis_8h.html" title="qgis.h" alt="" coords="2464,557,2525,584"/>
+<area shape="rect" id="node25" href="$qgsexpressioncontext_8h.html" title="qgsexpressioncontext.h" alt="" coords="1862,408,2039,435"/>
+<area shape="rect" id="node30" href="$qgsvectorsimplifymethod_8h.html" title="qgsvectorsimplifymethod.h" alt="" coords="3875,408,4077,435"/>
+<area shape="rect" id="node28" href="$qgsfeature_8h.html" title="qgsfeature.h" alt="" coords="1456,483,1560,509"/>
+<area shape="rect" id="node29" href="$qgsfields_8h.html" title="qgsfields.h" alt="" coords="1217,557,1309,584"/>
+<area shape="rect" id="node39" href="$qgsfeaturerequest_8h.html" title="qgsfeaturerequest.h" alt="" coords="1507,333,1661,360"/>
+<area shape="rect" id="node40" href="$qgsfeaturesource_8h.html" title="qgsfeaturesource.h" alt="" coords="1408,259,1555,285"/>
+<area shape="rect" id="node41" href="$qgsvectordataprovider_8h.html" title="qgsvectordataprovider.h" alt="" coords="1390,184,1570,211"/>
+<area shape="rect" id="node42" href="$qgsaggregatecalculator_8h.html" title="qgsaggregatecalculator.h" alt="" coords="1731,259,1917,285"/>
+<area shape="rect" id="node43" href="$qgseditformconfig_8h.html" title="qgseditformconfig.h" alt="" coords="2531,408,2683,435"/>
+<area shape="rect" id="node44" href="$qgsattributetableconfig_8h.html" title="qgsattributetableconfig.h" alt="" coords="3294,483,3479,509"/>
+<area shape="rect" id="node45" href="$qgsfeatureiterator_8h.html" title="qgsfeatureiterator.h" alt="" coords="2221,259,2371,285"/>
+<area shape="rect" id="node46" href="$qgsexpressioncontextgenerator_8h.html" title="qgsexpressioncontextgenerator.h" alt="" coords="1781,184,2019,211"/>
+<area shape="rect" id="node47" href="$qgsexpressioncontextscopegenerator_8h.html" title="qgsexpressioncontextscopegenerator.h" alt="" coords="2044,184,2321,211"/>
+</map>

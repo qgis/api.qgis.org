@@ -1,0 +1,12 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsfield_p.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsfield_p.h">
+<area shape="rect" id="node2" href="$qgsfield_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsfield.h" alt="" coords="995,109,1213,165"/>
+<area shape="rect" id="node4" href="$qgsfield_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsfield.cpp" alt="" coords="1179,317,1397,373"/>
+<area shape="rect" id="node3" href="$qgsfields_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsfields.h" alt="" coords="79,213,297,269"/>
+<area shape="rect" id="node5" href="$qgsfieldformatter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsfieldformatter.cpp" alt="" coords="5,317,224,373"/>
+<area shape="rect" id="node6" href="$qgsvectorlayercache_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsvectorlayercache.h" alt="" coords="321,213,540,269"/>
+<area shape="rect" id="node7" href="$qgsdatetimefieldformatter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/fieldformatter/qgsdatetimefieldformatter.cpp" alt="" coords="565,213,915,269"/>
+<area shape="rect" id="node8" href="$qgsrangefieldformatter_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/fieldformatter/qgsrangefieldformatter.cpp" alt="" coords="940,213,1268,269"/>
+<area shape="rect" id="node9" href="$qgsmeshlayerrenderer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/mesh/qgsmeshlayerrenderer.cpp" alt="" coords="1293,213,1563,269"/>
+<area shape="rect" id="node10" href="$qgspointclusterrendererwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/symbology/qgspointclusterrendererwidget.cpp" alt="" coords="1588,213,1940,269"/>
+<area shape="rect" id="node11" href="$qgsserverfeatureid_8h.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/qgsserverfeatureid.h" alt="" coords="1964,213,2183,269"/>
+</map>

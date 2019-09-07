@@ -1,0 +1,10 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsfieldformatterregistry.h" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/qgsfieldformatterregistry.h">
+<area shape="rect" id="node2" href="$qgsapplication_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsapplication.cpp" alt="" coords="5,109,224,165"/>
+<area shape="rect" id="node3" href="$qgsfieldformatterregistry_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsfieldformatterregistry.cpp" alt="" coords="249,109,495,165"/>
+<area shape="rect" id="node4" href="$qgsjsonutils_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/qgsjsonutils.cpp" alt="" coords="520,109,739,165"/>
+<area shape="rect" id="node5" href="$qgsexpressionfunction_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/expression/qgsexpressionfunction.cpp" alt="" coords="763,109,1069,165"/>
+<area shape="rect" id="node6" href="$qgscategorizedsymbolrenderer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/core/symbology/qgscategorizedsymbolrenderer.cpp" alt="" coords="1093,109,1456,165"/>
+<area shape="rect" id="node7" href="$qgsexpressionbuilderwidget_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/qgsexpressionbuilderwidget.cpp" alt="" coords="1481,109,1741,165"/>
+<area shape="rect" id="node8" href="$qgsattributetablemodel_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/gui/attributetable/qgsattributetablemodel.cpp" alt="" coords="1764,109,2087,165"/>
+<area shape="rect" id="node9" href="$qgswmsrenderer_8cpp.html" title="/build/qgis&#45;3.9.0+git20190904\l+224899f119+15buster/src\l/server/services/wms/qgswmsrenderer.cpp" alt="" coords="2111,109,2409,165"/>
+</map>
