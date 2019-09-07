@@ -1,0 +1,8 @@
+<map id="QgsMapRendererJob" name="QgsMapRendererJob">
+<area shape="rect" id="node3" href="$classQgsMapRendererAbstractCustomPainterJob.html" title="Abstract base class for map renderer jobs which use custom painters. " alt="" coords="328,47,564,89"/>
+<area shape="rect" id="node6" href="$classQgsMapRendererQImageJob.html" title="Intermediate base class adding functionality that allows client to query the rendered image..." alt="" coords="345,113,547,140"/>
+<area shape="rect" id="node4" href="$classQgsMapRendererCustomPainterJob.html" title="Job implementation that renders everything sequentially using a custom painter. " alt="" coords="612,5,859,32"/>
+<area shape="rect" id="node5" href="$classQgsMapRendererStagedRenderJob.html" title="Render job implementation that renders maps in stages, allowing different stages (e.g. " alt="" coords="614,56,857,83"/>
+<area shape="rect" id="node7" href="$classQgsMapRendererParallelJob.html" title="Job implementation that renders all layers in parallel. " alt="" coords="635,111,835,137"/>
+<area shape="rect" id="node8" href="$classQgsMapRendererSequentialJob.html" title="Job implementation that renders everything sequentially in one thread. " alt="" coords="625,161,846,188"/>
+</map>

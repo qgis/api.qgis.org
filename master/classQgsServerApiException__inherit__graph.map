@@ -1,0 +1,10 @@
+<map id="QgsServerApiException" name="QgsServerApiException">
+<area shape="rect" id="node4" href="$classQgsServerApiBadRequestException.html" title="Bad request error API exception. " alt="" coords="588,5,839,32"/>
+<area shape="rect" id="node5" href="$classQgsServerApiImproperlyConfiguredException.html" title="configuration error on the server prevents to serve the request, which would be valid otherwise..." alt="" coords="588,57,839,98"/>
+<area shape="rect" id="node6" href="$classQgsServerApiInternalServerError.html" title="Internal server error API exception. " alt="" coords="612,122,815,163"/>
+<area shape="rect" id="node7" href="$classQgsServerApiInvalidMimeTypeException.html" title="the client sent an invalid mime type in the &quot;Accept&quot; header " alt="" coords="603,187,823,229"/>
+<area shape="rect" id="node8" href="$classQgsServerApiNotFoundError.html" title="Not found error API exception. " alt="" coords="612,253,815,280"/>
+<area shape="rect" id="node9" href="$classQgsServerApiNotImplementedException.html" title="this method is not yet implemented " alt="" coords="603,305,823,346"/>
+<area shape="rect" id="node2" href="$classQgsServerException.html" title="Exception base class for server exceptions. " alt="" coords="164,163,317,189"/>
+<area shape="rect" id="node3" href="$classQgsException.html" title="Defines a QGIS exception class. " alt="" coords="5,163,116,189"/>
+</map>

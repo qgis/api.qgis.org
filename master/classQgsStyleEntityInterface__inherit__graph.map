@@ -1,0 +1,6 @@
+<map id="QgsStyleEntityInterface" name="QgsStyleEntityInterface">
+<area shape="rect" id="node2" href="$classQgsStyleColorRampEntity.html" title="A color ramp entity for QgsStyle databases. " alt="" coords="237,5,428,32"/>
+<area shape="rect" id="node3" href="$classQgsStyleLabelSettingsEntity.html" title="A label settings entity for QgsStyle databases. " alt="" coords="229,56,436,83"/>
+<area shape="rect" id="node4" href="$classQgsStyleSymbolEntity.html" title="A symbol entity for QgsStyle databases. " alt="" coords="249,107,416,133"/>
+<area shape="rect" id="node5" href="$classQgsStyleTextFormatEntity.html" title="A text format entity for QgsStyle databases. " alt="" coords="237,157,428,184"/>
+</map>

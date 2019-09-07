@@ -1,0 +1,5 @@
+<map id="QgsLayoutAtlas" name="QgsLayoutAtlas">
+<area shape="rect" id="node3" href="$classQgsAbstractLayoutIterator.html" title="An abstract base class for QgsLayout based classes which can be exported by QgsLayoutExporter. " alt="" coords="105,80,298,107"/>
+<area shape="rect" id="node4" href="$classQgsLayoutSerializableObject.html" title="An interface for layout objects which can be stored and read from DOM elements. " alt="" coords="322,80,531,107"/>
+<area shape="rect" id="node5" href="$classQgsLayoutUndoObjectInterface.html" title="Interface for layout objects which support undo/redo commands. " alt="" coords="314,5,539,32"/>
+</map>

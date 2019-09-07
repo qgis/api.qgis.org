@@ -1,0 +1,5 @@
+<map id="QgsMapToolEdit" name="QgsMapToolEdit">
+<area shape="rect" id="node4" href="$classQgsMapToolAdvancedDigitizing.html" title="The QgsMapToolAdvancedDigitizing class is a QgsMapTool which gives event directly in map coordinates ..." alt="" coords="5,229,232,256"/>
+<area shape="rect" id="node2" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="69,80,169,107"/>
+<area shape="rect" id="node5" href="$classQgsMapToolCapture.html" title="QgsMapToolCapture" alt="" coords="43,304,194,331"/>
+</map>

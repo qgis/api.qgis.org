@@ -1,0 +1,8 @@
+<map id="QgsLayoutSerializableObject" name="QgsLayoutSerializableObject">
+<area shape="rect" id="node3" href="$classQgsLayoutAtlas.html" title="Class used to render QgsLayout as an atlas, by iterating over the features from an associated vector ..." alt="" coords="571,5,695,32"/>
+<area shape="rect" id="node4" href="$classQgsLayoutGridSettings.html" title="Contains settings relating to the appearance, spacing and offset for layout grids. " alt="" coords="548,56,719,83"/>
+<area shape="rect" id="node5" href="$classQgsLayoutGuideCollection.html" title="Stores and manages the snap guides used by a layout. " alt="" coords="536,107,731,133"/>
+<area shape="rect" id="node6" href="$classQgsLayoutPageCollection.html" title="A manager for a collection of pages in a layout. " alt="" coords="540,157,727,184"/>
+<area shape="rect" id="node7" href="$classQgsLayoutSnapper.html" title="Manages snapping grids and preset snap lines in a layout, and handles snapping points to the nearest ..." alt="" coords="561,208,705,235"/>
+<area shape="rect" id="node2" href="$classQgsLayoutUndoObjectInterface.html" title="Interface for layout objects which support undo/redo commands. " alt="" coords="5,107,231,133"/>
+</map>

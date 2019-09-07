@@ -1,0 +1,7 @@
+<map id="QgsRasterRendererWidget" name="QgsRasterRendererWidget">
+<area shape="rect" id="node3" href="$classQgsHillshadeRendererWidget.html" title="Renderer widget for the hill shade renderer. " alt="" coords="373,5,585,32"/>
+<area shape="rect" id="node4" href="$classQgsMultiBandColorRendererWidget.html" title="QgsMultiBandColorRenderer\lWidget" alt="" coords="377,57,581,98"/>
+<area shape="rect" id="node5" href="$classQgsPalettedRendererWidget.html" title="QgsPalettedRendererWidget" alt="" coords="377,123,581,149"/>
+<area shape="rect" id="node6" href="$classQgsSingleBandGrayRendererWidget.html" title="QgsSingleBandGrayRenderer\lWidget" alt="" coords="375,174,584,215"/>
+<area shape="rect" id="node7" href="$classQgsSingleBandPseudoColorRendererWidget.html" title="Single band pseudo color renderer widget consists of a color ramp shader widget, a raster min max wid..." alt="" coords="379,239,580,281"/>
+</map>

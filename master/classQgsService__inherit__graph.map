@@ -1,0 +1,5 @@
+<map id="QgsService" name="QgsService">
+<area shape="rect" id="node2" href="$classQgsWcs_1_1Service.html" title="OGC web service specialized for WCS. " alt="" coords="5,80,136,107"/>
+<area shape="rect" id="node3" href="$classQgsWfs_1_1Service.html" title="OGC web service specialized for WFS. " alt="" coords="160,80,288,107"/>
+<area shape="rect" id="node4" href="$classQgsWms_1_1Service.html" title="OGC web service specialized for WMS. " alt="" coords="312,80,448,107"/>
+</map>

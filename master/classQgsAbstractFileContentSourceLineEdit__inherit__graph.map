@@ -1,0 +1,4 @@
+<map id="QgsAbstractFileContentSourceLineEdit" name="QgsAbstractFileContentSourceLineEdit">
+<area shape="rect" id="node3" href="$classQgsImageSourceLineEdit.html" title="A line edit widget with toolbutton for setting a raster image path. " alt="" coords="5,169,189,196"/>
+<area shape="rect" id="node4" href="$classQgsSvgSourceLineEdit.html" title="A line edit widget with toolbutton for setting an SVG image path. " alt="" coords="214,169,381,196"/>
+</map>

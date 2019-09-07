@@ -1,0 +1,4 @@
+<map id="QgsGeometrySelfContactCheck" name="QgsGeometrySelfContactCheck">
+<area shape="rect" id="node2" href="$classQgsSingleGeometryCheck.html" title="Base class for geometry checks for a single geometry without any context of the layer or other layers..." alt="" coords="23,80,215,107"/>
+<area shape="rect" id="node3" href="$classQgsGeometryCheck.html" title="This class implements a geometry check. " alt="" coords="43,5,195,32"/>
+</map>

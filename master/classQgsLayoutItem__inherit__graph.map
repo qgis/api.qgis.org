@@ -1,0 +1,18 @@
+<map id="QgsLayoutItem" name="QgsLayoutItem">
+<area shape="rect" id="node7" href="$classQgsLayoutFrame.html" title="Base class for frame items, which form a layout multiframe item. " alt="" coords="755,5,885,32"/>
+<area shape="rect" id="node8" href="$classQgsLayoutItem3DMap.html" title="3Implements support of 3D map views in print layouts " alt="" coords="737,56,903,83"/>
+<area shape="rect" id="node9" href="$classQgsLayoutItemGroup.html" title="A container for grouping several QgsLayoutItems. " alt="" coords="740,107,900,133"/>
+<area shape="rect" id="node10" href="$classQgsLayoutItemLabel.html" title="A layout item subclass for text labels. " alt="" coords="742,157,898,184"/>
+<area shape="rect" id="node11" href="$classQgsLayoutItemLegend.html" title="A layout item subclass for map legends. " alt="" coords="736,208,904,235"/>
+<area shape="rect" id="node12" href="$classQgsLayoutItemMap.html" title="Layout graphical items for displaying a map. " alt="" coords="746,259,894,285"/>
+<area shape="rect" id="node13" href="$classQgsLayoutItemPage.html" title="Item representing the paper in a layout. " alt="" coords="744,309,896,336"/>
+<area shape="rect" id="node14" href="$classQgsLayoutItemPicture.html" title="A layout item subclass that displays SVG files or raster format images (jpg, png, ..." alt="" coords="737,360,903,387"/>
+<area shape="rect" id="node15" href="$classQgsLayoutItemScaleBar.html" title="A layout item subclass for scale bars. " alt="" coords="731,411,909,437"/>
+<area shape="rect" id="node16" href="$classQgsLayoutItemShape.html" title="Layout item for basic filled shapes (e.g. " alt="" coords="739,461,901,488"/>
+<area shape="rect" id="node17" href="$classQgsLayoutNodesItem.html" title="An abstract layout item that provides generic methods for node based shapes such as polygon or polyli..." alt="" coords="739,512,901,539"/>
+<area shape="rect" id="node2" href="$classQgsLayoutObject.html" title="A base class for objects which belong to a layout. " alt="" coords="334,208,467,235"/>
+<area shape="rect" id="node4" href="$classQgsExpressionContextGenerator.html" title="Abstract interface for generating an expression context. " alt="" coords="5,233,240,260"/>
+<area shape="rect" id="node6" href="$classQgsLayoutUndoObjectInterface.html" title="Interface for layout objects which support undo/redo commands. " alt="" coords="288,309,513,336"/>
+<area shape="rect" id="node18" href="$classQgsLayoutItemPolygon.html" title="Layout item for node based polygon shapes. " alt="" coords="957,487,1131,513"/>
+<area shape="rect" id="node19" href="$classQgsLayoutItemPolyline.html" title="Layout item for node based polyline shapes. " alt="" coords="957,537,1131,564"/>
+</map>

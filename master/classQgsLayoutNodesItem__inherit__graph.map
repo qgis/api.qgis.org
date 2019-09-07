@@ -1,0 +1,7 @@
+<map id="QgsLayoutNodesItem" name="QgsLayoutNodesItem">
+<area shape="rect" id="node6" href="$classQgsLayoutItemPolygon.html" title="Layout item for node based polygon shapes. " alt="" coords="51,229,224,256"/>
+<area shape="rect" id="node7" href="$classQgsLayoutItemPolyline.html" title="Layout item for node based polyline shapes. " alt="" coords="248,229,421,256"/>
+<area shape="rect" id="node2" href="$classQgsLayoutItem.html" title="Base class for graphical items within a QgsLayout. " alt="" coords="175,80,297,107"/>
+<area shape="rect" id="node3" href="$classQgsLayoutObject.html" title="A base class for objects which belong to a layout. " alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node5" href="$classQgsLayoutUndoObjectInterface.html" title="Interface for layout objects which support undo/redo commands. " alt="" coords="334,5,559,32"/>
+</map>

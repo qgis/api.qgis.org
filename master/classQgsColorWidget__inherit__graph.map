@@ -1,0 +1,8 @@
+<map id="QgsColorWidget" name="QgsColorWidget">
+<area shape="rect" id="node3" href="$classQgsColorBox.html" title="A color box widget. " alt="" coords="343,5,449,32"/>
+<area shape="rect" id="node4" href="$classQgsColorPreviewWidget.html" title="A preview box which displays one or two colors as swatches. " alt="" coords="307,56,485,83"/>
+<area shape="rect" id="node5" href="$classQgsColorRampWidget.html" title="A color ramp widget. " alt="" coords="313,107,479,133"/>
+<area shape="rect" id="node6" href="$classQgsColorSliderWidget.html" title="A composite horizontal color ramp widget and associated spinbox for manual value entry. " alt="" coords="314,157,478,184"/>
+<area shape="rect" id="node7" href="$classQgsColorTextWidget.html" title="A line edit widget which displays colors as text and accepts string representations of colors..." alt="" coords="319,208,473,235"/>
+<area shape="rect" id="node8" href="$classQgsColorWheel.html" title="A color wheel widget. " alt="" coords="335,259,457,285"/>
+</map>

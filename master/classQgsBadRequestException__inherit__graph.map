@@ -1,0 +1,4 @@
+<map id="QgsBadRequestException" name="QgsBadRequestException">
+<area shape="rect" id="node2" href="$classQgsOgcServiceException.html" title="Exception base class for service exceptions. " alt="" coords="7,80,191,107"/>
+<area shape="rect" id="node3" href="$classQgsServerException.html" title="Exception base class for server exceptions. " alt="" coords="23,5,176,32"/>
+</map>

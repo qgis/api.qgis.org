@@ -1,0 +1,6 @@
+<map id="QgsAnnotation" name="QgsAnnotation">
+<area shape="rect" id="node3" href="$classQgsFormAnnotation.html" title="An annotation item that embeds a designer form showing the feature attribute. " alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node4" href="$classQgsHtmlAnnotation.html" title="An annotation item that embeds HTML content. " alt="" coords="180,155,331,181"/>
+<area shape="rect" id="node5" href="$classQgsSvgAnnotation.html" title="An annotation which renders the contents of an SVG file. " alt="" coords="355,155,497,181"/>
+<area shape="rect" id="node6" href="$classQgsTextAnnotation.html" title="An annotation item that displays formatted text from a QTextDocument document. " alt="" coords="521,155,667,181"/>
+</map>

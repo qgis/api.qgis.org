@@ -1,0 +1,16 @@
+<map id="QgsServerException" name="QgsServerException">
+<area shape="rect" id="node3" href="$classQgsOgcServiceException.html" title="Exception base class for service exceptions. " alt="" coords="365,132,549,159"/>
+<area shape="rect" id="node9" href="$classQgsServerApiException.html" title="Exception base class for API exceptions. " alt="" coords="370,383,545,409"/>
+<area shape="rect" id="node2" href="$classQgsException.html" title="Defines a QGIS exception class. " alt="" coords="5,271,116,297"/>
+<area shape="rect" id="node4" href="$classQgsBadRequestException.html" title="Exception thrown in case of malformed request. " alt="" coords="629,5,817,32"/>
+<area shape="rect" id="node5" href="$classQgsMapServiceException.html" title="Exception class for WMS service exceptions (for compatibility only). " alt="" coords="629,56,816,83"/>
+<area shape="rect" id="node6" href="$classQgsWcs_1_1QgsServiceException.html" title="Exception class for WFS services. " alt="" coords="613,107,832,133"/>
+<area shape="rect" id="node7" href="$classQgsWfs_1_1QgsServiceException.html" title="Exception class for WFS service exceptions. " alt="" coords="614,157,831,184"/>
+<area shape="rect" id="node8" href="$classQgsWms_1_1QgsServiceException.html" title="Exception class for WMS service exceptions. " alt="" coords="610,208,835,235"/>
+<area shape="rect" id="node10" href="$classQgsServerApiBadRequestException.html" title="Bad request error API exception. " alt="" coords="597,259,848,285"/>
+<area shape="rect" id="node11" href="$classQgsServerApiImproperlyConfiguredException.html" title="configuration error on the server prevents to serve the request, which would be valid otherwise..." alt="" coords="597,310,848,351"/>
+<area shape="rect" id="node12" href="$classQgsServerApiInternalServerError.html" title="Internal server error API exception. " alt="" coords="621,375,824,417"/>
+<area shape="rect" id="node13" href="$classQgsServerApiInvalidMimeTypeException.html" title="the client sent an invalid mime type in the &quot;Accept&quot; header " alt="" coords="613,441,833,482"/>
+<area shape="rect" id="node14" href="$classQgsServerApiNotFoundError.html" title="Not found error API exception. " alt="" coords="621,507,824,533"/>
+<area shape="rect" id="node15" href="$classQgsServerApiNotImplementedException.html" title="this method is not yet implemented " alt="" coords="613,558,833,599"/>
+</map>

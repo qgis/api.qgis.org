@@ -1,0 +1,5 @@
+<map id="Qgs3DRendererAbstractMetadata" name="Qgs3DRendererAbstractMetadata">
+<area shape="rect" id="node2" href="$classQgsMeshLayer3DRendererMetadata.html" title="Metadata for mesh layer 3D renderer to allow creation of its instances from XML. " alt="" coords="292,5,547,32"/>
+<area shape="rect" id="node3" href="$classQgsRuleBased3DRendererMetadata.html" title="3 Metadata for rule&#45;based 3D renderer to allow creation of its instances from XML ..." alt="" coords="293,56,545,83"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayer3DRendererMetadata.html" title="Metadata for vector layer 3D renderer to allow creation of its instances from XML. " alt="" coords="319,107,519,149"/>
+</map>

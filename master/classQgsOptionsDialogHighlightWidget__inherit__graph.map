@@ -1,0 +1,7 @@
+<map id="QgsOptionsDialogHighlightWidget" name="QgsOptionsDialogHighlightWidget">
+<area shape="rect" id="node3" href="$classQgsOptionsDialogHighlightButton.html" title="A highlight widget for buttons. " alt="" coords="388,5,587,47"/>
+<area shape="rect" id="node4" href="$classQgsOptionsDialogHighlightCheckBox.html" title="A highlight widget for checkboxes. " alt="" coords="388,71,587,112"/>
+<area shape="rect" id="node5" href="$classQgsOptionsDialogHighlightGroupBox.html" title="A highlight widget for group boxes. " alt="" coords="388,136,587,177"/>
+<area shape="rect" id="node6" href="$classQgsOptionsDialogHighlightLabel.html" title="A highlight widget for labels. " alt="" coords="388,201,587,243"/>
+<area shape="rect" id="node7" href="$classQgsOptionsDialogHighlightTree.html" title="A highlight widget for trees. " alt="" coords="375,267,600,294"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsLabelingEngine" name="QgsLabelingEngine">
+<area shape="rect" id="node2" href="$classQgsDefaultLabelingEngine.html" title="Default QgsLabelingEngine implementation, which completes the whole labeling operation (including lab..." alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node3" href="$classQgsStagedRenderLabelingEngine.html" title="A QgsLabelingEngine implementation, which only calculates the labeling solution during its run() meth..." alt="" coords="225,80,461,107"/>
+</map>

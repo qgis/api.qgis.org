@@ -1,0 +1,4 @@
+<map id="QgsSimpleLineCallout" name="QgsSimpleLineCallout">
+<area shape="rect" id="node3" href="$classQgsManhattanLineCallout.html" title="Draws straight (right angled) lines as callouts. " alt="" coords="5,155,195,181"/>
+<area shape="rect" id="node2" href="$classQgsCallout.html" title="Abstract base class for callout renderers. " alt="" coords="53,5,147,32"/>
+</map>

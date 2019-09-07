@@ -1,0 +1,4 @@
+<map id="QgsServerApiBadRequestException" name="QgsServerApiBadRequestException">
+<area shape="rect" id="node2" href="$classQgsServerApiException.html" title="Exception base class for API exceptions. " alt="" coords="43,80,218,107"/>
+<area shape="rect" id="node3" href="$classQgsServerException.html" title="Exception base class for server exceptions. " alt="" coords="54,5,207,32"/>
+</map>

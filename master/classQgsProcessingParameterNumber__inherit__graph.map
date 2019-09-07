@@ -1,0 +1,5 @@
+<map id="QgsProcessingParameterNumber" name="QgsProcessingParameterNumber">
+<area shape="rect" id="node3" href="$classQgsProcessingParameterDistance.html" title="A double numeric parameter for distance values. " alt="" coords="5,155,247,181"/>
+<area shape="rect" id="node4" href="$classQgsProcessingParameterScale.html" title="A double numeric parameter for map scale values. " alt="" coords="271,155,490,181"/>
+<area shape="rect" id="node2" href="$classQgsProcessingParameterDefinition.html" title="Base class for the definition of processing parameters. " alt="" coords="129,5,376,32"/>
+</map>

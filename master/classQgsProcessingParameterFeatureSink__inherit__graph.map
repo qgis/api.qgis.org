@@ -1,0 +1,4 @@
+<map id="QgsProcessingParameterFeatureSink" name="QgsProcessingParameterFeatureSink">
+<area shape="rect" id="node2" href="$classQgsProcessingDestinationParameter.html" title="Base class for all parameter definitions which represent file or layer destinations, e.g. " alt="" coords="39,80,231,121"/>
+<area shape="rect" id="node3" href="$classQgsProcessingParameterDefinition.html" title="Base class for the definition of processing parameters. " alt="" coords="12,5,259,32"/>
+</map>

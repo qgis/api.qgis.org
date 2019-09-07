@@ -1,0 +1,50 @@
+<map id="QgsExpressionContextGenerator" name="QgsExpressionContextGenerator">
+<area shape="rect" id="node2" href="$classQgsAbstractProcessingParameterWidgetWrapper.html" title="A widget wrapper for Processing parameter value widgets. " alt="" coords="303,194,541,235"/>
+<area shape="rect" id="node3" href="$classQgsCalloutWidget.html" title="Base class for widgets which allow control over the properties of callouts. " alt="" coords="353,260,491,287"/>
+<area shape="rect" id="node4" href="$classQgsCategorizedSymbolRendererWidget.html" title="QgsCategorizedSymbolRenderer\lWidget" alt="" coords="306,311,538,353"/>
+<area shape="rect" id="node5" href="$classQgsDataDefinedValueDialog.html" title="Utility classes for &quot;en masse&quot; size definition. " alt="" coords="319,377,525,404"/>
+<area shape="rect" id="node9" href="$classQgsEditorConfigWidget.html" title="This class should be subclassed for every configurable editor widget type. " alt="" coords="336,428,508,455"/>
+<area shape="rect" id="node20" href="$classQgsGraduatedSymbolRendererWidget.html" title="QgsGraduatedSymbolRenderer\lWidget" alt="" coords="311,497,533,538"/>
+<area shape="rect" id="node21" href="$classQgsHeatmapRendererWidget.html" title="QgsHeatmapRendererWidget" alt="" coords="317,563,527,589"/>
+<area shape="rect" id="node22" href="$classQgsLayerPropertiesWidget.html" title="QgsLayerPropertiesWidget" alt="" coords="325,613,519,640"/>
+<area shape="rect" id="node23" href="$classQgsLayout.html" title="Base class for layouts, which can contain items such as maps, labels, scalebars, etc. " alt="" coords="377,664,467,691"/>
+<area shape="rect" id="node25" href="$classQgsLayoutObject.html" title="A base class for objects which belong to a layout. " alt="" coords="355,715,489,741"/>
+<area shape="rect" id="node29" href="$classQgsPointClusterRendererWidget.html" title="A widget which allows configuration of the properties for a QgsPointClusterRenderer. " alt="" coords="307,765,537,792"/>
+<area shape="rect" id="node30" href="$classQgsPointDisplacementRendererWidget.html" title="QgsPointDisplacementRenderer\lWidget" alt="" coords="308,817,536,858"/>
+<area shape="rect" id="node31" href="$classQgsProcessingAlgorithmConfigurationWidget.html" title="A configuration widget for processing algorithms allows providing additional configuration options di..." alt="" coords="288,882,556,923"/>
+<area shape="rect" id="node32" href="$classQgsProcessingModelerParameterWidget.html" title="A widget for customising the value of Processing algorithm parameter inside a Processing model..." alt="" coords="304,947,540,989"/>
+<area shape="rect" id="node33" href="$classQgsProject.html" title="Reads and writes project states. " alt="" coords="376,1013,468,1040"/>
+<area shape="rect" id="node34" href="$classQgsSymbolLayerWidget.html" title="QgsSymbolLayerWidget" alt="" coords="333,1087,511,1113"/>
+<area shape="rect" id="node47" href="$classQgsSymbolsListWidget.html" title="QgsSymbolsListWidget" alt="" coords="336,1137,508,1164"/>
+<area shape="rect" id="node48" href="$classQgsTextFormatWidget.html" title="A widget for customizing text formatting settings. " alt="" coords="339,1188,505,1215"/>
+<area shape="rect" id="node49" href="$classQgsVectorLayer.html" title="Represents a vector layer which manages a vector based data sets. " alt="" coords="360,1239,484,1265"/>
+<area shape="rect" id="node6" href="$classQgsDataDefinedRotationDialog.html" title="QgsDataDefinedRotationDialog" alt="" coords="606,5,830,32"/>
+<area shape="rect" id="node7" href="$classQgsDataDefinedSizeDialog.html" title="QgsDataDefinedSizeDialog" alt="" coords="619,56,817,83"/>
+<area shape="rect" id="node8" href="$classQgsDataDefinedWidthDialog.html" title="QgsDataDefinedWidthDialog" alt="" coords="614,107,822,133"/>
+<area shape="rect" id="node10" href="$classQgsCheckBoxConfigDlg.html" title="QgsCheckBoxConfigDlg" alt="" coords="631,157,805,184"/>
+<area shape="rect" id="node11" href="$classQgsDateTimeEditConfig.html" title="QgsDateTimeEditConfig" alt="" coords="629,208,807,235"/>
+<area shape="rect" id="node12" href="$classQgsDummyConfigDlg.html" title="QgsDummyConfigDlg" alt="" coords="637,259,799,285"/>
+<area shape="rect" id="node13" href="$classQgsExternalResourceConfigDlg.html" title="QgsExternalResourceConfigDlg" alt="" coords="607,309,829,336"/>
+<area shape="rect" id="node14" href="$classQgsRangeConfigDlg.html" title="QgsRangeConfigDlg" alt="" coords="643,360,793,387"/>
+<area shape="rect" id="node15" href="$classQgsRelationReferenceConfigDlg.html" title="QgsRelationReferenceConfigDlg" alt="" coords="604,411,832,437"/>
+<area shape="rect" id="node16" href="$classQgsTextEditConfigDlg.html" title="QgsTextEditConfigDlg" alt="" coords="637,461,799,488"/>
+<area shape="rect" id="node17" href="$classQgsUniqueValuesConfigDlg.html" title="QgsUniqueValuesConfigDlg" alt="" coords="619,512,817,539"/>
+<area shape="rect" id="node18" href="$classQgsValueMapConfigDlg.html" title="QgsValueMapConfigDlg" alt="" coords="631,563,805,589"/>
+<area shape="rect" id="node19" href="$classQgsValueRelationConfigDlg.html" title="QgsValueRelationConfigDlg" alt="" coords="619,613,817,640"/>
+<area shape="rect" id="node24" href="$classQgsPrintLayout.html" title="Print layout, a QgsLayout subclass for static or atlas&#45;based layouts. " alt="" coords="657,664,779,691"/>
+<area shape="rect" id="node26" href="$classQgsLayoutItem.html" title="Base class for graphical items within a QgsLayout. " alt="" coords="657,715,779,741"/>
+<area shape="rect" id="node27" href="$classQgsLayoutItemMapItem.html" title="An item which is drawn inside a QgsLayoutItemMap, e.g., a grid or map overview. " alt="" coords="629,765,807,792"/>
+<area shape="rect" id="node28" href="$classQgsLayoutMultiFrame.html" title="Abstract base class for layout items with the ability to distribute the content to several frames (Qg..." alt="" coords="637,816,799,843"/>
+<area shape="rect" id="node35" href="$classQgsArrowSymbolLayerWidget.html" title="QgsArrowSymbolLayerWidget" alt="" coords="610,867,826,893"/>
+<area shape="rect" id="node36" href="$classQgsCentroidFillSymbolLayerWidget.html" title="QgsCentroidFillSymbolLayer\lWidget" alt="" coords="615,918,821,959"/>
+<area shape="rect" id="node37" href="$classQgsEllipseSymbolLayerWidget.html" title="QgsEllipseSymbolLayerWidget" alt="" coords="607,984,829,1011"/>
+<area shape="rect" id="node38" href="$classQgsFilledMarkerSymbolLayerWidget.html" title="Widget for configuring QgsFilledMarkerSymbolLayer symbol layers. " alt="" coords="613,1035,823,1077"/>
+<area shape="rect" id="node39" href="$classQgsFontMarkerSymbolLayerWidget.html" title="QgsFontMarkerSymbolLayer\lWidget" alt="" coords="615,1101,821,1142"/>
+<area shape="rect" id="node40" href="$classQgsGeometryGeneratorSymbolLayerWidget.html" title="QgsGeometryGeneratorSymbol\lLayerWidget" alt="" coords="605,1166,831,1207"/>
+<area shape="rect" id="node41" href="$classQgsGradientFillSymbolLayerWidget.html" title="QgsGradientFillSymbolLayer\lWidget" alt="" coords="615,1231,821,1273"/>
+<area shape="rect" id="node42" href="$classQgsHashedLineSymbolLayerWidget.html" title="Widget for controlling the properties of a QgsHashedLineSymbolLayer. " alt="" coords="614,1297,822,1338"/>
+<area shape="rect" id="node43" href="$classQgsLinePatternFillSymbolLayerWidget.html" title="QgsLinePatternFillSymbol\lLayerWidget" alt="" coords="625,1362,811,1403"/>
+<area shape="rect" id="node44" href="$classQgsMarkerLineSymbolLayerWidget.html" title="QgsMarkerLineSymbolLayer\lWidget" alt="" coords="616,1427,820,1469"/>
+<area shape="rect" id="node45" href="$classQgsPointPatternFillSymbolLayerWidget.html" title="QgsPointPatternFillSymbol\lLayerWidget" alt="" coords="621,1493,815,1534"/>
+<area shape="rect" id="node46" href="$classQgsRasterFillSymbolLayerWidget.html" title="QgsRasterFillSymbolLayer\lWidget" alt="" coords="622,1558,814,1599"/>
+</map>

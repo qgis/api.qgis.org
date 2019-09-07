@@ -1,0 +1,4 @@
+<map id="QgsServerParameters" name="QgsServerParameters">
+<area shape="rect" id="node2" href="$classQgsWfs_1_1QgsWfsParameters.html" title="Provides an interface to retrieve and manipulate WFS parameters received from the client..." alt="" coords="5,80,209,107"/>
+<area shape="rect" id="node3" href="$classQgsWms_1_1QgsWmsParameters.html" title="Provides an interface to retrieve and manipulate WMS parameters received from the client..." alt="" coords="233,80,453,107"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QgsMapRendererStagedRenderJob" name="QgsMapRendererStagedRenderJob">
+<area shape="rect" id="node2" href="$classQgsMapRendererAbstractCustomPainterJob.html" title="Abstract base class for map renderer jobs which use custom painters. " alt="" coords="9,80,245,121"/>
+<area shape="rect" id="node3" href="$classQgsMapRendererJob.html" title="Abstract base class for map rendering implementations. " alt="" coords="51,5,203,32"/>
+</map>
