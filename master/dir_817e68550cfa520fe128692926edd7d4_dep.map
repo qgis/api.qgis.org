@@ -1,0 +1,35 @@
+<map id="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/layout" name="/build/qgis&#45;3.9.0+git20190904+224899f119+15buster/src/core/layout">
+<area shape="rect" id="node1" href="dir_817e68550cfa520fe128692926edd7d4.html" title="layout" alt="" coords="155,80,227,128"/>
+<area shape="rect" id="node2" href="dir_556f3b234eb81c65d6f57f7f7fcaeed3.html" title="geometry" alt="" coords="325,368,410,416"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000029_000026.html" title="6" alt="" coords="303,368,313,383"/>
+<area shape="rect" id="node3" href="dir_a427a9c1eef57adeca7ea1ef9773d5dd.html" title="scalebar" alt="" coords="26,176,103,224"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000029_000038.html" title="7" alt="" coords="103,164,113,179"/>
+<area shape="rect" id="node4" href="dir_66f89767e42cf8b00ce6054c6b00ac7c.html" title="symbology" alt="" coords="331,176,425,224"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000029_000039.html" title="40" alt="" coords="308,160,326,175"/>
+<area shape="rect" id="node5" href="dir_0e98898614332b1af1b09b247a705e15.html" title="effects" alt="" coords="405,272,477,320"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000029_000021.html" title="3" alt="" coords="456,249,465,263"/>
+<area shape="rect" id="node6" href="dir_d68f3c9fbbc4b6d6c93687cca651e1ee.html" title="annotations" alt="" coords="251,80,350,128"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000029_000015.html" title="2" alt="" coords="228,88,238,103"/>
+<area shape="rect" id="node7" href="dir_cf5a04738b3af11787afe58bdee2cdc0.html" title="layertree" alt="" coords="375,80,456,128"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000029_000028.html" title="8" alt="" coords="398,53,407,67"/>
+<area shape="rect" id="node8" href="dir_9a24ab92656b6c455c7f3a1d6c83676e.html" title="expression" alt="" coords="215,272,309,320"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000029_000022.html" title="12" alt="" coords="246,245,264,259"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000038_000029.html" title="5" alt="" coords="143,126,153,140"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000038_000022.html" title="1" alt="" coords="198,250,207,265"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000039_000026.html" title="21" alt="" coords="370,343,387,358"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000039_000021.html" title="32" alt="" coords="404,245,422,259"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000039_000022.html" title="20" alt="" coords="294,259,311,274"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000021_000039.html" title="9" alt="" coords="401,237,410,251"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000015_000026.html" title="1" alt="" coords="426,372,435,387"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000015_000039.html" title="5" alt="" coords="349,149,358,163"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000015_000022.html" title="2" alt="" coords="267,247,277,262"/>
+<area shape="rect" id="edge20-headlabel" href="dir_000028_000029.html" title="1" alt="" coords="212,60,222,75"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000028_000026.html" title="1" alt="" coords="425,384,435,398"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000028_000039.html" title="5" alt="" coords="397,154,407,169"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000028_000021.html" title="1" alt="" coords="471,254,481,268"/>
+<area shape="rect" id="edge21-headlabel" href="dir_000028_000022.html" title="2" alt="" coords="279,251,288,265"/>
+<area shape="rect" id="edge24-headlabel" href="dir_000022_000029.html" title="5" alt="" coords="182,140,191,155"/>
+<area shape="rect" id="edge22-headlabel" href="dir_000022_000026.html" title="14" alt="" coords="324,342,342,357"/>
+<area shape="rect" id="edge23-headlabel" href="dir_000022_000039.html" title="3" alt="" coords="333,223,342,237"/>
+<area shape="rect" id="clust1" href="dir_aebb8dcc11953d78e620bbef0b9e2183.html" title="core" alt="" coords="145,44,238,139"/>
+</map>
